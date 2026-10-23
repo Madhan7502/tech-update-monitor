@@ -386,6 +386,8 @@
  "aws-whats-new": {
   "seen": [
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
+   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "778e44abc61ada7af8f445cafcd41c19c12bafa2",
@@ -455,6 +457,16 @@
     "date": "23 Oct 2026"
    },
    {
+    "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+    "date": "23 Oct 2026"
+   },
+   {
+    "title": "Amazon MWAA now available in Mexico (Central) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+    "date": "23 Oct 2026"
+   },
+   {
     "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
     "date": "22 Oct 2026"
@@ -488,16 +500,6 @@
     "title": "Amazon MSK Connect now supports pausing and resuming connectors",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
-    "date": "22 Oct 2026"
-   },
-   {
-    "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
@@ -511,6 +513,16 @@
     "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
     "summary": "AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integration with Regional Private NAT Gateway. This enables customers to conne…"
+   },
+   {
+    "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+    "summary": "Amazon EMR announces a reduction of 30 percent in the EMR charge added to EKS when running EMR on EKS. This price decrease applies to both the per-vCPU-hour charge and the per-GB-hour charge, while the underlying Amazon …"
+   },
+   {
+    "title": "Amazon MWAA now available in Mexico (Central) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+    "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Provisioned environments are now available in the Mexico (Central) Region (mx-central-1). Amazon MWAA Serverless was already available in this Region, and custome…"
    }
   ],
   "digest_date": "23 Oct 2026"
