@@ -65,16 +65,19 @@ sources:
   # ---------------- Apple ----------------
   - id: apple-dev-releases
     name: Apple Developer Releases (Xcode / iOS SDK)
+    platform: iOS
     type: feed
     url: https://developer.apple.com/news/releases/rss/releases.rss
     icon: 🍎
   - id: apple-dev-news
     name: Apple Developer News (App Store policy, deadlines)
+    platform: iOS
     type: feed
     url: https://developer.apple.com/news/rss/news.rss
     icon: 🍎
   - id: apple-security
     name: Apple Security Releases
+    platform: iOS
     type: page
     url: https://support.apple.com/en-us/100100
     selector: table
@@ -83,35 +86,41 @@ sources:
   # ---------------- Android / Google Play ----------------
   - id: android-dev-blog
     name: Android Developers Blog
+    platform: Android
     type: feed
     url: https://android-developers.googleblog.com/feeds/posts/default
     icon: 🤖
   - id: android-security-bulletin
     name: Android Security Bulletins
+    platform: Android
     type: page
     url: https://source.android.com/docs/security/bulletin/asb-overview
     selector: table
     icon: 🤖
   - id: play-target-api
     name: Google Play Target API Requirements (API 36 etc.)
+    platform: Android
     type: page
     url: https://developer.android.com/google/play/requirements/target-sdk
     selector: main
     icon: 🤖
   - id: play-policy
     name: Google Play Developer Policy
+    platform: Android
     type: page
     url: https://play.google.com/about/developer-content-policy/
     selector: main
     icon: 🤖
   - id: r8
     name: R8
+    platform: Android
     type: maven
     url: https://dl.google.com/dl/android/maven2/com/android/tools/r8/maven-metadata.xml
     link: https://developer.android.com/build/shrink-code
     icon: 🤖
   - id: agp
     name: Android Gradle Plugin
+    platform: Android
     type: maven
     url: https://dl.google.com/dl/android/maven2/com/android/tools/build/gradle/maven-metadata.xml
     link: https://developer.android.com/build/releases/gradle-plugin
@@ -162,6 +171,72 @@ sources:
     url: https://github.com/razorpay/razorpay-python/releases.atom
     title_regex: '^v?\d+(\.\d+)+$'
     icon: 💰
+    mention: "<users/all>"
+
+  # ---------------- Mobile SDKs (Android / iOS) ----------------
+  # 'platform' adds "In Android" / "In iOS" to every Chat message
+  - id: adjust-android
+    name: Adjust SDK
+    platform: Android
+    type: feed
+    url: https://github.com/adjust/android_sdk/releases.atom
+    title_regex: '^Version \d+(\.\d+)+$'
+    icon: 🤖
+    mention: "<users/all>"
+  - id: adjust-ios
+    name: Adjust SDK
+    platform: iOS
+    type: feed
+    url: https://github.com/adjust/ios_sdk/releases.atom
+    title_regex: '^Version \d+(\.\d+)+$'
+    icon: 🍎
+    mention: "<users/all>"
+  - id: facebook-android
+    name: Facebook SDK
+    platform: Android
+    type: feed
+    url: https://github.com/facebook/facebook-android-sdk/releases.atom
+    title_regex: '^sdk-version-\d+(\.\d+)+$'
+    icon: 🤖
+    mention: "<users/all>"
+  - id: facebook-ios
+    name: Facebook SDK
+    platform: iOS
+    type: feed
+    url: https://github.com/facebook/facebook-ios-sdk/releases.atom
+    title_regex: '^Facebook SDK v\d+(\.\d+)+$'
+    icon: 🍎
+    mention: "<users/all>"
+  - id: firebase-android
+    name: Firebase SDK (BoM)
+    platform: Android
+    type: maven
+    url: https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-bom/maven-metadata.xml
+    link: https://firebase.google.com/support/release-notes/android
+    icon: 🤖
+  - id: firebase-ios
+    name: Firebase SDK
+    platform: iOS
+    type: feed
+    url: https://github.com/firebase/firebase-ios-sdk/releases.atom
+    title_regex: '^Firebase Apple \d+(\.\d+)+$'
+    icon: 🍎
+    mention: "<users/all>"
+  - id: customerio-android
+    name: Customer.io SDK
+    platform: Android
+    type: feed
+    url: https://github.com/customerio/customerio-android/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 🤖
+    mention: "<users/all>"
+  - id: customerio-ios
+    name: Customer.io SDK
+    platform: iOS
+    type: feed
+    url: https://github.com/customerio/customerio-ios/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 🍎
     mention: "<users/all>"
 
   # ---------------- Duo ----------------
