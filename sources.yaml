@@ -134,7 +134,7 @@ sources:
     url: https://github.com/stripe/stripe-php/releases.atom
     title_regex: '^v?\d+(\.\d+)+$'
     icon: 💳
-    mention: "<users/all>"
+    mention: "<users/Terry Fernado>"
   - id: stripe-node
     name: Stripe Node.js SDK
     type: feed
