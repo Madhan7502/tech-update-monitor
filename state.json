@@ -1,6 +1,7 @@
 {
  "php-releases": {
   "seen": [
+   "http://php.net/releases/8_5_12.php",
    "http://php.net/releases/8_4_27.php",
    "http://php.net/releases/8_3_36.php",
    "http://php.net/releases/8_2_35.php"
@@ -21,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -174,6 +176,7 @@
  },
  "node-releases": {
   "seen": [
+   "/blog/release/v26.12.1?1792579160400",
    "/blog/release/v24.22.1?1792579154786",
    "/blog/release/v22.23.4?1792579152420",
    "/blog/release/v24.22.0?1791991608742",
@@ -250,6 +253,7 @@
  },
  "python-insider": {
   "seen": [
+   "https://blog.python.org/2026/10/python-3151-3149-31317/",
    "https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/",
    "https://blog.python.org/2026/10/python-3150-final-is-here/",
    "https://blog.python.org/2026/10/python-3150-rc3/",
