@@ -64,6 +64,12 @@ def fetch(url):
     return r
 
 
+def label(src):
+    """Display name, with 'In Android' / 'In iOS' when a platform is set."""
+    plat = src.get("platform")
+    return f"*In {plat}* · *{src['name']}*" if plat else f"*{src['name']}*"
+
+
 def today():
     return datetime.now(timezone.utc).strftime("%d %b %Y")
 
@@ -182,7 +188,7 @@ def format_message(src, items, security_kw, heading=None):
     icon = "🚨" if critical else src.get("icon", "📢")
     limit = src.get("max_items", MAX_ITEMS_PER_MESSAGE)
     heading = heading or f"{len(items)} new update(s)"
-    lines = [f"{icon} *{src['name']}* — {heading}"]
+    lines = [f"{icon} {label(src)} — {heading}"]
     for i in items[:limit]:
         flag = " ⚠️" if matches(f"{i['title']} {i['summary']}", security_kw) else ""
         lines.append(f"• <{i['link']}|{i['title']}>{flag}")
@@ -203,11 +209,11 @@ def post_status(cfg, state, failed, security_kw, dry_run):
             continue
         sid, icon = src["id"], src.get("icon", "📢")
         if sid in failed:
-            blocks.append(f"{icon} *{src['name']}*\n   ❗ Could not check right now")
+            blocks.append(f"{icon} {label(src)}\n   ❗ Could not check right now")
             continue
         recent = state.get(sid, {}).get("recent", [])
         if src.get("status_items", 1) > 1 and recent:
-            rows = [f"{icon} *{src['name']}* — latest {len(recent)}"]
+            rows = [f"{icon} {label(src)} — latest {len(recent)}"]
             for r in recent:
                 d = f" · {r['date']}" if r["date"] else ""
                 rows.append(f"   • <{r['link']}|{r['title']}>{d}")
@@ -218,7 +224,7 @@ def post_status(cfg, state, failed, security_kw, dry_run):
             continue
         flag = " 🚨" if matches(latest["title"], security_kw) else ""
         date = f" · {latest['date']}" if latest["date"] else ""
-        blocks.append(f"{icon} *{src['name']}*\n   <{latest['link']}|{latest['title']}>{flag}{date}")
+        blocks.append(f"{icon} {label(src)}\n   <{latest['link']}|{latest['title']}>{flag}{date}")
     blocks.append("_I'll post here automatically whenever something new is released._")
     # Google Chat messages have a size limit, so split long reports
     msg = ""
