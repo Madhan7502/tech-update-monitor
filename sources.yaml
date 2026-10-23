@@ -1,0 +1,122 @@
+# Words that mark an update as security-critical (🚨 + optional @mention)
+security_keywords: [security, vulnerability, CVE-, critical, exploit, "remote code", patch release, zero-day]
+
+# type: feed | page | maven
+# include_keywords: only report feed entries containing one of these words
+# selector: CSS selector for "page" type (watch only that part of the page)
+# mention: "<users/all>" to @all in Chat when an item is security-critical
+sources:
+
+  # ---------------- PHP ----------------
+  - id: php-releases
+    name: PHP Releases
+    type: feed
+    url: https://www.php.net/releases/feed.php
+    icon: 🐘
+    mention: "<users/all>"
+  - id: php-news
+    name: PHP News
+    type: feed
+    url: https://www.php.net/feed.atom
+    icon: 🐘
+
+  # ---------------- Node.js ----------------
+  - id: node-security
+    name: Node.js Security Releases
+    type: feed
+    url: https://nodejs.org/en/feed/vulnerability.xml
+    icon: 🟢
+    mention: "<users/all>"
+  - id: node-releases
+    name: Node.js Releases
+    type: feed
+    url: https://nodejs.org/en/feed/releases.xml
+    icon: 🟢
+
+  # ---------------- Python ----------------
+  - id: python-insider
+    name: Python Releases (Python Insider)
+    type: feed
+    url: https://blog.python.org/feeds/posts/default
+    icon: 🐍
+    mention: "<users/all>"
+
+  # ---------------- AWS ----------------
+  - id: aws-security
+    name: AWS Security Bulletins
+    type: feed
+    url: https://aws.amazon.com/security/security-bulletins/rss/feed/
+    icon: ☁️
+    mention: "<users/all>"
+  - id: aws-whats-new
+    name: AWS What's New (filtered)
+    type: feed
+    url: https://aws.amazon.com/about-aws/whats-new/recent/feed/
+    icon: ☁️
+    # This feed is very busy; edit to the services you actually use
+    include_keywords: [Lambda, "Node.js", Python, PHP, deprecat, "end of support", "end of life", "end-of-life", Elastic Beanstalk, RDS, EC2, ECS]
+
+  # ---------------- Apple ----------------
+  - id: apple-dev-releases
+    name: Apple Developer Releases (Xcode / iOS SDK)
+    type: feed
+    url: https://developer.apple.com/news/releases/rss/releases.rss
+    icon: 🍎
+  - id: apple-dev-news
+    name: Apple Developer News (App Store policy, deadlines)
+    type: feed
+    url: https://developer.apple.com/news/rss/news.rss
+    icon: 🍎
+  - id: apple-security
+    name: Apple Security Releases
+    type: page
+    url: https://support.apple.com/en-us/100100
+    selector: table
+    icon: 🍎
+
+  # ---------------- Android / Google Play ----------------
+  - id: android-dev-blog
+    name: Android Developers Blog
+    type: feed
+    url: https://android-developers.googleblog.com/feeds/posts/default
+    icon: 🤖
+  - id: android-security-bulletin
+    name: Android Security Bulletins
+    type: page
+    url: https://source.android.com/docs/security/bulletin/asb-overview
+    selector: table
+    icon: 🤖
+  - id: play-target-api
+    name: Google Play Target API Requirements (API 36 etc.)
+    type: page
+    url: https://developer.android.com/google/play/requirements/target-sdk
+    selector: main
+    icon: 🤖
+  - id: play-policy
+    name: Google Play Developer Policy
+    type: page
+    url: https://play.google.com/about/developer-content-policy/
+    selector: main
+    icon: 🤖
+  - id: r8
+    name: R8
+    type: maven
+    url: https://dl.google.com/dl/android/maven2/com/android/tools/r8/maven-metadata.xml
+    link: https://developer.android.com/build/shrink-code
+    icon: 🤖
+  - id: agp
+    name: Android Gradle Plugin
+    type: maven
+    url: https://dl.google.com/dl/android/maven2/com/android/tools/build/gradle/maven-metadata.xml
+    link: https://developer.android.com/build/releases/gradle-plugin
+    icon: 🤖
+
+  # ---------------- Duo ----------------
+  # Paste the exact page you want watched (e.g. Duo release notes / policy page)
+  - id: duo
+    name: Duo Updates
+    type: page
+    url: https://duo.com/docs
+    selector: main
+    icon: 🔐
+    enabled: false
