@@ -1212,7 +1212,7 @@
  },
  "adjust-ios": {
   "seen": [
-   
+   "tag:github.com,2008:Repository/5216500/v5.8.1",
    "tag:github.com,2008:Repository/5216500/v5.8.0",
    "tag:github.com,2008:Repository/5216500/v5.7.0",
    "tag:github.com,2008:Repository/5216500/v5.6.2",
@@ -1239,7 +1239,7 @@
  },
  "facebook-android": {
   "seen": [
-   
+   "tag:github.com,2008:Repository/659341/sdk-version-19.0.0",
    "tag:github.com,2008:Repository/659341/sdk-version-18.3.0",
    "tag:github.com,2008:Repository/659341/sdk-version-18.2.3",
    "tag:github.com,2008:Repository/659341/sdk-version-18.1.3",
@@ -1266,7 +1266,7 @@
  },
  "facebook-ios": {
   "seen": [
-   
+   "tag:github.com,2008:Repository/738491/v19.0.0",
    "tag:github.com,2008:Repository/738491/v18.1.1",
    "tag:github.com,2008:Repository/738491/v18.1.0",
    "tag:github.com,2008:Repository/738491/v18.0.3",
@@ -1485,21 +1485,21 @@
   ],
   "recent": [
    {
-    "title": "Firebase Apple 12.19.3",
-    "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/12.19.3",
-    "date": "22 Oct 2026"
+    "title": "Firebase Apple 13.1.1",
+    "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/13.1.1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Firebase Apple 12.19.3",
-   "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/12.19.3",
-   "date": "22 Oct 2026"
+   "title": "Firebase Apple 13.1.1",
+   "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/13.1.1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
  "customerio-android": {
   "seen": [
-   
+   "tag:github.com,2008:Repository/355691391/4.26.0",
    "tag:github.com,2008:Repository/355691391/4.25.2",
    "tag:github.com,2008:Repository/355691391/4.25.1",
    "tag:github.com,2008:Repository/355691391/4.25.0",
@@ -1526,7 +1526,7 @@
  },
  "customerio-ios": {
   "seen": [
-   
+   "tag:github.com,2008:Repository/355691505/4.13.0",
    "tag:github.com,2008:Repository/355691505/4.12.3",
    "tag:github.com,2008:Repository/355691505/4.12.2",
    "tag:github.com,2008:Repository/355691505/4.12.1",
