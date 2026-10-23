@@ -1181,7 +1181,6 @@
  },
  "adjust-android": {
   "seen": [
-   "tag:github.com,2008:Repository/6351071/v5.8.1",
    "tag:github.com,2008:Repository/6351071/v5.8.0",
    "tag:github.com,2008:Repository/6351071/v5.7.0",
    "tag:github.com,2008:Repository/6351071/v5.6.1",
@@ -1208,7 +1207,6 @@
  },
  "adjust-ios": {
   "seen": [
-   "tag:github.com,2008:Repository/5216500/v5.8.1",
    "tag:github.com,2008:Repository/5216500/v5.8.0",
    "tag:github.com,2008:Repository/5216500/v5.7.0",
    "tag:github.com,2008:Repository/5216500/v5.6.2",
@@ -1235,7 +1233,6 @@
  },
  "facebook-android": {
   "seen": [
-   "tag:github.com,2008:Repository/659341/sdk-version-19.0.0",
    "tag:github.com,2008:Repository/659341/sdk-version-18.3.0",
    "tag:github.com,2008:Repository/659341/sdk-version-18.2.3",
    "tag:github.com,2008:Repository/659341/sdk-version-18.1.3",
@@ -1262,7 +1259,6 @@
  },
  "facebook-ios": {
   "seen": [
-   "tag:github.com,2008:Repository/738491/v19.0.0",
    "tag:github.com,2008:Repository/738491/v18.1.1",
    "tag:github.com,2008:Repository/738491/v18.1.0",
    "tag:github.com,2008:Repository/738491/v18.0.3",
@@ -1457,7 +1453,6 @@
    "35.0.0",
    "35.0.1",
    "35.0.2",
-   "35.1.0"
   ],
   "latest": {
    "title": "Latest stable version: 35.1.0",
@@ -1468,7 +1463,6 @@
  },
  "firebase-ios": {
   "seen": [
-   "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
    "tag:github.com,2008:Repository/89033556/13.1.1",
    "tag:github.com,2008:Repository/89033556/12.19.3",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.1",
@@ -1495,7 +1489,6 @@
  },
  "customerio-android": {
   "seen": [
-   "tag:github.com,2008:Repository/355691391/4.26.0",
    "tag:github.com,2008:Repository/355691391/4.25.2",
    "tag:github.com,2008:Repository/355691391/4.25.1",
    "tag:github.com,2008:Repository/355691391/4.25.0",
@@ -1522,7 +1515,6 @@
  },
  "customerio-ios": {
   "seen": [
-   "tag:github.com,2008:Repository/355691505/4.13.0",
    "tag:github.com,2008:Repository/355691505/4.12.3",
    "tag:github.com,2008:Repository/355691505/4.12.2",
    "tag:github.com,2008:Repository/355691505/4.12.1",
