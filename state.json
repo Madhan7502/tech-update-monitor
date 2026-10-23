@@ -404,9 +404,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -439,8 +439,8 @@
    "e11e180c22d33452ff594d59026f8421d7b901e6",
    "50919efc139f36c47022a2b03be796a8017c2803",
    "db28e1cd2d5aae593c81883a1822541e63cf3b1a",
-   "022eae085f250edc2c6295f645328accae4b1c06",
    "af2e139320300bc3de966c5f102a7cce1078613e",
+   "022eae085f250edc2c6295f645328accae4b1c06",
    "13a6ee64ae1346157964e7ca881db4cd34e20940",
    "765e0993864f1c280cb34dabc1db7aa575b505cc",
    "13c52955011591083a9f5adcfcdb9ba268f5665d"
@@ -1176,6 +1176,374 @@
    "title": "v2.0.1",
    "link": "https://github.com/razorpay/razorpay-python/releases/tag/v2.0.1",
    "date": "09 Mar 2026"
+  },
+  "fails": 0
+ },
+ "adjust-android": {
+  "seen": [
+   "tag:github.com,2008:Repository/6351071/v5.8.1",
+   "tag:github.com,2008:Repository/6351071/v5.8.0",
+   "tag:github.com,2008:Repository/6351071/v5.7.0",
+   "tag:github.com,2008:Repository/6351071/v5.6.1",
+   "tag:github.com,2008:Repository/6351071/v5.6.0",
+   "tag:github.com,2008:Repository/6351071/v5.5.1",
+   "tag:github.com,2008:Repository/6351071/v5.5.0",
+   "tag:github.com,2008:Repository/6351071/v5.4.6",
+   "tag:github.com,2008:Repository/6351071/v5.4.5",
+   "tag:github.com,2008:Repository/6351071/v5.4.4"
+  ],
+  "recent": [
+   {
+    "title": "Version 5.8.1",
+    "link": "https://github.com/adjust/android_sdk/releases/tag/v5.8.1",
+    "date": "23 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "Version 5.8.1",
+   "link": "https://github.com/adjust/android_sdk/releases/tag/v5.8.1",
+   "date": "23 Oct 2026"
+  },
+  "fails": 0
+ },
+ "adjust-ios": {
+  "seen": [
+   "tag:github.com,2008:Repository/5216500/v5.8.1",
+   "tag:github.com,2008:Repository/5216500/v5.8.0",
+   "tag:github.com,2008:Repository/5216500/v5.7.0",
+   "tag:github.com,2008:Repository/5216500/v5.6.2",
+   "tag:github.com,2008:Repository/5216500/v5.6.1",
+   "tag:github.com,2008:Repository/5216500/v5.6.0",
+   "tag:github.com,2008:Repository/5216500/v5.5.4",
+   "tag:github.com,2008:Repository/5216500/v5.5.3",
+   "tag:github.com,2008:Repository/5216500/v5.5.2",
+   "tag:github.com,2008:Repository/5216500/v5.5.1"
+  ],
+  "recent": [
+   {
+    "title": "Version 5.8.1",
+    "link": "https://github.com/adjust/ios_sdk/releases/tag/v5.8.1",
+    "date": "23 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "Version 5.8.1",
+   "link": "https://github.com/adjust/ios_sdk/releases/tag/v5.8.1",
+   "date": "23 Oct 2026"
+  },
+  "fails": 0
+ },
+ "facebook-android": {
+  "seen": [
+   "tag:github.com,2008:Repository/659341/sdk-version-19.0.0",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.3.0",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.2.3",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.1.3",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.0.3",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.0.2",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.0.1",
+   "tag:github.com,2008:Repository/659341/sdk-version-18.0.0",
+   "tag:github.com,2008:Repository/659341/sdk-version-17.0.2",
+   "tag:github.com,2008:Repository/659341/sdk-version-17.0.1"
+  ],
+  "recent": [
+   {
+    "title": "sdk-version-19.0.0",
+    "link": "https://github.com/facebook/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
+    "date": "16 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "sdk-version-19.0.0",
+   "link": "https://github.com/facebook/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
+   "date": "16 Oct 2026"
+  },
+  "fails": 0
+ },
+ "facebook-ios": {
+  "seen": [
+   "tag:github.com,2008:Repository/738491/v19.0.0",
+   "tag:github.com,2008:Repository/738491/v18.1.1",
+   "tag:github.com,2008:Repository/738491/v18.1.0",
+   "tag:github.com,2008:Repository/738491/v18.0.3",
+   "tag:github.com,2008:Repository/738491/v18.0.2",
+   "tag:github.com,2008:Repository/738491/v18.0.1",
+   "tag:github.com,2008:Repository/738491/v18.0.0",
+   "tag:github.com,2008:Repository/738491/v17.4.0",
+   "tag:github.com,2008:Repository/738491/v17.3.0",
+   "tag:github.com,2008:Repository/738491/v17.2.0"
+  ],
+  "recent": [
+   {
+    "title": "Facebook SDK v19.0.0",
+    "link": "https://github.com/facebook/facebook-ios-sdk/releases/tag/v19.0.0",
+    "date": "19 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "Facebook SDK v19.0.0",
+   "link": "https://github.com/facebook/facebook-ios-sdk/releases/tag/v19.0.0",
+   "date": "19 Oct 2026"
+  },
+  "fails": 0
+ },
+ "firebase-android": {
+  "seen": [
+   "16.0.0",
+   "17.0.0",
+   "17.1.0",
+   "18.0.0",
+   "18.1.0",
+   "19.0.0",
+   "20.0.0",
+   "20.0.1",
+   "20.1.0",
+   "21.0.0",
+   "21.1.0",
+   "22.0.0",
+   "22.1.0",
+   "22.2.0",
+   "22.2.1",
+   "22.3.0",
+   "23.0.0",
+   "24.0.0",
+   "24.0.1",
+   "24.0.2",
+   "24.1.0",
+   "24.2.0",
+   "24.3.0",
+   "24.4.0",
+   "24.5.0",
+   "24.6.0",
+   "24.7.0",
+   "24.7.1",
+   "25.0.0",
+   "25.1.0",
+   "25.1.1",
+   "25.2.0",
+   "25.2.1",
+   "25.2.2",
+   "25.3.0",
+   "25.3.1",
+   "25.4.0",
+   "25.4.1",
+   "25.5.0",
+   "25.6.0",
+   "25.6.1",
+   "25.7.0",
+   "25.8.0",
+   "25.9.0",
+   "25.10.0",
+   "25.11.0",
+   "25.12.0",
+   "25.13.0",
+   "26.0.0",
+   "26.1.0",
+   "26.1.1",
+   "26.2.0",
+   "26.3.0",
+   "26.4.0",
+   "26.5.0",
+   "26.6.0",
+   "26.7.0",
+   "26.8.0",
+   "27.0.0",
+   "27.1.0",
+   "28.0.0",
+   "28.0.1",
+   "28.1.0",
+   "28.2.0",
+   "28.2.1",
+   "28.3.0",
+   "28.3.1",
+   "28.4.0",
+   "28.4.1",
+   "28.4.2",
+   "29.0.0",
+   "29.0.1",
+   "29.0.2",
+   "29.0.3",
+   "29.0.4",
+   "29.1.0",
+   "29.2.0",
+   "29.2.1",
+   "29.3.0",
+   "29.3.1",
+   "30.0.0",
+   "30.0.1",
+   "30.0.2",
+   "30.1.0",
+   "30.2.0",
+   "30.3.0",
+   "30.3.1",
+   "30.3.2",
+   "30.4.0",
+   "30.4.1",
+   "30.5.0",
+   "31.0.0",
+   "31.0.1",
+   "31.0.2",
+   "31.0.3",
+   "31.1.0",
+   "31.1.1",
+   "31.2.0",
+   "31.2.1",
+   "31.2.2",
+   "31.2.3",
+   "31.3.0",
+   "31.4.0",
+   "31.5.0",
+   "32.0.0",
+   "32.1.0",
+   "32.1.1",
+   "32.2.0",
+   "32.2.1",
+   "32.2.2",
+   "32.2.3",
+   "32.3.0",
+   "32.3.1",
+   "32.4.0",
+   "32.4.1",
+   "32.5.0",
+   "32.6.0",
+   "32.7.0",
+   "32.7.1",
+   "32.7.2",
+   "32.7.3",
+   "32.7.4",
+   "32.8.0",
+   "32.8.1",
+   "33.0.0",
+   "33.1.0",
+   "33.1.1",
+   "33.1.2",
+   "33.2.0",
+   "33.3.0",
+   "33.4.0",
+   "33.5.0",
+   "33.5.1",
+   "33.6.0",
+   "33.7.0",
+   "33.8.0",
+   "33.9.0",
+   "33.10.0",
+   "33.11.0",
+   "33.12.0",
+   "33.13.0",
+   "33.14.0",
+   "33.15.0",
+   "33.16.0",
+   "34.0.0",
+   "34.1.0",
+   "34.2.0",
+   "34.3.0",
+   "34.4.0",
+   "34.5.0",
+   "34.6.0",
+   "34.7.0",
+   "34.8.0",
+   "34.9.0",
+   "34.10.0",
+   "34.11.0",
+   "34.12.0",
+   "34.13.0",
+   "34.14.0",
+   "34.14.1",
+   "34.15.0",
+   "34.16.0",
+   "34.17.0",
+   "34.18.0",
+   "34.19.0",
+   "35.0.0",
+   "35.0.1",
+   "35.0.2",
+   "35.1.0"
+  ],
+  "latest": {
+   "title": "Latest stable version: 35.1.0",
+   "link": "https://firebase.google.com/support/release-notes/android",
+   "date": ""
+  },
+  "fails": 0
+ },
+ "firebase-ios": {
+  "seen": [
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
+   "tag:github.com,2008:Repository/89033556/13.1.1",
+   "tag:github.com,2008:Repository/89033556/12.19.3",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.1",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.1-beta",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-12.19.3",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-12.19.3.nightly",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-12.19.3-beta",
+   "tag:github.com,2008:Repository/89033556/13.1.0",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0"
+  ],
+  "recent": [
+   {
+    "title": "Firebase Apple 12.19.3",
+    "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/12.19.3",
+    "date": "22 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "Firebase Apple 12.19.3",
+   "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/12.19.3",
+   "date": "22 Oct 2026"
+  },
+  "fails": 0
+ },
+ "customerio-android": {
+  "seen": [
+   "tag:github.com,2008:Repository/355691391/4.26.0",
+   "tag:github.com,2008:Repository/355691391/4.25.2",
+   "tag:github.com,2008:Repository/355691391/4.25.1",
+   "tag:github.com,2008:Repository/355691391/4.25.0",
+   "tag:github.com,2008:Repository/355691391/4.24.0",
+   "tag:github.com,2008:Repository/355691391/4.23.2",
+   "tag:github.com,2008:Repository/355691391/4.23.1",
+   "tag:github.com,2008:Repository/355691391/4.23.0",
+   "tag:github.com,2008:Repository/355691391/4.22.0",
+   "tag:github.com,2008:Repository/355691391/4.21.1"
+  ],
+  "recent": [
+   {
+    "title": "4.26.0",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/4.26.0",
+    "date": "23 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "4.26.0",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/4.26.0",
+   "date": "23 Oct 2026"
+  },
+  "fails": 0
+ },
+ "customerio-ios": {
+  "seen": [
+   "tag:github.com,2008:Repository/355691505/4.13.0",
+   "tag:github.com,2008:Repository/355691505/4.12.3",
+   "tag:github.com,2008:Repository/355691505/4.12.2",
+   "tag:github.com,2008:Repository/355691505/4.12.1",
+   "tag:github.com,2008:Repository/355691505/4.12.0",
+   "tag:github.com,2008:Repository/355691505/4.11.0",
+   "tag:github.com,2008:Repository/355691505/4.10.0",
+   "tag:github.com,2008:Repository/355691505/4.9.0",
+   "tag:github.com,2008:Repository/355691505/4.8.1",
+   "tag:github.com,2008:Repository/355691505/4.8.0"
+  ],
+  "recent": [
+   {
+    "title": "4.13.0",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/4.13.0",
+    "date": "23 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "4.13.0",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/4.13.0",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  }
