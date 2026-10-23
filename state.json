@@ -387,6 +387,7 @@
  "aws-whats-new": {
   "seen": [
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
+   "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
    "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
@@ -411,9 +412,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -459,6 +460,11 @@
     "date": "23 Oct 2026"
    },
    {
+    "title": "Amazon Corretto October 2026 Quarterly Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+    "date": "23 Oct 2026"
+   },
+   {
     "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
     "date": "23 Oct 2026"
@@ -497,11 +503,6 @@
     "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
@@ -530,6 +531,11 @@
     "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
     "summary": "Amazon OpenSearch Serverless now offers intelligent ingestion, a fully managed feature that turns logs and documents stored in Amazon S3 into searchable content in Amazon OpenSearch Serverless (NextGen) collections . Wit…"
+   },
+   {
+    "title": "Amazon Corretto October 2026 Quarterly Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
+    "summary": "On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 27.0.1.0.10, 25.0.5.0.9, 21.0.13.0.10, 17.0.21.0.10, 11.0.33.0.9, a…"
    }
   ],
   "digest_date": "23 Oct 2026"
