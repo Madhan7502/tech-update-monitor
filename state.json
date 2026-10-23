@@ -1019,7 +1019,6 @@
  },
  "stripe-php": {
   "seen": [
-   "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.4",
    "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.3",
    "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.2",
    "tag:github.com,2008:Repository/1953386/v22.1.0-beta.1",
@@ -1100,7 +1099,6 @@
  },
  "razorpay-php": {
   "seen": [
-   "tag:github.com,2008:Repository/29387084/2.9.3",
    "tag:github.com,2008:Repository/29387084/2.9.2",
    "tag:github.com,2008:Repository/29387084/2.9.1",
    "tag:github.com,2008:Repository/29387084/2.9.0",
