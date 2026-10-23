@@ -502,7 +502,8 @@
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
    "date": "22 Oct 2026"
   },
-  "fails": 0
+  "fails": 0,
+  "pending": []
  },
  "apple-dev-releases": {
   "seen": [
