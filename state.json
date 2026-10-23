@@ -22,7 +22,9 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
+   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -85,15 +87,15 @@
   ],
   "recent": [
    {
-    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-    "link": "https://www.php.net/index.php#2026-10-21-5",
-    "date": "21 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-   "link": "https://www.php.net/index.php#2026-10-21-5",
-   "date": "21 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -386,6 +388,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
    "2fd0943493e29a1c860162e25ff1915fb7472216",
@@ -455,6 +458,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+    "date": "23 Oct 2026"
+   },
+   {
     "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
     "date": "23 Oct 2026"
@@ -498,16 +506,11 @@
     "title": "AWS CloudFormation now simplifies stack update rollback operations",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
-   "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+   "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
    "date": "23 Oct 2026"
   },
   "fails": 0,
@@ -536,6 +539,11 @@
     "title": "Amazon Corretto October 2026 Quarterly Updates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates",
     "summary": "On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 27.0.1.0.10, 25.0.5.0.9, 21.0.13.0.10, 17.0.21.0.10, 11.0.33.0.9, a…"
+   },
+   {
+    "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+    "summary": "Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous conversations with …"
    }
   ],
   "digest_date": "23 Oct 2026"
