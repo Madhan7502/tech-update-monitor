@@ -182,7 +182,7 @@ sources:
     url: https://github.com/adjust/android_sdk/releases.atom
     title_regex: '^Version \d+(\.\d+)+$'
     icon: 🤖
-    mention: "<users/all>"
+    mention: "<users/Saravanan>"
   - id: adjust-ios
     name: Adjust SDK
     platform: iOS
