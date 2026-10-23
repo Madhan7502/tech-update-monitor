@@ -390,6 +390,7 @@
    "8d97487f2c92bf944af9a04f0f2dac48eebf96c3",
    "8bd721819f380c79930d285c4aeae10ee2504efc",
    "3ed0aa8ffeb876bedc097a22d404b2d639b91c1c",
+   "eef2ddfabb5fcc0c876ad972916e7f6c830be18d",
    "d4651dcd8180cb4c942c115db2c34d0ce32bef0f",
    "5fc97181692d5b273b31a2b96041d6ef5034ea5d",
    "811dc9092ea620c36b4a765953f41ee5c9c015d5",
@@ -404,9 +405,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -414,9 +415,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -439,8 +440,8 @@
    "e11e180c22d33452ff594d59026f8421d7b901e6",
    "50919efc139f36c47022a2b03be796a8017c2803",
    "db28e1cd2d5aae593c81883a1822541e63cf3b1a",
-   "022eae085f250edc2c6295f645328accae4b1c06",
    "af2e139320300bc3de966c5f102a7cce1078613e",
+   "022eae085f250edc2c6295f645328accae4b1c06",
    "13a6ee64ae1346157964e7ca881db4cd34e20940",
    "765e0993864f1c280cb34dabc1db7aa575b505cc",
    "13c52955011591083a9f5adcfcdb9ba268f5665d"
@@ -477,6 +478,11 @@
     "date": "22 Oct 2026"
    },
    {
+    "title": "Amazon MSK Connect now supports pausing and resuming connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume",
+    "date": "22 Oct 2026"
+   },
+   {
     "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
     "date": "22 Oct 2026"
@@ -490,11 +496,6 @@
     "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
@@ -503,7 +504,8 @@
    "date": "22 Oct 2026"
   },
   "fails": 0,
-  "pending": []
+  "pending": [],
+  "digest_date": "23 Oct 2026"
  },
  "apple-dev-releases": {
   "seen": [
