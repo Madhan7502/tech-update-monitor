@@ -10,7 +10,7 @@ on:
         type: boolean
         default: true
       test_sources:
-        description: "Send a TEST alert for these source ids (comma-separated, e.g. adjust-android,firebase-ios)"
+        description: "Send a TEST alert for these source ids (adjust-android,adjust-ios,facebook-android,facebook-ios,firebase-android,firebase-ios,customerio-android,customerio-ios)"
         type: string
         default: ""
 
