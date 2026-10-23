@@ -49,12 +49,18 @@ sources:
     icon: ☁️
     mention: "<users/all>"
   - id: aws-whats-new
-    name: AWS What's New (filtered)
+    name: AWS What's New
     type: feed
     url: https://aws.amazon.com/about-aws/whats-new/recent/feed/
+    link: https://aws.amazon.com/new/
     icon: ☁️
-    # This feed is very busy; edit to the services you actually use
-    include_keywords: [Lambda, "Node.js", Python, PHP, deprecat, "end of support", "end of life", "end-of-life", Elastic Beanstalk, RDS, EC2, ECS]
+    digest: true            # one combined message per day instead of every 30 min
+    digest_hour_utc: 3      # 03:00 UTC = 08:30 IST; change to suit your team
+    max_items: 40
+    show_summary: false
+    status_items: 10        # status report shows the latest 10 announcements
+    # To only get specific services, uncomment and edit:
+    # include_keywords: [Lambda, "Node.js", Python, PHP, RDS, EC2, ECS, deprecat, "end of support"]
 
   # ---------------- Apple ----------------
   - id: apple-dev-releases
@@ -119,4 +125,4 @@ sources:
     url: https://duo.com/docs
     selector: main
     icon: 🔐
-    enabled: false
+    enabled: false          # turn on (true) once you have a Duo page to watch
