@@ -2,16 +2,20 @@ name: Tech Update Monitor
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
+  workflow_dispatch:          # the manual "Run workflow" button
     inputs:
       send_status:
         description: "Post a current-status summary to Google Chat"
         type: boolean
         default: true
+      test_sources:
+        description: "Send a TEST alert for these source ids (comma-separated, e.g. adjust-android,firebase-ios)"
+        type: string
+        default: ""
 
 permissions:
-  contents: write
+  contents: write             # needed to save state.json back to the repo
 
 concurrency:
   group: update-monitor
@@ -30,6 +34,7 @@ jobs:
       - name: Check for updates
         env:
           GCHAT_WEBHOOK_URL: ${{ secrets.GCHAT_WEBHOOK_URL }}
+          TEST_SOURCES: ${{ inputs.test_sources }}
         run: python monitor.py ${{ inputs.send_status && '--status' || '' }}
       - name: Save state
         run: |
