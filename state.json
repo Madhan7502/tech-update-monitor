@@ -1016,5 +1016,167 @@
    "link": "https://developer.android.com/build/releases/gradle-plugin",
    "date": ""
   }
+ },
+ "stripe-php": {
+  "seen": [
+   "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.4",
+   "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.3",
+   "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.2",
+   "tag:github.com,2008:Repository/1953386/v22.1.0-beta.1",
+   "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.1",
+   "tag:github.com,2008:Repository/1953386/v22.0.0",
+   "tag:github.com,2008:Repository/1953386/v21.4.0-alpha.5",
+   "tag:github.com,2008:Repository/1953386/v21.4.0-alpha.4",
+   "tag:github.com,2008:Repository/1953386/v21.4.0-alpha.3",
+   "tag:github.com,2008:Repository/1953386/v21.3.2"
+  ],
+  "recent": [
+   {
+    "title": "v22.0.0",
+    "link": "https://github.com/stripe/stripe-php/releases/tag/v22.0.0",
+    "date": "01 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "v22.0.0",
+   "link": "https://github.com/stripe/stripe-php/releases/tag/v22.0.0",
+   "date": "01 Oct 2026"
+  },
+  "fails": 0
+ },
+ "stripe-node": {
+  "seen": [
+   "tag:github.com,2008:Repository/2471804/v23.1.0-beta.2",
+   "tag:github.com,2008:Repository/2471804/v23.0.1",
+   "tag:github.com,2008:Repository/2471804/wif-v0.1.0-alpha.2",
+   "tag:github.com,2008:Repository/2471804/v23.1.0-alpha.4",
+   "tag:github.com,2008:Repository/2471804/wif-v0.1.0-alpha.1",
+   "tag:github.com,2008:Repository/2471804/v23.1.0-alpha.3",
+   "tag:github.com,2008:Repository/2471804/v23.1.0-alpha.2",
+   "tag:github.com,2008:Repository/2471804/v23.1.0-beta.1",
+   "tag:github.com,2008:Repository/2471804/v23.1.0-alpha.1",
+   "tag:github.com,2008:Repository/2471804/v23.0.0"
+  ],
+  "recent": [
+   {
+    "title": "v23.0.1",
+    "link": "https://github.com/stripe/stripe-node/releases/tag/v23.0.1",
+    "date": "22 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "v23.0.1",
+   "link": "https://github.com/stripe/stripe-node/releases/tag/v23.0.1",
+   "date": "22 Oct 2026"
+  },
+  "fails": 0
+ },
+ "stripe-python": {
+  "seen": [
+   "tag:github.com,2008:Repository/1953389/v16.1.0a4",
+   "tag:github.com,2008:Repository/1953389/v16.1.0a3",
+   "tag:github.com,2008:Repository/1953389/v16.1.0a2",
+   "tag:github.com,2008:Repository/1953389/v16.1.0b1",
+   "tag:github.com,2008:Repository/1953389/v16.1.0a1",
+   "tag:github.com,2008:Repository/1953389/v16.0.0",
+   "tag:github.com,2008:Repository/1953389/v15.7.0a5",
+   "tag:github.com,2008:Repository/1953389/v15.7.0a4",
+   "tag:github.com,2008:Repository/1953389/v15.7.0a3",
+   "tag:github.com,2008:Repository/1953389/v15.7.0a2"
+  ],
+  "recent": [
+   {
+    "title": "v16.0.0",
+    "link": "https://github.com/stripe/stripe-python/releases/tag/v16.0.0",
+    "date": "01 Oct 2026"
+   }
+  ],
+  "latest": {
+   "title": "v16.0.0",
+   "link": "https://github.com/stripe/stripe-python/releases/tag/v16.0.0",
+   "date": "01 Oct 2026"
+  },
+  "fails": 0
+ },
+ "razorpay-php": {
+  "seen": [
+   "tag:github.com,2008:Repository/29387084/2.9.3",
+   "tag:github.com,2008:Repository/29387084/2.9.2",
+   "tag:github.com,2008:Repository/29387084/2.9.1",
+   "tag:github.com,2008:Repository/29387084/2.9.0",
+   "tag:github.com,2008:Repository/29387084/2.8.7",
+   "tag:github.com,2008:Repository/29387084/2.8.6",
+   "tag:github.com,2008:Repository/29387084/2.8.5",
+   "tag:github.com,2008:Repository/29387084/v2.8.4",
+   "tag:github.com,2008:Repository/29387084/v2.8.3",
+   "tag:github.com,2008:Repository/29387084/v2.8.2"
+  ],
+  "recent": [
+   {
+    "title": "2.9.3",
+    "link": "https://github.com/razorpay/razorpay-php/releases/tag/2.9.3",
+    "date": "08 Jun 2026"
+   }
+  ],
+  "latest": {
+   "title": "2.9.3",
+   "link": "https://github.com/razorpay/razorpay-php/releases/tag/2.9.3",
+   "date": "08 Jun 2026"
+  },
+  "fails": 0
+ },
+ "razorpay-node": {
+  "seen": [
+   "tag:github.com,2008:Repository/34113935/v2.9.8",
+   "tag:github.com,2008:Repository/34113935/v2.9.7",
+   "tag:github.com,2008:Repository/34113935/v2.9.6",
+   "tag:github.com,2008:Repository/34113935/v2.9.5",
+   "tag:github.com,2008:Repository/34113935/v2.9.4",
+   "tag:github.com,2008:Repository/34113935/v2.9.3",
+   "tag:github.com,2008:Repository/34113935/v2.9.2",
+   "tag:github.com,2008:Repository/34113935/v2.9.1",
+   "tag:github.com,2008:Repository/34113935/v2.9.0",
+   "tag:github.com,2008:Repository/34113935/v2.8.6"
+  ],
+  "recent": [
+   {
+    "title": "v2.9.8",
+    "link": "https://github.com/razorpay/razorpay-node/releases/tag/v2.9.8",
+    "date": "15 Jul 2026"
+   }
+  ],
+  "latest": {
+   "title": "v2.9.8",
+   "link": "https://github.com/razorpay/razorpay-node/releases/tag/v2.9.8",
+   "date": "15 Jul 2026"
+  },
+  "fails": 0
+ },
+ "razorpay-python": {
+  "seen": [
+   "tag:github.com,2008:Repository/46411248/v2.0.1",
+   "tag:github.com,2008:Repository/46411248/v2.0.0",
+   "tag:github.com,2008:Repository/46411248/v1.5.0",
+   "tag:github.com,2008:Repository/46411248/v1.4.2",
+   "tag:github.com,2008:Repository/46411248/v1.4.1",
+   "tag:github.com,2008:Repository/46411248/v1.3.1",
+   "tag:github.com,2008:Repository/46411248/1.3.0",
+   "tag:github.com,2008:Repository/46411248/1.2.0",
+   "tag:github.com,2008:Repository/46411248/1.1.1",
+   "tag:github.com,2008:Repository/46411248/1.1.0"
+  ],
+  "recent": [
+   {
+    "title": "v2.0.1",
+    "link": "https://github.com/razorpay/razorpay-python/releases/tag/v2.0.1",
+    "date": "09 Mar 2026"
+   }
+  ],
+  "latest": {
+   "title": "v2.0.1",
+   "link": "https://github.com/razorpay/razorpay-python/releases/tag/v2.0.1",
+   "date": "09 Mar 2026"
+  },
+  "fails": 0
  }
 }
