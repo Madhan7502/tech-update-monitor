@@ -88,6 +88,8 @@ def check_feed(src, st):
         summary = strip_html(e.get("summary", ""))
         if include and not matches(f"{title} {summary}", include):
             continue
+        if src.get("title_regex") and not re.search(src["title_regex"], title):
+            continue                        # e.g. skip alpha/beta releases
         when = e.get("published_parsed") or e.get("updated_parsed")
         recent.append({"title": title, "link": e.get("link", src["url"]), "_when": when or (),
                        "date": time.strftime("%d %b %Y", when) if when else ""})
