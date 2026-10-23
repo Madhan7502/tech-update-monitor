@@ -117,6 +117,53 @@ sources:
     link: https://developer.android.com/build/releases/gradle-plugin
     icon: 🤖
 
+  # ---------------- Stripe (official SDK releases) ----------------
+  # title_regex keeps only stable versions like v22.0.0 (skips alpha/beta)
+  - id: stripe-php
+    name: Stripe PHP SDK
+    type: feed
+    url: https://github.com/stripe/stripe-php/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 💳
+    mention: "<users/all>"
+  - id: stripe-node
+    name: Stripe Node.js SDK
+    type: feed
+    url: https://github.com/stripe/stripe-node/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 💳
+    mention: "<users/all>"
+  - id: stripe-python
+    name: Stripe Python SDK
+    type: feed
+    url: https://github.com/stripe/stripe-python/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 💳
+    mention: "<users/all>"
+
+  # ---------------- Razorpay (official SDK releases) ----------------
+  - id: razorpay-php
+    name: Razorpay PHP SDK
+    type: feed
+    url: https://github.com/razorpay/razorpay-php/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 💰
+    mention: "<users/all>"
+  - id: razorpay-node
+    name: Razorpay Node.js SDK
+    type: feed
+    url: https://github.com/razorpay/razorpay-node/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 💰
+    mention: "<users/all>"
+  - id: razorpay-python
+    name: Razorpay Python SDK
+    type: feed
+    url: https://github.com/razorpay/razorpay-python/releases.atom
+    title_regex: '^v?\d+(\.\d+)+$'
+    icon: 💰
+    mention: "<users/all>"
+
   # ---------------- Duo ----------------
   # Paste the exact page you want watched (e.g. Duo release notes / policy page)
   - id: duo
