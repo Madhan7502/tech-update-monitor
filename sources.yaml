@@ -13,7 +13,7 @@ sources:
     type: feed
     url: https://www.php.net/releases/feed.php
     icon: 🐘
-    mention: "<users/all>"
+    mention: "<users/Amaran V>"
   - id: php-news
     name: PHP News
     type: feed
