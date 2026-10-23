@@ -243,6 +243,7 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--notify-first", action="store_true")
     ap.add_argument("--status", action="store_true", help="post a current-status summary")
+    ap.add_argument("--test", help="comma-separated source ids to send a test alert for")
     ap.add_argument("--only", help="comma-separated source ids to run")
     args = ap.parse_args()
 
@@ -295,6 +296,18 @@ def main():
 
     if args.status:
         post_status(cfg, state, failed, security_kw, args.dry_run)
+
+    # Test alerts: re-post the latest item of chosen sources (state is not changed)
+    test_ids = [t.strip() for t in (args.test or os.environ.get("TEST_SOURCES", "")).split(",") if t.strip()]
+    by_id = {s["id"]: s for s in cfg["sources"]}
+    for tid in test_ids:
+        src, latest = by_id.get(tid), state.get(tid, {}).get("latest")
+        if not src or not latest:
+            print(f"TEST: unknown source id or no data yet: {tid}", file=sys.stderr)
+            continue
+        item = {"title": latest["title"], "link": latest["link"], "summary": ""}
+        post_chat(format_message(src, [item], security_kw, heading="🧪 TEST alert"), args.dry_run)
+        print(f"[{tid}] test alert sent")
 
     STATE_FILE.write_text(json.dumps(state, indent=1, ensure_ascii=False))
     print(f"Done. {total_new} new update(s).")
