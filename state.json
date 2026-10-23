@@ -1,6 +1,7 @@
 {
  "php-releases": {
   "seen": [
+   "http://php.net/releases/8_5_12.php",
    "http://php.net/releases/8_4_27.php",
    "http://php.net/releases/8_3_36.php",
    "http://php.net/releases/8_2_35.php"
