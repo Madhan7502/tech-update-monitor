@@ -347,6 +347,7 @@
    "8439c72d57c71742d71e5bfd09b1db88be243ff9",
    "f094c55b66f0cb726ab4b0c1cc2a29cd7dccc421",
    "665a348a66d61917c4d5fc2a3372ee605bd4ac98",
+   "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "0fe2216f63cfdf78bee439d43f396fcdc04e0c53",
    "3fe0a88cff07c5c613cb809e24cc4ef2599ea901",
    "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
@@ -370,20 +371,21 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-115417 - Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in aws-c-mqtt",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-147-aws/",
-    "date": "22 Oct 2026"
+    "title": "CVE-2026-115812 and CVE-2026-115813: Issue in Amazon Web Services Multi Model Server",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-115417 - Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in aws-c-mqtt",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-147-aws/",
-   "date": "22 Oct 2026"
+   "title": "CVE-2026-115812 and CVE-2026-115813: Issue in Amazon Web Services Multi Model Server",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "778e44abc61ada7af8f445cafcd41c19c12bafa2",
@@ -405,9 +407,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -415,9 +417,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -440,13 +442,18 @@
    "e11e180c22d33452ff594d59026f8421d7b901e6",
    "50919efc139f36c47022a2b03be796a8017c2803",
    "db28e1cd2d5aae593c81883a1822541e63cf3b1a",
-   "af2e139320300bc3de966c5f102a7cce1078613e",
    "022eae085f250edc2c6295f645328accae4b1c06",
+   "af2e139320300bc3de966c5f102a7cce1078613e",
    "13a6ee64ae1346157964e7ca881db4cd34e20940",
    "765e0993864f1c280cb34dabc1db7aa575b505cc",
    "13c52955011591083a9f5adcfcdb9ba268f5665d"
   ],
   "recent": [
+   {
+    "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+    "date": "23 Oct 2026"
+   },
    {
     "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
@@ -491,20 +498,21 @@
     "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
-   "date": "22 Oct 2026"
+   "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+   "date": "23 Oct 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+    "summary": "AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integration with Regional Private NAT Gateway. This enables customers to conne…"
+   }
+  ],
   "digest_date": "23 Oct 2026"
  },
  "apple-dev-releases": {
