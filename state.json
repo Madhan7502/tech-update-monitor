@@ -22,9 +22,7 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
-   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -83,19 +81,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
-   "https://www.php.net/archive/2025.php#2025-12-18-4"
+   "https://www.php.net/archive/2025.php#2025-12-18-4",
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
+   "https://www.php.net/archive/2026.php#2026-10-21-6"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "link": "https://www.php.net/index.php#2026-10-21-5",
+    "date": "21 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+   "link": "https://www.php.net/index.php#2026-10-21-5",
+   "date": "21 Oct 2026"
   },
   "fails": 0
  },
