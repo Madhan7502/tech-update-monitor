@@ -388,11 +388,12 @@
  },
  "aws-whats-new": {
   "seen": [
+   "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -415,9 +416,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -458,6 +459,11 @@
   ],
   "recent": [
    {
+    "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+    "date": "23 Oct 2026"
+   },
+   {
     "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
     "date": "23 Oct 2026"
@@ -473,13 +479,13 @@
     "date": "23 Oct 2026"
    },
    {
-    "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
+    "title": "Amazon MWAA now available in Mexico (Central) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
     "date": "23 Oct 2026"
    },
    {
-    "title": "Amazon MWAA now available in Mexico (Central) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/",
+    "title": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/",
     "date": "23 Oct 2026"
    },
    {
@@ -501,16 +507,11 @@
     "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "AWS CloudFormation now simplifies stack update rollback operations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
+   "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
    "date": "23 Oct 2026"
   },
   "fails": 0,
@@ -544,6 +545,11 @@
     "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
     "summary": "Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous conversations with …"
+   },
+   {
+    "title": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+    "summary": "Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web_search too…"
    }
   ],
   "digest_date": "23 Oct 2026"
