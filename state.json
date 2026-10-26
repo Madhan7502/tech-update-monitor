@@ -1154,6 +1154,9 @@
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v10.12.1",
+   "tag:github.com,2008:Repository/1953389/v9.12.1",
+   "tag:github.com,2008:Repository/1953389/v8.11.1",
    "tag:github.com,2008:Repository/1953389/v7.14.1",
    "tag:github.com,2008:Repository/1953389/v6.7.1",
    "tag:github.com,2008:Repository/1953389/v5.5.1",
@@ -1171,14 +1174,14 @@
   ],
   "recent": [
    {
-    "title": "v7.14.1",
-    "link": "https://github.com/stripe/stripe-python/releases/tag/v7.14.1",
+    "title": "v10.12.1",
+    "link": "https://github.com/stripe/stripe-python/releases/tag/v10.12.1",
     "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "v7.14.1",
-   "link": "https://github.com/stripe/stripe-python/releases/tag/v7.14.1",
+   "title": "v10.12.1",
+   "link": "https://github.com/stripe/stripe-python/releases/tag/v10.12.1",
    "date": "26 Oct 2026"
   },
   "fails": 0
