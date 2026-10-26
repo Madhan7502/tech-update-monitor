@@ -393,17 +393,20 @@
   "seen": [
    "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
    "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
+   "fb8fcb86cdc11d35141a97ced9907f8207dd15b7",
+   "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
    "bb228c8dc7d26f2dab160da874367138b859b877",
    "2378eff049fb752685060dbde386b349b1993ddd",
+   "30d1ce5d72752a78261a96e66820f860988c1e26",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -426,9 +429,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -436,9 +439,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -479,6 +482,16 @@
     "date": "26 Oct 2026"
    },
    {
+    "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+    "date": "26 Oct 2026"
+   },
+   {
+    "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+    "date": "26 Oct 2026"
+   },
+   {
     "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
     "date": "26 Oct 2026"
@@ -499,24 +512,14 @@
     "date": "26 Oct 2026"
    },
    {
-    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
     "date": "26 Oct 2026"
    },
    {
-    "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-    "date": "23 Oct 2026"
-   },
-   {
-    "title": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat",
-    "date": "23 Oct 2026"
-   },
-   {
-    "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
-    "date": "23 Oct 2026"
+    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
@@ -550,6 +553,21 @@
     "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
     "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Mi…"
+   },
+   {
+    "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
+    "summary": "Today, AWS announces light mode support in Amazon SageMaker Unified Studio for Identity Center (IDC) based domains. Customers can now configure the visual interface mode to match their preference, choosing between dark a…"
+   },
+   {
+    "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
+    "summary": "Amazon Connect Customer now enables you to validate the outcomes of your customer experience flow actions during testing and simulation. In addition to confirming that an action started, you can now verify the data it re…"
+   },
+   {
+    "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
+    "summary": "AWS Key Management Service (KMS) now supports Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM), a post-quantum cryptography standard under NIST FIPS 203 , which enables two parties to establish a shared secret. …"
    }
   ],
   "digest_date": "26 Oct 2026"
@@ -1559,6 +1577,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.0.1",
    "tag:github.com,2008:Repository/355691391/5.0.0",
    "tag:github.com,2008:Repository/355691391/4.26.0",
    "tag:github.com,2008:Repository/355691391/4.25.2",
@@ -1573,14 +1592,14 @@
   ],
   "recent": [
    {
-    "title": "5.0.0",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+    "title": "5.0.1",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.1",
     "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.0.0",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+   "title": "5.0.1",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.1",
    "date": "26 Oct 2026"
   },
   "fails": 0
