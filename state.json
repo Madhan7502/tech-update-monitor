@@ -1515,6 +1515,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.0.0",
    "tag:github.com,2008:Repository/355691391/4.26.0",
    "tag:github.com,2008:Repository/355691391/4.25.2",
    "tag:github.com,2008:Repository/355691391/4.25.1",
@@ -1528,20 +1529,21 @@
   ],
   "recent": [
    {
-    "title": "4.26.0",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/4.26.0",
-    "date": "23 Oct 2026"
+    "title": "5.0.0",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "4.26.0",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/4.26.0",
-   "date": "23 Oct 2026"
+   "title": "5.0.0",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.0.0",
    "tag:github.com,2008:Repository/355691505/4.13.0",
    "tag:github.com,2008:Repository/355691505/4.12.3",
    "tag:github.com,2008:Repository/355691505/4.12.2",
@@ -1555,15 +1557,15 @@
   ],
   "recent": [
    {
-    "title": "4.13.0",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/4.13.0",
-    "date": "23 Oct 2026"
+    "title": "5.0.0",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.0.0",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "4.13.0",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/4.13.0",
-   "date": "23 Oct 2026"
+   "title": "5.0.0",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.0.0",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  }
