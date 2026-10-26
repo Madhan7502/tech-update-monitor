@@ -365,6 +365,7 @@
    "8439c72d57c71742d71e5bfd09b1db88be243ff9",
    "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "0fe2216f63cfdf78bee439d43f396fcdc04e0c53",
+   "480c805f3ae1f9e194f801cf3d990df3766e2883",
    "ec33662ff82bc3a0beeef8b7845544e9bb4ee3b9",
    "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
    "68e95b0efc05436f627388068dfad7beb38cdbc5",
@@ -376,20 +377,22 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-89090 - Denial of service in the event stream header decoder in AWS SDK for Go v2",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/",
-    "date": "25 Oct 2026"
+    "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-89090 - Denial of service in the event stream header decoder in AWS SDK for Go v2",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/",
-   "date": "25 Oct 2026"
+   "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "9d1beb736f2173009643fc2363644bced67dd873",
+   "eef082f1709a6687aed6f9caae4605bb93c1a942",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
@@ -461,6 +464,16 @@
   ],
   "recent": [
    {
+    "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+    "date": "26 Oct 2026"
+   },
+   {
+    "title": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
+    "date": "26 Oct 2026"
+   },
+   {
     "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
     "date": "23 Oct 2026"
@@ -499,26 +512,16 @@
     "title": "AWS Continuum for code vulnerabilities is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
     "date": "22 Oct 2026"
-   },
-   {
-    "title": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3",
-    "date": "22 Oct 2026"
-   },
-   {
-    "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
-    "date": "22 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
-   "date": "23 Oct 2026"
+   "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
+   "date": "26 Oct 2026"
   },
   "fails": 0,
   "pending": [],
-  "digest_date": "24 Oct 2026"
+  "digest_date": "26 Oct 2026"
  },
  "apple-dev-releases": {
   "seen": [
