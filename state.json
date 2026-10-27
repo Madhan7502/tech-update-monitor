@@ -22,9 +22,7 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
-   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -83,19 +81,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
-   "https://www.php.net/archive/2025.php#2025-12-18-4"
+   "https://www.php.net/archive/2025.php#2025-12-18-4",
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
+   "https://www.php.net/archive/2026.php#2026-10-21-6"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "link": "https://www.php.net/index.php#2026-10-21-5",
+    "date": "21 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+   "link": "https://www.php.net/index.php#2026-10-21-5",
+   "date": "21 Oct 2026"
   },
   "fails": 0
  },
@@ -398,15 +398,16 @@
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
    "bb228c8dc7d26f2dab160da874367138b859b877",
-   "2378eff049fb752685060dbde386b349b1993ddd",
    "30d1ce5d72752a78261a96e66820f860988c1e26",
+   "2378eff049fb752685060dbde386b349b1993ddd",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
+   "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2fd0943493e29a1c860162e25ff1915fb7472216",
+   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -429,9 +430,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -507,13 +508,13 @@
     "date": "26 Oct 2026"
    },
    {
-    "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
+    "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
     "date": "26 Oct 2026"
    },
    {
-    "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
+    "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
     "date": "26 Oct 2026"
    },
    {
@@ -568,6 +569,11 @@
     "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
     "summary": "AWS Key Management Service (KMS) now supports Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM), a post-quantum cryptography standard under NIST FIPS 203 , which enables two parties to establish a shared secret. …"
+   },
+   {
+    "title": "AWS Glue Data Catalog now supports OAuth for Apache Iceberg REST Catalog APIs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/",
+    "summary": "AWS Glue Data Catalog now supports OAuth 2.0 bearer token authentication for Apache Iceberg REST Catalog (IRC) APIs using AWS Sign-In. The Apache Iceberg REST Catalog specification defines OAuth 2.0 as its standard authe…"
    }
   ],
   "digest_date": "26 Oct 2026"
@@ -1154,6 +1160,11 @@
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v16.0.1",
+   "tag:github.com,2008:Repository/1953389/v15.6.2",
+   "tag:github.com,2008:Repository/1953389/v14.4.2",
+   "tag:github.com,2008:Repository/1953389/v13.2.1",
+   "tag:github.com,2008:Repository/1953389/v12.5.2",
    "tag:github.com,2008:Repository/1953389/v11.6.1",
    "tag:github.com,2008:Repository/1953389/v10.12.1",
    "tag:github.com,2008:Repository/1953389/v9.12.1",
@@ -1175,15 +1186,15 @@
   ],
   "recent": [
    {
-    "title": "v11.6.1",
-    "link": "https://github.com/stripe/stripe-python/releases/tag/v11.6.1",
-    "date": "26 Oct 2026"
+    "title": "v16.0.1",
+    "link": "https://github.com/stripe/stripe-python/releases/tag/v16.0.1",
+    "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "v11.6.1",
-   "link": "https://github.com/stripe/stripe-python/releases/tag/v11.6.1",
-   "date": "26 Oct 2026"
+   "title": "v16.0.1",
+   "link": "https://github.com/stripe/stripe-python/releases/tag/v16.0.1",
+   "date": "27 Oct 2026"
   },
   "fails": 0
  },
@@ -1599,15 +1610,15 @@
   ],
   "recent": [
    {
-    "title": "5.0.1",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.1",
-    "date": "26 Oct 2026"
+    "title": "5.0.0",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+    "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.0.1",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.1",
-   "date": "26 Oct 2026"
+   "title": "5.0.0",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+   "date": "27 Oct 2026"
   },
   "fails": 0
  },
@@ -1629,13 +1640,13 @@
    {
     "title": "5.0.0",
     "link": "https://github.com/customerio/customerio-ios/releases/tag/5.0.0",
-    "date": "26 Oct 2026"
+    "date": "27 Oct 2026"
    }
   ],
   "latest": {
    "title": "5.0.0",
    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.0.0",
-   "date": "26 Oct 2026"
+   "date": "27 Oct 2026"
   },
   "fails": 0
  }
