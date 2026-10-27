@@ -393,6 +393,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "a525cc70fbe1bab89960f540ece8012a715e2717",
    "a097b2fedf3a1cc2e06ec675e50f26ab915790aa",
    "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
    "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
@@ -411,8 +412,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2fd0943493e29a1c860162e25ff1915fb7472216",
+   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -435,9 +436,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -445,9 +446,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -477,6 +478,11 @@
    "13c52955011591083a9f5adcfcdb9ba268f5665d"
   ],
   "recent": [
+   {
+    "title": "Amazon Corretto October 2026 Patch Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
+    "date": "27 Oct 2026"
+   },
    {
     "title": "Amazon ECR now supports replication backfill for existing container images",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
@@ -521,17 +527,12 @@
     "title": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/",
     "date": "26 Oct 2026"
-   },
-   {
-    "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
-    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon ECR now supports replication backfill for existing container images",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
-   "date": "26 Oct 2026"
+   "title": "Amazon Corretto October 2026 Patch Updates",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
+   "date": "27 Oct 2026"
   },
   "fails": 0,
   "pending": [
@@ -549,6 +550,11 @@
     "title": "AWS Elemental MediaConnect Router now supports endpoint connection management",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints/",
     "summary": "AWS Elemental MediaConnect Router now supports managing external connections through a new endpoint registry. The registry provides a centralized interface to register and manage both standard endpoints—devices or softwa…"
+   },
+   {
+    "title": "Amazon Corretto October 2026 Patch Updates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
+    "summary": "On October 26, 2026 Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 27.0.1.0.11, 25.0.5.0.10, 21.0.13.0.11, 17.0.21.0.11, 1…"
    }
   ],
   "digest_date": "27 Oct 2026"
@@ -1081,6 +1087,16 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v16.6.1",
+   "tag:github.com,2008:Repository/1953386/v15.10.1",
+   "tag:github.com,2008:Repository/1953386/v14.10.1",
+   "tag:github.com,2008:Repository/1953386/v13.18.1",
+   "tag:github.com,2008:Repository/1953386/v12.8.1",
+   "tag:github.com,2008:Repository/1953386/v11.0.1",
+   "tag:github.com,2008:Repository/1953386/v10.21.1",
+   "tag:github.com,2008:Repository/1953386/v9.9.1",
+   "tag:github.com,2008:Repository/1953386/v8.12.1",
+   "tag:github.com,2008:Repository/1953386/v7.128.1",
    "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.4",
    "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.3",
    "tag:github.com,2008:Repository/1953386/v22.1.0-alpha.2",
@@ -1094,15 +1110,15 @@
   ],
   "recent": [
    {
-    "title": "v22.0.0",
-    "link": "https://github.com/stripe/stripe-php/releases/tag/v22.0.0",
-    "date": "01 Oct 2026"
+    "title": "v16.6.1",
+    "link": "https://github.com/stripe/stripe-php/releases/tag/v16.6.1",
+    "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "v22.0.0",
-   "link": "https://github.com/stripe/stripe-php/releases/tag/v22.0.0",
-   "date": "01 Oct 2026"
+   "title": "v16.6.1",
+   "link": "https://github.com/stripe/stripe-php/releases/tag/v16.6.1",
+   "date": "27 Oct 2026"
   },
   "fails": 0
  },
@@ -1617,14 +1633,14 @@
   ],
   "recent": [
    {
-    "title": "5.1.2",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.2",
+    "title": "5.1.1",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
     "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.1.2",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.2",
+   "title": "5.1.1",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
    "date": "27 Oct 2026"
   },
   "fails": 0
