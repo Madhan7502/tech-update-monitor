@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,21 +83,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Updated PHP Windows builds for Brotli security fix",
+    "link": "https://www.php.net/index.php#2026-10-26-1",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Updated PHP Windows builds for Brotli security fix",
+   "link": "https://www.php.net/index.php#2026-10-26-1",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
@@ -1570,6 +1570,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.0.2",
    "tag:github.com,2008:Repository/355691391/5.0.1",
    "tag:github.com,2008:Repository/355691391/5.0.0",
    "tag:github.com,2008:Repository/355691391/4.26.0",
@@ -1585,20 +1586,21 @@
   ],
   "recent": [
    {
-    "title": "5.0.0",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+    "title": "5.0.2",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.2",
     "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.0.0",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.0",
+   "title": "5.0.2",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.2",
    "date": "27 Oct 2026"
   },
   "fails": 0
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.1.2",
    "tag:github.com,2008:Repository/355691505/5.1.1",
    "tag:github.com,2008:Repository/355691505/5.1.0",
    "tag:github.com,2008:Repository/355691505/5.0.0",
@@ -1615,14 +1617,14 @@
   ],
   "recent": [
    {
-    "title": "5.1.1",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
+    "title": "5.1.2",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.2",
     "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.1.1",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
+   "title": "5.1.2",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.2",
    "date": "27 Oct 2026"
   },
   "fails": 0
