@@ -393,7 +393,9 @@
  },
  "aws-whats-new": {
   "seen": [
+   "9227ada578da028352c1420b8854a05fb8b176a3",
    "21d2c73d7cb4b3c96230b157fdb232c52f6d2127",
+   "a4fa2e14d7c441b661d72339409015e1eb85c211",
    "a525cc70fbe1bab89960f540ece8012a715e2717",
    "a097b2fedf3a1cc2e06ec675e50f26ab915790aa",
    "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
@@ -413,8 +415,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -437,9 +439,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -447,9 +449,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -480,8 +482,18 @@
   ],
   "recent": [
    {
+    "title": "SageMaker MLflow Apps now support MLflow 3.16",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+    "date": "27 Oct 2026"
+   },
+   {
     "title": "Amazon Aurora serverless now supports up to 384 ACUs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
+    "date": "27 Oct 2026"
+   },
+   {
+    "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
     "date": "27 Oct 2026"
    },
    {
@@ -518,21 +530,11 @@
     "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
     "date": "26 Oct 2026"
-   },
-   {
-    "title": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/",
-    "date": "26 Oct 2026"
-   },
-   {
-    "title": "Amazon Connect Customer now measures the outcomes that drive retention and revenue",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/",
-    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Aurora serverless now supports up to 384 ACUs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
+   "title": "SageMaker MLflow Apps now support MLflow 3.16",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
    "date": "27 Oct 2026"
   },
   "fails": 0,
@@ -561,6 +563,16 @@
     "title": "Amazon Aurora serverless now supports up to 384 ACUs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
     "summary": "Amazon Aurora serverless now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora PostgreSQL-Compatible Edition, a 50% increase from the previous maximum of 256 ACUs. Each ACU provides approxim…"
+   },
+   {
+    "title": "SageMaker MLflow Apps now support MLflow 3.16",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+    "summary": "Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative AI and machine learning workflows. MLflow 3.16 improves debugging and an…"
+   },
+   {
+    "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
+    "summary": "Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previously, you couldn't change the durability configuration of an existing clu…"
    }
   ],
   "digest_date": "27 Oct 2026"
