@@ -1586,6 +1586,7 @@
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.1.0",
    "tag:github.com,2008:Repository/355691505/5.0.0",
    "tag:github.com,2008:Repository/355691505/4.13.0",
    "tag:github.com,2008:Repository/355691505/4.12.3",
@@ -1600,14 +1601,14 @@
   ],
   "recent": [
    {
-    "title": "5.0.0",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.0.0",
+    "title": "5.1.0",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.0",
     "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.0.0",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.0.0",
+   "title": "5.1.0",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.0",
    "date": "27 Oct 2026"
   },
   "fails": 0
