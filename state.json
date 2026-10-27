@@ -371,23 +371,23 @@
    "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
    "68e95b0efc05436f627388068dfad7beb38cdbc5",
    "a41ef7e97f89d1c93a812d41151217ad1b95348b",
-   "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "f7f64245a3266643e8774537e1fd4769f8941282",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
-   "03455c2144e791380a40ec9007ceebcd6600a99b"
+   "03455c2144e791380a40ec9007ceebcd6600a99b",
+   "72e0fb9d5e67d44108f265509e13ed134a146d90"
   ],
   "recent": [
    {
-    "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
-    "date": "27 Oct 2026"
+    "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
-   "date": "27 Oct 2026"
+   "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
