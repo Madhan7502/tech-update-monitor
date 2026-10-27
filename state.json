@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -371,6 +371,7 @@
    "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
    "68e95b0efc05436f627388068dfad7beb38cdbc5",
    "a41ef7e97f89d1c93a812d41151217ad1b95348b",
+   "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "f7f64245a3266643e8774537e1fd4769f8941282",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
@@ -378,15 +379,15 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
-    "date": "26 Oct 2026"
+    "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+    "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
-   "date": "26 Oct 2026"
+   "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+   "date": "27 Oct 2026"
   },
   "fails": 0
  },
@@ -395,6 +396,7 @@
    "a097b2fedf3a1cc2e06ec675e50f26ab915790aa",
    "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
    "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
+   "02e968798e00983065fb64ed95c3312a0d7db390",
    "fb8fcb86cdc11d35141a97ced9907f8207dd15b7",
    "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
@@ -402,14 +404,15 @@
    "bb228c8dc7d26f2dab160da874367138b859b877",
    "30d1ce5d72752a78261a96e66820f860988c1e26",
    "2378eff049fb752685060dbde386b349b1993ddd",
+   "0921a9c4d7919609b8560666f4d44625590508a6",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -432,9 +435,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -442,9 +445,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -490,6 +493,11 @@
     "date": "26 Oct 2026"
    },
    {
+    "title": "Amazon IVS Low-Latency Streaming now provides a failover slate",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
+    "date": "26 Oct 2026"
+   },
+   {
     "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
     "date": "26 Oct 2026"
@@ -518,11 +526,6 @@
     "title": "AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/",
     "date": "26 Oct 2026"
-   },
-   {
-    "title": "AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/",
-    "date": "26 Oct 2026"
    }
   ],
   "latest": {
@@ -536,6 +539,16 @@
     "title": "Amazon ECR now supports replication backfill for existing container images",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
     "summary": "Amazon Elastic Container Registry (Amazon ECR) now supports replication backfill, enabling you to replicate existing images in your private registry to your configured replication registry destinations. Previously, repli…"
+   },
+   {
+    "title": "Amazon IVS Low-Latency Streaming now provides a failover slate",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
+    "summary": "Amazon Interactive Video Service (Amazon IVS) Low-Latency Streaming now provides a failover slate, an animated image that IVS displays to viewers when a broadcaster's stream is unexpectedly interrupted. Instead of a buff…"
+   },
+   {
+    "title": "AWS Elemental MediaConnect Router now supports endpoint connection management",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints/",
+    "summary": "AWS Elemental MediaConnect Router now supports managing external connections through a new endpoint registry. The registry provides a centralized interface to register and manage both standard endpoints—devices or softwa…"
    }
   ],
   "digest_date": "27 Oct 2026"
@@ -1586,6 +1599,7 @@
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.1.1",
    "tag:github.com,2008:Repository/355691505/5.1.0",
    "tag:github.com,2008:Repository/355691505/5.0.0",
    "tag:github.com,2008:Repository/355691505/4.13.0",
@@ -1601,14 +1615,14 @@
   ],
   "recent": [
    {
-    "title": "5.1.0",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.0",
+    "title": "5.1.1",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
     "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.1.0",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.0",
+   "title": "5.1.1",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
    "date": "27 Oct 2026"
   },
   "fails": 0
