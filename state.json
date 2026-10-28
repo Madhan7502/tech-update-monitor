@@ -179,6 +179,7 @@
  },
  "node-releases": {
   "seen": [
+   "/blog/release/v24.22.2?1793212814932",
    "/blog/release/v26.13.0?1793206720303",
    "/blog/release/v26.12.1?1792579160400",
    "/blog/release/v24.22.1?1792579154786",
@@ -243,14 +244,14 @@
   ],
   "recent": [
    {
-    "title": "Node.js 26.13.0 (LTS)",
-    "link": "https://nodejs.org/en/blog/release/v26.13.0",
+    "title": "Node.js 24.22.2 (LTS)",
+    "link": "https://nodejs.org/en/blog/release/v24.22.2",
     "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Node.js 26.13.0 (LTS)",
-   "link": "https://nodejs.org/en/blog/release/v26.13.0",
+   "title": "Node.js 24.22.2 (LTS)",
+   "link": "https://nodejs.org/en/blog/release/v24.22.2",
    "date": "28 Oct 2026"
   },
   "fails": 0
@@ -331,14 +332,12 @@
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
    "ff53d793f3546d3790211b5684726f1b87870b69",
-   "d49f5f70816df8a0811f1908899de1dbddcfba88",
-   "f91926ec56d6d7fde8ce69e8c06abb63033cedd7",
    "f1cddc55d36b7ad183da40deeaa82cb99629e3e5",
    "4a93b9f8f1745d1db6ed92b465cf9c8c14732303",
    "f86b7cf7044cd0afaa24898a00792e28442e4588",
    "57d63a0eb89cd8fd6b3998fe1df038a4bd6a0141",
+   "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
    "88af8529196585374f2e4a683845bef78ec79f37",
-   "ee09ab7fd29f155e023ed25e0ceabdf8379daca2",
    "f094c55b66f0cb726ab4b0c1cc2a29cd7dccc421",
    "665a348a66d61917c4d5fc2a3372ee605bd4ac98",
    "3fe0a88cff07c5c613cb809e24cc4ef2599ea901",
@@ -377,26 +376,39 @@
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
    "03455c2144e791380a40ec9007ceebcd6600a99b",
+   "d49f5f70816df8a0811f1908899de1dbddcfba88",
+   "f91926ec56d6d7fde8ce69e8c06abb63033cedd7",
+   "ee09ab7fd29f155e023ed25e0ceabdf8379daca2",
    "72e0fb9d5e67d44108f265509e13ed134a146d90"
   ],
   "recent": [
    {
-    "title": "CVE-2026-118029 - Unverified ownership of the default Athena query result location in AWS SDK for pandas",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/",
+    "title": "CVE-2026-115415 - Secret masking bypass in the environment tool in Strands Agents Tools",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/",
     "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-118029 - Unverified ownership of the default Athena query result location in AWS SDK for pandas",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/",
+   "title": "CVE-2026-115415 - Secret masking bypass in the environment tool in Strands Agents Tools",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/",
    "date": "28 Oct 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "ef73768c6b0de5ed1e1d7964b573ed46b78f0d04",
+   "a1d9dd307b56585bf315ca1bdc9ac6dd5d503123",
+   "c91aa9a8823bd097410d67eddcefd5b57a8e9012",
+   "b0bb19bc12baf292d6ec190fa2b46a176c08465d",
+   "b7a29c601af051b84bc2ba29ee88822a7398532d",
+   "6f504586d36baf58417c8efbb5b80e5b278fc9e8",
+   "5cac41800c97cfb88b23bf77bdabf7b33f14fcb7",
+   "570915d1de33f8940cbe123a8b0aa650e1dddb08",
+   "55d966e41b796f0c2b97589b0cc11a23e16f3926",
    "d227e8eeef7f0756ae763fa2fa03d1e108b1ea32",
    "9227ada578da028352c1420b8854a05fb8b176a3",
+   "f9bccb63730b04a3b6fe9c493f3029fa0ae8e025",
    "21d2c73d7cb4b3c96230b157fdb232c52f6d2127",
    "a4fa2e14d7c441b661d72339409015e1eb85c211",
    "a525cc70fbe1bab89960f540ece8012a715e2717",
@@ -410,9 +422,9 @@
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
    "bb228c8dc7d26f2dab160da874367138b859b877",
-   "30d1ce5d72752a78261a96e66820f860988c1e26",
    "2378eff049fb752685060dbde386b349b1993ddd",
    "0921a9c4d7919609b8560666f4d44625590508a6",
+   "30d1ce5d72752a78261a96e66820f860988c1e26",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
@@ -486,63 +498,114 @@
   ],
   "recent": [
    {
+    "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "Quick now supports smart approvals for agentic actions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "AWS Backup adds restore testing support for Amazon Redshift",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+    "date": "28 Oct 2026"
+   },
+   {
     "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
     "date": "27 Oct 2026"
-   },
-   {
-    "title": "SageMaker MLflow Apps now support MLflow 3.16",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
-    "date": "27 Oct 2026"
-   },
-   {
-    "title": "Amazon Aurora serverless now supports up to 384 ACUs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
-    "date": "27 Oct 2026"
-   },
-   {
-    "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
-    "date": "27 Oct 2026"
-   },
-   {
-    "title": "Amazon Corretto October 2026 Patch Updates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates",
-    "date": "27 Oct 2026"
-   },
-   {
-    "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
-    "date": "27 Oct 2026"
-   },
-   {
-    "title": "Amazon ECR now supports replication backfill for existing container images",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
-    "date": "26 Oct 2026"
-   },
-   {
-    "title": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/",
-    "date": "26 Oct 2026"
-   },
-   {
-    "title": "Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/",
-    "date": "26 Oct 2026"
-   },
-   {
-    "title": "Amazon IVS Low-Latency Streaming now provides a failover slate",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
-    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-   "date": "27 Oct 2026"
+   "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+   "date": "28 Oct 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+    "summary": "AWS Lambda now supports Seekable OCI (SOCI) for lazy loading Event Functions packaged as Open Container Initiative (OCI) images running on Lambda Managed Instances . With SOCI support, Lambda fetches only the files neede…"
+   },
+   {
+    "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
+    "summary": "Today, we're announcing support for time series collections on the next generation of Amazon OpenSearch Serverless. With time series collections, you can ingest, store, and analyze logs, metrics, traces, and event data w…"
+   },
+   {
+    "title": "Quick now supports smart approvals for agentic actions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
+    "summary": "Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions that matter most. As agents take more actions on a user's behalf, such a…"
+   },
+   {
+    "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
+    "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) announces certificate authority (CA) rotation visibility in the Amazon EKS Dashboard, giving you a consolidated view of CA rotation across your clusters. The Amazon E…"
+   },
+   {
+    "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+    "summary": "AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-by-step history of your durable executions and sends them to one or more …"
+   },
+   {
+    "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+    "summary": "Today, Amazon Elastic Container Service (Amazon ECS) Managed Instances introduces two infrastructure optimization updates: cross-instance and Spot consolidation. Cross-instance consolidation evaluates tasks running acros…"
+   },
+   {
+    "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
+    "summary": "Amazon EKS Auto Mode now supports the Kubernetes Gateway API, giving customers a standard, portable way to define how traffic reaches their applications. Customers can configure application load balancing using Gateway a…"
+   },
+   {
+    "title": "AWS Backup adds restore testing support for Amazon Redshift",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
+    "summary": "AWS Backup restore testing now supports Amazon Redshift. Restore testing helps you automate and periodically run restore tests of your backups, so you can confirm that your Amazon Redshift backups restore successfully an…"
+   },
+   {
+    "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
+    "summary": "AWS IAM Identity Center's Identity Store now delivers real-time events to Amazon EventBridge when users, groups, or group memberships or the identity store itself is created, updated, or deleted. AWS IAM Identity Center …"
+   },
+   {
+    "title": "Amazon Connect Customer supports inline attachment previews",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/",
+    "summary": "Amazon Connect Customer lets agents preview attachments directly in the agent workspace, reducing contact handling time and limiting the need to download sensitive customer information. Agents can preview PDFs, images, a…"
+   }
+  ],
   "digest_date": "28 Oct 2026"
  },
  "apple-dev-releases": {
@@ -616,6 +679,7 @@
  },
  "apple-dev-news": {
   "seen": [
+   "https://developer.apple.com/news/?id=i9boeiqc",
    "https://developer.apple.com/news/?id=yfo21auu",
    "https://developer.apple.com/news/?id=92th7e5i",
    "https://developer.apple.com/news/?id=vvzx6cul",
@@ -679,15 +743,15 @@
   ],
   "recent": [
    {
-    "title": "Offer your subscriptions to businesses and schools",
-    "link": "https://developer.apple.com/news/?id=yfo21auu",
-    "date": "22 Oct 2026"
+    "title": "Say hello to Touch on Mac",
+    "link": "https://developer.apple.com/news/?id=i9boeiqc",
+    "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Offer your subscriptions to businesses and schools",
-   "link": "https://developer.apple.com/news/?id=yfo21auu",
-   "date": "22 Oct 2026"
+   "title": "Say hello to Touch on Mac",
+   "link": "https://developer.apple.com/news/?id=i9boeiqc",
+   "date": "28 Oct 2026"
   },
   "fails": 0
  },
@@ -704,8 +768,8 @@
  },
  "android-dev-blog": {
   "seen": [
-   "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
    "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
+   "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
    "tag:developer.android.com,2026-10-28:/blog/posts/ai-agents-android-studio-integration",
    "tag:developer.android.com,2026-10-21:/blog/posts/reliable-way-to-add-and-edit-contacts-android",
    "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
@@ -730,14 +794,14 @@
   ],
   "recent": [
    {
-    "title": "What's new in Android developer tools and performance at Android Dev Summit",
-    "link": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+    "title": "Agentic and Flexible: A next era of Android development",
+    "link": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
     "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "What's new in Android developer tools and performance at Android Dev Summit",
-   "link": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+   "title": "Agentic and Flexible: A next era of Android development",
+   "link": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
    "date": "28 Oct 2026"
   },
   "fails": 0
@@ -1336,13 +1400,13 @@
   "recent": [
    {
     "title": "sdk-version-19.0.0",
-    "link": "https://github.com/facebook/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
+    "link": "https://github.com/meta/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
     "date": "16 Oct 2026"
    }
   ],
   "latest": {
    "title": "sdk-version-19.0.0",
-   "link": "https://github.com/facebook/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
+   "link": "https://github.com/meta/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
    "date": "16 Oct 2026"
   },
   "fails": 0
@@ -1363,13 +1427,13 @@
   "recent": [
    {
     "title": "Facebook SDK v19.0.0",
-    "link": "https://github.com/facebook/facebook-ios-sdk/releases/tag/v19.0.0",
+    "link": "https://github.com/meta/facebook-ios-sdk/releases/tag/v19.0.0",
     "date": "19 Oct 2026"
    }
   ],
   "latest": {
    "title": "Facebook SDK v19.0.0",
-   "link": "https://github.com/facebook/facebook-ios-sdk/releases/tag/v19.0.0",
+   "link": "https://github.com/meta/facebook-ios-sdk/releases/tag/v19.0.0",
    "date": "19 Oct 2026"
   },
   "fails": 0
@@ -1555,6 +1619,8 @@
  },
  "firebase-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0-beta",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
    "tag:github.com,2008:Repository/89033556/13.1.1",
    "tag:github.com,2008:Repository/89033556/12.19.3",
