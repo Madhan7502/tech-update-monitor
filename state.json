@@ -398,6 +398,7 @@
    "21d2c73d7cb4b3c96230b157fdb232c52f6d2127",
    "a4fa2e14d7c441b661d72339409015e1eb85c211",
    "a525cc70fbe1bab89960f540ece8012a715e2717",
+   "0f0554fdc697dda5e920e5b8a9e007720e87f28e",
    "a097b2fedf3a1cc2e06ec675e50f26ab915790aa",
    "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
    "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
@@ -508,6 +509,11 @@
     "date": "27 Oct 2026"
    },
    {
+    "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
+    "date": "27 Oct 2026"
+   },
+   {
     "title": "Amazon ECR now supports replication backfill for existing container images",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr",
     "date": "26 Oct 2026"
@@ -525,11 +531,6 @@
    {
     "title": "Amazon IVS Low-Latency Streaming now provides a failover slate",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate",
-    "date": "26 Oct 2026"
-   },
-   {
-    "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
     "date": "26 Oct 2026"
    }
   ],
@@ -579,6 +580,11 @@
     "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
     "summary": "Amazon Elastic Container Service (Amazon ECS) now supports GPU sharing with NVIDIA Multi-Process Service (MPS), enabling you to run multiple Amazon ECS tasks concurrently on a single NVIDIA GPU. GPU sharing helps you inc…"
+   },
+   {
+    "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
+    "summary": "Amazon Neptune Database now supports online index rebuild, a new capability that helps database administrators and application teams defragment Neptune indexes and reclaim unused storage space without taking their databa…"
    }
   ],
   "digest_date": "27 Oct 2026"
