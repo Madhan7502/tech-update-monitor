@@ -399,6 +399,7 @@
  "aws-whats-new": {
   "seen": [
    "118d029a647a76156f557b3c260252d58f3d05b2",
+   "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "ef73768c6b0de5ed1e1d7964b573ed46b78f0d04",
    "a1d9dd307b56585bf315ca1bdc9ac6dd5d503123",
    "c91aa9a8823bd097410d67eddcefd5b57a8e9012",
@@ -506,6 +507,11 @@
     "date": "28 Oct 2026"
    },
    {
+    "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+    "date": "28 Oct 2026"
+   },
+   {
     "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
     "date": "28 Oct 2026"
@@ -543,11 +549,6 @@
    {
     "title": "AWS Backup adds restore testing support for Amazon Redshift",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
     "date": "28 Oct 2026"
    }
   ],
@@ -617,6 +618,11 @@
     "title": "Amazon ElastiCache expands data tiering to R8gd and R7gd nodes in Europe (Spain) and Asia Pacific (Hyderabad)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elasticache-data-tiering-spain/",
     "summary": "Amazon ElastiCache for Valkey data tiering is now available on Graviton4-based R8gd nodes in the AWS Europe (Spain) Region, and on Graviton3-based R7gd nodes in the Europe (Spain) and Asia Pacific (Hyderabad) Regions. Da…"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+    "summary": "AWS announces the general availability of Amazon Bedrock AgentCore CLI version 1.0 (@aws/agentcore 1.0.0), rebuilt with faster startup, a consistent command structure, and support for more AgentCore resources. The CLI he…"
    }
   ],
   "digest_date": "28 Oct 2026"
