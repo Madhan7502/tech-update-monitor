@@ -393,6 +393,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "d227e8eeef7f0756ae763fa2fa03d1e108b1ea32",
    "9227ada578da028352c1420b8854a05fb8b176a3",
    "21d2c73d7cb4b3c96230b157fdb232c52f6d2127",
    "a4fa2e14d7c441b661d72339409015e1eb85c211",
@@ -449,9 +450,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -481,6 +482,11 @@
    "13c52955011591083a9f5adcfcdb9ba268f5665d"
   ],
   "recent": [
+   {
+    "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+    "date": "27 Oct 2026"
+   },
    {
     "title": "SageMaker MLflow Apps now support MLflow 3.16",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
@@ -525,16 +531,11 @@
     "title": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode",
     "date": "26 Oct 2026"
-   },
-   {
-    "title": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/",
-    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "SageMaker MLflow Apps now support MLflow 3.16",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+   "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
    "date": "27 Oct 2026"
   },
   "fails": 0,
@@ -573,6 +574,11 @@
     "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
     "summary": "Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previously, you couldn't change the durability configuration of an existing clu…"
+   },
+   {
+    "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+    "summary": "Amazon Elastic Container Service (Amazon ECS) now supports GPU sharing with NVIDIA Multi-Process Service (MPS), enabling you to run multiple Amazon ECS tasks concurrently on a single NVIDIA GPU. GPU sharing helps you inc…"
    }
   ],
   "digest_date": "27 Oct 2026"
