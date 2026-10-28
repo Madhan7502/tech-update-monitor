@@ -327,55 +327,56 @@
  "aws-security": {
   "seen": [
    "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
+   "479bf224041ffe76607e77b4e68e4c5db06e11b8",
+   "d5984ef7453dd8f49e680d707090c120f10cc32e",
    "f269d47f6aa13e44870767a4808c1609b46848ec",
    "fcb543a35cb39751806398f87b68941193545749",
+   "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
+   "4da18f077b6ad25a17282b3d2bf7d514b22292f8",
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
    "ff53d793f3546d3790211b5684726f1b87870b69",
-   "f1cddc55d36b7ad183da40deeaa82cb99629e3e5",
-   "4a93b9f8f1745d1db6ed92b465cf9c8c14732303",
-   "f86b7cf7044cd0afaa24898a00792e28442e4588",
-   "57d63a0eb89cd8fd6b3998fe1df038a4bd6a0141",
-   "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
-   "88af8529196585374f2e4a683845bef78ec79f37",
-   "f094c55b66f0cb726ab4b0c1cc2a29cd7dccc421",
-   "665a348a66d61917c4d5fc2a3372ee605bd4ac98",
-   "3fe0a88cff07c5c613cb809e24cc4ef2599ea901",
-   "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
-   "f0014006f65d77722d2e3afdc11a4d51131670a5",
-   "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
-   "6d8eb18279597df0ab8c1a9df40e073655b12052",
-   "994f50277f499e61c223462dc874510bfeef240d",
-   "df45cc6a7662c26608caf9d5a02b63b0b8bdee28",
-   "3bb1db076bdd716118f503168527d049ebd4cae9",
-   "ef4cd83570acec55c1248107099ca3e5cc8be6bf",
-   "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
-   "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
-   "479bf224041ffe76607e77b4e68e4c5db06e11b8",
-   "d5984ef7453dd8f49e680d707090c120f10cc32e",
-   "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
-   "4da18f077b6ad25a17282b3d2bf7d514b22292f8",
    "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
    "9d700919e2f70330d633e01c546b31d90b1d2f48",
    "7bfd65ffb87e18d21dd01d08cf6ab19279d1c0c4",
    "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
    "13b91c68b37257b54cb7a7d0d1500b8f742f06e3",
    "3adafdffd77ca34d47e6af3baa2e350cb330cfd0",
+   "f1cddc55d36b7ad183da40deeaa82cb99629e3e5",
+   "4a93b9f8f1745d1db6ed92b465cf9c8c14732303",
+   "f86b7cf7044cd0afaa24898a00792e28442e4588",
    "61c44aa8dbf37dc6d92a3824f223e6a79783be92",
+   "57d63a0eb89cd8fd6b3998fe1df038a4bd6a0141",
    "3c7e628a51881badf43b30208f756fb18ab71e69",
    "3b1589f49bff05dc831457d3c9472c5588b9cc55",
-   "8439c72d57c71742d71e5bfd09b1db88be243ff9",
+   "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
+   "88af8529196585374f2e4a683845bef78ec79f37",
+   "f094c55b66f0cb726ab4b0c1cc2a29cd7dccc421",
+   "665a348a66d61917c4d5fc2a3372ee605bd4ac98",
    "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "0fe2216f63cfdf78bee439d43f396fcdc04e0c53",
+   "3fe0a88cff07c5c613cb809e24cc4ef2599ea901",
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
+   "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
    "ec33662ff82bc3a0beeef8b7845544e9bb4ee3b9",
    "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
+   "f0014006f65d77722d2e3afdc11a4d51131670a5",
+   "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "68e95b0efc05436f627388068dfad7beb38cdbc5",
-   "a41ef7e97f89d1c93a812d41151217ad1b95348b",
-   "f7f64245a3266643e8774537e1fd4769f8941282",
+   "6d8eb18279597df0ab8c1a9df40e073655b12052",
+   "994f50277f499e61c223462dc874510bfeef240d",
+   "500a8c753a17ff6af4c7ef150b47207ef58270b8",
+   "df45cc6a7662c26608caf9d5a02b63b0b8bdee28",
+   "3bb1db076bdd716118f503168527d049ebd4cae9",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
+   "ef4cd83570acec55c1248107099ca3e5cc8be6bf",
    "03455c2144e791380a40ec9007ceebcd6600a99b",
+   "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
+   "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
+   "8439c72d57c71742d71e5bfd09b1db88be243ff9",
+   "a41ef7e97f89d1c93a812d41151217ad1b95348b",
+   "f7f64245a3266643e8774537e1fd4769f8941282",
    "d49f5f70816df8a0811f1908899de1dbddcfba88",
    "f91926ec56d6d7fde8ce69e8c06abb63033cedd7",
    "ee09ab7fd29f155e023ed25e0ceabdf8379daca2",
@@ -383,20 +384,21 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-115415 - Secret masking bypass in the environment tool in Strands Agents Tools",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/",
+    "title": "CVE-2026-111497: Native Brotli Decoder Remote Code Execution and Memory Disclosure",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-155-aws/",
     "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-115415 - Secret masking bypass in the environment tool in Strands Agents Tools",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/",
+   "title": "CVE-2026-111497: Native Brotli Decoder Remote Code Execution and Memory Disclosure",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-155-aws/",
    "date": "28 Oct 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "118d029a647a76156f557b3c260252d58f3d05b2",
    "ef73768c6b0de5ed1e1d7964b573ed46b78f0d04",
    "a1d9dd307b56585bf315ca1bdc9ac6dd5d503123",
    "c91aa9a8823bd097410d67eddcefd5b57a8e9012",
@@ -410,6 +412,7 @@
    "9227ada578da028352c1420b8854a05fb8b176a3",
    "f9bccb63730b04a3b6fe9c493f3029fa0ae8e025",
    "21d2c73d7cb4b3c96230b157fdb232c52f6d2127",
+   "07aebc8dcce1260f793b3d68cc0fe418bce0c558",
    "a4fa2e14d7c441b661d72339409015e1eb85c211",
    "a525cc70fbe1bab89960f540ece8012a715e2717",
    "0f0554fdc697dda5e920e5b8a9e007720e87f28e",
@@ -423,16 +426,16 @@
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
    "bb228c8dc7d26f2dab160da874367138b859b877",
    "2378eff049fb752685060dbde386b349b1993ddd",
-   "0921a9c4d7919609b8560666f4d44625590508a6",
    "30d1ce5d72752a78261a96e66820f860988c1e26",
+   "0921a9c4d7919609b8560666f4d44625590508a6",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2fd0943493e29a1c860162e25ff1915fb7472216",
+   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -498,6 +501,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+    "date": "28 Oct 2026"
+   },
+   {
     "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
     "date": "28 Oct 2026"
@@ -541,16 +549,11 @@
     "title": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/",
     "date": "28 Oct 2026"
-   },
-   {
-    "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-    "date": "27 Oct 2026"
    }
   ],
   "latest": {
-   "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
+   "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
    "date": "28 Oct 2026"
   },
   "fails": 0,
@@ -604,6 +607,16 @@
     "title": "Amazon Connect Customer supports inline attachment previews",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/",
     "summary": "Amazon Connect Customer lets agents preview attachments directly in the agent workspace, reducing contact handling time and limiting the need to download sensitive customer information. Agents can preview PDFs, images, a…"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the September 2026 Monthly Recommended Patch (MRP) for Oracle Database version 19c and 26ai. An MRP is a minor engine version that builds on a quart…"
+   },
+   {
+    "title": "Amazon ElastiCache expands data tiering to R8gd and R7gd nodes in Europe (Spain) and Asia Pacific (Hyderabad)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/elasticache-data-tiering-spain/",
+    "summary": "Amazon ElastiCache for Valkey data tiering is now available on Graviton4-based R8gd nodes in the AWS Europe (Spain) Region, and on Graviton3-based R7gd nodes in the Europe (Spain) and Asia Pacific (Hyderabad) Regions. Da…"
    }
   ],
   "digest_date": "28 Oct 2026"
