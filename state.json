@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,21 +83,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Updated PHP Windows builds for Brotli security fix",
+    "link": "https://www.php.net/index.php#2026-10-26-1",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Updated PHP Windows builds for Brotli security fix",
+   "link": "https://www.php.net/index.php#2026-10-26-1",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
@@ -179,6 +179,7 @@
  },
  "node-releases": {
   "seen": [
+   "/blog/release/v26.13.0?1793206720303",
    "/blog/release/v26.12.1?1792579160400",
    "/blog/release/v24.22.1?1792579154786",
    "/blog/release/v22.23.4?1792579152420",
@@ -242,15 +243,15 @@
   ],
   "recent": [
    {
-    "title": "Node.js 26.12.1 (Current)",
-    "link": "https://nodejs.org/en/blog/release/v26.12.1",
-    "date": "21 Oct 2026"
+    "title": "Node.js 26.13.0 (LTS)",
+    "link": "https://nodejs.org/en/blog/release/v26.13.0",
+    "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Node.js 26.12.1 (Current)",
-   "link": "https://nodejs.org/en/blog/release/v26.12.1",
-   "date": "21 Oct 2026"
+   "title": "Node.js 26.13.0 (LTS)",
+   "link": "https://nodejs.org/en/blog/release/v26.13.0",
+   "date": "28 Oct 2026"
   },
   "fails": 0
  },
@@ -418,8 +419,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -442,9 +443,9 @@
    "f36dd0823949baaf925b57f75e57b15163665dba",
    "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
    "3a25ba62642aa675299f9367b21064b2f9c8126b",
+   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "dec813d41f02b1a929463ab13b2460a7af0388d0",
    "64c66cb3331951fa82344959a64e53a9f48bcc07",
    "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
@@ -452,9 +453,9 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
    "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
+   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
@@ -703,6 +704,9 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
+   "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
+   "tag:developer.android.com,2026-10-28:/blog/posts/ai-agents-android-studio-integration",
    "tag:developer.android.com,2026-10-21:/blog/posts/reliable-way-to-add-and-edit-contacts-android",
    "tag:developer.android.com,2026-10-19:/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time",
    "tag:developer.android.com,2026-10-13:/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
@@ -726,15 +730,15 @@
   ],
   "recent": [
    {
-    "title": "A more reliable way to add and edit contacts on Android",
-    "link": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
-    "date": "21 Oct 2026"
+    "title": "What's new in Android developer tools and performance at Android Dev Summit",
+    "link": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+    "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "A more reliable way to add and edit contacts on Android",
-   "link": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
-   "date": "21 Oct 2026"
+   "title": "What's new in Android developer tools and performance at Android Dev Summit",
+   "link": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+   "date": "28 Oct 2026"
   },
   "fails": 0
  },
@@ -1608,6 +1612,7 @@
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.1.3",
    "tag:github.com,2008:Repository/355691505/5.1.2",
    "tag:github.com,2008:Repository/355691505/5.1.1",
    "tag:github.com,2008:Repository/355691505/5.1.0",
@@ -1625,15 +1630,15 @@
   ],
   "recent": [
    {
-    "title": "5.1.1",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
-    "date": "27 Oct 2026"
+    "title": "5.1.3",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.3",
+    "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.1.1",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.1",
-   "date": "27 Oct 2026"
+   "title": "5.1.3",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.1.3",
+   "date": "28 Oct 2026"
   },
   "fails": 0
  }
