@@ -399,6 +399,8 @@
  },
  "aws-whats-new": {
   "seen": [
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "ef73768c6b0de5ed1e1d7964b573ed46b78f0d04",
@@ -429,9 +431,9 @@
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
    "bb228c8dc7d26f2dab160da874367138b859b877",
-   "30d1ce5d72752a78261a96e66820f860988c1e26",
-   "0921a9c4d7919609b8560666f4d44625590508a6",
    "2378eff049fb752685060dbde386b349b1993ddd",
+   "0921a9c4d7919609b8560666f4d44625590508a6",
+   "30d1ce5d72752a78261a96e66820f860988c1e26",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
@@ -505,6 +507,16 @@
   ],
   "recent": [
    {
+    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "date": "29 Oct 2026"
+   },
+   {
+    "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
+    "date": "29 Oct 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
     "date": "28 Oct 2026"
@@ -543,22 +555,12 @@
     "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
     "date": "28 Oct 2026"
-   },
-   {
-    "title": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "AWS Backup adds restore testing support for Amazon Redshift",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/",
-    "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-   "date": "28 Oct 2026"
+   "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+   "date": "29 Oct 2026"
   },
   "fails": 0,
   "pending": [
@@ -566,6 +568,16 @@
     "title": "AWS Agent Registry is now available in four additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-four-regions/",
     "summary": "AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in four additional AWS Regions: Europe (London) eu-west-2, Europe (Frankfurt) eu-central-1, US East (Ohio) us-east-2, and Canada (Central) …"
+   },
+   {
+    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "summary": "AWS Certificate Manager (ACM) ACME protocol support is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West), providing a fully managed ACME server endpoint that issues public TLS certificates from Amazon Tr…"
+   },
+   {
+    "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
+    "summary": "Amazon DynamoDB Accelerator (DAX) is now available in two additional AWS Regions: Canada (Central) and Africa (Cape Town). DAX is a fully managed, highly available, in-memory cache for Amazon DynamoDB that delivers up to…"
    }
   ],
   "digest_date": "29 Oct 2026"
