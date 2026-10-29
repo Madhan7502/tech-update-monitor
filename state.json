@@ -179,6 +179,7 @@
  },
  "node-releases": {
   "seen": [
+   "/blog/release/v27.0.0-alpha.0.0.0?1793303549250",
    "/blog/release/v24.22.2?1793212814932",
    "/blog/release/v26.13.0?1793206720303",
    "/blog/release/v26.12.1?1792579160400",
@@ -244,15 +245,15 @@
   ],
   "recent": [
    {
-    "title": "Node.js 24.22.2 (LTS)",
-    "link": "https://nodejs.org/en/blog/release/v24.22.2",
-    "date": "28 Oct 2026"
+    "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+    "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Node.js 24.22.2 (LTS)",
-   "link": "https://nodejs.org/en/blog/release/v24.22.2",
-   "date": "28 Oct 2026"
+   "title": "Node.js 27.0.0-alpha.0.0.0 (Alpha)",
+   "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0",
+   "date": "29 Oct 2026"
   },
   "fails": 0
  },
@@ -400,9 +401,12 @@
  "aws-whats-new": {
   "seen": [
    "a218ad130e39a4672fb58325557de5656bebd26b",
+   "ce6ed10f75f13bd11f6653742108c16da3a4eadf",
+   "299514e963fee2299882c211483246d8655b2c33",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -443,8 +447,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2fd0943493e29a1c860162e25ff1915fb7472216",
+   "329bb709df369b01cc618dec1d38ae392d780fa5",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -515,6 +519,16 @@
     "date": "29 Oct 2026"
    },
    {
+    "title": "Amazon Aurora now supports post-quantum TLS key exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+    "date": "29 Oct 2026"
+   },
+   {
+    "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
+    "date": "29 Oct 2026"
+   },
+   {
     "title": "AWS Step Functions workflows now available as AI agent tools",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
     "date": "29 Oct 2026"
@@ -530,6 +544,11 @@
     "date": "29 Oct 2026"
    },
    {
+    "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+    "date": "29 Oct 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
     "date": "28 Oct 2026"
@@ -542,21 +561,6 @@
    {
     "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "Quick now supports smart approvals for agentic actions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
     "date": "28 Oct 2026"
    }
   ],
@@ -596,6 +600,21 @@
     "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
     "summary": "Amazon ElastiCache Serverless for Valkey now supports public endpoints in the AWS GovCloud (US) Regions. A public endpoint lets you connect to your cache from a serverless function or any application running outside a VP…"
+   },
+   {
+    "title": "Amazon Aurora now supports post-quantum TLS key exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+    "summary": "Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon …"
+   },
+   {
+    "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
+    "summary": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server and Amazon FSx for NetApp ONTAP as source or destination locations. You can now run Windows to Windows transfers, such as from an on-premises fil…"
+   },
+   {
+    "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+    "summary": "AWS Backup now supports cross-account management, cross-account backup, and delegated administrators in the AWS European Sovereign Cloud (Germany) Region. These capabilities help you centrally manage, monitor, and copy b…"
    }
   ],
   "digest_date": "29 Oct 2026"
