@@ -400,9 +400,9 @@
  "aws-whats-new": {
   "seen": [
    "a218ad130e39a4672fb58325557de5656bebd26b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
+   "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -515,8 +515,8 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "title": "AWS Step Functions workflows now available as AI agent tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
     "date": "29 Oct 2026"
    },
    {
@@ -525,8 +525,8 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "AWS Step Functions workflows now available as AI agent tools",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
+    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
     "date": "29 Oct 2026"
    },
    {
