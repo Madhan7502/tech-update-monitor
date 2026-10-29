@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -402,10 +402,13 @@
   "seen": [
    "a218ad130e39a4672fb58325557de5656bebd26b",
    "ce6ed10f75f13bd11f6653742108c16da3a4eadf",
+   "752e236292a5ae074221a50751d31c81bc3df1c6",
    "299514e963fee2299882c211483246d8655b2c33",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
+   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
@@ -447,8 +450,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -524,6 +527,11 @@
     "date": "29 Oct 2026"
    },
    {
+    "title": "Amazon MSK Connect now supports updating connector plugins and worker configurations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+    "date": "29 Oct 2026"
+   },
+   {
     "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
     "date": "29 Oct 2026"
@@ -544,24 +552,19 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
     "date": "29 Oct 2026"
    },
    {
-    "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
-    "date": "28 Oct 2026"
+    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+    "date": "29 Oct 2026"
    },
    {
-    "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
-    "date": "28 Oct 2026"
+    "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
@@ -615,6 +618,21 @@
     "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
     "summary": "AWS Backup now supports cross-account management, cross-account backup, and delegated administrators in the AWS European Sovereign Cloud (Germany) Region. These capabilities help you centrally manage, monitor, and copy b…"
+   },
+   {
+    "title": "Amazon MSK Connect now supports updating connector plugins and worker configurations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+    "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now lets you update the custom plugin and worker configuration of an existing connector. This is useful when you need to update the custom plugin to …"
+   },
+   {
+    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+    "summary": "Amazon Managed Grafana now supports in-place upgrade from Grafana version 12.4 to 13.2. Upgrading to version 13.2 brings features launched as part of open-source Grafana versions 13.0 to 13.2. These include Git Sync for …"
+   },
+   {
+    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+    "summary": "Today, Amazon SageMaker AI announces support for Seekable OCI (SOCI)-indexed container images for training and processing jobs, so your jobs start running your code sooner. SOCI-indexed images start Amazon SageMaker AI t…"
    }
   ],
   "digest_date": "29 Oct 2026"
