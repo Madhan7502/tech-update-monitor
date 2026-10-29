@@ -399,10 +399,13 @@
  },
  "aws-whats-new": {
   "seen": [
+   "a218ad130e39a4672fb58325557de5656bebd26b",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
+   "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
+   "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
    "ef73768c6b0de5ed1e1d7964b573ed46b78f0d04",
    "a1d9dd307b56585bf315ca1bdc9ac6dd5d503123",
    "c91aa9a8823bd097410d67eddcefd5b57a8e9012",
@@ -440,8 +443,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -507,6 +510,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+    "date": "29 Oct 2026"
+   },
+   {
     "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
     "date": "29 Oct 2026"
@@ -517,6 +525,11 @@
     "date": "29 Oct 2026"
    },
    {
+    "title": "AWS Step Functions workflows now available as AI agent tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
+    "date": "29 Oct 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp",
     "date": "28 Oct 2026"
@@ -524,6 +537,11 @@
    {
     "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+    "date": "28 Oct 2026"
+   },
+   {
+    "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
     "date": "28 Oct 2026"
    },
    {
@@ -540,26 +558,11 @@
     "title": "Quick now supports smart approvals for agentic actions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/",
     "date": "28 Oct 2026"
-   },
-   {
-    "title": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
-    "date": "28 Oct 2026"
-   },
-   {
-    "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
-    "date": "28 Oct 2026"
    }
   ],
   "latest": {
-   "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+   "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
    "date": "29 Oct 2026"
   },
   "fails": 0,
@@ -578,6 +581,21 @@
     "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
     "summary": "Amazon DynamoDB Accelerator (DAX) is now available in two additional AWS Regions: Canada (Central) and Africa (Cape Town). DAX is a fully managed, highly available, in-memory cache for Amazon DynamoDB that delivers up to…"
+   },
+   {
+    "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
+    "summary": "Amazon RDS for SQL Server and Amazon RDS for Oracle now support RDS storage autoscaling on additional storage volumes . RDS storage autoscaling automatically scales storage capacity in response to growing database worklo…"
+   },
+   {
+    "title": "AWS Step Functions workflows now available as AI agent tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
+    "summary": "You can now use your AWS Step Functions workflows as tools for AI agents through Amazon Bedrock AgentCore Gateway. Your agent decides when to run a workflow and what input to pass, and Step Functions runs each step exact…"
+   },
+   {
+    "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
+    "summary": "Amazon ElastiCache Serverless for Valkey now supports public endpoints in the AWS GovCloud (US) Regions. A public endpoint lets you connect to your cache from a serverless function or any application running outside a VP…"
    }
   ],
   "digest_date": "29 Oct 2026"
@@ -1116,6 +1134,8 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v22.2.0-beta.1",
+   "tag:github.com,2008:Repository/1953386/v22.1.0",
    "tag:github.com,2008:Repository/1953386/v22.0.1",
    "tag:github.com,2008:Repository/1953386/v21.3.3",
    "tag:github.com,2008:Repository/1953386/v20.3.2",
@@ -1145,20 +1165,22 @@
   ],
   "recent": [
    {
-    "title": "v22.0.1",
-    "link": "https://github.com/stripe/stripe-php/releases/tag/v22.0.1",
-    "date": "27 Oct 2026"
+    "title": "v22.1.0",
+    "link": "https://github.com/stripe/stripe-php/releases/tag/v22.1.0",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "v22.0.1",
-   "link": "https://github.com/stripe/stripe-php/releases/tag/v22.0.1",
-   "date": "27 Oct 2026"
+   "title": "v22.1.0",
+   "link": "https://github.com/stripe/stripe-php/releases/tag/v22.1.0",
+   "date": "29 Oct 2026"
   },
   "fails": 0
  },
  "stripe-node": {
   "seen": [
+   "tag:github.com,2008:Repository/2471804/v23.2.0-beta.1",
+   "tag:github.com,2008:Repository/2471804/v23.1.0",
    "tag:github.com,2008:Repository/2471804/v23.1.0-beta.2",
    "tag:github.com,2008:Repository/2471804/v23.0.1",
    "tag:github.com,2008:Repository/2471804/wif-v0.1.0-alpha.2",
@@ -1172,20 +1194,22 @@
   ],
   "recent": [
    {
-    "title": "v23.0.1",
-    "link": "https://github.com/stripe/stripe-node/releases/tag/v23.0.1",
-    "date": "22 Oct 2026"
+    "title": "v23.1.0",
+    "link": "https://github.com/stripe/stripe-node/releases/tag/v23.1.0",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "v23.0.1",
-   "link": "https://github.com/stripe/stripe-node/releases/tag/v23.0.1",
-   "date": "22 Oct 2026"
+   "title": "v23.1.0",
+   "link": "https://github.com/stripe/stripe-node/releases/tag/v23.1.0",
+   "date": "29 Oct 2026"
   },
   "fails": 0
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v16.2.0b1",
+   "tag:github.com,2008:Repository/1953389/v16.1.0",
    "tag:github.com,2008:Repository/1953389/v16.0.1",
    "tag:github.com,2008:Repository/1953389/v15.6.2",
    "tag:github.com,2008:Repository/1953389/v14.4.2",
@@ -1212,15 +1236,15 @@
   ],
   "recent": [
    {
-    "title": "v16.0.1",
-    "link": "https://github.com/stripe/stripe-python/releases/tag/v16.0.1",
-    "date": "27 Oct 2026"
+    "title": "v16.1.0",
+    "link": "https://github.com/stripe/stripe-python/releases/tag/v16.1.0",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "v16.0.1",
-   "link": "https://github.com/stripe/stripe-python/releases/tag/v16.0.1",
-   "date": "27 Oct 2026"
+   "title": "v16.1.0",
+   "link": "https://github.com/stripe/stripe-python/releases/tag/v16.1.0",
+   "date": "29 Oct 2026"
   },
   "fails": 0
  },
@@ -1623,6 +1647,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.0.3",
    "tag:github.com,2008:Repository/355691391/5.0.2",
    "tag:github.com,2008:Repository/355691391/5.0.1",
    "tag:github.com,2008:Repository/355691391/5.0.0",
@@ -1639,15 +1664,15 @@
   ],
   "recent": [
    {
-    "title": "5.0.2",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.2",
-    "date": "27 Oct 2026"
+    "title": "5.0.3",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.3",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "5.0.2",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.2",
-   "date": "27 Oct 2026"
+   "title": "5.0.3",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.0.3",
+   "date": "29 Oct 2026"
   },
   "fails": 0
  },
