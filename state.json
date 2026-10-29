@@ -404,8 +404,8 @@
    "a1d9dd307b56585bf315ca1bdc9ac6dd5d503123",
    "c91aa9a8823bd097410d67eddcefd5b57a8e9012",
    "b0bb19bc12baf292d6ec190fa2b46a176c08465d",
-   "b7a29c601af051b84bc2ba29ee88822a7398532d",
    "6f504586d36baf58417c8efbb5b80e5b278fc9e8",
+   "b7a29c601af051b84bc2ba29ee88822a7398532d",
    "5cac41800c97cfb88b23bf77bdabf7b33f14fcb7",
    "570915d1de33f8940cbe123a8b0aa650e1dddb08",
    "c367b32b8a6b90e9582f3b3965ccd7339f360d2f",
@@ -533,13 +533,13 @@
     "date": "28 Oct 2026"
    },
    {
-    "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
+    "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
     "date": "28 Oct 2026"
    },
    {
-    "title": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/",
+    "title": "AWS Lambda durable functions now exports live telemetry for execution insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/",
     "date": "28 Oct 2026"
    },
    {
