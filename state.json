@@ -345,6 +345,7 @@
    "3c7e628a51881badf43b30208f756fb18ab71e69",
    "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
    "88af8529196585374f2e4a683845bef78ec79f37",
+   "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
    "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "0fe2216f63cfdf78bee439d43f396fcdc04e0c53",
@@ -387,14 +388,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119116 and CVE-2026-119148 - Issues in AWS Nitro Enclaves SDK for C",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-157-aws/",
+    "title": "CVE-2026-119086 - Missing type validation in xQueueSelectFromSet in FreeRTOS-Kernel",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-158-aws/",
     "date": "30 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119116 and CVE-2026-119148 - Issues in AWS Nitro Enclaves SDK for C",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-157-aws/",
+   "title": "CVE-2026-119086 - Missing type validation in xQueueSelectFromSet in FreeRTOS-Kernel",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-158-aws/",
    "date": "30 Oct 2026"
   },
   "fails": 0
@@ -594,6 +595,7 @@
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=10292026a",
    "https://developer.apple.com/news/releases/?id=10262026a",
    "https://developer.apple.com/news/releases/?id=10262026b",
    "https://developer.apple.com/news/releases/?id=10262026c",
@@ -606,7 +608,6 @@
    "https://developer.apple.com/news/releases/?id=10262026j",
    "https://developer.apple.com/news/releases/?id=10222026a",
    "https://developer.apple.com/news/releases/?id=10202026a",
-   "https://developer.apple.com/news/releases/?id=10192026g",
    "https://developer.apple.com/news/releases/?id=10152026a",
    "https://developer.apple.com/news/releases/?id=10142026c",
    "https://developer.apple.com/news/releases/?id=10062026a",
@@ -637,6 +638,7 @@
    "https://developer.apple.com/news/releases/?id=05112026k",
    "https://developer.apple.com/news/releases/?id=05112026l",
    "https://developer.apple.com/news/releases/?id=05112026m",
+   "https://developer.apple.com/news/releases/?id=10192026g",
    "https://developer.apple.com/news/releases/?id=10192026a",
    "https://developer.apple.com/news/releases/?id=10192026b",
    "https://developer.apple.com/news/releases/?id=10192026c",
@@ -649,15 +651,15 @@
   ],
   "recent": [
    {
-    "title": "iOS 27.2 (24B91020)",
-    "link": "https://developer.apple.com/news/releases/?id=10262026a",
-    "date": "26 Oct 2026"
+    "title": "Xcode 27.2 (27B52)",
+    "link": "https://developer.apple.com/news/releases/?id=10292026a",
+    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "iOS 27.2 (24B91020)",
-   "link": "https://developer.apple.com/news/releases/?id=10262026a",
-   "date": "26 Oct 2026"
+   "title": "Xcode 27.2 (27B52)",
+   "link": "https://developer.apple.com/news/releases/?id=10292026a",
+   "date": "29 Oct 2026"
   },
   "fails": 0
  },
