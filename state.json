@@ -22,9 +22,7 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
-   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -82,21 +80,23 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
-   "https://www.php.net/archive/2025.php#2025-12-18-4"
+   "https://www.php.net/archive/2025.php#2025-12-18-4",
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
+   "https://www.php.net/archive/2026.php#2026-10-21-6",
+   "https://www.php.net/archive/2026.php#2026-10-26-1"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "link": "https://www.php.net/index.php#2026-10-21-5",
+    "date": "21 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+   "link": "https://www.php.net/index.php#2026-10-21-5",
+   "date": "21 Oct 2026"
   },
   "fails": 0
  },
@@ -406,10 +406,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
@@ -442,10 +442,10 @@
    "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
-   "30d1ce5d72752a78261a96e66820f860988c1e26",
    "0921a9c4d7919609b8560666f4d44625590508a6",
-   "2378eff049fb752685060dbde386b349b1993ddd",
+   "30d1ce5d72752a78261a96e66820f860988c1e26",
    "bb228c8dc7d26f2dab160da874367138b859b877",
+   "2378eff049fb752685060dbde386b349b1993ddd",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
@@ -549,8 +549,8 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
     "date": "29 Oct 2026"
    },
    {
@@ -559,13 +559,13 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
     "date": "29 Oct 2026"
    },
    {
-    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
     "date": "29 Oct 2026"
    }
   ],
@@ -800,11 +800,11 @@
   "fails": 0
  },
  "play-policy": {
-  "hash": "d78dcc4e01fe16ad4a2134e47901171d312e2b09f5df81ee57ec3e75498e107f",
-  "text": "Providing a safe and trusted experience for everyone\nOur policies are designed to deliver your apps and games safely to billions of people worldwide. Explore this page for information on our policies, read the\nDeveloper Distribution Agreement\n, and find educational resources to get started.\nRecent updates\nExplore our policies and resources below\nRestricted Content\nBefore submitting an app to Google Play, ensure it complies with these content policies and with local laws.\nChild Endangerment\nInappropriate Content\nAge-Restricted Content and Functionality\nFinancial Services\nReal-Money Gambling, Games, and Contests\nIllegal Activities\nUser Generated Content\nHealth Content and Services\nBlockchain-based Content\nAI-Generated Content\nImpersonation\nWhen developers impersonate others or their apps, it misleads users and hurts the developer community. We prohibit apps that mislead users by impersonating someone else.\nImpersonation\nIntellectual Property\nWhen developers copy someone else's work or deceive users, it hurts users and the developer community. Don't rely on misleading or unfair use of other people's work.\nIntellectual Property\nPrivacy, Deception and Device Abuse\nWe're committed to protecting user privacy and providing a safe and secure environment for our users. Apps that are deceptive, malicious, or intended to abuse or misuse any network, device, or personal data are strictly prohibited.\nUser Data\nPermissions\nDevice and Network Abuse\nDeceptive Behavior\nMisrepresentation\nTarget API Level\nUse of SDKs In Apps\nIf you include an SDK in your app, you are responsible for ensuring that their third-party code and practices do not cause your app to violate Google Play Developer Program Policies. It is important to be aware of how the SDKs in your app handle user data and to ensure you know what permissions they use, what data they collect, and why.\nSDK Requirements\nMonetization and Ads\nGoogle Play supports a variety of monetization strategies to benefit developers and users, including paid distribution, in-app products, subscriptions, and ad-based models. To ensure the best user experience, we require you to comply with these policies.\nPayments\nSubscriptions\nAds\nFamilies Self-Certified Ads SDK Program\nStore Listing and Promotion\nThe promotion and visibility of your app dramatically affects store quality. Avoid spammy store listings, low quality promotion, and efforts to artificially boost app visibility on Google Play.\nApp Promotion\nMetadata\nUser Ratings, Reviews, and Installs\nContent Ratings\nNews and Magazines\nSpam, Functionality, and User Experience\nAt a minimum, apps should provide users with a basic degree of functionality and a respectful user experience. Apps that crash, exhibit other behavior that is not consistent with a functional user experience are not allowed on Google Play.\nSpam\nFunctionality, Content, and User Experience\nMalware\nMalware is any code that could put a user, a user's data, or a device at risk. Because Malware is potentially harmful to users, apps containing Malware are strictly prohibited from Google Play.\nMalware\nMobile Unwanted Software (MUwS)\nApps that violate Mobile Unwanted Software principles are potentially harmful to the user experience, and we will take steps to protect users from harmful software.\nMobile Unwanted Software\nAd Fraud\nUnauthorized Use or Imitation of System Functionality\nSocial Engineering\nHostile Downloaders\nFamilies\nBefore submitting an app that targets children to the Google Play Store, you are responsible for ensuring your app is appropriate for children and compliant with all relevant laws.\nFamilies\nFamilies Self-Certified Ads SDK Policy\nOther Programs\nIn addition to compliance with the content policies set out elsewhere in this Policy Center, apps that are designed for other Android experiences and distributed via Google Play may also be subject to program-specific policy requirements. Be sure to review the list below to determine if any of these policies apply to your app.\nAndroid Auto/Automotive\nAndroid Emoji Policy\nAndroid Instant Apps\nAndroid TV\nAndroid XR\nWear OS\nEnforcement\nLearn more about how our policies apply, how we enforce our policies, and how you can manage policy violations.\nPolicy Coverage\nEnforcement Process\nManaging Policy Violations and Appeals\nPlay Console Requirements\nHow Google Play Works for Developers\nLearn more about how Google Play works to help developers succeed.\nHelping Developers Succeed\nApp Discovery and Ranking\nData Access\nAvailability of Features and Services\nLatest Information\nGoogle Play PolicyBytes - July 2026 Update\nLearn more about the policy updates and key reminders we announced in July.\nWatch video\nAccount data transparency and controls\nIn case you missed it, all developers must provide data deletion options for their Data safety section in Play Console by Dec 7, 2023.\nWatch now\nNotes from Google Play: Keeping our platform safe\nDiscover what we're working on to help you navigate privacy and security on Google Play, and build trust with your users.\nWatch now\nResources\nLearn policy on Play Academy\nDive deeper into Google Play policies by taking training on Play Academy.\nTake training\nReview the status of your app\nView compliance information for your app. See if your app has been rejected, removed, or suspended from Google Play.\nView policy status\nGet developer support\nIf you're a developer and you're having issues with Google Play or access to Google Play's services, please let us know.\nGet support\nRequest mediation\n(for EU based developers)\nIf you are a developer based in the EU and you offer goods or services to consumers located in the EU, learn more about how you can resolve disputes with Google Play through mediation.\nLearn more\n(EU only)\nPublisher Content Policy for Google Play Books\nView policy information for Google Play Books concerning publisher content policies, content review, enforcement, and appeals.\nLearn more\nRatings and Reviews Policy for Google Play\nOn this page you can find information about how we calculate ratings and reviews on Google Play, as well as Googleâs policies and enforcement process for posting reviews.\nLearn more\nPrint view\nDeveloper Distribution Agreement",
-  "changed_at": "23 Oct 2026",
+  "hash": "c75bfa428c0ddc93a40de3daa8c019e756679ade95ef7c56c625376b66ee2615",
+  "text": "Providing a safe and trusted experience for everyone\nOur policies are designed to deliver your apps and games safely to billions of people worldwide. Explore this page for information on our policies, read the\nDeveloper Distribution Agreement\n, and find educational resources to get started.\nRecent updates\nExplore our policies and resources below\nRestricted Content\nBefore submitting an app to Google Play, ensure it complies with these content policies and with local laws.\nChild Endangerment\nInappropriate Content\nAge-Restricted Content and Functionality\nFinancial Services\nReal-Money Gambling, Games, and Contests\nIllegal Activities\nUser Generated Content\nHealth Content and Services\nBlockchain-based Content\nAI-Generated Content\nImpersonation\nWhen developers impersonate others or their apps, it misleads users and hurts the developer community. We prohibit apps that mislead users by impersonating someone else.\nImpersonation\nIntellectual Property\nWhen developers copy someone else's work or deceive users, it hurts users and the developer community. Don't rely on misleading or unfair use of other people's work.\nIntellectual Property\nPrivacy, Deception and Device Abuse\nWe're committed to protecting user privacy and providing a safe and secure environment for our users. Apps that are deceptive, malicious, or intended to abuse or misuse any network, device, or personal data are strictly prohibited.\nUser Data\nPermissions\nDevice and Network Abuse\nDeceptive Behavior\nMisrepresentation\nTarget API Level\nUse of SDKs In Apps\nIf you include an SDK in your app, you are responsible for ensuring that their third-party code and practices do not cause your app to violate Google Play Developer Program Policies. It is important to be aware of how the SDKs in your app handle user data and to ensure you know what permissions they use, what data they collect, and why.\nSDK Requirements\nMonetization and Ads\nGoogle Play supports a variety of monetization strategies to benefit developers and users, including paid distribution, in-app products, subscriptions, and ad-based models. To ensure the best user experience, we require you to comply with these policies.\nPayments\nSubscriptions\nAds\nFamilies Self-Certified Ads SDK Program\nStore Listing and Promotion\nThe promotion and visibility of your app dramatically affects store quality. Avoid spammy store listings, low quality promotion, and efforts to artificially boost app visibility on Google Play.\nApp Promotion\nMetadata\nUser Ratings, Reviews, and Installs\nContent Ratings\nNews and Magazines\nSpam, Functionality, and User Experience\nAt a minimum, apps should provide users with a basic degree of functionality and a respectful user experience. Apps that crash, exhibit other behavior that is not consistent with a functional user experience are not allowed on Google Play.\nSpam\nFunctionality, Content, and User Experience\nMalware\nMalware is any code that could put a user, a user's data, or a device at risk. Because Malware is potentially harmful to users, apps containing Malware are strictly prohibited from Google Play.\nMalware\nMobile Unwanted Software (MUwS)\nApps that violate Mobile Unwanted Software principles are potentially harmful to the user experience, and we will take steps to protect users from harmful software.\nMobile Unwanted Software\nAd Fraud\nUnauthorized Use or Imitation of System Functionality\nSocial Engineering\nHostile Downloaders\nFamilies\nBefore submitting an app that targets children to the Google Play Store, you are responsible for ensuring your app is appropriate for children and compliant with all relevant laws.\nFamilies\nFamilies Self-Certified Ads SDK Policy\nOther Programs\nIn addition to compliance with the content policies set out elsewhere in this Policy Center, apps that are designed for other Android experiences and distributed via Google Play may also be subject to program-specific policy requirements. Be sure to review the list below to determine if any of these policies apply to your app.\nAndroid Auto/Automotive\nAndroid Emoji Policy\nAndroid Instant Apps\nAndroid TV\nAndroid XR\nWear OS\nEnforcement\nLearn more about how our policies apply, how we enforce our policies, and how you can manage policy violations.\nPolicy Coverage\nEnforcement Process\nManaging Policy Violations and Appeals\nPlay Console Requirements\nHow Google Play Works for Developers\nLearn more about how Google Play works to help developers succeed.\nHelping Developers Succeed\nApp Discovery and Ranking\nData Access\nAvailability of Features and Services\nLatest Information\nGoogle Play PolicyBytes - October 2026 Update\nLearn more about the policy updates and key reminders we announced in October.\nWatch video\nAccount data transparency and controls\nIn case you missed it, all developers must provide data deletion options for their Data safety section in Play Console by Dec 7, 2023.\nWatch now\nNotes from Google Play: Keeping our platform safe\nDiscover what we're working on to help you navigate privacy and security on Google Play, and build trust with your users.\nWatch now\nResources\nLearn policy on Play Academy\nDive deeper into Google Play policies by taking training on Play Academy.\nTake training\nReview the status of your app\nView compliance information for your app. See if your app has been rejected, removed, or suspended from Google Play.\nView policy status\nGet developer support\nIf you're a developer and you're having issues with Google Play or access to Google Play's services, please let us know.\nGet support\nRequest mediation\n(for EU based developers)\nIf you are a developer based in the EU and you offer goods or services to consumers located in the EU, learn more about how you can resolve disputes with Google Play through mediation.\nLearn more\n(EU only)\nPublisher Content Policy for Google Play Books\nView policy information for Google Play Books concerning publisher content policies, content review, enforcement, and appeals.\nLearn more\nRatings and Reviews Policy for Google Play\nOn this page you can find information about how we calculate ratings and reviews on Google Play, as well as Googleâs policies and enforcement process for posting reviews.\nLearn more\nPrint view\nDeveloper Distribution Agreement",
+  "changed_at": "30 Oct 2026",
   "latest": {
-   "title": "Watching page — last change detected 23 Oct 2026",
+   "title": "Watching page — last change detected 30 Oct 2026",
    "link": "https://play.google.com/about/developer-content-policy/",
    "date": ""
   },
