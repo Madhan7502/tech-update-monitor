@@ -336,6 +336,7 @@
    "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
    "9d700919e2f70330d633e01c546b31d90b1d2f48",
    "7bfd65ffb87e18d21dd01d08cf6ab19279d1c0c4",
+   "673bae0c00db5a735d35b34fe46471676b93f07b",
    "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
    "13b91c68b37257b54cb7a7d0d1500b8f742f06e3",
    "4a93b9f8f1745d1db6ed92b465cf9c8c14732303",
@@ -388,14 +389,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119086 - Missing type validation in xQueueSelectFromSet in FreeRTOS-Kernel",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-158-aws/",
+    "title": "CVE-2026-119117 - Insertion of sensitive information into a log file and process argument list in the Amazon Kinesis Producer Library for Java",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/",
     "date": "30 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119086 - Missing type validation in xQueueSelectFromSet in FreeRTOS-Kernel",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-158-aws/",
+   "title": "CVE-2026-119117 - Insertion of sensitive information into a log file and process argument list in the Amazon Kinesis Producer Library for Java",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/",
    "date": "30 Oct 2026"
   },
   "fails": 0
@@ -456,8 +457,8 @@
    "5f832aa90ce42df9e8b27f09142cb9a6f133c04e",
    "0b31b2ceb63caab736fa4edaa29bfd26865b57e1",
    "ebf5b1a88138a8bd0acf1b066161888ef1fdcced",
-   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "329bb709df369b01cc618dec1d38ae392d780fa5",
+   "2fd0943493e29a1c860162e25ff1915fb7472216",
    "2f09d0667d42d72e79a54ba3ba00762abfcd3b74",
    "8394141a5727b3fe3b9f49cf37d5fa56685f8da9",
    "0b13a4dd8d9fde899e23024d3adc08d053cfdcef",
@@ -1128,6 +1129,7 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.1",
    "tag:github.com,2008:Repository/1953386/v22.2.0-beta.1",
    "tag:github.com,2008:Repository/1953386/v22.1.0",
    "tag:github.com,2008:Repository/1953386/v22.0.1",
@@ -1173,6 +1175,7 @@
  },
  "stripe-node": {
   "seen": [
+   "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.1",
    "tag:github.com,2008:Repository/2471804/v23.2.0-beta.1",
    "tag:github.com,2008:Repository/2471804/v23.1.0",
    "tag:github.com,2008:Repository/2471804/v23.1.0-beta.2",
@@ -1202,6 +1205,7 @@
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v16.2.0a1",
    "tag:github.com,2008:Repository/1953389/v16.2.0b1",
    "tag:github.com,2008:Repository/1953389/v16.1.0",
    "tag:github.com,2008:Repository/1953389/v16.0.1",
