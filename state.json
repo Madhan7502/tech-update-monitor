@@ -411,6 +411,7 @@
    "203ca073d81dcb45e1fce41776f353f2757e28b9",
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -574,13 +575,13 @@
     "date": "30 Oct 2026"
    },
    {
-    "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+    "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
     "date": "30 Oct 2026"
    },
    {
-    "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
+    "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
     "date": "30 Oct 2026"
    }
   ],
@@ -650,6 +651,11 @@
     "title": "Amazon Redshift announces hands-off automated cross-region backups",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
     "summary": "Amazon Redshift announces automated cross-region snapshot copy for Amazon Redshift. You can now have your Amazon Redshift provisioned cluster or serverless workgroup automatically backed up to the target AWS region(s) yo…"
+   },
+   {
+    "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
+    "summary": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics for Amazon Managed Service for Prometheus and Amazon CloudWatch . The integration collects Kafka exporter metrics and consumer-group lag metrics…"
    }
   ],
   "digest_date": "30 Oct 2026"
