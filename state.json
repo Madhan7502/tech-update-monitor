@@ -412,16 +412,18 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "c447ee5df3f8309ca884fc41318c20931c019601",
+   "bd3512132333424f74718c5e5f4d7687d63a1839",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
    "a218ad130e39a4672fb58325557de5656bebd26b",
    "ce6ed10f75f13bd11f6653742108c16da3a4eadf",
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "299514e963fee2299882c211483246d8655b2c33",
-   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "51394e29679c98b5e16fde925542e43fb0ffd0a8",
+   "299514e963fee2299882c211483246d8655b2c33",
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "118d029a647a76156f557b3c260252d58f3d05b2",
@@ -455,10 +457,10 @@
    "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
-   "0921a9c4d7919609b8560666f4d44625590508a6",
    "30d1ce5d72752a78261a96e66820f860988c1e26",
-   "bb228c8dc7d26f2dab160da874367138b859b877",
+   "0921a9c4d7919609b8560666f4d44625590508a6",
    "2378eff049fb752685060dbde386b349b1993ddd",
+   "bb228c8dc7d26f2dab160da874367138b859b877",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
@@ -532,7 +534,7 @@
   ],
   "recent": [
    {
-    "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models in AWS GovCloud (US)",
+    "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
     "date": "30 Oct 2026"
    },
@@ -577,13 +579,13 @@
     "date": "30 Oct 2026"
    },
    {
-    "title": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
-    "date": "29 Oct 2026"
+    "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
+    "date": "30 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models in AWS GovCloud (US)",
+   "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
    "date": "30 Oct 2026"
   },
@@ -638,6 +640,16 @@
     "title": "Amazon SageMaker Unified Studio now supports custom designations",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations/",
     "summary": "Amazon SageMaker Unified Studio now supports custom designations, named permission sets that control what actions individual project members can perform. Previously, project members could only be assigned Owner or Contri…"
+   },
+   {
+    "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
+    "summary": "Amazon SageMaker AI inference now supports GPU partitioning, enabling you to run several models on a single GPU instead of dedicating a whole accelerator to each one. Using NVIDIA Multi-Instance GPU (MIG) technology, Sag…"
+   },
+   {
+    "title": "Amazon Redshift announces hands-off automated cross-region backups",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
+    "summary": "Amazon Redshift announces automated cross-region snapshot copy for Amazon Redshift. You can now have your Amazon Redshift provisioned cluster or serverless workgroup automatically backed up to the target AWS region(s) yo…"
    }
   ],
   "digest_date": "30 Oct 2026"
