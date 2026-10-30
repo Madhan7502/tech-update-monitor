@@ -330,7 +330,6 @@
    "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
    "d5984ef7453dd8f49e680d707090c120f10cc32e",
    "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
-   "4da18f077b6ad25a17282b3d2bf7d514b22292f8",
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
    "ff53d793f3546d3790211b5684726f1b87870b69",
@@ -339,7 +338,6 @@
    "7bfd65ffb87e18d21dd01d08cf6ab19279d1c0c4",
    "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
    "13b91c68b37257b54cb7a7d0d1500b8f742f06e3",
-   "f1cddc55d36b7ad183da40deeaa82cb99629e3e5",
    "4a93b9f8f1745d1db6ed92b465cf9c8c14732303",
    "f86b7cf7044cd0afaa24898a00792e28442e4588",
    "61c44aa8dbf37dc6d92a3824f223e6a79783be92",
@@ -347,7 +345,6 @@
    "3c7e628a51881badf43b30208f756fb18ab71e69",
    "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
    "88af8529196585374f2e4a683845bef78ec79f37",
-   "f094c55b66f0cb726ab4b0c1cc2a29cd7dccc421",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
    "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "0fe2216f63cfdf78bee439d43f396fcdc04e0c53",
@@ -356,17 +353,21 @@
    "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
    "ec33662ff82bc3a0beeef8b7845544e9bb4ee3b9",
    "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
+   "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
-   "68e95b0efc05436f627388068dfad7beb38cdbc5",
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "994f50277f499e61c223462dc874510bfeef240d",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
-   "03455c2144e791380a40ec9007ceebcd6600a99b",
    "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
    "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
+   "4da18f077b6ad25a17282b3d2bf7d514b22292f8",
+   "f1cddc55d36b7ad183da40deeaa82cb99629e3e5",
+   "f094c55b66f0cb726ab4b0c1cc2a29cd7dccc421",
+   "68e95b0efc05436f627388068dfad7beb38cdbc5",
+   "03455c2144e791380a40ec9007ceebcd6600a99b",
    "479bf224041ffe76607e77b4e68e4c5db06e11b8",
    "f269d47f6aa13e44870767a4808c1609b46848ec",
    "fcb543a35cb39751806398f87b68941193545749",
@@ -386,20 +387,21 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119115 - Incorrect authorization in issuer resolution in AWS Private CA Connector for Kubernetes",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-156-aws/",
-    "date": "29 Oct 2026"
+    "title": "CVE-2026-119116 and CVE-2026-119148 - Issues in AWS Nitro Enclaves SDK for C",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-157-aws/",
+    "date": "30 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119115 - Incorrect authorization in issuer resolution in AWS Private CA Connector for Kubernetes",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-156-aws/",
-   "date": "29 Oct 2026"
+   "title": "CVE-2026-119116 and CVE-2026-119148 - Issues in AWS Nitro Enclaves SDK for C",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-157-aws/",
+   "date": "30 Oct 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "d90b410693cece436db43a8262bd721ce9cd3363",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
    "a218ad130e39a4672fb58325557de5656bebd26b",
@@ -520,6 +522,11 @@
   ],
   "recent": [
    {
+    "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
+    "date": "30 Oct 2026"
+   },
+   {
     "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
     "date": "30 Oct 2026"
@@ -563,16 +570,11 @@
     "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
     "date": "29 Oct 2026"
-   },
-   {
-    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
-    "date": "29 Oct 2026"
    }
   ],
   "latest": {
-   "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+   "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
    "date": "30 Oct 2026"
   },
   "fails": 0,
@@ -581,6 +583,11 @@
     "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
     "summary": "AWS Glue Data Catalog now supports automatic table optimization for Apache Iceberg tables in the US West (N. California) Region. Apache Iceberg is an open table format that delivers fast query performance over large tabl…"
+   },
+   {
+    "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
+    "summary": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions. When you enable it, CloudFront adds the script tag for the AWS WAF JavaScript SDK to the HTML it serves, with no change to your application…"
    }
   ],
   "digest_date": "30 Oct 2026"
