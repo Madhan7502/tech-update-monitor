@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -406,10 +406,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "299514e963fee2299882c211483246d8655b2c33",
-   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "51394e29679c98b5e16fde925542e43fb0ffd0a8",
+   "299514e963fee2299882c211483246d8655b2c33",
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
@@ -442,10 +442,10 @@
    "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
-   "0921a9c4d7919609b8560666f4d44625590508a6",
    "30d1ce5d72752a78261a96e66820f860988c1e26",
-   "bb228c8dc7d26f2dab160da874367138b859b877",
+   "0921a9c4d7919609b8560666f4d44625590508a6",
    "2378eff049fb752685060dbde386b349b1993ddd",
+   "bb228c8dc7d26f2dab160da874367138b859b877",
    "dcf34f11ecc8c85b3b3f75f21c4249b6ef7930f3",
    "5c24b09526b4d577a4491617903c16f6a2c4d2ff",
    "86f4a6d69637c7de4b0ac7ab60df8db423270cd3",
@@ -549,8 +549,8 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
+    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
     "date": "29 Oct 2026"
    },
    {
@@ -559,13 +559,13 @@
     "date": "29 Oct 2026"
    },
    {
-    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
     "date": "29 Oct 2026"
    },
    {
-    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
     "date": "29 Oct 2026"
    }
   ],
