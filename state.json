@@ -575,79 +575,8 @@
    "date": "29 Oct 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "AWS Agent Registry is now available in four additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-four-regions/",
-    "summary": "AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in four additional AWS Regions: Europe (London) eu-west-2, Europe (Frankfurt) eu-central-1, US East (Ohio) us-east-2, and Canada (Central) …"
-   },
-   {
-    "title": "ACM now supports ACME for public certificates in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/",
-    "summary": "AWS Certificate Manager (ACM) ACME protocol support is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West), providing a fully managed ACME server endpoint that issues public TLS certificates from Amazon Tr…"
-   },
-   {
-    "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/",
-    "summary": "Amazon DynamoDB Accelerator (DAX) is now available in two additional AWS Regions: Canada (Central) and Africa (Cape Town). DAX is a fully managed, highly available, in-memory cache for Amazon DynamoDB that delivers up to…"
-   },
-   {
-    "title": "Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes",
-    "summary": "Amazon RDS for SQL Server and Amazon RDS for Oracle now support RDS storage autoscaling on additional storage volumes . RDS storage autoscaling automatically scales storage capacity in response to growing database worklo…"
-   },
-   {
-    "title": "AWS Step Functions workflows now available as AI agent tools",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/",
-    "summary": "You can now use your AWS Step Functions workflows as tools for AI agents through Amazon Bedrock AgentCore Gateway. Your agent decides when to run a workflow and what input to pass, and Step Functions runs each step exact…"
-   },
-   {
-    "title": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/",
-    "summary": "Amazon ElastiCache Serverless for Valkey now supports public endpoints in the AWS GovCloud (US) Regions. A public endpoint lets you connect to your cache from a serverless function or any application running outside a VP…"
-   },
-   {
-    "title": "Amazon Aurora now supports post-quantum TLS key exchange",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
-    "summary": "Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon …"
-   },
-   {
-    "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
-    "summary": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server and Amazon FSx for NetApp ONTAP as source or destination locations. You can now run Windows to Windows transfers, such as from an on-premises fil…"
-   },
-   {
-    "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
-    "summary": "AWS Backup now supports cross-account management, cross-account backup, and delegated administrators in the AWS European Sovereign Cloud (Germany) Region. These capabilities help you centrally manage, monitor, and copy b…"
-   },
-   {
-    "title": "Amazon MSK Connect now supports updating connector plugins and worker configurations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
-    "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now lets you update the custom plugin and worker configuration of an existing connector. This is useful when you need to update the custom plugin to …"
-   },
-   {
-    "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
-    "summary": "Amazon Managed Grafana now supports in-place upgrade from Grafana version 12.4 to 13.2. Upgrading to version 13.2 brings features launched as part of open-source Grafana versions 13.0 to 13.2. These include Git Sync for …"
-   },
-   {
-    "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
-    "summary": "Today, Amazon SageMaker AI announces support for Seekable OCI (SOCI)-indexed container images for training and processing jobs, so your jobs start running your code sooner. SOCI-indexed images start Amazon SageMaker AI t…"
-   },
-   {
-    "title": "AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization",
-    "summary": "Today, AWS announces that AWS partners who operate multiple legal entities can publish a product listing once in their primary account and enable their local subsidiaries to sell it through direct private offers — elimin…"
-   },
-   {
-    "title": "Amazon Bedrock now offers Canada cross-Region inference for Claude Haiku 5.5",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-canada-cris/",
-    "summary": "Amazon Bedrock now offers Canada cross-Region inference (CRIS) for Anthropic's Claude Haiku 5.5. Customers with strict data residency requirements can now keep inference processing entirely within Canada. Canada CRIS rou…"
-   }
-  ],
-  "digest_date": "29 Oct 2026"
+  "pending": [],
+  "digest_date": "30 Oct 2026"
  },
  "apple-dev-releases": {
   "seen": [
