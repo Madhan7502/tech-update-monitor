@@ -411,6 +411,7 @@
    "203ca073d81dcb45e1fce41776f353f2757e28b9",
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
+   "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
    "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
@@ -575,13 +576,13 @@
     "date": "30 Oct 2026"
    },
    {
-    "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
+    "title": "Amazon Connect Customer now supports versioning and aliasing for flows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing/",
     "date": "30 Oct 2026"
    },
    {
-    "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+    "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
     "date": "30 Oct 2026"
    }
   ],
@@ -656,6 +657,11 @@
     "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
     "summary": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics for Amazon Managed Service for Prometheus and Amazon CloudWatch . The integration collects Kafka exporter metrics and consumer-group lag metrics…"
+   },
+   {
+    "title": "Amazon Connect Customer now supports versioning and aliasing for flows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing/",
+    "summary": "Amazon Connect Customer now supports versioning and aliasing for flows and flow modules, simplifying how you build, test, and deploy customer experience flows while minimizing impact to live end-customer traffic. With th…"
    }
   ],
   "digest_date": "30 Oct 2026"
