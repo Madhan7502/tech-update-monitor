@@ -362,6 +362,7 @@
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
+   "bf7963dacc18803b0da8912de42c04cee194d4be",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
    "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
    "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
@@ -389,15 +390,15 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119117 - Insertion of sensitive information into a log file and process argument list in the Amazon Kinesis Producer Library for Java",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/",
-    "date": "30 Oct 2026"
+    "title": "CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/",
+    "date": "31 Oct 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119117 - Insertion of sensitive information into a log file and process argument list in the Amazon Kinesis Producer Library for Java",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/",
-   "date": "30 Oct 2026"
+   "title": "CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/",
+   "date": "31 Oct 2026"
   },
   "fails": 0
  },
@@ -1618,6 +1619,7 @@
  },
  "firebase-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0.nightly",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0-beta",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
