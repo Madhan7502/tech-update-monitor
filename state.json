@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
