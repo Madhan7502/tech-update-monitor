@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,21 +83,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Updated PHP Windows builds for Brotli security fix",
+    "link": "https://www.php.net/index.php#2026-10-26-1",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Updated PHP Windows builds for Brotli security fix",
+   "link": "https://www.php.net/index.php#2026-10-26-1",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
@@ -357,6 +357,7 @@
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "994f50277f499e61c223462dc874510bfeef240d",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
+   "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
@@ -390,15 +391,15 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/",
-    "date": "31 Oct 2026"
+    "title": "CVE-2026-119301 - Improper neutralization of quoting syntax in Apache Iceberg SQL identifier generation in AWS SDK for pandas",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-161-aws/",
+    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/",
-   "date": "31 Oct 2026"
+   "title": "CVE-2026-119301 - Improper neutralization of quoting syntax in Apache Iceberg SQL identifier generation in AWS SDK for pandas",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-161-aws/",
+   "date": "02 Nov 2026"
   },
   "fails": 0
  },
