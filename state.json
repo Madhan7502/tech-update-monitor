@@ -729,6 +729,7 @@
  },
  "apple-dev-news": {
   "seen": [
+   "https://developer.apple.com/news/?id=yxkh08us",
    "https://developer.apple.com/news/?id=w9mxlhek",
    "https://developer.apple.com/news/?id=i9boeiqc",
    "https://developer.apple.com/news/?id=yfo21auu",
@@ -794,15 +795,15 @@
   ],
   "recent": [
    {
-    "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
-    "link": "https://developer.apple.com/news/?id=w9mxlhek",
-    "date": "29 Oct 2026"
+    "title": "Upcoming: New age rating content descriptors in App Store Connect",
+    "link": "https://developer.apple.com/news/?id=yxkh08us",
+    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS",
-   "link": "https://developer.apple.com/news/?id=w9mxlhek",
-   "date": "29 Oct 2026"
+   "title": "Upcoming: New age rating content descriptors in App Store Connect",
+   "link": "https://developer.apple.com/news/?id=yxkh08us",
+   "date": "02 Nov 2026"
   },
   "fails": 0
  },
