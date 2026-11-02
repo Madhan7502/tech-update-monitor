@@ -329,7 +329,6 @@
   "seen": [
    "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
    "d5984ef7453dd8f49e680d707090c120f10cc32e",
-   "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
    "ff53d793f3546d3790211b5684726f1b87870b69",
@@ -355,7 +354,6 @@
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
-   "994f50277f499e61c223462dc874510bfeef240d",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
@@ -364,6 +362,8 @@
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
    "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
    "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
+   "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
+   "994f50277f499e61c223462dc874510bfeef240d",
    "61c44aa8dbf37dc6d92a3824f223e6a79783be92",
    "0fe2216f63cfdf78bee439d43f396fcdc04e0c53",
    "ec33662ff82bc3a0beeef8b7845544e9bb4ee3b9",
@@ -415,6 +415,7 @@
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
    "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
+   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -595,7 +596,7 @@
   },
   "fails": 0,
   "pending": [],
-  "digest_date": "31 Oct 2026"
+  "digest_date": "02 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
@@ -760,6 +761,7 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
    "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
    "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
    "tag:developer.android.com,2026-10-28:/blog/posts/ai-agents-android-studio-integration",
@@ -786,15 +788,15 @@
   ],
   "recent": [
    {
-    "title": "Agentic and Flexible: A next era of Android development",
-    "link": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
-    "date": "28 Oct 2026"
+    "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
+    "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
+    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Agentic and Flexible: A next era of Android development",
-   "link": "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development",
-   "date": "28 Oct 2026"
+   "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
+   "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
+   "date": "02 Nov 2026"
   },
   "fails": 0
  },
@@ -1414,6 +1416,7 @@
  },
  "facebook-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/738491/v19.0.1",
    "tag:github.com,2008:Repository/738491/v19.0.0",
    "tag:github.com,2008:Repository/738491/v18.1.1",
    "tag:github.com,2008:Repository/738491/v18.1.0",
@@ -1427,15 +1430,15 @@
   ],
   "recent": [
    {
-    "title": "Facebook SDK v19.0.0",
-    "link": "https://github.com/meta/facebook-ios-sdk/releases/tag/v19.0.0",
-    "date": "19 Oct 2026"
+    "title": "Facebook SDK v19.0.1",
+    "link": "https://github.com/meta/facebook-ios-sdk/releases/tag/v19.0.1",
+    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Facebook SDK v19.0.0",
-   "link": "https://github.com/meta/facebook-ios-sdk/releases/tag/v19.0.0",
-   "date": "19 Oct 2026"
+   "title": "Facebook SDK v19.0.1",
+   "link": "https://github.com/meta/facebook-ios-sdk/releases/tag/v19.0.1",
+   "date": "02 Nov 2026"
   },
   "fails": 0
  },
