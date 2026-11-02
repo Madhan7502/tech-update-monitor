@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,21 +83,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Updated PHP Windows builds for Brotli security fix",
+    "link": "https://www.php.net/index.php#2026-10-26-1",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Updated PHP Windows builds for Brotli security fix",
+   "link": "https://www.php.net/index.php#2026-10-26-1",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
@@ -416,6 +416,7 @@
    "637ec7b2739626a1f8d2b6b4d60251111447301d",
    "f9dac3090f79f2c3f400924a47c27d357c685663",
    "45605d11543599bd61c012b182ca7d8ac813abd8",
+   "658460b6f929f397164b8c531f138be0c3d00bee",
    "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
@@ -591,14 +592,14 @@
     "date": "02 Nov 2026"
    },
    {
-    "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
+    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
     "date": "02 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
-    "date": "30 Oct 2026"
+    "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
+    "date": "02 Nov 2026"
    }
   ],
   "latest": {
@@ -652,6 +653,11 @@
     "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
     "summary": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block, giving you more control over how your customer experience flows react to real-time data changes. In addition to waiting for a Lambda …"
+   },
+   {
+    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
+    "summary": "Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your AMIs without launching instances or installing additional software. T…"
    }
   ],
   "digest_date": "02 Nov 2026"
