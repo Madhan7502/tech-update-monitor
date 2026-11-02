@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -352,6 +352,7 @@
    "3fe0a88cff07c5c613cb809e24cc4ef2599ea901",
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
    "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
+   "d1dc74af84e7d562ddce7195c94840bed5edf948",
    "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
@@ -393,14 +394,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-120497 - Stored cross-site scripting in the HTML report generator of aidlc-traceability in AWS AI-DLC Workflows",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-163-aws/",
+    "title": "CVE-2026-116635 - Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/",
     "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-120497 - Stored cross-site scripting in the HTML report generator of aidlc-traceability in AWS AI-DLC Workflows",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-163-aws/",
+   "title": "CVE-2026-116635 - Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/",
    "date": "02 Nov 2026"
   },
   "fails": 0
@@ -414,6 +415,7 @@
    "397a47fb048607862de5231fc2f7aa38e1d09bc6",
    "637ec7b2739626a1f8d2b6b4d60251111447301d",
    "f9dac3090f79f2c3f400924a47c27d357c685663",
+   "45605d11543599bd61c012b182ca7d8ac813abd8",
    "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
@@ -584,6 +586,11 @@
     "date": "02 Nov 2026"
    },
    {
+    "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
+    "date": "02 Nov 2026"
+   },
+   {
     "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
     "date": "02 Nov 2026"
@@ -591,11 +598,6 @@
    {
     "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
-    "date": "30 Oct 2026"
-   },
-   {
-    "title": "Web Search now available on Kiro in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
     "date": "30 Oct 2026"
    }
   ],
@@ -645,6 +647,11 @@
     "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
     "summary": "Amazon CloudFront now supports AWS Service Quotas, so you can view, monitor, and request increases for 28 CloudFront quotas from the Service Quotas console or API. Until now, increasing a quota on resources such as distr…"
+   },
+   {
+    "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
+    "summary": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block, giving you more control over how your customer experience flows react to real-time data changes. In addition to waiting for a Lambda …"
    }
   ],
   "digest_date": "02 Nov 2026"
