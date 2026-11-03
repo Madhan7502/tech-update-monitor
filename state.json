@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,21 +83,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Updated PHP Windows builds for Brotli security fix",
+    "link": "https://www.php.net/index.php#2026-10-26-1",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Updated PHP Windows builds for Brotli security fix",
+   "link": "https://www.php.net/index.php#2026-10-26-1",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
@@ -408,6 +408,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
    "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e",
    "183cdd10ccbab444b1698a32a2db0762830e99e9",
@@ -416,8 +417,8 @@
    "ce25bc1fe5273df0394d6723f5dee14ec9d782c9",
    "f9dac3090f79f2c3f400924a47c27d357c685663",
    "45605d11543599bd61c012b182ca7d8ac813abd8",
-   "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
+   "658460b6f929f397164b8c531f138be0c3d00bee",
    "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
@@ -554,6 +555,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
     "date": "02 Nov 2026"
@@ -594,20 +600,15 @@
     "date": "02 Nov 2026"
    },
    {
-    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
-    "date": "02 Nov 2026"
-   },
-   {
     "title": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/",
     "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-   "date": "02 Nov 2026"
+   "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+   "date": "03 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -670,6 +671,11 @@
     "title": "Announcing an updated text detection model for Amazon Textract",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-text-detection-model/",
     "summary": "Amazon Textract now provides an updated text detection model that improves accuracy, expands language support, and enhances multilingual table extraction. The updated model applies to the DetectDocumentText and AnalyzeDo…"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports M8i and R8i instances in additional AWS Regions. Both M8i and R8i instances are now available in Asia Pacific (New Zealand) and Canada West (Calgary…"
    }
   ],
   "digest_date": "02 Nov 2026"
