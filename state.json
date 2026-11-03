@@ -419,8 +419,9 @@
    "45605d11543599bd61c012b182ca7d8ac813abd8",
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
-   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
    "6a144260487c990b3439413a03e5206226a61f43",
+   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -611,7 +612,13 @@
    "date": "03 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.1",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-1",
+    "summary": "AWS for Fluent Bit announces version 3.0.0 , based on Fluent Bit version 4.1.1 and Amazon Linux 2023. Container logging using AWS for Fluent Bit is now more performant and more feature-rich for AWS customers, including t…"
+   }
+  ],
   "digest_date": "03 Nov 2026"
  },
  "apple-dev-releases": {
