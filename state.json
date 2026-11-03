@@ -359,6 +359,7 @@
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
+   "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
@@ -396,14 +397,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+    "title": "CVE-2026-119084 - Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/",
     "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+   "title": "CVE-2026-119084 - Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/",
    "date": "03 Nov 2026"
   },
   "fails": 0
@@ -411,6 +412,7 @@
  "aws-whats-new": {
   "seen": [
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
+   "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
@@ -426,8 +428,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -567,6 +569,11 @@
     "date": "03 Nov 2026"
    },
    {
+    "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "AWS Config now supports 10 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
     "date": "03 Nov 2026"
@@ -605,11 +612,6 @@
     "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
     "date": "02 Nov 2026"
-   },
-   {
-    "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
-    "date": "02 Nov 2026"
    }
   ],
   "latest": {
@@ -643,6 +645,11 @@
     "title": "AWS Config now supports 10 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
     "summary": "AWS Config now supports 10 additional AWS resource types across key services including Amazon ElastiCache and Amazon QuickSight. This expansion provides greater coverage over your AWS environment, enabling you to more ef…"
+   },
+   {
+    "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+    "summary": "Amazon Connect Customer automatically fills in the customer’s email address from the linked customer profile when agents start a new email thread from a case. This saves agents time and reduces manual entry errors by eli…"
    }
   ],
   "digest_date": "03 Nov 2026"
