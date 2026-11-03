@@ -1026,10 +1026,11 @@
    "9.5.24",
    "9.5.25",
    "9.5.26",
-   "9.5.28"
+   "9.5.28",
+   "9.5.29"
   ],
   "latest": {
-   "title": "Latest stable version: 9.5.28",
+   "title": "Latest stable version: 9.5.29",
    "link": "https://developer.android.com/build/shrink-code",
    "date": ""
   },
