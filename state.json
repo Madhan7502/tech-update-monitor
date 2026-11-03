@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,21 +83,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "Updated PHP Windows builds for Brotli security fix",
+    "link": "https://www.php.net/index.php#2026-10-26-1",
+    "date": "26 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "Updated PHP Windows builds for Brotli security fix",
+   "link": "https://www.php.net/index.php#2026-10-26-1",
+   "date": "26 Oct 2026"
   },
   "fails": 0
  },
@@ -431,8 +431,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -441,10 +441,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
