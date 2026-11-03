@@ -408,6 +408,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
    "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e",
@@ -431,8 +432,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -441,10 +442,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
@@ -556,6 +557,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
     "date": "03 Nov 2026"
@@ -599,16 +605,11 @@
     "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
     "date": "02 Nov 2026"
-   },
-   {
-    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
-    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+   "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
    "date": "03 Nov 2026"
   },
   "fails": 0,
@@ -617,6 +618,11 @@
     "title": "Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.1",
     "link": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-1",
     "summary": "AWS for Fluent Bit announces version 3.0.0 , based on Fluent Bit version 4.1.1 and Amazon Linux 2023. Container logging using AWS for Fluent Bit is now more performant and more feature-rich for AWS customers, including t…"
+   },
+   {
+    "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+    "summary": "The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports Argo CD Notifications, providing notifications when your applications sync, fail, or change health. You define triggers and message t…"
    }
   ],
   "digest_date": "03 Nov 2026"
