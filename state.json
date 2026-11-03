@@ -330,6 +330,7 @@
    "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
    "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
    "d5984ef7453dd8f49e680d707090c120f10cc32e",
+   "da30ae6a1da3419f1a5c9d59832fb5bbe74873d3",
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
    "ff53d793f3546d3790211b5684726f1b87870b69",
@@ -358,8 +359,10 @@
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
+   "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
+   "56b57968e580bf11f441ecf31a5b8a9afe448a88",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
@@ -389,25 +392,25 @@
    "f7f64245a3266643e8774537e1fd4769f8941282",
    "d49f5f70816df8a0811f1908899de1dbddcfba88",
    "f91926ec56d6d7fde8ce69e8c06abb63033cedd7",
-   "ee09ab7fd29f155e023ed25e0ceabdf8379daca2",
-   "72e0fb9d5e67d44108f265509e13ed134a146d90"
+   "ee09ab7fd29f155e023ed25e0ceabdf8379daca2"
   ],
   "recent": [
    {
-    "title": "CVE-2026-116635 - Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/",
-    "date": "02 Nov 2026"
+    "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+    "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-116635 - Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/",
-   "date": "02 Nov 2026"
+   "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+   "date": "03 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
@@ -432,8 +435,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
+   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -442,10 +445,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "299514e963fee2299882c211483246d8655b2c33",
-   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "51394e29679c98b5e16fde925542e43fb0ffd0a8",
+   "299514e963fee2299882c211483246d8655b2c33",
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
@@ -557,6 +560,11 @@
   ],
   "recent": [
    {
+    "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
     "date": "03 Nov 2026"
@@ -600,16 +608,11 @@
     "title": "Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/",
     "date": "02 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
-    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
+   "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
    "date": "03 Nov 2026"
   },
   "fails": 0,
@@ -623,6 +626,11 @@
     "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
     "summary": "The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports Argo CD Notifications, providing notifications when your applications sync, fail, or change health. You define triggers and message t…"
+   },
+   {
+    "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
+    "summary": "AWS Transform for mainframe now discovers business functions with field-level precision and generates a new requirements coverage report in the assess and reimagine workflow. Previously, business functions that used the …"
    }
   ],
   "digest_date": "03 Nov 2026"
@@ -700,6 +708,8 @@
  },
  "apple-dev-news": {
   "seen": [
+   "https://developer.apple.com/news/?id=gdk2umrf",
+   "https://developer.apple.com/news/?id=6gpufove",
    "https://developer.apple.com/news/?id=yxkh08us",
    "https://developer.apple.com/news/?id=w9mxlhek",
    "https://developer.apple.com/news/?id=i9boeiqc",
@@ -766,15 +776,15 @@
   ],
   "recent": [
    {
-    "title": "Upcoming: New age rating content descriptors in App Store Connect",
-    "link": "https://developer.apple.com/news/?id=yxkh08us",
-    "date": "02 Nov 2026"
+    "title": "Siri AI is now open to all developers",
+    "link": "https://developer.apple.com/news/?id=gdk2umrf",
+    "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Upcoming: New age rating content descriptors in App Store Connect",
-   "link": "https://developer.apple.com/news/?id=yxkh08us",
-   "date": "02 Nov 2026"
+   "title": "Siri AI is now open to all developers",
+   "link": "https://developer.apple.com/news/?id=gdk2umrf",
+   "date": "03 Nov 2026"
   },
   "fails": 0
  },
