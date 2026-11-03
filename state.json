@@ -417,8 +417,8 @@
    "ce25bc1fe5273df0394d6723f5dee14ec9d782c9",
    "f9dac3090f79f2c3f400924a47c27d357c685663",
    "45605d11543599bd61c012b182ca7d8ac813abd8",
-   "684adca7753d41094e153834c9c8981e9f0f00d8",
    "658460b6f929f397164b8c531f138be0c3d00bee",
+   "684adca7753d41094e153834c9c8981e9f0f00d8",
    "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
@@ -430,20 +430,20 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
-   "c447ee5df3f8309ca884fc41318c20931c019601",
+   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
+   "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
    "a218ad130e39a4672fb58325557de5656bebd26b",
    "ce6ed10f75f13bd11f6653742108c16da3a4eadf",
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "299514e963fee2299882c211483246d8655b2c33",
-   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "51394e29679c98b5e16fde925542e43fb0ffd0a8",
+   "299514e963fee2299882c211483246d8655b2c33",
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
@@ -600,8 +600,8 @@
     "date": "02 Nov 2026"
    },
    {
-    "title": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/",
+    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
     "date": "02 Nov 2026"
    }
   ],
@@ -611,74 +611,8 @@
    "date": "03 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon RDS now supports per snapshot billing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
-    "summary": "Starting today, Amazon RDS supports per snapshot billing for Amazon RDS snapshots. Per snapshot billing allows you to get the cost of each individual snapshot. Previously, RDS snapshot charges were aggregated at the data…"
-   },
-   {
-    "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
-    "summary": "For organizations that use Amazon Quick, the desktop application now signs users in with the same sign-in method the organization already uses for Quick on the web. Administrators no longer need to register an OIDC appli…"
-   },
-   {
-    "title": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/",
-    "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.46, which includes community MySQL fixes and Aurora-specific improvements. In addition to operational improvements, …"
-   },
-   {
-    "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
-    "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 supports MySQL 8.4.10. We recommend upgrading to the newer minor versions to accept fixes for Common Vulnerabilities and Exposures (CVEs) in prior versions of My…"
-   },
-   {
-    "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-    "summary": "A new Anthropic model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. With Haiku 5.5, all three Claude 5.5 models are now available in Kiro in AWS GovCloud (US). Claude Haiku 5.5 is the fastes…"
-   },
-   {
-    "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
-    "summary": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event source mappings (ESM), for Kafka clusters that customers run themselves and for managed offerings such as Confluent Cloud. Customers can now sca…"
-   },
-   {
-    "title": "Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/",
-    "summary": "Amazon Connect Customer now enables you to invoke Model Context Protocol (MCP) tools in customer experience flows through the new 'External Tool' block. With this launch, you can connect flows to third-party applications…"
-   },
-   {
-    "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
-    "summary": "Amazon CloudFront now supports AWS Service Quotas, so you can view, monitor, and request increases for 28 CloudFront quotas from the Service Quotas console or API. Until now, increasing a quota on resources such as distr…"
-   },
-   {
-    "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
-    "summary": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block, giving you more control over how your customer experience flows react to real-time data changes. In addition to waiting for a Lambda …"
-   },
-   {
-    "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
-    "summary": "Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your AMIs without launching instances or installing additional software. T…"
-   },
-   {
-    "title": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/",
-    "summary": "Amazon Textract is now available in the Asia Pacific (Tokyo) and Europe (Zurich) Regions. Amazon Textract is a machine learning service that automatically extracts text, handwriting, and data from scanned documents, goin…"
-   },
-   {
-    "title": "Announcing an updated text detection model for Amazon Textract",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-text-detection-model/",
-    "summary": "Amazon Textract now provides an updated text detection model that improves accuracy, expands language support, and enhances multilingual table extraction. The updated model applies to the DetectDocumentText and AnalyzeDo…"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
-    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports M8i and R8i instances in additional AWS Regions. Both M8i and R8i instances are now available in Asia Pacific (New Zealand) and Canada West (Calgary…"
-   }
-  ],
-  "digest_date": "02 Nov 2026"
+  "pending": [],
+  "digest_date": "03 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
