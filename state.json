@@ -414,6 +414,7 @@
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
+   "b98196ed032920a1f754c112d39dc2a641a9b771",
    "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
@@ -579,6 +580,11 @@
     "date": "03 Nov 2026"
    },
    {
+    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
     "date": "03 Nov 2026"
@@ -606,11 +612,6 @@
    {
     "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
-    "date": "02 Nov 2026"
-   },
-   {
-    "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
     "date": "02 Nov 2026"
    }
   ],
@@ -650,12 +651,25 @@
     "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
     "summary": "Amazon Connect Customer automatically fills in the customer’s email address from the linked customer profile when agents start a new email thread from a case. This saves agents time and reduces manual entry errors by eli…"
+   },
+   {
+    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Mi…"
    }
   ],
   "digest_date": "03 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=11032026h",
+   "https://developer.apple.com/news/releases/?id=11032026g",
+   "https://developer.apple.com/news/releases/?id=11032026a",
+   "https://developer.apple.com/news/releases/?id=11032026b",
+   "https://developer.apple.com/news/releases/?id=11032026c",
+   "https://developer.apple.com/news/releases/?id=11032026d",
+   "https://developer.apple.com/news/releases/?id=11032026e",
+   "https://developer.apple.com/news/releases/?id=11032026f",
    "https://developer.apple.com/news/releases/?id=10302026a",
    "https://developer.apple.com/news/releases/?id=10292026a",
    "https://developer.apple.com/news/releases/?id=10262026a",
@@ -670,7 +684,6 @@
    "https://developer.apple.com/news/releases/?id=10262026j",
    "https://developer.apple.com/news/releases/?id=10222026a",
    "https://developer.apple.com/news/releases/?id=10152026a",
-   "https://developer.apple.com/news/releases/?id=10142026c",
    "https://developer.apple.com/news/releases/?id=10062026a",
    "https://developer.apple.com/news/releases/?id=10052026d",
    "https://developer.apple.com/news/releases/?id=09282026e",
@@ -699,6 +712,7 @@
    "https://developer.apple.com/news/releases/?id=05112026k",
    "https://developer.apple.com/news/releases/?id=05112026l",
    "https://developer.apple.com/news/releases/?id=05112026m",
+   "https://developer.apple.com/news/releases/?id=10142026c",
    "https://developer.apple.com/news/releases/?id=10202026a",
    "https://developer.apple.com/news/releases/?id=10192026g",
    "https://developer.apple.com/news/releases/?id=10192026a",
@@ -713,15 +727,15 @@
   ],
   "recent": [
    {
-    "title": "App Store Connect Update",
-    "link": "https://developer.apple.com/news/releases/?id=10302026a",
-    "date": "30 Oct 2026"
+    "title": "TestFlight Update",
+    "link": "https://developer.apple.com/news/releases/?id=11032026h",
+    "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "App Store Connect Update",
-   "link": "https://developer.apple.com/news/releases/?id=10302026a",
-   "date": "30 Oct 2026"
+   "title": "TestFlight Update",
+   "link": "https://developer.apple.com/news/releases/?id=11032026h",
+   "date": "03 Nov 2026"
   },
   "fails": 0
  },
