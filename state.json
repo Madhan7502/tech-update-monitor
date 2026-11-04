@@ -368,6 +368,7 @@
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
+   "d01e56f4bafc001da89c0b9537a406966dd9391b",
    "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
    "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
    "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
@@ -398,20 +399,21 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119084 - Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/",
-    "date": "03 Nov 2026"
+    "title": "CVE-2026-122192 - Guest Access to Firecracker Process Memory After a Failed Memory Discard",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/",
+    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119084 - Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/",
-   "date": "03 Nov 2026"
+   "title": "CVE-2026-122192 - Guest Access to Firecracker Process Memory After a Failed Memory Discard",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/",
+   "date": "04 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
    "b6b6780958fddc6e533d47386c625a9a31ff8195",
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
    "89ed024be140b595e9141060046a7bf40629b0b3",
@@ -433,8 +435,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "6a144260487c990b3439413a03e5206226a61f43",
+   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -444,8 +446,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -454,13 +456,13 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
-   "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
+   "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -569,6 +571,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
     "date": "04 Nov 2026"
@@ -612,16 +619,11 @@
     "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
     "date": "03 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
-    "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+   "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
    "date": "04 Nov 2026"
   },
   "fails": 0,
@@ -640,6 +642,11 @@
     "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
     "summary": "AWS Interconnect - last mile is now available in preview with Equinix. You can connect your infrastructure across Equinix's global network of 282 data centers worldwide to AWS in a few clicks. Interconnect - last mile gi…"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
+    "summary": "Amazon RDS for Oracle now lets you copy the option group associated with a DB snapshot when you copy that snapshot to another AWS Region. Amazon RDS for Oracle uses option groups to enable and configure features that mak…"
    }
   ],
   "digest_date": "04 Nov 2026"
