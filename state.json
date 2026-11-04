@@ -415,6 +415,7 @@
   "seen": [
    "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
    "b6b6780958fddc6e533d47386c625a9a31ff8195",
+   "ed422b711fac8f5c81a9ce8efd56fecf4a44c54a",
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
    "89ed024be140b595e9141060046a7bf40629b0b3",
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
@@ -435,8 +436,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -461,8 +462,8 @@
    "15c2982606a5dccd557757ececeda4fa0430fe18",
    "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
-   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
+   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -581,6 +582,11 @@
     "date": "04 Nov 2026"
    },
    {
+    "title": "New features for Amazon EC2 Capacity Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "Amazon Connect Customer lets agents pause and resume emails",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
     "date": "03 Nov 2026"
@@ -614,11 +620,6 @@
     "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
     "date": "03 Nov 2026"
-   },
-   {
-    "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
-    "date": "03 Nov 2026"
    }
   ],
   "latest": {
@@ -647,6 +648,11 @@
     "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
     "summary": "Amazon RDS for Oracle now lets you copy the option group associated with a DB snapshot when you copy that snapshot to another AWS Region. Amazon RDS for Oracle uses option groups to enable and configure features that mak…"
+   },
+   {
+    "title": "New features for Amazon EC2 Capacity Manager",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
+    "summary": "Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help customers find capacity by scoring how well each instance type and Availabilit…"
    }
   ],
   "digest_date": "04 Nov 2026"
