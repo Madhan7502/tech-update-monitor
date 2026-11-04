@@ -412,6 +412,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "b6b6780958fddc6e533d47386c625a9a31ff8195",
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
    "89ed024be140b595e9141060046a7bf40629b0b3",
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
@@ -568,6 +569,11 @@
   ],
   "recent": [
    {
+    "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "Amazon Connect Customer lets agents pause and resume emails",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
     "date": "03 Nov 2026"
@@ -611,17 +617,12 @@
     "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
     "date": "03 Nov 2026"
-   },
-   {
-    "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-    "date": "02 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Connect Customer lets agents pause and resume emails",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
-   "date": "03 Nov 2026"
+   "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+   "date": "04 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -634,12 +635,18 @@
     "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
     "summary": "Amazon CloudWatch now supports bearer token authentication, using API keys (bearer tokens), as an additional option for sending OpenTelemetry traces to the AWS X-Ray OpenTelemetry Protocol (OTLP) traces endpoint. Any OTL…"
+   },
+   {
+    "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+    "summary": "AWS Interconnect - last mile is now available in preview with Equinix. You can connect your infrastructure across Equinix's global network of 282 data centers worldwide to AWS in a few clicks. Interconnect - last mile gi…"
    }
   ],
   "digest_date": "04 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=11042026a",
    "https://developer.apple.com/news/releases/?id=11032026h",
    "https://developer.apple.com/news/releases/?id=11032026g",
    "https://developer.apple.com/news/releases/?id=11032026a",
@@ -662,15 +669,12 @@
    "https://developer.apple.com/news/releases/?id=10262026j",
    "https://developer.apple.com/news/releases/?id=10222026a",
    "https://developer.apple.com/news/releases/?id=10152026a",
-   "https://developer.apple.com/news/releases/?id=10062026a",
    "https://developer.apple.com/news/releases/?id=10052026d",
    "https://developer.apple.com/news/releases/?id=09282026e",
    "https://developer.apple.com/news/releases/?id=09282026a",
    "https://developer.apple.com/news/releases/?id=09282026b",
    "https://developer.apple.com/news/releases/?id=09282026c",
    "https://developer.apple.com/news/releases/?id=09282026d",
-   "https://developer.apple.com/news/releases/?id=09223026a",
-   "https://developer.apple.com/news/releases/?id=09222026a",
    "https://developer.apple.com/news/releases/?id=09182026a",
    "https://developer.apple.com/news/releases/?id=09142026h",
    "https://developer.apple.com/news/releases/?id=09142026d",
@@ -690,6 +694,9 @@
    "https://developer.apple.com/news/releases/?id=05112026k",
    "https://developer.apple.com/news/releases/?id=05112026l",
    "https://developer.apple.com/news/releases/?id=05112026m",
+   "https://developer.apple.com/news/releases/?id=10062026a",
+   "https://developer.apple.com/news/releases/?id=09223026a",
+   "https://developer.apple.com/news/releases/?id=09222026a",
    "https://developer.apple.com/news/releases/?id=10142026c",
    "https://developer.apple.com/news/releases/?id=10202026a",
    "https://developer.apple.com/news/releases/?id=10192026g",
@@ -705,15 +712,15 @@
   ],
   "recent": [
    {
-    "title": "TestFlight Update",
-    "link": "https://developer.apple.com/news/releases/?id=11032026h",
-    "date": "03 Nov 2026"
+    "title": "App Store Connect 3.3.1",
+    "link": "https://developer.apple.com/news/releases/?id=11042026a",
+    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "TestFlight Update",
-   "link": "https://developer.apple.com/news/releases/?id=11032026h",
-   "date": "03 Nov 2026"
+   "title": "App Store Connect 3.3.1",
+   "link": "https://developer.apple.com/news/releases/?id=11042026a",
+   "date": "04 Nov 2026"
   },
   "fails": 0
  },
@@ -1677,8 +1684,8 @@
  },
  "firebase-ios": {
   "seen": [
-   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0.nightly",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0.nightly",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0-beta",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
    "tag:github.com,2008:Repository/89033556/13.1.1",
