@@ -337,6 +337,7 @@
    "ff53d793f3546d3790211b5684726f1b87870b69",
    "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
    "9d700919e2f70330d633e01c546b31d90b1d2f48",
+   "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
    "7bfd65ffb87e18d21dd01d08cf6ab19279d1c0c4",
    "673bae0c00db5a735d35b34fe46471676b93f07b",
    "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
@@ -399,24 +400,27 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-122192 - Guest Access to Firecracker Process Memory After a Failed Memory Discard",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/",
+    "title": "CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/",
     "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-122192 - Guest Access to Firecracker Process Memory After a Failed Memory Discard",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/",
+   "title": "CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/",
    "date": "04 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "fe7e9f57ad24e5d72930c66717ee0d7684ecc174",
    "c709ece569c34ea5d43f9ba42100f73be326cc95",
    "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
    "b6b6780958fddc6e533d47386c625a9a31ff8195",
+   "824d6b17856a1981502dec09f1fe7c88f34dbdc6",
    "020b078d0397d878fecd01105f89c3380742f318",
+   "8a81da6a4c78bb86eb232b0756e6431d3bc2e9c3",
    "df4e4919eada171d3fa2618c2f13290ac4fb0057",
    "ed422b711fac8f5c81a9ce8efd56fecf4a44c54a",
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
@@ -439,8 +443,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "6a144260487c990b3439413a03e5206226a61f43",
+   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -450,8 +454,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
+   "a9b496609d0857f97431ca87eb482869bc61d76a",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -460,13 +464,13 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "299514e963fee2299882c211483246d8655b2c33",
-   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "51394e29679c98b5e16fde925542e43fb0ffd0a8",
+   "299514e963fee2299882c211483246d8655b2c33",
+   "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "15c2982606a5dccd557757ececeda4fa0430fe18",
    "6743432091dcce59d373592f5240046ae19f2042",
-   "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
+   "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -575,6 +579,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
     "date": "04 Nov 2026"
@@ -590,8 +599,18 @@
     "date": "04 Nov 2026"
    },
    {
+    "title": "Amazon Connect Customer now shows associated cases in contact records",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "Amazon EC2 and VPC now display related resources for all resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
+    "date": "04 Nov 2026"
+   },
+   {
+    "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
     "date": "04 Nov 2026"
    },
    {
@@ -608,26 +627,11 @@
     "title": "Amazon Connect Customer lets agents pause and resume emails",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
     "date": "03 Nov 2026"
-   },
-   {
-    "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
-    "date": "03 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
-    "date": "03 Nov 2026"
-   },
-   {
-    "title": "AWS Config now supports 10 new resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
-    "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
+   "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
    "date": "04 Nov 2026"
   },
   "fails": 0,
@@ -671,6 +675,21 @@
     "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
     "summary": "AWS announces new Linux bundles for Amazon WorkSpaces Personal, including Rocky Linux 10, Red Hat Enterprise Linux 10, and Ubuntu 26.04 LTS. With these bundles, you can launch WorkSpaces on the latest enterprise Linux op…"
+   },
+   {
+    "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
+    "summary": "Amazon Elastic Container Service (Amazon ECS) introduces json-file log driver support for Amazon ECS Managed Instances and log driver volumes for Amazon ECS Managed Daemons. Together, these features let you collect appli…"
+   },
+   {
+    "title": "Amazon Connect Customer now shows associated cases in contact records",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/",
+    "summary": "Amazon Connect Customer now includes case IDs and reference numbers in contact records, helping supervisors and analysts understand which customer issues drive contact volume. Cases track issues, such as refund requests …"
+   },
+   {
+    "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
+    "summary": "AWS DataSync Enhanced mode now supports OpenID Connect (OIDC) authentication for Google Cloud Storage and Microsoft Azure Blob Storage locations. DataSync uses an AWS Identity and Access Management (IAM) role to get shor…"
    }
   ],
   "digest_date": "04 Nov 2026"
