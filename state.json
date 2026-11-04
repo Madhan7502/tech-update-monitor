@@ -429,8 +429,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "6a144260487c990b3439413a03e5206226a61f43",
+   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -621,44 +621,8 @@
    "date": "03 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.1",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-1",
-    "summary": "AWS for Fluent Bit announces version 3.0.0 , based on Fluent Bit version 4.1.1 and Amazon Linux 2023. Container logging using AWS for Fluent Bit is now more performant and more feature-rich for AWS customers, including t…"
-   },
-   {
-    "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
-    "summary": "The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports Argo CD Notifications, providing notifications when your applications sync, fail, or change health. You define triggers and message t…"
-   },
-   {
-    "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
-    "summary": "AWS Transform for mainframe now discovers business functions with field-level precision and generates a new requirements coverage report in the assess and reimagine workflow. Previously, business functions that used the …"
-   },
-   {
-    "title": "Amazon Connect Customer lets agents pause and resume emails",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
-    "summary": "Amazon Connect Customer lets agents pause emails while waiting for information or approvals, freeing them to handle higher-priority contacts and resume their work later. For example, an agent waiting for a supervisor to …"
-   },
-   {
-    "title": "AWS Config now supports 10 new resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
-    "summary": "AWS Config now supports 10 additional AWS resource types across key services including Amazon ElastiCache and Amazon QuickSight. This expansion provides greater coverage over your AWS environment, enabling you to more ef…"
-   },
-   {
-    "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
-    "summary": "Amazon Connect Customer automatically fills in the customer’s email address from the linked customer profile when agents start a new email thread from a case. This saves agents time and reduces manual entry errors by eli…"
-   },
-   {
-    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-    "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support for Mi…"
-   }
-  ],
-  "digest_date": "03 Nov 2026"
+  "pending": [],
+  "digest_date": "04 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
