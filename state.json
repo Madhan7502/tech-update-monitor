@@ -443,8 +443,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -469,8 +469,8 @@
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
    "6743432091dcce59d373592f5240046ae19f2042",
-   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
+   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -776,6 +776,7 @@
  },
  "apple-dev-news": {
   "seen": [
+   "https://developer.apple.com/news/?id=fk9ps3gv",
    "https://developer.apple.com/news/?id=gdk2umrf",
    "https://developer.apple.com/news/?id=6gpufove",
    "https://developer.apple.com/news/?id=yxkh08us",
@@ -844,15 +845,15 @@
   ],
   "recent": [
    {
-    "title": "Siri AI is now open to all developers",
-    "link": "https://developer.apple.com/news/?id=gdk2umrf",
-    "date": "03 Nov 2026"
+    "title": "Now available: Retention messages for subscriptions",
+    "link": "https://developer.apple.com/news/?id=fk9ps3gv",
+    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Siri AI is now open to all developers",
-   "link": "https://developer.apple.com/news/?id=gdk2umrf",
-   "date": "03 Nov 2026"
+   "title": "Now available: Retention messages for subscriptions",
+   "link": "https://developer.apple.com/news/?id=fk9ps3gv",
+   "date": "04 Nov 2026"
   },
   "fails": 0
  },
