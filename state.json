@@ -1427,6 +1427,7 @@
  },
  "facebook-android": {
   "seen": [
+   "tag:github.com,2008:Repository/659341/sdk-version-19.0.1",
    "tag:github.com,2008:Repository/659341/sdk-version-19.0.0",
    "tag:github.com,2008:Repository/659341/sdk-version-18.3.0",
    "tag:github.com,2008:Repository/659341/sdk-version-18.2.3",
@@ -1440,15 +1441,15 @@
   ],
   "recent": [
    {
-    "title": "sdk-version-19.0.0",
-    "link": "https://github.com/meta/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
-    "date": "16 Oct 2026"
+    "title": "sdk-version-19.0.1",
+    "link": "https://github.com/meta/facebook-android-sdk/releases/tag/sdk-version-19.0.1",
+    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "sdk-version-19.0.0",
-   "link": "https://github.com/meta/facebook-android-sdk/releases/tag/sdk-version-19.0.0",
-   "date": "16 Oct 2026"
+   "title": "sdk-version-19.0.1",
+   "link": "https://github.com/meta/facebook-android-sdk/releases/tag/sdk-version-19.0.1",
+   "date": "04 Nov 2026"
   },
   "fails": 0
  },
