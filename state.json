@@ -418,6 +418,7 @@
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
    "282ae2276740d0cab2442abc6cb00f23af6023cf",
+   "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
@@ -431,8 +432,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -457,8 +458,8 @@
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
    "6743432091dcce59d373592f5240046ae19f2042",
-   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
+   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
    "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
@@ -597,6 +598,11 @@
     "date": "03 Nov 2026"
    },
    {
+    "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "Amazon EKS Capabilities now supports Argo CD Notifications",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications",
     "date": "03 Nov 2026"
@@ -609,11 +615,6 @@
    {
     "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
-    "date": "02 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS now supports per snapshot billing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
     "date": "02 Nov 2026"
    }
   ],
@@ -628,6 +629,11 @@
     "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
     "summary": "WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operating system that its workflows and applications require. Your agents can the…"
+   },
+   {
+    "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
+    "summary": "Amazon CloudWatch now supports bearer token authentication, using API keys (bearer tokens), as an additional option for sending OpenTelemetry traces to the AWS X-Ray OpenTelemetry Protocol (OTLP) traces endpoint. Any OTL…"
    }
   ],
   "digest_date": "04 Nov 2026"
@@ -806,6 +812,7 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-04:/blog/posts/build-for-every-screen-jetpack-compose-updates",
    "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
    "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
    "tag:developer.android.com,2026-10-28:/blog/posts/android-dev-summit-26-developer-tools-performance",
@@ -833,15 +840,15 @@
   ],
   "recent": [
    {
-    "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
-    "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
-    "date": "02 Nov 2026"
+    "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
+    "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
+    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Developing for Today: 50+ New Developer Sessions on Building Apps Today",
-   "link": "https://developer.android.com/blog/posts/building-apps-developer-sessions",
-   "date": "02 Nov 2026"
+   "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
+   "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
+   "date": "04 Nov 2026"
   },
   "fails": 0
  },
