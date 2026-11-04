@@ -413,8 +413,11 @@
  },
  "aws-whats-new": {
   "seen": [
+   "c709ece569c34ea5d43f9ba42100f73be326cc95",
    "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
    "b6b6780958fddc6e533d47386c625a9a31ff8195",
+   "020b078d0397d878fecd01105f89c3380742f318",
+   "df4e4919eada171d3fa2618c2f13290ac4fb0057",
    "ed422b711fac8f5c81a9ce8efd56fecf4a44c54a",
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
    "89ed024be140b595e9141060046a7bf40629b0b3",
@@ -572,6 +575,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
     "date": "04 Nov 2026"
@@ -579,6 +587,16 @@
    {
     "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+    "date": "04 Nov 2026"
+   },
+   {
+    "title": "Amazon EC2 and VPC now display related resources for all resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
+    "date": "04 Nov 2026"
+   },
+   {
+    "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
     "date": "04 Nov 2026"
    },
    {
@@ -605,26 +623,11 @@
     "title": "AWS Config now supports 10 new resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types",
     "date": "03 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-    "date": "03 Nov 2026"
-   },
-   {
-    "title": "AWS Transform for mainframe improves the reimagine modernization workflow",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/",
-    "date": "03 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
-    "date": "03 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
+   "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
    "date": "04 Nov 2026"
   },
   "fails": 0,
@@ -653,6 +656,21 @@
     "title": "New features for Amazon EC2 Capacity Manager",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
     "summary": "Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help customers find capacity by scoring how well each instance type and Availabilit…"
+   },
+   {
+    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
+    "summary": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions, adding to the list of available Regions where you can use Amazon DocumentDB. Amazon Doc…"
+   },
+   {
+    "title": "Amazon EC2 and VPC now display related resources for all resource types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
+    "summary": "Amazon Elastic Compute Cloud (Amazon EC2), Amazon Virtual Private Cloud (Amazon VPC), and AWS Global View now display related resources for all resource types in their consoles. Previously, only security groups had an op…"
+   },
+   {
+    "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
+    "summary": "AWS announces new Linux bundles for Amazon WorkSpaces Personal, including Rocky Linux 10, Red Hat Enterprise Linux 10, and Ubuntu 26.04 LTS. With these bundles, you can launch WorkSpaces on the latest enterprise Linux op…"
    }
   ],
   "digest_date": "04 Nov 2026"
