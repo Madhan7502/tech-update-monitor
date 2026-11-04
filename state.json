@@ -413,6 +413,7 @@
  "aws-whats-new": {
   "seen": [
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
+   "89ed024be140b595e9141060046a7bf40629b0b3",
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
@@ -441,8 +442,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -451,10 +452,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
@@ -571,6 +572,11 @@
     "date": "03 Nov 2026"
    },
    {
+    "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
+    "date": "03 Nov 2026"
+   },
+   {
     "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
     "date": "03 Nov 2026"
@@ -609,11 +615,6 @@
     "title": "Amazon RDS now supports per snapshot billing",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/",
     "date": "02 Nov 2026"
-   },
-   {
-    "title": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/",
-    "date": "02 Nov 2026"
    }
   ],
   "latest": {
@@ -622,7 +623,13 @@
    "date": "03 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
+    "summary": "WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operating system that its workflows and applications require. Your agents can the…"
+   }
+  ],
   "digest_date": "04 Nov 2026"
  },
  "apple-dev-releases": {
