@@ -418,6 +418,7 @@
    "fc07bf7de75064d128cb58173f82c6398f09d00d",
    "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
+   "21713d0ec9d732c0877a15b3d12c26d1baccf9df",
    "fe7e9f57ad24e5d72930c66717ee0d7684ecc174",
    "c709ece569c34ea5d43f9ba42100f73be326cc95",
    "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
@@ -448,8 +449,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -459,8 +460,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -469,10 +470,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
@@ -599,6 +600,11 @@
     "date": "05 Nov 2026"
    },
    {
+    "title": "Amazon MWAA now supports cost allocation tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-cost-allocation-tags/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
     "date": "04 Nov 2026"
@@ -627,11 +633,6 @@
     "title": "Amazon EC2 and VPC now display related resources for all resource types",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
     "date": "04 Nov 2026"
-   },
-   {
-    "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
-    "date": "04 Nov 2026"
    }
   ],
   "latest": {
@@ -655,6 +656,11 @@
     "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
     "summary": "Starting November 1, 2026, the Amazon Cognito Service Level Agreement (SLA) commits to a Monthly Uptime Percentage of 99.99% for user pools on the Plus feature plan, up from 99.9%. User pools already on Plus are automati…"
+   },
+   {
+    "title": "Amazon MWAA now supports cost allocation tags",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-cost-allocation-tags/",
+    "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports cost allocation tags . Tags you apply to an Amazon MWAA environment now propagate to the compute that runs it, including workers, schedulers, and web…"
    }
   ],
   "digest_date": "05 Nov 2026"
@@ -836,6 +842,7 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-05:/blog/posts/android-intelligence-system-in-app-agents-ads",
    "tag:developer.android.com,2026-11-04:/blog/posts/build-for-every-screen-jetpack-compose-updates",
    "tag:developer.android.com,2026-11-02:/blog/posts/building-apps-developer-sessions",
    "tag:developer.android.com,2026-10-28:/blog/posts/build-it-your-way-a-next-era-of-android-development",
@@ -864,15 +871,15 @@
   ],
   "recent": [
    {
-    "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
-    "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
-    "date": "04 Nov 2026"
+    "title": "From in-app agents to the Android intelligence system: What’s new in intelligent apps at the Android Developer Summit",
+    "link": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Build for every screen with the latest Jetpack Compose updates from Android Developer Summit",
-   "link": "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates",
-   "date": "04 Nov 2026"
+   "title": "From in-app agents to the Android intelligence system: What’s new in intelligent apps at the Android Developer Summit",
+   "link": "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads",
+   "date": "05 Nov 2026"
   },
   "fails": 0
  },
