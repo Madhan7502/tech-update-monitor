@@ -415,9 +415,12 @@
  },
  "aws-whats-new": {
   "seen": [
+   "90e2c8ce44a7dfbe0d19e8f4926cfb39ca00984b",
    "fc07bf7de75064d128cb58173f82c6398f09d00d",
    "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
+   "a7af5889bc5e2e06655d95df82056798e162cc73",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
+   "63bd18ea956986784d9ede7006ddefbdd87590ae",
    "21713d0ec9d732c0877a15b3d12c26d1baccf9df",
    "fe7e9f57ad24e5d72930c66717ee0d7684ecc174",
    "c709ece569c34ea5d43f9ba42100f73be326cc95",
@@ -451,6 +454,7 @@
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "6a144260487c990b3439413a03e5206226a61f43",
+   "00b5bc98d9b154e37228f697b9518b134120b7af",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -585,6 +589,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon DynamoDB now supports bulk put items",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
+    "date": "05 Nov 2026"
+   },
+   {
     "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
     "date": "05 Nov 2026"
@@ -595,8 +604,18 @@
     "date": "05 Nov 2026"
    },
    {
+    "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
+    "date": "05 Nov 2026"
+   },
+   {
     "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
+    "date": "05 Nov 2026"
+   },
+   {
+    "title": "﻿﻿AWS Systems Manager Parameter Store now allows organization and validation with built-in data types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/",
     "date": "05 Nov 2026"
    },
    {
@@ -618,26 +637,11 @@
     "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
     "date": "04 Nov 2026"
-   },
-   {
-    "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
-    "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer now shows associated cases in contact records",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/",
-    "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon EC2 and VPC now display related resources for all resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
-    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
+   "title": "Amazon DynamoDB now supports bulk put items",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
    "date": "05 Nov 2026"
   },
   "fails": 0,
@@ -661,6 +665,26 @@
     "title": "Amazon MWAA now supports cost allocation tags",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-cost-allocation-tags/",
     "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports cost allocation tags . Tags you apply to an Amazon MWAA environment now propagate to the compute that runs it, including workers, schedulers, and web…"
+   },
+   {
+    "title": "Amazon DynamoDB now supports bulk put items",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
+    "summary": "Today, AWS announces the general availability of bulk put items for Amazon DynamoDB, a fully managed feature that writes data from Amazon S3 into your existing DynamoDB tables. Many DynamoDB applications use data that ot…"
+   },
+   {
+    "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
+    "summary": "AWS Security Hub Network Scanning feature is now supported in AWS GovCloud (US). Network Scanning probes your resources from the internet to detect actual reachability, not just what could be reachable based on security …"
+   },
+   {
+    "title": "﻿﻿AWS Systems Manager Parameter Store now allows organization and validation with built-in data types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/",
+    "summary": "AWS Systems Manager Parameter Store now supports 13 new parameter data types that automatically validate parameter values when you create or update a parameter. With built-in validation, you can stop malformed configurat…"
+   },
+   {
+    "title": "Amazon OpenSearch Service optimized engine now supports logs and traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces",
+    "summary": "Today, the Amazon OpenSearch Service optimized engine adds support for agent traces, including OpenTelemetry traces. Your traces and logs now live in the same place. You can follow a request or an agent session from star…"
    }
   ],
   "digest_date": "05 Nov 2026"
