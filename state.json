@@ -421,6 +421,7 @@
    "824d6b17856a1981502dec09f1fe7c88f34dbdc6",
    "020b078d0397d878fecd01105f89c3380742f318",
    "8a81da6a4c78bb86eb232b0756e6431d3bc2e9c3",
+   "17c3ec1e40cdb423d30df922a2eaa6f81ed7de1d",
    "df4e4919eada171d3fa2618c2f13290ac4fb0057",
    "ed422b711fac8f5c81a9ce8efd56fecf4a44c54a",
    "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
@@ -454,8 +455,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -464,10 +465,10 @@
    "752e236292a5ae074221a50751d31c81bc3df1c6",
    "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
    "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "299514e963fee2299882c211483246d8655b2c33",
    "1d4e80e6d3665eabde241c65a09271914cac3f54",
+   "299514e963fee2299882c211483246d8655b2c33",
    "15c2982606a5dccd557757ececeda4fa0430fe18",
+   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
    "6743432091dcce59d373592f5240046ae19f2042",
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
@@ -614,6 +615,11 @@
     "date": "04 Nov 2026"
    },
    {
+    "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
+    "date": "04 Nov 2026"
+   },
+   {
     "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
     "date": "04 Nov 2026"
@@ -622,11 +628,6 @@
     "title": "New features for Amazon EC2 Capacity Manager",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
     "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer lets agents pause and resume emails",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/",
-    "date": "03 Nov 2026"
    }
   ],
   "latest": {
@@ -690,6 +691,11 @@
     "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
     "summary": "AWS DataSync Enhanced mode now supports OpenID Connect (OIDC) authentication for Google Cloud Storage and Microsoft Azure Blob Storage locations. DataSync uses an AWS Identity and Access Management (IAM) role to get shor…"
+   },
+   {
+    "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
+    "summary": "Amazon S3 Tables now offer managed migration of your Apache Hive tables to Apache Iceberg. Iceberg adds ACID transactions, schema evolution, and time travel to your data lake, but moving off Hive usually means building a…"
    }
   ],
   "digest_date": "04 Nov 2026"
