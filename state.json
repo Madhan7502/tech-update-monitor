@@ -636,69 +636,8 @@
    "date": "04 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
-    "summary": "WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operating system that its workflows and applications require. Your agents can the…"
-   },
-   {
-    "title": "Amazon CloudWatch now supports API keys for OpenTelemetry traces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-api-keys-opentelemetry/",
-    "summary": "Amazon CloudWatch now supports bearer token authentication, using API keys (bearer tokens), as an additional option for sending OpenTelemetry traces to the AWS X-Ray OpenTelemetry Protocol (OTLP) traces endpoint. Any OTL…"
-   },
-   {
-    "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
-    "summary": "AWS Interconnect - last mile is now available in preview with Equinix. You can connect your infrastructure across Equinix's global network of 282 data centers worldwide to AWS in a few clicks. Interconnect - last mile gi…"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
-    "summary": "Amazon RDS for Oracle now lets you copy the option group associated with a DB snapshot when you copy that snapshot to another AWS Region. Amazon RDS for Oracle uses option groups to enable and configure features that mak…"
-   },
-   {
-    "title": "New features for Amazon EC2 Capacity Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
-    "summary": "Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help customers find capacity by scoring how well each instance type and Availabilit…"
-   },
-   {
-    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
-    "summary": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions, adding to the list of available Regions where you can use Amazon DocumentDB. Amazon Doc…"
-   },
-   {
-    "title": "Amazon EC2 and VPC now display related resources for all resource types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/",
-    "summary": "Amazon Elastic Compute Cloud (Amazon EC2), Amazon Virtual Private Cloud (Amazon VPC), and AWS Global View now display related resources for all resource types in their consoles. Previously, only security groups had an op…"
-   },
-   {
-    "title": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/",
-    "summary": "AWS announces new Linux bundles for Amazon WorkSpaces Personal, including Rocky Linux 10, Red Hat Enterprise Linux 10, and Ubuntu 26.04 LTS. With these bundles, you can launch WorkSpaces on the latest enterprise Linux op…"
-   },
-   {
-    "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
-    "summary": "Amazon Elastic Container Service (Amazon ECS) introduces json-file log driver support for Amazon ECS Managed Instances and log driver volumes for Amazon ECS Managed Daemons. Together, these features let you collect appli…"
-   },
-   {
-    "title": "Amazon Connect Customer now shows associated cases in contact records",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/",
-    "summary": "Amazon Connect Customer now includes case IDs and reference numbers in contact records, helping supervisors and analysts understand which customer issues drive contact volume. Cases track issues, such as refund requests …"
-   },
-   {
-    "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
-    "summary": "AWS DataSync Enhanced mode now supports OpenID Connect (OIDC) authentication for Google Cloud Storage and Microsoft Azure Blob Storage locations. DataSync uses an AWS Identity and Access Management (IAM) role to get shor…"
-   },
-   {
-    "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
-    "summary": "Amazon S3 Tables now offer managed migration of your Apache Hive tables to Apache Iceberg. Iceberg adds ACID transactions, schema evolution, and time travel to your data lake, but moving off Hive usually means building a…"
-   }
-  ],
-  "digest_date": "04 Nov 2026"
+  "pending": [],
+  "digest_date": "05 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
