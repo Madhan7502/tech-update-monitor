@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -415,11 +415,15 @@
  },
  "aws-whats-new": {
   "seen": [
+   "82021c4f9288ff24747886843045a87b4bcbe9d5",
+   "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
    "90e2c8ce44a7dfbe0d19e8f4926cfb39ca00984b",
    "fc07bf7de75064d128cb58173f82c6398f09d00d",
    "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
+   "393203824328178a434a7819ff128ddcfb8ede17",
    "a7af5889bc5e2e06655d95df82056798e162cc73",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
+   "f57f48c1670dc959fb58d96ca6ff656ade951daf",
    "63bd18ea956986784d9ede7006ddefbdd87590ae",
    "21713d0ec9d732c0877a15b3d12c26d1baccf9df",
    "fe7e9f57ad24e5d72930c66717ee0d7684ecc174",
@@ -437,8 +441,8 @@
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
-   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
+   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
@@ -589,6 +593,16 @@
   ],
   "recent": [
    {
+    "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
+    "date": "05 Nov 2026"
+   },
+   {
+    "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+    "date": "05 Nov 2026"
+   },
+   {
     "title": "Amazon DynamoDB now supports bulk put items",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
     "date": "05 Nov 2026"
@@ -604,6 +618,11 @@
     "date": "05 Nov 2026"
    },
    {
+    "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
+    "date": "05 Nov 2026"
+   },
+   {
     "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
     "date": "05 Nov 2026"
@@ -614,34 +633,19 @@
     "date": "05 Nov 2026"
    },
    {
-    "title": "﻿﻿AWS Systems Manager Parameter Store now allows organization and validation with built-in data types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/",
+    "title": "AWS WAF AI traffic monetization now supports fiat payouts through Stripe",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/",
     "date": "05 Nov 2026"
    },
    {
-    "title": "Amazon MWAA now supports cost allocation tags",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-cost-allocation-tags/",
-    "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/",
-    "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/",
-    "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/",
-    "date": "04 Nov 2026"
+    "title": "﻿﻿AWS Systems Manager Parameter Store now allows organization and validation with built-in data types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon DynamoDB now supports bulk put items",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/",
+   "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
    "date": "05 Nov 2026"
   },
   "fails": 0,
@@ -685,6 +689,26 @@
     "title": "Amazon OpenSearch Service optimized engine now supports logs and traces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces",
     "summary": "Today, the Amazon OpenSearch Service optimized engine adds support for agent traces, including OpenTelemetry traces. Your traces and logs now live in the same place. You can follow a request or an agent session from star…"
+   },
+   {
+    "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
+    "summary": "Today, AWS announced a new AWS Interconnect - last mile metro in Northern Virginia, USA. Northern Virginia joins New York as the second metro where you can connect your data center, branch office, or colocation facility …"
+   },
+   {
+    "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
+    "summary": "Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesized, grounded, cited answer to a natural-language question in a single call…"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle ( Amazon Relational Database Service (Amazon RDS) for Oracle ) now allows customers to join their RDS for Oracle DB instances directly to their self-managed Micr…"
+   },
+   {
+    "title": "AWS WAF AI traffic monetization now supports fiat payouts through Stripe",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/",
+    "summary": "AWS WAF AI traffic monetization now integrates with Stripe. Publishers, content owners, and API providers can collect stablecoin payments from AI bots and agents that settle in local currency directly to their Stripe bal…"
    }
   ],
   "digest_date": "05 Nov 2026"
