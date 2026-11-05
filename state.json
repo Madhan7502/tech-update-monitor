@@ -415,6 +415,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "fc07bf7de75064d128cb58173f82c6398f09d00d",
    "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
    "fe7e9f57ad24e5d72930c66717ee0d7684ecc174",
@@ -583,6 +584,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
+    "date": "05 Nov 2026"
+   },
+   {
     "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
     "date": "05 Nov 2026"
@@ -626,16 +632,11 @@
     "title": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/",
     "date": "04 Nov 2026"
-   },
-   {
-    "title": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/",
-    "date": "04 Nov 2026"
    }
   ],
   "latest": {
-   "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
+   "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
    "date": "05 Nov 2026"
   },
   "fails": 0,
@@ -649,6 +650,11 @@
     "title": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/",
     "summary": "Amazon SageMaker AI now supports IAM Identity Center (IdC) multi-region replication, enabling you to deploy SageMaker AI Studio domains in different regions from your IdC instance's primary region. Previously, the primar…"
+   },
+   {
+    "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
+    "summary": "Starting November 1, 2026, the Amazon Cognito Service Level Agreement (SLA) commits to a Monthly Uptime Percentage of 99.99% for user pools on the Plus feature plan, up from 99.9%. User pools already on Plus are automati…"
    }
   ],
   "digest_date": "05 Nov 2026"
