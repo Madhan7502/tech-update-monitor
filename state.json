@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
    "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
@@ -88,15 +89,15 @@
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "PHP 8.6.0 RC5 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-05-1",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "PHP 8.6.0 RC5 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-05-1",
+   "date": "05 Nov 2026"
   },
   "fails": 0
  },
@@ -417,7 +418,10 @@
  },
  "aws-whats-new": {
   "seen": [
+   "5ac2609b22747de622319ee9b0304db497747509",
    "13a72a1318791eaea980b31d145db7e869bcf35b",
+   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
+   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
    "2b361798ed11118d509da753dff827fc7c0789f0",
    "82021c4f9288ff24747886843045a87b4bcbe9d5",
    "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
@@ -603,8 +607,23 @@
   ],
   "recent": [
    {
+    "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
+    "date": "06 Nov 2026"
+   },
+   {
     "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+    "date": "06 Nov 2026"
+   },
+   {
+    "title": "Amazon Simple Email Service is now available in six new AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+    "date": "06 Nov 2026"
+   },
+   {
+    "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
     "date": "06 Nov 2026"
    },
    {
@@ -636,26 +655,11 @@
     "title": "Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/",
     "date": "05 Nov 2026"
-   },
-   {
-    "title": "IAM Roles Anywhere now supports automatic certificate revocation checking",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/",
-    "date": "05 Nov 2026"
-   },
-   {
-    "title": "Amazon OpenSearch Service optimized engine now supports agent traces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces",
-    "date": "05 Nov 2026"
-   },
-   {
-    "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
-    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+   "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
    "date": "06 Nov 2026"
   },
   "fails": 0,
@@ -674,6 +678,21 @@
     "title": "Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/",
     "summary": "Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to track …"
+   },
+   {
+    "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
+    "summary": "AWS Data Exports for Cost and Usage Report (CUR) 2.0 and AWS Cost Explorer now amortize the upfront fee for Amazon EC2 Capacity Blocks for ML across the duration of each reservation. You can see the amortized cost of eac…"
+   },
+   {
+    "title": "Amazon Simple Email Service is now available in six new AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
+    "summary": "Amazon Simple Email Service (Amazon SES) is now available in the Asia Pacific (New Zealand, Melbourne, Taipei, Thailand), Mexico (Central), EU (Spain). Customers can now use these new Regions to leverage Amazon SES to se…"
+   },
+   {
+    "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
+    "summary": "AWS Glue Data Catalog now supports external catalog's vended credentials in Apache Iceberg REST catalog federation. You can now read external Iceberg tables from Amazon Athena, Amazon EMR, Amazon Redshift, and AWS Glue u…"
    }
   ],
   "digest_date": "06 Nov 2026"
