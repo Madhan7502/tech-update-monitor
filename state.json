@@ -354,6 +354,7 @@
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
    "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
    "d1dc74af84e7d562ddce7195c94840bed5edf948",
+   "c4dcda64d241c4df77bf73a89bcac2c2e94f066a",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
@@ -401,15 +402,15 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119083 - GluonTS arbitrary file write during archive extraction",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-171-aws/",
-    "date": "05 Nov 2026"
+    "title": "CVE-2026-109518 - APT package manager that affects Ubuntu and Debian operating systems",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/",
+    "date": "06 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119083 - GluonTS arbitrary file write during archive extraction",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-171-aws/",
-   "date": "05 Nov 2026"
+   "title": "CVE-2026-109518 - APT package manager that affects Ubuntu and Debian operating systems",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/",
+   "date": "06 Nov 2026"
   },
   "fails": 0
  },
@@ -447,8 +448,8 @@
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
-   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
+   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
@@ -462,8 +463,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -473,8 +474,8 @@
    "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
    "d90b410693cece436db43a8262bd721ce9cd3363",
    "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "a9b496609d0857f97431ca87eb482869bc61d76a",
+   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
    "bd3512132333424f74718c5e5f4d7687d63a1839",
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
@@ -1212,6 +1213,7 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.2",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.1",
    "tag:github.com,2008:Repository/1953386/v22.2.0-beta.1",
    "tag:github.com,2008:Repository/1953386/v22.1.0",
@@ -1258,6 +1260,7 @@
  },
  "stripe-node": {
   "seen": [
+   "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.2",
    "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.1",
    "tag:github.com,2008:Repository/2471804/v23.2.0-beta.1",
    "tag:github.com,2008:Repository/2471804/v23.1.0",
@@ -1288,6 +1291,7 @@
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v16.2.0a2",
    "tag:github.com,2008:Repository/1953389/v16.2.0a1",
    "tag:github.com,2008:Repository/1953389/v16.2.0b1",
    "tag:github.com,2008:Repository/1953389/v16.1.0",
