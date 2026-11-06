@@ -22,7 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -83,20 +82,21 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Updated PHP Windows builds for Brotli security fix",
-    "link": "https://www.php.net/index.php#2026-10-26-1",
-    "date": "26 Oct 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "Updated PHP Windows builds for Brotli security fix",
-   "link": "https://www.php.net/index.php#2026-10-26-1",
-   "date": "26 Oct 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -422,6 +422,7 @@
    "90e2c8ce44a7dfbe0d19e8f4926cfb39ca00984b",
    "fc07bf7de75064d128cb58173f82c6398f09d00d",
    "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
+   "00b5bc98d9b154e37228f697b9518b134120b7af",
    "ecb62bc341ebf65e234894e5bdfc7180eb6f8b54",
    "393203824328178a434a7819ff128ddcfb8ede17",
    "a7af5889bc5e2e06655d95df82056798e162cc73",
@@ -461,9 +462,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
    "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
-   "00b5bc98d9b154e37228f697b9518b134120b7af",
+   "6a144260487c990b3439413a03e5206226a61f43",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -633,6 +633,11 @@
     "date": "05 Nov 2026"
    },
    {
+    "title": "Amazon OpenSearch Service optimized engine now supports agent traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces",
+    "date": "05 Nov 2026"
+   },
+   {
     "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
     "date": "05 Nov 2026"
@@ -640,11 +645,6 @@
    {
     "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
-    "date": "05 Nov 2026"
-   },
-   {
-    "title": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/",
     "date": "05 Nov 2026"
    }
   ],
