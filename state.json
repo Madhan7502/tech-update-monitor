@@ -426,6 +426,7 @@
    "13a72a1318791eaea980b31d145db7e869bcf35b",
    "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
    "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
+   "ef802f0cd7f5063467ea6db5df6f8f9a29308b69",
    "2b361798ed11118d509da753dff827fc7c0789f0",
    "82021c4f9288ff24747886843045a87b4bcbe9d5",
    "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
@@ -438,8 +439,8 @@
    "393203824328178a434a7819ff128ddcfb8ede17",
    "a7af5889bc5e2e06655d95df82056798e162cc73",
    "4734449cefc84bded424f1fe2616c674afbad206",
-   "3ce5726905eb6f326ededabb1cfd9f3fa5af95db",
    "5d6178483982386c49e3759fecd7fbfea2e8f70f",
+   "3ce5726905eb6f326ededabb1cfd9f3fa5af95db",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
    "f57f48c1670dc959fb58d96ca6ff656ade951daf",
    "95b105c8a9ce16dd2369c1f794293433d21aaf51",
@@ -460,8 +461,8 @@
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
-   "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
    "282ae2276740d0cab2442abc6cb00f23af6023cf",
+   "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
@@ -475,8 +476,8 @@
    "658460b6f929f397164b8c531f138be0c3d00bee",
    "684adca7753d41094e153834c9c8981e9f0f00d8",
    "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "6a144260487c990b3439413a03e5206226a61f43",
+   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
    "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
    "df06406c54979dfb60aa14a12d2173500870493b",
    "ebd41dffa30d68683fd1f05e485ea0d15ed555d3",
@@ -646,6 +647,11 @@
     "date": "06 Nov 2026"
    },
    {
+    "title": "AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
+    "date": "06 Nov 2026"
+   },
+   {
     "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
     "date": "06 Nov 2026"
@@ -653,11 +659,6 @@
    {
     "title": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/",
-    "date": "05 Nov 2026"
-   },
-   {
-    "title": "Announcing Web Answer on Amazon Bedrock AgentCore",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/",
     "date": "05 Nov 2026"
    }
   ],
@@ -712,6 +713,11 @@
     "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
     "summary": "Amazon Redshift now supports individual strings up to 16 million bytes within SUPER data types . Once you opt in through a database parameter, this enhancement applies when ingesting structured or semi-structured data fr…"
+   },
+   {
+    "title": "AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
+    "summary": "​​AWS Elemental MediaConvert now integrates Smart Subtitles, an AI-powered subtitling solution built on AWS Elemental Inference and the latest speech recognition models. This feature brings automated subtitle generation …"
    }
   ],
   "digest_date": "06 Nov 2026"
