@@ -22,7 +22,11 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
+   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -81,23 +85,19 @@
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
-   "https://www.php.net/archive/2025.php#2025-12-18-4",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
-   "https://www.php.net/archive/2026.php#2026-10-23-1",
-   "https://www.php.net/archive/2026.php#2026-10-21-6",
-   "https://www.php.net/archive/2026.php#2026-11-05-1"
+   "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-    "link": "https://www.php.net/index.php#2026-10-21-5",
-    "date": "21 Oct 2026"
+    "title": "PHP 8.6.0 RC5 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-05-1",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-   "link": "https://www.php.net/index.php#2026-10-21-5",
-   "date": "21 Oct 2026"
+   "title": "PHP 8.6.0 RC5 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-05-1",
+   "date": "05 Nov 2026"
   },
   "fails": 0
  },
