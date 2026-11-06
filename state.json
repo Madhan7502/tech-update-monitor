@@ -416,6 +416,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "13a72a1318791eaea980b31d145db7e869bcf35b",
    "2b361798ed11118d509da753dff827fc7c0789f0",
    "82021c4f9288ff24747886843045a87b4bcbe9d5",
    "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
@@ -600,6 +601,11 @@
   ],
   "recent": [
    {
+    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+    "date": "06 Nov 2026"
+   },
+   {
     "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
     "date": "06 Nov 2026"
@@ -643,16 +649,11 @@
     "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
     "date": "05 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/",
-    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
+   "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
    "date": "06 Nov 2026"
   },
   "fails": 0,
@@ -661,6 +662,11 @@
     "title": "AWS CodeConnections is now available in the AWS GovCloud (US-West) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codeconnections-govcloud-west/",
     "summary": "AWS CodeConnections is now available in the AWS GovCloud (US-West) Region, in addition to AWS GovCloud (US-East). CodeConnections lets you connect AWS services such as AWS CodePipeline and AWS CodeBuild to source code re…"
+   },
+   {
+    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
+    "summary": "Starting today, you can add Amazon EC2 Capacity Blocks for ML and interruptible Capacity Reservations to Capacity Reservation Resource Groups in AWS GovCloud (US) Regions. Amazon EC2 offers different reservation offering…"
    }
   ],
   "digest_date": "06 Nov 2026"
