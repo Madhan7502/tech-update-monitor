@@ -22,8 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -84,20 +82,22 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 RC5 available for testing",
-    "link": "https://www.php.net/index.php#2026-11-05-1",
-    "date": "05 Nov 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 RC5 available for testing",
-   "link": "https://www.php.net/index.php#2026-11-05-1",
-   "date": "05 Nov 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -420,9 +420,11 @@
  "aws-whats-new": {
   "seen": [
    "3f1c640a37341b7c4d377a992eb703a61373c252",
+   "dff857440b2ae2a192d5f9ce5d70e8a9bb5e3e58",
    "86b5725a099e9e140e215d5df331c144076d8067",
    "9f9cecc9c112a29a0f15138997b9772e92533008",
    "97bb11d1c498ee1a769b9d84e5c8412a16cdf393",
+   "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
    "d5c1d7112d1769a51c00a3fa424eb49e934e94ef",
    "63049a8ec8ead59c5b6a5aa1938d9500b7afa6ea",
    "5ac2609b22747de622319ee9b0304db497747509",
@@ -620,6 +622,11 @@
     "date": "09 Nov 2026"
    },
    {
+    "title": "Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/",
+    "date": "09 Nov 2026"
+   },
+   {
     "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
     "date": "06 Nov 2026"
@@ -632,6 +639,11 @@
    {
     "title": "Amazon MWAA Serverless supports Apache Airflow connections and variables",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-connections-variables/",
+    "date": "06 Nov 2026"
+   },
+   {
+    "title": "Amazon MWAA Serverless now supports custom and provider package operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-custom-operators/",
     "date": "06 Nov 2026"
    },
    {
@@ -653,16 +665,6 @@
     "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
     "date": "06 Nov 2026"
-   },
-   {
-    "title": "Amazon Simple Email Service is now available in six new AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
-    "date": "06 Nov 2026"
-   },
-   {
-    "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
-    "date": "06 Nov 2026"
    }
   ],
   "latest": {
@@ -671,7 +673,18 @@
    "date": "09 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/",
+    "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now de…"
+   },
+   {
+    "title": "Amazon MWAA Serverless now supports custom and provider package operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-custom-operators/",
+    "summary": "Amazon MWAA Serverless now supports operators from Apache Airflow provider packages, such as HTTP, Snowflake, or dbt, and custom operators that you write. This gives data engineers the flexibility to integrate with more …"
+   }
+  ],
   "digest_date": "09 Nov 2026"
  },
  "apple-dev-releases": {
