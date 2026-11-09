@@ -22,6 +22,8 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,22 +84,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "PHP 8.6.0 RC5 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-05-1",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "PHP 8.6.0 RC5 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-05-1",
+   "date": "05 Nov 2026"
   },
   "fails": 0
  },
@@ -419,7 +419,9 @@
  },
  "aws-whats-new": {
   "seen": [
+   "ca814a0556063b477122138dc62eb63c2d9db7f8",
    "3f1c640a37341b7c4d377a992eb703a61373c252",
+   "eccfcbd02190a62ea69a2d6e38091edbccdd6726",
    "dff857440b2ae2a192d5f9ce5d70e8a9bb5e3e58",
    "86b5725a099e9e140e215d5df331c144076d8067",
    "9f9cecc9c112a29a0f15138997b9772e92533008",
@@ -617,8 +619,18 @@
   ],
   "recent": [
    {
+    "title": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
+    "date": "09 Nov 2026"
+   },
+   {
     "title": "Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+    "date": "09 Nov 2026"
+   },
+   {
+    "title": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
     "date": "09 Nov 2026"
    },
    {
@@ -655,21 +667,11 @@
     "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
     "date": "06 Nov 2026"
-   },
-   {
-    "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
-    "date": "06 Nov 2026"
-   },
-   {
-    "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
-    "date": "06 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/",
+   "title": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
    "date": "09 Nov 2026"
   },
   "fails": 0,
@@ -683,6 +685,16 @@
     "title": "Amazon MWAA Serverless now supports custom and provider package operators",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-custom-operators/",
     "summary": "Amazon MWAA Serverless now supports operators from Apache Airflow provider packages, such as HTTP, Snowflake, or dbt, and custom operators that you write. This gives data engineers the flexibility to integrate with more …"
+   },
+   {
+    "title": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/",
+    "summary": "Amazon Athena now offers system tables which automatically capture your usage data and make it available for observability, usage analysis, and audit use cases. When you enable system tables, usage data is available with…"
+   },
+   {
+    "title": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
+    "summary": "You can now attach Amazon S3 Access Points to your Amazon FSx for NetApp ONTAP file systems in 4 additional AWS Regions, and to your Amazon FSx for OpenZFS file systems in 20 additional AWS Regions. With this capability,…"
    }
   ],
   "digest_date": "09 Nov 2026"
