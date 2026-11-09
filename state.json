@@ -22,7 +22,11 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
+   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -81,23 +85,19 @@
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
-   "https://www.php.net/archive/2025.php#2025-12-18-4",
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
-   "https://www.php.net/archive/2026.php#2026-10-23-1",
-   "https://www.php.net/archive/2026.php#2026-10-21-6"
+   "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-    "link": "https://www.php.net/index.php#2026-10-21-5",
-    "date": "21 Oct 2026"
+    "title": "PHP 8.6.0 RC5 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-05-1",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-   "link": "https://www.php.net/index.php#2026-10-21-5",
-   "date": "21 Oct 2026"
+   "title": "PHP 8.6.0 RC5 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-05-1",
+   "date": "05 Nov 2026"
   },
   "fails": 0
  },
@@ -359,6 +359,7 @@
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
    "a164b4fac5ab28977795fc9390625a3cdfadda6c",
+   "dec0a4afced6486c9fdc47cc2b9e0575ad21a9d5",
    "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
@@ -405,24 +406,26 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-119923 and CVE-2026-119924: Issues with Babelfish for Aurora PostgreSQL",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/",
-    "date": "06 Nov 2026"
+    "title": "CVE-2026-124033 - Relative path traversal in the log export commands in AWS ParallelCluster CLI",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-174-aws/",
+    "date": "09 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-119923 and CVE-2026-119924: Issues with Babelfish for Aurora PostgreSQL",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/",
-   "date": "06 Nov 2026"
+   "title": "CVE-2026-124033 - Relative path traversal in the log export commands in AWS ParallelCluster CLI",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-174-aws/",
+   "date": "09 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
-   "c4cfcfa1e71f0ee09a994c48caa68c5ce66ed86c",
+   "5500e2898da276249fd4f0483ec49fc3acbd3536",
    "36ebf879f8aa0114e8ce3178fb68d6787ce45312",
+   "c4cfcfa1e71f0ee09a994c48caa68c5ce66ed86c",
    "7fa88f6944ec142cc1a3333e292ef7c1d9836c61",
    "f4fd9952e4273533d0d11f4140c7899117fdff6d",
+   "e10ffb125a2374f5d4d1565d57b7d022f80d44bb",
    "ca814a0556063b477122138dc62eb63c2d9db7f8",
    "c6b614d0ff25b9d7fa8cd701331121ff7306448f",
    "3f1c640a37341b7c4d377a992eb703a61373c252",
@@ -436,9 +439,9 @@
    "63049a8ec8ead59c5b6a5aa1938d9500b7afa6ea",
    "5ac2609b22747de622319ee9b0304db497747509",
    "13a72a1318791eaea980b31d145db7e869bcf35b",
-   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
-   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
    "ef802f0cd7f5063467ea6db5df6f8f9a29308b69",
+   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
+   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
    "2b361798ed11118d509da753dff827fc7c0789f0",
    "82021c4f9288ff24747886843045a87b4bcbe9d5",
    "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
@@ -451,8 +454,8 @@
    "393203824328178a434a7819ff128ddcfb8ede17",
    "a7af5889bc5e2e06655d95df82056798e162cc73",
    "4734449cefc84bded424f1fe2616c674afbad206",
-   "5d6178483982386c49e3759fecd7fbfea2e8f70f",
    "3ce5726905eb6f326ededabb1cfd9f3fa5af95db",
+   "5d6178483982386c49e3759fecd7fbfea2e8f70f",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
    "f57f48c1670dc959fb58d96ca6ff656ade951daf",
    "95b105c8a9ce16dd2369c1f794293433d21aaf51",
@@ -473,8 +476,8 @@
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
-   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
+   "282ae2276740d0cab2442abc6cb00f23af6023cf",
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
@@ -624,13 +627,18 @@
   ],
   "recent": [
    {
-    "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
+    "title": "AWS STS now supports cross-partition federation for AWS identities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition",
     "date": "09 Nov 2026"
    },
    {
     "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
+    "date": "09 Nov 2026"
+   },
+   {
+    "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
     "date": "09 Nov 2026"
    },
    {
@@ -641,6 +649,11 @@
    {
     "title": "Introducing an open-source UI for graph analytics over data lakes with Amazon Neptune Analytics",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-graphover-datalakes-generally-available",
+    "date": "09 Nov 2026"
+   },
+   {
+    "title": "Amazon DocumentDB Serverless now provides up to 35% higher throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/documentdb-serverless-platform-version-4/",
     "date": "09 Nov 2026"
    },
    {
@@ -662,21 +675,11 @@
     "title": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/",
     "date": "09 Nov 2026"
-   },
-   {
-    "title": "Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/",
-    "date": "09 Nov 2026"
-   },
-   {
-    "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
-    "date": "06 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
+   "title": "AWS STS now supports cross-partition federation for AWS identities",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition",
    "date": "09 Nov 2026"
   },
   "fails": 0,
@@ -725,6 +728,16 @@
     "title": "Claude Fable 5.2 is now available on AWS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/",
     "summary": "Claude Fable 5.2 is now available on AWS and brings Anthropic's most capable generally available model for technical work to all customers. Fable 5.2 sets a new standard on the hardest projects in coding, math, and scien…"
+   },
+   {
+    "title": "AWS STS now supports cross-partition federation for AWS identities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition",
+    "summary": "AWS Security Token Service (AWS STS) now lets your workloads use their AWS Identity and Access Management (IAM) identity in one partition to get temporary credentials for an IAM role in a different partition, without sto…"
+   },
+   {
+    "title": "Amazon DocumentDB Serverless now provides up to 35% higher throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/documentdb-serverless-platform-version-4/",
+    "summary": "Amazon DocumentDB Serverless now provides up to 35% higher throughput with the launch of platform version 4. Platform versions represent improvements in performance, scaling capabilities, or features, and are automatical…"
    }
   ],
   "digest_date": "09 Nov 2026"
