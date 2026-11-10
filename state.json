@@ -355,6 +355,7 @@
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
    "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
    "d1dc74af84e7d562ddce7195c94840bed5edf948",
+   "994733f2d9a910e2112e532a60bd1f6cae666b03",
    "c4dcda64d241c4df77bf73a89bcac2c2e94f066a",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
    "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
@@ -409,14 +410,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/",
+    "title": "CVE-2026-124848 - Incorrect default permissions on session transcripts and prompt history in Kiro CLI",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-178-aws/",
     "date": "10 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/",
+   "title": "CVE-2026-124848 - Incorrect default permissions on session transcripts and prompt history in Kiro CLI",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-178-aws/",
    "date": "10 Nov 2026"
   },
   "fails": 0
@@ -1781,8 +1782,8 @@
  },
  "firebase-ios": {
   "seen": [
-   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0.nightly",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0",
+   "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0.nightly",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0-beta",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
    "tag:github.com,2008:Repository/89033556/13.1.1",
