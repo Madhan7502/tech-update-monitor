@@ -22,11 +22,7 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
-   "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
-   "https://www.php.net/archive/2026.php#2026-10-21-6",
    "https://www.php.net/archive/2026.php#2026-10-21-4",
    "https://www.php.net/archive/2026.php#2026-10-21-3",
    "https://www.php.net/archive/2026.php#2026-10-21-2",
@@ -85,19 +81,23 @@
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
-   "https://www.php.net/archive/2025.php#2025-12-18-4"
+   "https://www.php.net/archive/2025.php#2025-12-18-4",
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
+   "https://www.php.net/archive/2026.php#2026-10-23-1",
+   "https://www.php.net/archive/2026.php#2026-10-21-6"
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 RC5 available for testing",
-    "link": "https://www.php.net/index.php#2026-11-05-1",
-    "date": "05 Nov 2026"
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "link": "https://www.php.net/index.php#2026-10-21-5",
+    "date": "21 Oct 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 RC5 available for testing",
-   "link": "https://www.php.net/index.php#2026-11-05-1",
-   "date": "05 Nov 2026"
+   "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+   "link": "https://www.php.net/index.php#2026-10-21-5",
+   "date": "21 Oct 2026"
   },
   "fails": 0
  },
@@ -261,6 +261,7 @@
  },
  "python-insider": {
   "seen": [
+   "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
    "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
    "https://blog.python.org/2026/10/python-3151-3149-31317/",
    "https://blog.python.org/2026/10/python-3160-alpha-1-is-now-available/",
@@ -315,15 +316,15 @@
   ],
   "recent": [
    {
-    "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
-    "link": "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
-    "date": "26 Oct 2026"
+    "title": "Python 3.16.0 alpha 2 is now available",
+    "link": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
+    "date": "10 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out",
-   "link": "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
-   "date": "26 Oct 2026"
+   "title": "Python 3.16.0 alpha 2 is now available",
+   "link": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
+   "date": "10 Nov 2026"
   },
   "fails": 0
  },
@@ -424,7 +425,10 @@
  },
  "aws-whats-new": {
   "seen": [
+   "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
+   "1229c3a132755235c2c7a6532cc877d1a5628ecc",
    "0a01318cae87012346895bbf7db63c2863a928d0",
+   "b5aa31368a66bd4ebb99a45dbaef58e20dfd5a79",
    "35a351f7bafefa28a047443866d5e774e948660f",
    "efc3f90bb3d08afe671cac02304fb774682946c2",
    "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
@@ -642,8 +646,23 @@
   ],
   "recent": [
    {
+    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
+    "date": "10 Nov 2026"
+   },
+   {
+    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
+    "date": "10 Nov 2026"
+   },
+   {
     "title": "AWS Partner Central now provides an improved business planning experience",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
+    "date": "10 Nov 2026"
+   },
+   {
+    "title": "Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/",
     "date": "10 Nov 2026"
    },
    {
@@ -675,26 +694,11 @@
     "title": "AWS STS now supports cross-partition federation for AWS identities",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition",
     "date": "09 Nov 2026"
-   },
-   {
-    "title": "Amazon Quick is now AWS Quick",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-aws-quick/",
-    "date": "09 Nov 2026"
-   },
-   {
-    "title": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/",
-    "date": "09 Nov 2026"
-   },
-   {
-    "title": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/",
-    "date": "09 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Partner Central now provides an improved business planning experience",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
+   "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
    "date": "10 Nov 2026"
   },
   "fails": 0,
@@ -718,6 +722,21 @@
     "title": "AWS Partner Central now provides an improved business planning experience",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
     "summary": "AWS Partner Central now offers a new business planning experience in the AWS Console. AWS Partners can initiate plans for growing their AWS business or collaborate on plans initiated by AWS teams. Partners can collaborat…"
+   },
+   {
+    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
+    "summary": "Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822. Amazon RDS Extended Support provides up to three…"
+   },
+   {
+    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
+    "summary": "Starting today, Amazon RDS for MySQL 26.10 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of MySQL 26.10 on Amazon RDS for MySQL. MySQL 26.10 includes bug fixes, se…"
+   },
+   {
+    "title": "Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/",
+    "summary": "Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with del…"
    }
   ],
   "digest_date": "10 Nov 2026"
