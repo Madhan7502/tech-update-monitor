@@ -366,6 +366,7 @@
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "3bb1db076bdd716118f503168527d049ebd4cae9",
    "56b57968e580bf11f441ecf31a5b8a9afe448a88",
+   "c8658ed4fd285ad5eb27affa0f1faed90b789c5f",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "d01e56f4bafc001da89c0b9537a406966dd9391b",
@@ -408,14 +409,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-125271 - AWS API MCP Server Security Policy Bypass via Incorrect Operation Name Normalization",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-176-aws/",
+    "title": "CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/",
     "date": "10 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-125271 - AWS API MCP Server Security Policy Bypass via Incorrect Operation Name Normalization",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-176-aws/",
+   "title": "CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/",
    "date": "10 Nov 2026"
   },
   "fails": 0
