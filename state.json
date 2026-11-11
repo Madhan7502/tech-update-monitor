@@ -429,12 +429,14 @@
  },
  "aws-whats-new": {
   "seen": [
+   "172f4186adad79bee64ec94287949a528070583d",
+   "a38f3dc5f2f509bd9f099a6e09c4e8e5a958fb16",
    "c5d1ee644d2b7751132db2da1c0b84eff8c51707",
    "4e1794bd95756cc5c5aceec80edd3b27f8114ff3",
    "614453bbec40b4444a4fc2274656c102aed48bdb",
    "883262429c01e999d215208817491eab1b642c75",
-   "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
    "1229c3a132755235c2c7a6532cc877d1a5628ecc",
+   "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
    "0a01318cae87012346895bbf7db63c2863a928d0",
    "489b936081748cbc11890df04af10317d0c86b1c",
    "3020b3b9b35c40f6a62efb238e2632d247c7d24c",
@@ -466,15 +468,15 @@
    "dff857440b2ae2a192d5f9ce5d70e8a9bb5e3e58",
    "86b5725a099e9e140e215d5df331c144076d8067",
    "9f9cecc9c112a29a0f15138997b9772e92533008",
-   "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
    "97bb11d1c498ee1a769b9d84e5c8412a16cdf393",
+   "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
    "d5c1d7112d1769a51c00a3fa424eb49e934e94ef",
    "63049a8ec8ead59c5b6a5aa1938d9500b7afa6ea",
    "5ac2609b22747de622319ee9b0304db497747509",
    "13a72a1318791eaea980b31d145db7e869bcf35b",
-   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
-   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
    "ef802f0cd7f5063467ea6db5df6f8f9a29308b69",
+   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
+   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
    "2b361798ed11118d509da753dff827fc7c0789f0",
    "82021c4f9288ff24747886843045a87b4bcbe9d5",
    "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
@@ -661,6 +663,16 @@
   ],
   "recent": [
    {
+    "title": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
+    "date": "11 Nov 2026"
+   },
+   {
+    "title": "Amazon EKS Auto Mode now supports security groups for Pods",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
+    "date": "11 Nov 2026"
+   },
+   {
     "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
     "date": "11 Nov 2026"
@@ -681,13 +693,13 @@
     "date": "10 Nov 2026"
    },
    {
-    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
+    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
     "date": "10 Nov 2026"
    },
    {
-    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
+    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
     "date": "10 Nov 2026"
    },
    {
@@ -699,21 +711,11 @@
     "title": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
     "date": "10 Nov 2026"
-   },
-   {
-    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
-    "date": "10 Nov 2026"
-   },
-   {
-    "title": "Amazon S3 Tables now support S3 server access logging",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
-    "date": "10 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
+   "title": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
    "date": "11 Nov 2026"
   },
   "fails": 0,
@@ -722,6 +724,16 @@
     "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
     "summary": "The AWS Quick desktop app for macOS and Windows and the Quick mobile app for iOS and Android are now available in the Asia Pacific (Singapore) Region. This launch builds on the recent availability of Quick in Singapore .…"
+   },
+   {
+    "title": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/",
+    "summary": "AWS Lambda MicroVMs now supports the x86 CPU architecture, so you can run your existing x86 applications, tools, and software dependencies without recompiling or porting them. When you create a MicroVM image, you can now…"
+   },
+   {
+    "title": "Amazon EKS Auto Mode now supports security groups for Pods",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
+    "summary": "Amazon EKS Auto Mode now supports security groups for Pods, letting you apply dedicated Amazon EC2 security group rules to individual Pods. Different workloads on the same node can carry different security groups, giving…"
    }
   ],
   "digest_date": "11 Nov 2026"
@@ -1295,6 +1307,7 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.3",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.2",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.1",
    "tag:github.com,2008:Repository/1953386/v22.2.0-beta.1",
@@ -1342,6 +1355,7 @@
  },
  "stripe-node": {
   "seen": [
+   "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.3",
    "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.2",
    "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.1",
    "tag:github.com,2008:Repository/2471804/v23.2.0-beta.1",
@@ -1373,6 +1387,7 @@
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v16.2.0a3",
    "tag:github.com,2008:Repository/1953389/v16.2.0a2",
    "tag:github.com,2008:Repository/1953389/v16.2.0a1",
    "tag:github.com,2008:Repository/1953389/v16.2.0b1",
