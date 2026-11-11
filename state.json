@@ -432,6 +432,7 @@
    "172f4186adad79bee64ec94287949a528070583d",
    "a38f3dc5f2f509bd9f099a6e09c4e8e5a958fb16",
    "c5d1ee644d2b7751132db2da1c0b84eff8c51707",
+   "3f3ceb02f3e404b709da8aa1d8cf28cdec18421f",
    "4e1794bd95756cc5c5aceec80edd3b27f8114ff3",
    "614453bbec40b4444a4fc2274656c102aed48bdb",
    "883262429c01e999d215208817491eab1b642c75",
@@ -678,6 +679,11 @@
     "date": "11 Nov 2026"
    },
    {
+    "title": "Amazon SES now supports higher limits for email identities, tenants, and configuration sets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ses-higher-resource-limits/",
+    "date": "11 Nov 2026"
+   },
+   {
     "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
     "date": "10 Nov 2026"
@@ -706,11 +712,6 @@
     "title": "AWS Partner Central now provides an improved business planning experience",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
     "date": "10 Nov 2026"
-   },
-   {
-    "title": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
-    "date": "10 Nov 2026"
    }
   ],
   "latest": {
@@ -734,6 +735,11 @@
     "title": "Amazon EKS Auto Mode now supports security groups for Pods",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
     "summary": "Amazon EKS Auto Mode now supports security groups for Pods, letting you apply dedicated Amazon EC2 security group rules to individual Pods. Different workloads on the same node can carry different security groups, giving…"
+   },
+   {
+    "title": "Amazon SES now supports higher limits for email identities, tenants, and configuration sets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ses-higher-resource-limits/",
+    "summary": "Amazon Simple Email Service (Amazon SES) now supports higher limits for email identities, tenants, and configuration sets. You can view your current usage against each limit and request increases in the AWS Service Quota…"
    }
   ],
   "digest_date": "11 Nov 2026"
@@ -1307,6 +1313,7 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v23.0.0",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.3",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.2",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.1",
@@ -1341,15 +1348,15 @@
   ],
   "recent": [
    {
-    "title": "v22.1.0",
-    "link": "https://github.com/stripe/stripe-php/releases/tag/v22.1.0",
-    "date": "29 Oct 2026"
+    "title": "v23.0.0",
+    "link": "https://github.com/stripe/stripe-php/releases/tag/v23.0.0",
+    "date": "11 Nov 2026"
    }
   ],
   "latest": {
-   "title": "v22.1.0",
-   "link": "https://github.com/stripe/stripe-php/releases/tag/v22.1.0",
-   "date": "29 Oct 2026"
+   "title": "v23.0.0",
+   "link": "https://github.com/stripe/stripe-php/releases/tag/v23.0.0",
+   "date": "11 Nov 2026"
   },
   "fails": 0
  },
@@ -1387,6 +1394,7 @@
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v17.0.0",
    "tag:github.com,2008:Repository/1953389/v16.2.0a3",
    "tag:github.com,2008:Repository/1953389/v16.2.0a2",
    "tag:github.com,2008:Repository/1953389/v16.2.0a1",
@@ -1418,15 +1426,15 @@
   ],
   "recent": [
    {
-    "title": "v16.1.0",
-    "link": "https://github.com/stripe/stripe-python/releases/tag/v16.1.0",
-    "date": "29 Oct 2026"
+    "title": "v17.0.0",
+    "link": "https://github.com/stripe/stripe-python/releases/tag/v17.0.0",
+    "date": "11 Nov 2026"
    }
   ],
   "latest": {
-   "title": "v16.1.0",
-   "link": "https://github.com/stripe/stripe-python/releases/tag/v16.1.0",
-   "date": "29 Oct 2026"
+   "title": "v17.0.0",
+   "link": "https://github.com/stripe/stripe-python/releases/tag/v17.0.0",
+   "date": "11 Nov 2026"
   },
   "fails": 0
  },
