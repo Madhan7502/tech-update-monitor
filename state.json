@@ -432,6 +432,7 @@
    "1229c3a132755235c2c7a6532cc877d1a5628ecc",
    "0a01318cae87012346895bbf7db63c2863a928d0",
    "489b936081748cbc11890df04af10317d0c86b1c",
+   "3020b3b9b35c40f6a62efb238e2632d247c7d24c",
    "24e87ff5928fe0493fbd5b557333c0d15c152d6b",
    "5da48d238c99f9ba4b8bce18ade35eeb57d91428",
    "f29cfbd0c368b1d18006ff8f3355e49762785a3d",
@@ -439,8 +440,8 @@
    "76d322e990d90df8d55eba2942eb80399574ad61",
    "35a351f7bafefa28a047443866d5e774e948660f",
    "efc3f90bb3d08afe671cac02304fb774682946c2",
-   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
    "a8a7f9ccd478b163085aac4396bbdfb6e27ff4ab",
+   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
    "17b5364b57d95b7a0b6f728d1c71787a5f3ea945",
    "fcee45539ac565b1007a0b9ac7d4c6fd59b99651",
    "5500e2898da276249fd4f0483ec49fc3acbd3536",
@@ -690,6 +691,11 @@
     "date": "10 Nov 2026"
    },
    {
+    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
+    "date": "10 Nov 2026"
+   },
+   {
     "title": "Amazon S3 Tables now support S3 server access logging",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
     "date": "10 Nov 2026"
@@ -697,11 +703,6 @@
    {
     "title": "AWS Marketplace SaaS free trials now convert automatically to paid subscriptions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-free-trial-conversion/",
-    "date": "10 Nov 2026"
-   },
-   {
-    "title": "AWS Network Firewall launches next-generation firewall policy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-launches-ngfw-policy/",
     "date": "10 Nov 2026"
    }
   ],
@@ -791,6 +792,11 @@
     "title": "Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/",
     "summary": "Amazon DocumentDB (with MongoDB compatibility) 8.0.3 adds hybrid post-quantum key exchange for TLS, wildcard indexes, the $unionWith aggregation stage, and new change stream events. Post-quantum TLS protects data in tran…"
+   },
+   {
+    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
+    "summary": "Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber and Daybreak Blue: GPT-5.6 Sol through the bedrock-runtime endpoint on Amazon Bedrock. Daybreak Blue is the starting…"
    }
   ],
   "digest_date": "10 Nov 2026"
