@@ -22,6 +22,8 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,22 +84,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "PHP 8.6.0 RC5 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-05-1",
+    "date": "05 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "PHP 8.6.0 RC5 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-05-1",
+   "date": "05 Nov 2026"
   },
   "fails": 0
  },
@@ -428,8 +428,8 @@
    "4e1794bd95756cc5c5aceec80edd3b27f8114ff3",
    "614453bbec40b4444a4fc2274656c102aed48bdb",
    "883262429c01e999d215208817491eab1b642c75",
-   "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
    "1229c3a132755235c2c7a6532cc877d1a5628ecc",
+   "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
    "0a01318cae87012346895bbf7db63c2863a928d0",
    "489b936081748cbc11890df04af10317d0c86b1c",
    "3020b3b9b35c40f6a62efb238e2632d247c7d24c",
@@ -440,8 +440,8 @@
    "76d322e990d90df8d55eba2942eb80399574ad61",
    "35a351f7bafefa28a047443866d5e774e948660f",
    "efc3f90bb3d08afe671cac02304fb774682946c2",
-   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
    "a8a7f9ccd478b163085aac4396bbdfb6e27ff4ab",
+   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
    "17b5364b57d95b7a0b6f728d1c71787a5f3ea945",
    "fcee45539ac565b1007a0b9ac7d4c6fd59b99651",
    "5500e2898da276249fd4f0483ec49fc3acbd3536",
@@ -461,15 +461,15 @@
    "dff857440b2ae2a192d5f9ce5d70e8a9bb5e3e58",
    "86b5725a099e9e140e215d5df331c144076d8067",
    "9f9cecc9c112a29a0f15138997b9772e92533008",
-   "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
    "97bb11d1c498ee1a769b9d84e5c8412a16cdf393",
+   "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
    "d5c1d7112d1769a51c00a3fa424eb49e934e94ef",
    "63049a8ec8ead59c5b6a5aa1938d9500b7afa6ea",
    "5ac2609b22747de622319ee9b0304db497747509",
    "13a72a1318791eaea980b31d145db7e869bcf35b",
-   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
-   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
    "ef802f0cd7f5063467ea6db5df6f8f9a29308b69",
+   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
+   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
    "2b361798ed11118d509da753dff827fc7c0789f0",
    "82021c4f9288ff24747886843045a87b4bcbe9d5",
    "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
@@ -482,10 +482,10 @@
    "393203824328178a434a7819ff128ddcfb8ede17",
    "a7af5889bc5e2e06655d95df82056798e162cc73",
    "4734449cefc84bded424f1fe2616c674afbad206",
-   "5d6178483982386c49e3759fecd7fbfea2e8f70f",
    "3ce5726905eb6f326ededabb1cfd9f3fa5af95db",
-   "95b105c8a9ce16dd2369c1f794293433d21aaf51",
+   "5d6178483982386c49e3759fecd7fbfea2e8f70f",
    "1c8bc75ce97c79997a9014776564bd29c323288f",
+   "95b105c8a9ce16dd2369c1f794293433d21aaf51",
    "f57f48c1670dc959fb58d96ca6ff656ade951daf",
    "63bd18ea956986784d9ede7006ddefbdd87590ae",
    "21713d0ec9d732c0877a15b3d12c26d1baccf9df",
@@ -671,13 +671,13 @@
     "date": "10 Nov 2026"
    },
    {
-    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
+    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
     "date": "10 Nov 2026"
    },
    {
-    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
+    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
     "date": "10 Nov 2026"
    },
    {
