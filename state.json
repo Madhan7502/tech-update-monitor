@@ -440,8 +440,8 @@
    "76d322e990d90df8d55eba2942eb80399574ad61",
    "35a351f7bafefa28a047443866d5e774e948660f",
    "efc3f90bb3d08afe671cac02304fb774682946c2",
-   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
    "a8a7f9ccd478b163085aac4396bbdfb6e27ff4ab",
+   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
    "17b5364b57d95b7a0b6f728d1c71787a5f3ea945",
    "fcee45539ac565b1007a0b9ac7d4c6fd59b99651",
    "5500e2898da276249fd4f0483ec49fc3acbd3536",
@@ -712,94 +712,8 @@
    "date": "10 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon MWAA now supports DuckDB operators",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-supports-duckdb-operators/",
-    "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports DuckDB operators. DuckDB is an embedded analytical database that lets customers perform data quality checks, summaries, and transformations on data f…"
-   },
-   {
-    "title": "CloudWatch PromQL alarms now support EC2 and Application Auto Scaling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-alarms-autoscaling-group-actions",
-    "summary": "Amazon CloudWatch alarms that use Prometheus Query Language (PromQL) can now trigger Amazon EC2 and Application Auto Scaling step and simple scaling policies. You can scale your EC2 Auto Scaling groups on CloudWatch Open…"
-   },
-   {
-    "title": "Amazon OpenSearch Service now lets you validate and roll back version upgrades",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
-    "summary": "Amazon OpenSearch Service now supports clone-based upgrades, which let you validate a new OpenSearch version alongside your current one and cut over to it only when you're satisfied. If you find a problem, you can cancel…"
-   },
-   {
-    "title": "AWS Partner Central now provides an improved business planning experience",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
-    "summary": "AWS Partner Central now offers a new business planning experience in the AWS Console. AWS Partners can initiate plans for growing their AWS business or collaborate on plans initiated by AWS teams. Partners can collaborat…"
-   },
-   {
-    "title": "Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/",
-    "summary": "Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822. Amazon RDS Extended Support provides up to three…"
-   },
-   {
-    "title": "Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/",
-    "summary": "Starting today, Amazon RDS for MySQL 26.10 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of MySQL 26.10 on Amazon RDS for MySQL. MySQL 26.10 includes bug fixes, se…"
-   },
-   {
-    "title": "Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/",
-    "summary": "Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with del…"
-   },
-   {
-    "title": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
-    "summary": "Amazon S3 Access Grants can now discover and list all your grants across multiple AWS accounts with a single API call, eliminating the need to query each account separately. A single ListCallerAccessGrants call returns g…"
-   },
-   {
-    "title": "Amazon S3 Tables now support S3 server access logging",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
-    "summary": "Amazon S3 Tables now support server access logging, providing you detailed records of the requests made to your table buckets. You can now track table operations, namespace management, and data access to support security…"
-   },
-   {
-    "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
-    "summary": "Custom billing views now support AWS Billing Conductor and AWS Billing Transfer views as source views. These are the views AWS maintains per billing group and per billing transfer relationship. You can combine them into …"
-   },
-   {
-    "title": "Amazon EC2 G7 instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
-    "summary": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (London), Asia Pacific (Mumbai, Sydney) and South America (Sao Paulo) Region…"
-   },
-   {
-    "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
-    "summary": "Amazon OpenSearch Service now offers managed cross-Region disaster recovery, so you can meet strict availability and business continuity requirements for mission-critical search, AI, and analytics workloads without build…"
-   },
-   {
-    "title": "AWS Marketplace SaaS free trials now convert automatically to paid subscriptions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-free-trial-conversion/",
-    "summary": "Today, AWS Marketplace announces that free trials of usage-based software as a service (SaaS) products can now convert automatically to paid subscriptions. When a free trial ends, the buyer's subscription continues at th…"
-   },
-   {
-    "title": "AWS Network Firewall launches next-generation firewall policy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-launches-ngfw-policy/",
-    "summary": "Today, AWS announces next-generation firewall (NGFW) policy for AWS Network Firewall, a new policy model that provides security teams with a simpler policy structure and increased rule capacity. AWS Network Firewall is a…"
-   },
-   {
-    "title": "Amazon GameLift Servers now supports Game Session Placement Insights",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gamelift-game-session-insights/",
-    "summary": "Amazon GameLift Servers now offers Game Session Placement Insights, delivering detailed, per-placement diagnostic logs for game session queue routing. Amazon GameLift Servers routes game session placement requests throug…"
-   },
-   {
-    "title": "Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/",
-    "summary": "Amazon DocumentDB (with MongoDB compatibility) 8.0.3 adds hybrid post-quantum key exchange for TLS, wildcard indexes, the $unionWith aggregation stage, and new change stream events. Post-quantum TLS protects data in tran…"
-   },
-   {
-    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/",
-    "summary": "Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber and Daybreak Blue: GPT-5.6 Sol through the bedrock-runtime endpoint on Amazon Bedrock. Daybreak Blue is the starting…"
-   }
-  ],
-  "digest_date": "10 Nov 2026"
+  "pending": [],
+  "digest_date": "11 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
