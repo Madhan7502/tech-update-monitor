@@ -356,6 +356,7 @@
    "88af8529196585374f2e4a683845bef78ec79f37",
    "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
+   "9485271775e2e715c1aac015cf7c1c2a1f859448",
    "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "a58ae473469a46ce684fefcb4c3c22c888d06781",
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
@@ -418,20 +419,22 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-125926 - Server-side request forgery in the server registration and update API in mcp-gateway-registry",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/",
-    "date": "11 Nov 2026"
+    "title": "CVE-2026-127119 - Unverified ownership of the default EMR cluster log location in AWS SDK for pandas",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/",
+    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-125926 - Server-side request forgery in the server registration and update API in mcp-gateway-registry",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/",
-   "date": "11 Nov 2026"
+   "title": "CVE-2026-127119 - Unverified ownership of the default EMR cluster log location in AWS SDK for pandas",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/",
+   "date": "12 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "0856dcf267c717133a21d4c1317a62f31cdff9da",
+   "f9bed7f55d83040264330b8be57f6a6b58b961ec",
    "03fba84e76b2bb2cd0cf13aa4cce5e2c0f8bb648",
    "207a39dbc5b502aba399bf68a4f579ee65521079",
    "d7e60a14df6857abf8ca9980f6f3ba973272e9bc",
@@ -674,6 +677,16 @@
   ],
   "recent": [
    {
+    "title": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
+    "date": "12 Nov 2026"
+   },
+   {
+    "title": "The next generation AgentCore runtime is now the default",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
+    "date": "12 Nov 2026"
+   },
+   {
     "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
     "date": "11 Nov 2026"
@@ -712,29 +725,31 @@
     "title": "Amazon EKS Auto Mode now supports security groups for Pods",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/",
     "date": "11 Nov 2026"
-   },
-   {
-    "title": "AWS Emulator is now available for building and testing AWS applications locally",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/",
-    "date": "11 Nov 2026"
-   },
-   {
-    "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
-    "date": "11 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
-   "date": "11 Nov 2026"
+   "title": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
+   "date": "12 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
+    "summary": "EC2 Image Builder now integrates with the AWS DevOps Agent directly in the Image Builder console, enabling you to troubleshoot failed image pipelines and create resources directly from the console chat panel. You can dia…"
+   },
+   {
+    "title": "The next generation AgentCore runtime is now the default",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
+    "summary": "Starting today, new runtimes in Amazon Bedrock AgentCore use the next generation of AgentCore runtime by default. The new runtime restores each session from a snapshot of your initialized agent, scales compute and memory…"
+   }
+  ],
   "digest_date": "12 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=11122026a",
    "https://developer.apple.com/news/releases/?id=11092026a",
    "https://developer.apple.com/news/releases/?id=11092026b",
    "https://developer.apple.com/news/releases/?id=11092026c",
@@ -811,15 +826,15 @@
   ],
   "recent": [
    {
-    "title": "iOS 27.2.1 (24B91034)",
-    "link": "https://developer.apple.com/news/releases/?id=11092026a",
-    "date": "09 Nov 2026"
+    "title": "HomeView Software 27.2 (24V526)",
+    "link": "https://developer.apple.com/news/releases/?id=11122026a",
+    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "iOS 27.2.1 (24B91034)",
-   "link": "https://developer.apple.com/news/releases/?id=11092026a",
-   "date": "09 Nov 2026"
+   "title": "HomeView Software 27.2 (24V526)",
+   "link": "https://developer.apple.com/news/releases/?id=11122026a",
+   "date": "12 Nov 2026"
   },
   "fails": 0
  },
