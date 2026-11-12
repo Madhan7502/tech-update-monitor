@@ -434,11 +434,14 @@
  },
  "aws-whats-new": {
   "seen": [
+   "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
    "867374befae2f029622d5ccf7df8ab367601e0fc",
+   "63df85ec7627c1233dcdfefc061dc87eae3f182e",
    "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
+   "718e327b5292d7dd6b81b0561629e273e6a1eb93",
    "3db630b4d39f71745fccb4ab20f546149ec5ebc8",
    "eda34f5bc1002fafcf314aadaf20f1b7420fedd0",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
@@ -687,6 +690,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
+    "date": "12 Nov 2026"
+   },
+   {
     "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
     "date": "12 Nov 2026"
@@ -694,6 +702,11 @@
    {
     "title": "Amazon Connect Customer supports merging and linking related cases in the agent workspace",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/",
+    "date": "12 Nov 2026"
+   },
+   {
+    "title": "Amazon SNS now supports push notifications in four additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
     "date": "12 Nov 2026"
    },
    {
@@ -712,6 +725,11 @@
     "date": "12 Nov 2026"
    },
    {
+    "title": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
+    "date": "12 Nov 2026"
+   },
+   {
     "title": "AWS Backup now supports resource modifiers for Amazon EKS restores",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-resource-modifiers-eks/",
     "date": "12 Nov 2026"
@@ -720,26 +738,11 @@
     "title": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/",
     "date": "12 Nov 2026"
-   },
-   {
-    "title": "Amazon Managed Service for Apache Flink introduces enhanced snapshots",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/",
-    "date": "12 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for SQL Server now supports M8id and R8id instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances",
-    "date": "12 Nov 2026"
-   },
-   {
-    "title": "The next generation AgentCore runtime is now the default",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
-    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
+   "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
    "date": "12 Nov 2026"
   },
   "fails": 0,
@@ -798,6 +801,21 @@
     "title": "Amazon RDS for SQL Server now supports M8id and R8id instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances",
     "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports M8id and R8id instances. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, and include local NVMe SSD storag…"
+   },
+   {
+    "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
+    "summary": "AWS Graviton5-based R9g database instances are now generally available for Amazon Aurora with PostgreSQL compatibility and MySQL compatibility, and for Amazon RDS for PostgreSQL, MySQL, and MariaDB. Graviton5-based R9g i…"
+   },
+   {
+    "title": "Amazon SNS now supports push notifications in four additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
+    "summary": "Amazon Simple Notification Service (Amazon SNS) now supports sending push notifications in the Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Europe (Zurich), and AWS GovCloud (US-East) Regions. Amazon SNS is a full…"
+   },
+   {
+    "title": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
+    "summary": "Amazon FSx for Lustre is reducing the minimum provisioned throughput capacity and metadata IOPS on Intelligent-Tiering file systems by 75%, allowing you to use Intelligent-Tiering even more cost-effectively for high-perf…"
    }
   ],
   "digest_date": "12 Nov 2026"
