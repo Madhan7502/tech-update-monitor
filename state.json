@@ -433,6 +433,7 @@
   "seen": [
    "03fba84e76b2bb2cd0cf13aa4cce5e2c0f8bb648",
    "207a39dbc5b502aba399bf68a4f579ee65521079",
+   "d7e60a14df6857abf8ca9980f6f3ba973272e9bc",
    "6e4df7c694c131de7b115a19b3d3092219a9b235",
    "7983ef26c5654f20499086edfa31d0adc63399b5",
    "54e7e75769610b05e03d0fde5c9ae9e6da336505",
@@ -682,6 +683,11 @@
     "date": "11 Nov 2026"
    },
    {
+    "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
+    "date": "11 Nov 2026"
+   },
+   {
     "title": "AWS Cloud WAN now supports Flow Logs",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/",
     "date": "11 Nov 2026"
@@ -714,11 +720,6 @@
    {
     "title": "AWS Quick apps are now available in Asia Pacific (Singapore)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/",
-    "date": "11 Nov 2026"
-   },
-   {
-    "title": "Amazon SES now supports higher limits for email identities, tenants, and configuration sets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ses-higher-resource-limits/",
     "date": "11 Nov 2026"
    }
   ],
@@ -778,6 +779,11 @@
     "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
     "summary": "DeepSeek's DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three open-wei…"
+   },
+   {
+    "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
+    "summary": "AWS Network Security Manager is now available in AWS European Sovereign Cloud Region and Thirty-One new Regions Today, AWS announces the general availability of AWS Network Security Manager in the AWS European Sovereign …"
    }
   ],
   "digest_date": "11 Nov 2026"
