@@ -465,8 +465,8 @@
    "614453bbec40b4444a4fc2274656c102aed48bdb",
    "883262429c01e999d215208817491eab1b642c75",
    "7297e9856c32c5fcf1c67557ee2bb20e42ece110",
-   "1229c3a132755235c2c7a6532cc877d1a5628ecc",
    "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
+   "1229c3a132755235c2c7a6532cc877d1a5628ecc",
    "0a01318cae87012346895bbf7db63c2863a928d0",
    "489b936081748cbc11890df04af10317d0c86b1c",
    "3020b3b9b35c40f6a62efb238e2632d247c7d24c",
@@ -749,94 +749,8 @@
    "date": "12 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration",
-    "summary": "EC2 Image Builder now integrates with the AWS DevOps Agent directly in the Image Builder console, enabling you to troubleshoot failed image pipelines and create resources directly from the console chat panel. You can dia…"
-   },
-   {
-    "title": "The next generation AgentCore runtime is now the default",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/",
-    "summary": "Starting today, new runtimes in Amazon Bedrock AgentCore use the next generation of AgentCore runtime by default. The new runtime restores each session from a snapshot of your initialized agent, scales compute and memory…"
-   },
-   {
-    "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
-    "summary": "Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports fine-grained access control, giving administrators precise control over who can access which workflows and resources in an Apache Airflow environment…"
-   },
-   {
-    "title": "Amazon Route 53 Domains now supports self-service restore for expired and deleted domains",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/",
-    "summary": "Amazon Route 53 Domains now lets you restore an expired or recently deleted domain yourself, using the Amazon Route 53 console, AWS CLI, or AWS SDKs. Previously, restoring a domain required a request to AWS Support. Now …"
-   },
-   {
-    "title": "AWS Backup now supports resource modifiers for Amazon EKS restores",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-resource-modifiers-eks/",
-    "summary": "Today, AWS Backup announces support for resource modifiers when restoring Amazon Elastic Kubernetes Service (Amazon EKS) backups. Resource modifiers let you transform Kubernetes resources during a restore, so you can ada…"
-   },
-   {
-    "title": "Amazon Connect Customer supports merging and linking related cases in the agent workspace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/",
-    "summary": "Amazon Connect Customer now lets agents merge and link related cases in the agent workspace, so they can resolve customer issues faster and respond consistently. When a customer contacts a business about the same issue m…"
-   },
-   {
-    "title": "AWS Quick enhances granular governance with the ability to restrict structured data sources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/",
-    "summary": "Today, AWS Quick is announcing the general availability of structured data connector restrictions through custom permissions. This capability gives administrators granular control over which types of data sources users c…"
-   },
-   {
-    "title": "Amazon MWAA Serverless supports DuckDB operators",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-serverless-duckdb-operators/",
-    "summary": "Amazon MWAA Serverless now supports DuckDB operators, enabling you to analyze and transform data with high-performance in-memory analytics directly in your workflows. You can query data in Amazon S3 or run analytics loca…"
-   },
-   {
-    "title": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/",
-    "summary": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments, enabling advanced routing controls for enterprise hybrid networks. Previously, Cloud WAN Routing Policy evaluated BGP communities only on Site-to-…"
-   },
-   {
-    "title": "Amazon Managed Service for Apache Flink introduces enhanced snapshots",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/",
-    "summary": "Amazon Managed Service for Apache Flink now supports enhanced snapshots, a capability that lets you capture, export, and restore application state across Apache Flink applications and AWS Regions, so you can run blue/gre…"
-   },
-   {
-    "title": "Amazon RDS for SQL Server now supports M8id and R8id instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances",
-    "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports M8id and R8id instances. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, and include local NVMe SSD storag…"
-   },
-   {
-    "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
-    "summary": "AWS Graviton5-based R9g database instances are now generally available for Amazon Aurora with PostgreSQL compatibility and MySQL compatibility, and for Amazon RDS for PostgreSQL, MySQL, and MariaDB. Graviton5-based R9g i…"
-   },
-   {
-    "title": "Amazon SNS now supports push notifications in four additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
-    "summary": "Amazon Simple Notification Service (Amazon SNS) now supports sending push notifications in the Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Europe (Zurich), and AWS GovCloud (US-East) Regions. Amazon SNS is a full…"
-   },
-   {
-    "title": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
-    "summary": "Amazon FSx for Lustre is reducing the minimum provisioned throughput capacity and metadata IOPS on Intelligent-Tiering file systems by 75%, allowing you to use Intelligent-Tiering even more cost-effectively for high-perf…"
-   },
-   {
-    "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
-    "summary": "Amazon Cognito now supports OAuth 2.0 token exchange (RFC 8693). Amazon Cognito helps you add sign-up, sign-in, and access control to your web applications, mobile applications, and AI agents. With token exchange, a serv…"
-   },
-   {
-    "title": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/",
-    "summary": "AWS Backup logically air-gapped vault now supports Amazon EBS Snapshots Archive. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, sup…"
-   },
-   {
-    "title": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/",
-    "summary": "AWS Glue introduces automatic version upgrades, a capability that keeps your Apache Spark jobs current on the latest AWS Glue runtime without manual coordination. Staying current on supported runtimes gives your jobs the…"
-   }
-  ],
-  "digest_date": "12 Nov 2026"
+  "pending": [],
+  "digest_date": "13 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
