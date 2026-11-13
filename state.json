@@ -971,6 +971,7 @@
    "tag:developer.android.com,2026-10-02:/blog/posts/android-cli-device-streaming-and-skills",
    "tag:developer.android.com,2026-09-30:/blog/posts/jetpack-compose-ai-native-ui-instagram-direct",
    "tag:developer.android.com,2026-09-29:/blog/posts/driving-growth-on-google-play-the-next-era-of-subscriptions",
+   "tag:developer.android.com,2026-09-28:/blog/posts/build-intelligent-android-apps-in-app-agentic-workflows",
    "tag:developer.android.com,2026-09-24:/blog/posts/build-your-way-use-any-ai-agent-of-your-choice-in-android-studio",
    "tag:developer.android.com,2026-09-22:/blog/posts/land-your-apps-on-googlebook-with-adaptive-development",
    "tag:developer.android.com,2026-09-21:/blog/posts/bring-your-android-game-to-the-car-screen-today",
@@ -1843,6 +1844,7 @@
  "firebase-ios": {
   "seen": [
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0.nightly",
+   "tag:github.com,2008:Repository/89033556/13.2.0",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.2.0-beta",
    "tag:github.com,2008:Repository/89033556/CocoaPods-13.1.0.nightly",
@@ -1858,15 +1860,15 @@
   ],
   "recent": [
    {
-    "title": "Firebase Apple 12.19.3",
-    "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/12.19.3",
-    "date": "23 Oct 2026"
+    "title": "Firebase Apple 13.2.0",
+    "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/13.2.0",
+    "date": "13 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Firebase Apple 12.19.3",
-   "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/12.19.3",
-   "date": "23 Oct 2026"
+   "title": "Firebase Apple 13.2.0",
+   "link": "https://github.com/firebase/firebase-ios-sdk/releases/tag/13.2.0",
+   "date": "13 Nov 2026"
   },
   "fails": 0
  },
