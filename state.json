@@ -434,6 +434,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -693,6 +694,11 @@
   ],
   "recent": [
    {
+    "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
+    "date": "13 Nov 2026"
+   },
+   {
     "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
     "date": "12 Nov 2026"
@@ -736,20 +742,21 @@
     "title": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
     "date": "12 Nov 2026"
-   },
-   {
-    "title": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/",
-    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
-   "date": "12 Nov 2026"
+   "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
+   "date": "13 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
+    "summary": "A new model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. Grok 4.7 is SpaceXSI's most capable model for coding and knowledge work. It's built to stay focused through hard tasks that run for …"
+   }
+  ],
   "digest_date": "13 Nov 2026"
  },
  "apple-dev-releases": {
