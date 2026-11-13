@@ -434,6 +434,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
    "867374befae2f029622d5ccf7df8ab367601e0fc",
@@ -442,6 +443,8 @@
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
    "718e327b5292d7dd6b81b0561629e273e6a1eb93",
+   "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
+   "ce00981d1658528c2bbebcada8637ef5b8015150",
    "3db630b4d39f71745fccb4ab20f546149ec5ebc8",
    "eda34f5bc1002fafcf314aadaf20f1b7420fedd0",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
@@ -690,6 +693,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
+    "date": "12 Nov 2026"
+   },
+   {
     "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
     "date": "12 Nov 2026"
@@ -730,19 +738,14 @@
     "date": "12 Nov 2026"
    },
    {
-    "title": "AWS Backup now supports resource modifiers for Amazon EKS restores",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-resource-modifiers-eks/",
-    "date": "12 Nov 2026"
-   },
-   {
-    "title": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/",
+    "title": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/",
     "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
+   "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
    "date": "12 Nov 2026"
   },
   "fails": 0,
@@ -816,6 +819,21 @@
     "title": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
     "summary": "Amazon FSx for Lustre is reducing the minimum provisioned throughput capacity and metadata IOPS on Intelligent-Tiering file systems by 75%, allowing you to use Intelligent-Tiering even more cost-effectively for high-perf…"
+   },
+   {
+    "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
+    "summary": "Amazon Cognito now supports OAuth 2.0 token exchange (RFC 8693). Amazon Cognito helps you add sign-up, sign-in, and access control to your web applications, mobile applications, and AI agents. With token exchange, a serv…"
+   },
+   {
+    "title": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/",
+    "summary": "AWS Backup logically air-gapped vault now supports Amazon EBS Snapshots Archive. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, sup…"
+   },
+   {
+    "title": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/",
+    "summary": "AWS Glue introduces automatic version upgrades, a capability that keeps your Apache Spark jobs current on the latest AWS Glue runtime without manual coordination. Staying current on supported runtimes gives your jobs the…"
    }
   ],
   "digest_date": "12 Nov 2026"
