@@ -441,6 +441,7 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
+   "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -738,6 +739,11 @@
     "date": "13 Nov 2026"
    },
    {
+    "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
+    "date": "13 Nov 2026"
+   },
+   {
     "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
     "date": "12 Nov 2026"
@@ -745,11 +751,6 @@
    {
     "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
-    "date": "12 Nov 2026"
-   },
-   {
-    "title": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/",
     "date": "12 Nov 2026"
    }
   ],
@@ -809,6 +810,11 @@
     "title": "Amazon Route 53 now supports record set protection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-route-53-record-set-protection/",
     "summary": "Amazon Route 53 now supports record set protection, which helps DNS administrators prevent accidental changes to critical DNS records in their hosted zones. This feature allows you to protect records such as those at the…"
+   },
+   {
+    "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
+    "summary": "Amazon SageMaker Unified Studio now supports layout customization, a new capability that gives domain administrators control over which tools and left navigation items project members see based on their designation. Orga…"
    }
   ],
   "digest_date": "13 Nov 2026"
