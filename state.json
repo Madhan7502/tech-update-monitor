@@ -440,9 +440,9 @@
    "3cd93d4aacc3e7c3ebc421780f0cca6c7e5d4ec8",
    "d215143aceaf1d7ec7cb6d13895f809f243b1629",
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
-   "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
+   "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
    "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
@@ -734,11 +734,6 @@
     "date": "13 Nov 2026"
    },
    {
-    "title": "AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
-    "date": "13 Nov 2026"
-   },
-   {
     "title": "AWS Secrets Manager now supports cross-account replication",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/",
     "date": "13 Nov 2026"
@@ -746,6 +741,11 @@
    {
     "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
+    "date": "13 Nov 2026"
+   },
+   {
+    "title": "AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
     "date": "13 Nov 2026"
    },
    {
