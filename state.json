@@ -22,6 +22,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-12-1",
    "https://www.php.net/archive/2026.php#2026-11-05-1",
    "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
@@ -82,7 +83,6 @@
    "https://www.php.net/archive/2026.php#2026-02-09-1",
    "https://www.php.net/archive/2026.php#2026-01-15-3",
    "https://www.php.net/archive/2026.php#2026-01-15-2",
-   "https://www.php.net/archive/2026.php#2026-11-12-1",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
@@ -90,15 +90,15 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 RC5 available for testing",
-    "link": "https://www.php.net/index.php#2026-11-05-1",
-    "date": "05 Nov 2026"
+    "title": "PHP 8.6.0RC7 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-12-1",
+    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 RC5 available for testing",
-   "link": "https://www.php.net/index.php#2026-11-05-1",
-   "date": "05 Nov 2026"
+   "title": "PHP 8.6.0RC7 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-12-1",
+   "date": "12 Nov 2026"
   },
   "fails": 0
  },
@@ -357,6 +357,7 @@
    "29e6500de55a9c2d65f4fbbac801e0e7474aa9f7",
    "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
    "88af8529196585374f2e4a683845bef78ec79f37",
+   "d3adfc1fe68bc634cee1e4a3f237a01374373147",
    "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
    "9485271775e2e715c1aac015cf7c1c2a1f859448",
@@ -423,14 +424,14 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-129266 - Arbitrary local file read via unvalidated resource location in model archive metadata in Deep Java Library",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-183-aws/",
+    "title": "CVE-2026-126816 - Path traversal and arbitrary file write in the cost report generator of aws-pricing-mcp-server",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-184-aws/",
     "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-129266 - Arbitrary local file read via unvalidated resource location in model archive metadata in Deep Java Library",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-183-aws/",
+   "title": "CVE-2026-126816 - Path traversal and arbitrary file write in the cost report generator of aws-pricing-mcp-server",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-184-aws/",
    "date": "16 Nov 2026"
   },
   "fails": 0
@@ -438,6 +439,7 @@
  "aws-whats-new": {
   "seen": [
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
+   "21b1355d87e15f92a15dfe9456d208467000569f",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
    "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
@@ -446,9 +448,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -718,6 +720,11 @@
     "date": "16 Nov 2026"
    },
    {
+    "title": "AWS Backup adds logically air-gapped vault support for Amazon RDS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/",
+    "date": "16 Nov 2026"
+   },
+   {
     "title": "AgentCore runtime instances are now available in six more AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/",
     "date": "16 Nov 2026"
@@ -756,11 +763,6 @@
     "title": "Amazon SageMaker Unified Studio now supports layout customization for designations",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/",
     "date": "13 Nov 2026"
-   },
-   {
-    "title": "AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
-    "date": "13 Nov 2026"
    }
   ],
   "latest": {
@@ -774,6 +776,11 @@
     "title": "AgentCore runtime instances are now available in six more AWS Regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/",
     "summary": "Amazon Bedrock AgentCore runtime instances are now available in six additional AWS Regions: US West (N. California), Canada (Central), Europe (London), Europe (Paris), Europe (Stockholm), and Asia Pacific (Seoul). Runtim…"
+   },
+   {
+    "title": "AWS Backup adds logically air-gapped vault support for Amazon RDS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/",
+    "summary": "AWS Backup logically air-gapped vault now supports Amazon Relational Database Service (Amazon RDS) DB instances. Logically air-gapped vaults are a type of AWS Backup vault that stores immutable, isolated backups, which a…"
    }
   ],
   "digest_date": "16 Nov 2026"
