@@ -267,6 +267,7 @@
  },
  "python-insider": {
   "seen": [
+   "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
    "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
    "https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/",
    "https://blog.python.org/2026/10/python-3151-3149-31317/",
@@ -322,15 +323,15 @@
   ],
   "recent": [
    {
-    "title": "Python 3.16.0 alpha 2 is now available",
-    "link": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
-    "date": "10 Nov 2026"
+    "title": "XTM Transifex sponsors Python’s documentation translations",
+    "link": "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
+    "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Python 3.16.0 alpha 2 is now available",
-   "link": "https://blog.python.org/2026/11/python-3160-alpha-2-is-now-available/",
-   "date": "10 Nov 2026"
+   "title": "XTM Transifex sponsors Python’s documentation translations",
+   "link": "https://blog.python.org/2026/11/transifex-sponsors-python-docs/",
+   "date": "16 Nov 2026"
   },
   "fails": 0
  },
@@ -344,6 +345,7 @@
    "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
    "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
    "673bae0c00db5a735d35b34fe46471676b93f07b",
+   "e5b25bbb67cb84fa3b1d3e37b1874e9bce1133db",
    "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
    "13b91c68b37257b54cb7a7d0d1500b8f742f06e3",
    "1b21708205307263ba3444e51ec90c23b3d8f920",
@@ -421,20 +423,21 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-126793 - Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/",
-    "date": "12 Nov 2026"
+    "title": "CVE-2026-129266 - Arbitrary local file read via unvalidated resource location in model archive metadata in Deep Java Library",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-183-aws/",
+    "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-126793 - Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/",
-   "date": "12 Nov 2026"
+   "title": "CVE-2026-129266 - Arbitrary local file read via unvalidated resource location in model archive metadata in Deep Java Library",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-183-aws/",
+   "date": "16 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
    "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
    "3cd93d4aacc3e7c3ebc421780f0cca6c7e5d4ec8",
@@ -442,9 +445,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -709,6 +712,11 @@
   ],
   "recent": [
    {
+    "title": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+    "date": "16 Nov 2026"
+   },
+   {
     "title": "Aurora PostgreSQL with express configuration now supported in CloudFormation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
     "date": "13 Nov 2026"
@@ -744,29 +752,24 @@
     "date": "13 Nov 2026"
    },
    {
-    "title": "AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
-    "date": "13 Nov 2026"
-   },
-   {
-    "title": "AWS Marketplace now supports VAT credit notes for deemed supply refunds",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-vat-credit-notes/",
-    "date": "13 Nov 2026"
-   },
-   {
     "title": "AWS Systems Manager simplifies onboarding of Google Cloud VMs for centralized management",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-google-cloud-support/",
+    "date": "13 Nov 2026"
+   },
+   {
+    "title": "AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/",
     "date": "13 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Aurora PostgreSQL with express configuration now supported in CloudFormation",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/",
-   "date": "13 Nov 2026"
+   "title": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
+   "date": "16 Nov 2026"
   },
   "fails": 0,
   "pending": [],
-  "digest_date": "14 Nov 2026"
+  "digest_date": "16 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
@@ -958,6 +961,7 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-16:/blog/posts/beyond-the-app-google-play-buyer-reach",
    "tag:developer.android.com,2026-11-11:/blog/posts/smileid-camerax-android-identity-verification",
    "tag:developer.android.com,2026-11-10:/blog/posts/open-source-google-sign-in-unity",
    "tag:developer.android.com,2026-11-06:/blog/posts/build-android-xr-devices-tools",
@@ -991,15 +995,15 @@
   ],
   "recent": [
    {
-    "title": "How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX",
-    "link": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification",
-    "date": "11 Nov 2026"
+    "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
+    "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
+    "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "How SmileID Scaled Identity Verification to 18,000+ Android Device Types with CameraX",
-   "link": "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification",
-   "date": "11 Nov 2026"
+   "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
+   "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
+   "date": "16 Nov 2026"
   },
   "fails": 0
  },
