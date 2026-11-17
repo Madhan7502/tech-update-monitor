@@ -372,6 +372,7 @@
    "54788f8c676b1547122542050a6b12ac04d037ea",
    "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
+   "f853e3ceb73dda15c7174846e097388478ce538d",
    "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "dec0a4afced6486c9fdc47cc2b9e0575ad21a9d5",
    "72e0fb9d5e67d44108f265509e13ed134a146d90",
@@ -427,30 +428,36 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/",
+    "title": "CVE-2026-130622 and CVE-2026-130623 - Incorrect authorization in credential loading and handling for namespace-scoped issuers in AWS Private CA Connector for Kubernetes (aws-privateca-issuer)",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-187-aws/",
     "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/",
+   "title": "CVE-2026-130622 and CVE-2026-130623 - Incorrect authorization in credential loading and handling for namespace-scoped issuers in AWS Private CA Connector for Kubernetes (aws-privateca-issuer)",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-187-aws/",
    "date": "17 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
+   "a428c88e38b6d07a9e56485f614b72f7c7dd785d",
+   "7076abb8a48f687d18be4f96b678486b4d33340c",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
    "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
+   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
    "8c5d276d980374901bf09862f6751629938a26e4",
    "e6d6e31f572a07720a819142adffa47c065c78fa",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
-   "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
+   "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
    "3b3d59b5059995218ea04335955eb5c202dbfdb9",
+   "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
@@ -467,10 +474,11 @@
    "d3f26a86dfd62a9d44d28a5cfee2b29847f1e40d",
    "3187d74950b83f54d7e7b68cf6af7ed579fe9221",
    "f16907ce2617719bf16322f247187ae125e89be9",
+   "4a2111f436d1dc22498d430b12f3be6913f336ce",
+   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
-   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
    "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
@@ -479,9 +487,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -733,16 +741,24 @@
    "b5e2645c181344e7a8937c2a0fcb27e23b2263e1",
    "aa03e8d8f292eafa8069cc48085c6bdaf0acc462",
    "fad5476505941666ed224059057bc7bc27398789",
-   "10e296f6696af28054f498f88cda7cb9d59d55c9",
-   "6091f88112faac29f8087063256b59bb933e9d4a",
-   "e11e180c22d33452ff594d59026f8421d7b901e6",
-   "50919efc139f36c47022a2b03be796a8017c2803",
-   "db28e1cd2d5aae593c81883a1822541e63cf3b1a",
-   "022eae085f250edc2c6295f645328accae4b1c06",
-   "af2e139320300bc3de966c5f102a7cce1078613e",
-   "13a6ee64ae1346157964e7ca881db4cd34e20940"
+   "10e296f6696af28054f498f88cda7cb9d59d55c9"
   ],
   "recent": [
+   {
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "AWS Config announces managed conformance packs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
+    "date": "17 Nov 2026"
+   },
    {
     "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
@@ -759,44 +775,29 @@
     "date": "17 Nov 2026"
    },
    {
+    "title": "Amazon WorkSpaces provides a new Windows client experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
+    "date": "17 Nov 2026"
+   },
+   {
     "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/",
     "date": "17 Nov 2026"
    },
    {
     "title": "AWS launches credit splitting and transfers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/",
     "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS IAM announces Access Troubleshooter to debug access denied errors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS announces agentic account creation for agentic coding harnesses",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/",
-    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+   "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
    "date": "17 Nov 2026"
   },
   "fails": 0,
@@ -870,6 +871,41 @@
     "title": "Amazon S3 Storage Lens now tracks S3 Intelligent-Tiering access tiers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-storage-lens-s3-intelligent-tiering-access-tiers/",
     "summary": "Amazon S3 Storage Lens now provides storage metrics for each S3 Intelligent-Tiering access tier. You can see object counts and storage bytes in every tier across your buckets. This helps you track how your data moves bet…"
+   },
+   {
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "summary": "Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity…"
+   },
+   {
+    "title": "AWS Config announces managed conformance packs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
+    "summary": "AWS Config now offers managed conformance packs. AWS builds and maintains these packs for specific compliance and governance frameworks. When you deploy one, you choose a framework, and AWS Config evaluates your resource…"
+   },
+   {
+    "title": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
+    "summary": "Amazon Aurora DSQL now records statistics for each SQL statement your cluster runs and publishes them as Amazon CloudWatch OpenTelemetry (OTel) metrics. You can view them in Amazon CloudWatch Database Insights. For each …"
+   },
+   {
+    "title": "Amazon WorkSpaces provides a new Windows client experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client",
+    "summary": "Amazon WorkSpaces provides a new Windows client experience for Amazon WorkSpaces Personal. The new client experience includes an updated interface, a simplified connection flow, easier-to-find settings, and the new WorkS…"
+   },
+   {
+    "title": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
+    "summary": "AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons…"
+   },
+   {
+    "title": "AWS Split Cost Allocation Data now supports Amazon S3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/split-cost-allocation-data-s3/",
+    "summary": "Starting today, you can allocate the storage and request costs of a shared Amazon S3 general purpose bucket to the prefixes in that bucket in the AWS Cost and Usage Report (CUR). Organizations often store data for many t…"
+   },
+   {
+    "title": "AWS Network Firewall now supports context-aware rules with AWS Transit Gateway-attached firewalls",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-context-aware-rules/",
+    "summary": "AWS Network Firewall attached to AWS Transit Gateway now allows you to use context-aware rules in your firewall policy. Network Firewall is a managed firewall and intrusion prevention service that inspects and filters tr…"
    }
   ],
   "digest_date": "17 Nov 2026"
@@ -1073,6 +1109,7 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-17:/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
    "tag:developer.android.com,2026-11-16:/blog/posts/beyond-the-app-google-play-buyer-reach",
    "tag:developer.android.com,2026-11-11:/blog/posts/smileid-camerax-android-identity-verification",
    "tag:developer.android.com,2026-11-10:/blog/posts/open-source-google-sign-in-unity",
@@ -1107,15 +1144,15 @@
   ],
   "recent": [
    {
-    "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
-    "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
-    "date": "16 Nov 2026"
+    "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
+    "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
+    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Beyond the app: Expanding buyer reach across new surfaces with Google Play",
-   "link": "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach",
-   "date": "16 Nov 2026"
+   "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
+   "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
+   "date": "17 Nov 2026"
   },
   "fails": 0
  },
