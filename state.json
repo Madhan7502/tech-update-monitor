@@ -440,6 +440,7 @@
  "aws-whats-new": {
   "seen": [
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
+   "189b93e4a9fef21ac04c2ad35e7b62c813320586",
    "1971db31412624560a9d5f6ebd6289a73bc0f1ed",
    "896e0e347b0abff138c927dbfc688d7fe91c8d19",
    "1e611eb089c2dcdee4d3ad6757e34268499769c6",
@@ -733,6 +734,11 @@
     "date": "16 Nov 2026"
    },
    {
+    "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
+    "date": "16 Nov 2026"
+   },
+   {
     "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
     "date": "16 Nov 2026"
@@ -770,11 +776,6 @@
    {
     "title": "AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "IAM Identity Center now supports VPC endpoints and network access controls",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/",
     "date": "16 Nov 2026"
    }
   ],
@@ -854,12 +855,18 @@
     "title": "AWS IAM Identity Center now supports ForceAuthn in SAML requests",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-reauth/",
     "summary": "AWS IAM Identity Center now gives you the option to require workforce users to re-authenticate with your external identity provider (IdP) each time their user interactive session expires. By default, when a user's sessio…"
+   },
+   {
+    "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
+    "summary": "Amazon Elastic Block Store (EBS) now supports associating additional AWS Key Management Service (KMS) keys with EBS snapshots. This new capability enables you to share and copy encrypted snapshots across accounts without…"
    }
   ],
   "digest_date": "16 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=11162026h",
    "https://developer.apple.com/news/releases/?id=11162026g",
    "https://developer.apple.com/news/releases/?id=11162026a",
    "https://developer.apple.com/news/releases/?id=11162026b",
@@ -880,7 +887,6 @@
    "https://developer.apple.com/news/releases/?id=11092026i",
    "https://developer.apple.com/news/releases/?id=11042026b",
    "https://developer.apple.com/news/releases/?id=11042026a",
-   "https://developer.apple.com/news/releases/?id=11032026h",
    "https://developer.apple.com/news/releases/?id=10302026a",
    "https://developer.apple.com/news/releases/?id=10292026a",
    "https://developer.apple.com/news/releases/?id=10222026a",
@@ -910,6 +916,7 @@
    "https://developer.apple.com/news/releases/?id=05112026k",
    "https://developer.apple.com/news/releases/?id=05112026l",
    "https://developer.apple.com/news/releases/?id=05112026m",
+   "https://developer.apple.com/news/releases/?id=11032026h",
    "https://developer.apple.com/news/releases/?id=11032026g",
    "https://developer.apple.com/news/releases/?id=11032026a",
    "https://developer.apple.com/news/releases/?id=11032026b",
@@ -945,14 +952,14 @@
   ],
   "recent": [
    {
-    "title": "Xcode 27.3 beta 2 (27C5035i)",
-    "link": "https://developer.apple.com/news/releases/?id=11162026g",
+    "title": "TestFlight Update",
+    "link": "https://developer.apple.com/news/releases/?id=11162026h",
     "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Xcode 27.3 beta 2 (27C5035i)",
-   "link": "https://developer.apple.com/news/releases/?id=11162026g",
+   "title": "TestFlight Update",
+   "link": "https://developer.apple.com/news/releases/?id=11162026h",
    "date": "16 Nov 2026"
   },
   "fails": 0
