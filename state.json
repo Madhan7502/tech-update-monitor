@@ -442,31 +442,37 @@
  },
  "aws-whats-new": {
   "seen": [
+   "db88f419854d484316df6b66ab397cf874bc59cf",
+   "5c82b52ee969fbb6d8ef53e0911817511c8d9810",
+   "ab144c3651830376fb751168722fbe3fa83e7db6",
+   "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "b592aa3ca52f5a6095742b2961d342b77766b8bc",
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
+   "7965338fd39b7f41f872cc127c80eeaf1bbf3973",
    "0fd5641650668df6dad512d7fdc082dc59b48fe0",
    "a428c88e38b6d07a9e56485f614b72f7c7dd785d",
    "7076abb8a48f687d18be4f96b678486b4d33340c",
    "040eb57268976d2f70c567ed42370207c4f61df8",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
-   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
-   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
+   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
    "219b324141c75d68b150bcd97ee60002d2aaff33",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
-   "ebb8b452e844f26898a6a3040900673bad67c9e7",
-   "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
-   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
    "8c5d276d980374901bf09862f6751629938a26e4",
    "e6d6e31f572a07720a819142adffa47c065c78fa",
-   "c7e628225658ce647a7042ac0041ba065edf9e27",
+   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
+   "ebb8b452e844f26898a6a3040900673bad67c9e7",
+   "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
    "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
+   "c7e628225658ce647a7042ac0041ba065edf9e27",
+   "8428eee375a6b87b22b64c8371af52893c18d342",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
    "242c89f52297efd375ff69a5daee00d13cdce25a",
@@ -488,10 +494,10 @@
    "f16907ce2617719bf16322f247187ae125e89be9",
    "4a2111f436d1dc22498d430b12f3be6913f336ce",
    "632115f37ab31df080fefd08dc44d9a1389271e7",
-   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
+   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "b380379f433b5ecbf4e2e746eeb8d5a03039a989",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
@@ -735,28 +741,42 @@
    "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
    "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
    "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a",
-   "6ed2d0410c769d34a53bb0ec413d6515dff579bf",
-   "f96113f8a52213bd0c529ae8baccbc659974cdb3",
-   "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
-   "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
-   "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
-   "29044607ae843e5c599cfb5c3e3f635a8636a262"
+   "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a"
   ],
   "recent": [
+   {
+    "title": "Amazon EMR 8.2 is now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon ECR now supports global authentication tokens for private registries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
+    "date": "17 Nov 2026"
+   },
    {
     "title": "AWS Security Hub now infers resource criticality from installed software and usage",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
     "date": "17 Nov 2026"
    },
    {
@@ -770,34 +790,14 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock AgentCore now offers free monthly web search queries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS Config announces managed conformance packs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+    "title": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/",
     "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Security Hub now infers resource criticality from installed software and usage",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+   "title": "Amazon EMR 8.2 is now available",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
    "date": "17 Nov 2026"
   },
   "fails": 0,
@@ -976,6 +976,36 @@
     "title": "AWS Workload Credentials Provider adds container support for ACM certificates",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-certificates-container-support/",
     "summary": "The open source AWS Workload Credentials Provider can now export AWS Certificate Manager (ACM) certificates to applications running in containers on Amazon Elastic Container Service (Amazon ECS), including AWS Fargate, A…"
+   },
+   {
+    "title": "Amazon EMR 8.2 is now available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
+    "summary": "Amazon EMR 8.2 is now available with new features across Amazon EMR on EC2, Amazon EMR on EKS, and Amazon EMR Serverless. This release upgrades Apache Spark to 4.1.3, Apache Iceberg to 1.11.0, and Delta Lake to 4.2.0, an…"
+   },
+   {
+    "title": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
+    "summary": "Amazon EMR Serverless now offers the Apache Spark optimization agent, which analyzes completed Spark job runs and delivers cost and performance optimization recommendations in seconds. You can select a cost or performanc…"
+   },
+   {
+    "title": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
+    "summary": "AWS Partners can now expedite Migration Acceleration Program (MAP) deals, from qualification to incentive payout, with an end-to-end agentic workflow in AWS Transform. Partners can manage the full MAP lifecycle without l…"
+   },
+   {
+    "title": "Amazon ECR now supports global authentication tokens for private registries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
+    "summary": "Amazon Elastic Container Registry (Amazon ECR) now supports global authentication tokens for private registries. Previously, you needed to request a separate authentication token in each AWS Region where you push or pull…"
+   },
+   {
+    "title": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/",
+    "summary": "Today, AWS announces the general availability of DynamoDB caching with Amazon ElastiCache Serverless for Valkey, enabling sub-millisecond read latency for frequently accessed DynamoDB data. Previously, if you required fa…"
+   },
+   {
+    "title": "Amazon Route 53 Resolver DNS Firewall now supports automated allow-list generation",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-dns-firewall-auto-allowlists/",
+    "summary": "Amazon Route 53 Resolver DNS Firewall now automatically generates domain allow-lists from your VPCs' observed DNS query traffic, helping you enforce least-privilege DNS access and reduce the risk of DNS-based data exfilt…"
    }
   ],
   "digest_date": "17 Nov 2026"
