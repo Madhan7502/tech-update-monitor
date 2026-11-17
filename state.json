@@ -442,24 +442,33 @@
  },
  "aws-whats-new": {
   "seen": [
+   "89ce060b87899ad75599ebc53b84756342c78966",
+   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "60f9ee66e6264de9426ec7f90720ddc308ae9828",
+   "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
+   "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
+   "0fd5641650668df6dad512d7fdc082dc59b48fe0",
    "a428c88e38b6d07a9e56485f614b72f7c7dd785d",
    "7076abb8a48f687d18be4f96b678486b4d33340c",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
-   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
-   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
+   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "219b324141c75d68b150bcd97ee60002d2aaff33",
+   "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
+   "8bc36fad49393a8146e3a7910694db10c12619ba",
    "8c5d276d980374901bf09862f6751629938a26e4",
    "e6d6e31f572a07720a819142adffa47c065c78fa",
-   "8bc36fad49393a8146e3a7910694db10c12619ba",
+   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
-   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
    "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
+   "c7e628225658ce647a7042ac0041ba065edf9e27",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
+   "242c89f52297efd375ff69a5daee00d13cdce25a",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -475,10 +484,12 @@
    "3187d74950b83f54d7e7b68cf6af7ed579fe9221",
    "f16907ce2617719bf16322f247187ae125e89be9",
    "4a2111f436d1dc22498d430b12f3be6913f336ce",
-   "3affa91302463eafada7dfa8c8b90ff583e5d118",
+   "632115f37ab31df080fefd08dc44d9a1389271e7",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
+   "3affa91302463eafada7dfa8c8b90ff583e5d118",
+   "b380379f433b5ecbf4e2e746eeb8d5a03039a989",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
    "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
@@ -487,9 +498,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -730,23 +741,37 @@
    "29044607ae843e5c599cfb5c3e3f635a8636a262",
    "c46bfa74071e9ae3a3e0ac46fbd484cd58d41c82",
    "eb36d722e3c66e69b923d431c528a07334fc1347",
-   "19a75aa0df7e4f338c2aa8a38d162c46ac98bfb9",
-   "f218fc40886c7e7dd5feb0df2b3fabfc4018d8f3",
-   "ec3912cd048a09be47d4f3a92ed0f45245f27882",
-   "86855a2f88a0af85cad1ec827814b3a0946609fe",
-   "76f02e9c44db0bad8587db1298527d6a14f13dc6",
-   "8e818903c77bf51dcf59e0e7ad7a7da9f23cf1f3",
-   "1a51231c06f71f995de85ebb34e0a9ecd4276d51",
-   "c67c73cbd73121aace9e44b9ac569747387b44b7",
-   "b5e2645c181344e7a8937c2a0fcb27e23b2263e1",
-   "aa03e8d8f292eafa8069cc48085c6bdaf0acc462",
-   "fad5476505941666ed224059057bc7bc27398789",
-   "10e296f6696af28054f498f88cda7cb9d59d55c9"
+   "19a75aa0df7e4f338c2aa8a38d162c46ac98bfb9"
   ],
   "recent": [
    {
+    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "date": "17 Nov 2026"
+   },
+   {
     "title": "Amazon API Gateway REST APIs now support JWT authorizers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore now offers free monthly web search queries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
     "date": "17 Nov 2026"
    },
    {
@@ -765,39 +790,14 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
-    "date": "17 Nov 2026"
-   },
-   {
     "title": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon WorkSpaces provides a new Windows client experience",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS launches credit splitting and transfers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/",
     "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+   "title": "AWS Security Hub now infers resource criticality from installed software and usage",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
    "date": "17 Nov 2026"
   },
   "fails": 0,
@@ -906,6 +906,61 @@
     "title": "AWS Network Firewall now supports context-aware rules with AWS Transit Gateway-attached firewalls",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-context-aware-rules/",
     "summary": "AWS Network Firewall attached to AWS Transit Gateway now allows you to use context-aware rules in your firewall policy. Network Firewall is a managed firewall and intrusion prevention service that inspects and filters tr…"
+   },
+   {
+    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+    "summary": "Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure finding…"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "summary": "Amazon Bedrock AgentCore Memory now lets you keep short-term memory events for up to 10 years, up from one year. Developers can now use short-term memory as a long-lived record of agent conversations and interactions. Th…"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+    "summary": "Amazon Bedrock AgentCore Memory now keeps a full session summary for every session. It's a single record that gives a snapshot of what happened in the conversation. Summary chunks cover the conversation in more detail, w…"
+   },
+   {
+    "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
+    "summary": "Building high-quality training datasets has traditionally required weeks of manual labeling and data cleaning. Amazon SageMaker now offers AI data preparation capabilities that help data scientists and ML engineers build…"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore now offers free monthly web search queries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
+    "summary": "Amazon Bedrock AgentCore now offers 5,000 free web search queries per month through the Web Search Tool in AgentCore gateway and the Web Search API. AgentCore helps developers build, deploy, and operate highly effective …"
+   },
+   {
+    "title": "Amazon MSK Standard Brokers now support Graviton4-based M8g instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/",
+    "summary": "AWS Graviton4-based M8g instances are now generally available for Standard Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Standard Brokers on M7g, M8g delivers up to 35% lower P99 produce …"
+   },
+   {
+    "title": "Amazon MSK Express Brokers now support Graviton4-based M8g instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/",
+    "summary": "AWS Graviton4-based M8g instances are now generally available for Express Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Express Brokers on M7g, M8g delivers 15% lower compute costs, up to…"
+   },
+   {
+    "title": "Amazon SageMaker HyperPod now supports cluster operations for tracking scaling and on-demand Deep Health Check requests",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-cluster-ops/",
+    "summary": "Amazon SageMaker HyperPod introduces cluster operations, giving you visibility into every scaling and on-demand deep health check request from submission to completion. When a request runs into errors, the SageMaker AI c…"
+   },
+   {
+    "title": "AWS Transit Gateway now shares resource context with firewalls for segmentation policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-firewall-context-sharing/",
+    "summary": "AWS Transit Gateway now supports context sharing with security services, such as attached firewalls, allowing you to use Amazon Virtual Private Clouds (VPCs), VPC subnets, VPC security groups, and transit gateway attachm…"
+   },
+   {
+    "title": "AWS Security Hub now detects when vulnerable software is running on Amazon EC2 instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-detects-vulnerable-software/",
+    "summary": "AWS Security Hub now detects when software with a known vulnerability is actively running on your Amazon EC2 instances. Exposure findings now include a new trait, *The EC2 instance is running software with a known vulner…"
+   },
+   {
+    "title": "AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/",
+    "summary": "AWS Security Hub Network Scanning now scans Amazon RDS DB instances to identify those that are reachable from the internet. Network Scanning automatically discovers existing and new RDS DB instances in your accounts and …"
    }
   ],
   "digest_date": "17 Nov 2026"
