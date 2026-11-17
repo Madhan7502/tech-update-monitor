@@ -450,6 +450,7 @@
    "c8ded8f1861a08b45fa7f54574fdb5b08677e1b7",
    "d3f26a86dfd62a9d44d28a5cfee2b29847f1e40d",
    "3187d74950b83f54d7e7b68cf6af7ed579fe9221",
+   "f16907ce2617719bf16322f247187ae125e89be9",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
@@ -462,9 +463,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -474,9 +475,9 @@
    "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
+   "ce00981d1658528c2bbebcada8637ef5b8015150",
    "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
    "718e327b5292d7dd6b81b0561629e273e6a1eb93",
-   "ce00981d1658528c2bbebcada8637ef5b8015150",
    "6dad964f1428935658fd5d4a1fcb31e0f321403d",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
    "3db630b4d39f71745fccb4ab20f546149ec5ebc8",
@@ -860,6 +861,11 @@
     "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
     "summary": "Amazon Elastic Block Store (EBS) now supports associating additional AWS Key Management Service (KMS) keys with EBS snapshots. This new capability enables you to share and copy encrypted snapshots across accounts without…"
+   },
+   {
+    "title": "Amazon SageMaker AI now supports KV cache-aware routing for real-time inference endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-kv-cache-routing/",
+    "summary": "Amazon SageMaker AI now supports KV cache-aware routing for real-time inference endpoints, enabling you to reduce time to first token for LLM workloads with long or repeated prompts. Serving engines such as vLLM store th…"
    }
   ],
   "digest_date": "16 Nov 2026"
