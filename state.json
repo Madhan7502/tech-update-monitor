@@ -183,6 +183,7 @@
  },
  "node-releases": {
   "seen": [
+   "/blog/release/v27.0.0-alpha.0.1.1?1794904867602",
    "/blog/release/v27.0.0-alpha.0.1.0?1794490570130",
    "/blog/release/v26.13.1?1794415520703",
    "/blog/release/v24.22.3?1794415511877",
@@ -253,15 +254,15 @@
   ],
   "recent": [
    {
-    "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
-    "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
-    "date": "12 Nov 2026"
+    "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
+    "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
+    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Node.js 27.0.0-alpha.0.1.0 (Alpha)",
-   "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.0",
-   "date": "12 Nov 2026"
+   "title": "Node.js 27.0.0-alpha.0.1.1 (Alpha)",
+   "link": "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.1.1",
+   "date": "17 Nov 2026"
   },
   "fails": 0
  },
