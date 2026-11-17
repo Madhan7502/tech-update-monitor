@@ -440,6 +440,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "8bc36fad49393a8146e3a7910694db10c12619ba",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
    "1971db31412624560a9d5f6ebd6289a73bc0f1ed",
@@ -477,8 +478,8 @@
    "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
-   "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
    "ce00981d1658528c2bbebcada8637ef5b8015150",
+   "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
    "718e327b5292d7dd6b81b0561629e273e6a1eb93",
    "6dad964f1428935658fd5d4a1fcb31e0f321403d",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
@@ -732,6 +733,11 @@
   ],
   "recent": [
    {
+    "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+    "date": "17 Nov 2026"
+   },
+   {
     "title": "Amazon ECR now replicates image deletions across regions and accounts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
     "date": "16 Nov 2026"
@@ -775,17 +781,12 @@
     "title": "Set up, connect, and govern AI agents faster with Amazon WorkSpaces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern",
     "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS Marketplace Metering Service now supports decimal usage quantities",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
-    "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon ECR now replicates image deletions across regions and accounts",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
-   "date": "16 Nov 2026"
+   "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+   "date": "17 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -793,6 +794,11 @@
     "title": "Amazon Connect Customer agent assist now supports interactive responses",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses",
     "summary": "Amazon Connect Customer agent assist now supports interactive components, including cards, carousels, buttons, and input fields. The AI agent analyzes conversation context in real time, recommends actions, retrieves info…"
+   },
+   {
+    "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+    "summary": "Today, AWS announces that AWS Security Hub now monitors Google Cloud Platform (GCP) resources, extending risk analytics, cloud security posture management, vulnerability management, and security response management acros…"
    }
   ],
   "digest_date": "17 Nov 2026"
