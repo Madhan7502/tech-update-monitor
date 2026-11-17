@@ -1245,6 +1245,7 @@
    "9.4.34",
    "9.4.36",
    "9.4.37",
+   "9.4.38",
    "9.5.21",
    "9.5.22",
    "9.5.23",
@@ -1254,10 +1255,11 @@
    "9.5.28",
    "9.5.29",
    "9.5.31",
-   "9.5.32"
+   "9.5.32",
+   "9.5.33"
   ],
   "latest": {
-   "title": "Latest stable version: 9.5.32",
+   "title": "Latest stable version: 9.5.33",
    "link": "https://developer.android.com/build/shrink-code",
    "date": ""
   },
