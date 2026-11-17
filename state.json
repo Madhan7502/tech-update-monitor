@@ -360,6 +360,7 @@
    "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
    "9485271775e2e715c1aac015cf7c1c2a1f859448",
+   "465c3dbae5c9b8fe3b3dae9fb6fd5bf9be0aaac4",
    "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "a58ae473469a46ce684fefcb4c3c22c888d06781",
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
@@ -426,22 +427,33 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-126681 - Improper restriction of intended endpoints in AWS Labs Timestream for InfluxDB MCP Server",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-185-aws/",
-    "date": "16 Nov 2026"
+    "title": "CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/",
+    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-126681 - Improper restriction of intended endpoints in AWS Labs Timestream for InfluxDB MCP Server",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-185-aws/",
-   "date": "16 Nov 2026"
+   "title": "CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/",
+   "date": "17 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
-   "8bc36fad49393a8146e3a7910694db10c12619ba",
+   "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
+   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
+   "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
+   "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
+   "8c5d276d980374901bf09862f6751629938a26e4",
    "e6d6e31f572a07720a819142adffa47c065c78fa",
+   "8bc36fad49393a8146e3a7910694db10c12619ba",
+   "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
+   "ebb8b452e844f26898a6a3040900673bad67c9e7",
+   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
+   "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
+   "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
+   "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
    "1971db31412624560a9d5f6ebd6289a73bc0f1ed",
@@ -467,9 +479,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -482,12 +494,12 @@
    "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
    "ce00981d1658528c2bbebcada8637ef5b8015150",
    "718e327b5292d7dd6b81b0561629e273e6a1eb93",
+   "23db02502afb70ed481cd9b593980c870412ca7c",
    "6dad964f1428935658fd5d4a1fcb31e0f321403d",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
    "3db630b4d39f71745fccb4ab20f546149ec5ebc8",
    "eda34f5bc1002fafcf314aadaf20f1b7420fedd0",
    "622ebb47cb5747a71f99950887566ac590089335",
-   "23db02502afb70ed481cd9b593980c870412ca7c",
    "f9bed7f55d83040264330b8be57f6a6b58b961ec",
    "03fba84e76b2bb2cd0cf13aa4cce5e2c0f8bb648",
    "207a39dbc5b502aba399bf68a4f579ee65521079",
@@ -728,14 +740,32 @@
    "db28e1cd2d5aae593c81883a1822541e63cf3b1a",
    "022eae085f250edc2c6295f645328accae4b1c06",
    "af2e139320300bc3de966c5f102a7cce1078613e",
-   "13a6ee64ae1346157964e7ca881db4cd34e20940",
-   "765e0993864f1c280cb34dabc1db7aa575b505cc",
-   "13c52955011591083a9f5adcfcdb9ba268f5665d"
+   "13a6ee64ae1346157964e7ca881db4cd34e20940"
   ],
   "recent": [
    {
-    "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "AWS launches credit splitting and transfers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/",
     "date": "17 Nov 2026"
    },
    {
@@ -744,49 +774,29 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon ECR now replicates image deletions across regions and accounts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
-    "date": "16 Nov 2026"
+    "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+    "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
-    "date": "16 Nov 2026"
+    "title": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/",
+    "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
-    "date": "16 Nov 2026"
+    "title": "Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/",
+    "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS DevOps Agent is now available in AWS GovCloud (US-West)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Health medical coding is now available in public preview",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer agent assist now supports interactive responses",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS KMS now supports key sharing with AWS Resource Access Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
-    "date": "16 Nov 2026"
+    "title": "AWS announces agentic account creation for agentic coding harnesses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/",
+    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
+   "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
    "date": "17 Nov 2026"
   },
   "fails": 0,
@@ -805,6 +815,61 @@
     "title": "AWS IAM announces Access Troubleshooter to debug access denied errors",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
     "summary": "AWS Identity and Access Management (IAM) introduces Access Troubleshooter , a new capability that gives you visibility into the full authorization context behind access denied errors so you can resolve them without trial…"
+   },
+   {
+    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+    "summary": "Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex business …"
+   },
+   {
+    "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
+    "summary": "AWS now offers a 99.999% availability service level agreement (SLA) for cross-Region traffic over Amazon Virtual Private Cloud (Amazon VPC) cross-Region peering, AWS Transit Gateway, and AWS Cloud WAN, with a new capabil…"
+   },
+   {
+    "title": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
+    "summary": "When a WorkSpace is slow or won't connect, the IT administrator trying to help has traditionally had to dig through Amazon CloudWatch metrics, logs, and configuration data across multiple tools to find out why. And in th…"
+   },
+   {
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers",
+    "summary": "Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity…"
+   },
+   {
+    "title": "AWS launches credit splitting and transfers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/",
+    "summary": "AWS now supports credit splitting and transfers, enabling customers to divide any AWS credit into multiple smaller credits and transfer them to other linked accounts within their payer account. Previously, AWS applied cr…"
+   },
+   {
+    "title": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/",
+    "summary": "AWS Billing and Cost Management now gives customers symmetric, granular control over how credits, Reserved Instances, and Savings Plans are shared across their organization. Organizations with grant funding, regulatory o…"
+   },
+   {
+    "title": "Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/",
+    "summary": "Amazon Web Services announces the preview of Infoblox Threat Defense on Amazon Route 53 Resolver DNS Firewall . Security administrators can now apply Infoblox threat intelligence directly in DNS Firewall rules to preempt…"
+   },
+   {
+    "title": "AWS announces agentic account creation for agentic coding harnesses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/",
+    "summary": "AWS now enables agentic coding harnesses to open the new AWS sign-up experience for developers who don't have an AWS account yet. Previously, developers working in agentic coding environments like Claude Code, Codex, and…"
+   },
+   {
+    "title": "Amazon EKS Auto Mode now rightsizes Pods to reduce compute costs (Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eks-auto-mode-pod-rightsizing-preview/",
+    "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) introduces resource optimization for EKS Auto Mode, a new capability that rightsizes the CPU and memory requests of running Pods based on their actual usage. CPU and memory …"
+   },
+   {
+    "title": "AWS Split Cost Allocation Data now supports Amazon S3",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-split-cost-allocation/",
+    "summary": "You can now allocate the storage and request costs of a shared Amazon S3 general purpose bucket to its prefixes in the AWS Cost and Usage Report (CUR). Many organizations store data for multiple teams, applications, or t…"
+   },
+   {
+    "title": "Amazon S3 Storage Lens now tracks S3 Intelligent-Tiering access tiers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-storage-lens-s3-intelligent-tiering-access-tiers/",
+    "summary": "Amazon S3 Storage Lens now provides storage metrics for each S3 Intelligent-Tiering access tier. You can see object counts and storage bytes in every tier across your buckets. This helps you track how your data moves bet…"
    }
   ],
   "digest_date": "17 Nov 2026"
