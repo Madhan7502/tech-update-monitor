@@ -443,32 +443,35 @@
  "aws-whats-new": {
   "seen": [
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "60f9ee66e6264de9426ec7f90720ddc308ae9828",
+   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
    "0fd5641650668df6dad512d7fdc082dc59b48fe0",
    "a428c88e38b6d07a9e56485f614b72f7c7dd785d",
    "7076abb8a48f687d18be4f96b678486b4d33340c",
+   "040eb57268976d2f70c567ed42370207c4f61df8",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
-   "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
    "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
-   "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
+   "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
    "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
    "219b324141c75d68b150bcd97ee60002d2aaff33",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
-   "8c5d276d980374901bf09862f6751629938a26e4",
-   "e6d6e31f572a07720a819142adffa47c065c78fa",
-   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
-   "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
+   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
+   "8c5d276d980374901bf09862f6751629938a26e4",
+   "e6d6e31f572a07720a819142adffa47c065c78fa",
    "c7e628225658ce647a7042ac0041ba065edf9e27",
+   "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
    "242c89f52297efd375ff69a5daee00d13cdce25a",
+   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
+   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -485,10 +488,10 @@
    "f16907ce2617719bf16322f247187ae125e89be9",
    "4a2111f436d1dc22498d430b12f3be6913f336ce",
    "632115f37ab31df080fefd08dc44d9a1389271e7",
+   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
-   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "b380379f433b5ecbf4e2e746eeb8d5a03039a989",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
@@ -498,9 +501,9 @@
    "f1030379bbe6243793dd0bd58417ce0012dc0016",
    "0befeaa93cd6c65f10eda18753c24d546868af9f",
    "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
+   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "4fab11841325d933b57a685d6e3094c2ecaa40c7",
    "de0d791db79933ce63274d060dbae3f5757eb04c",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
    "50434053494890342e760fd84417b10db3296159",
    "2a8a195de5263ec069e07456e1171a94d0235c0a",
    "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
@@ -738,10 +741,7 @@
    "97bc58c760bc768a643a46d9840e4ed58aaa4a48",
    "838ad9ad2f50a29005a9220d94e70e0ec5f9c268",
    "3fd97c39fb498df74554b15f7b2d5e55c0f89f9d",
-   "29044607ae843e5c599cfb5c3e3f635a8636a262",
-   "c46bfa74071e9ae3a3e0ac46fbd484cd58d41c82",
-   "eb36d722e3c66e69b923d431c528a07334fc1347",
-   "19a75aa0df7e4f338c2aa8a38d162c46ac98bfb9"
+   "29044607ae843e5c599cfb5c3e3f635a8636a262"
   ],
   "recent": [
    {
@@ -750,13 +750,13 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
     "date": "17 Nov 2026"
    },
    {
@@ -785,13 +785,13 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
+    "title": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/",
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
+    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
     "date": "17 Nov 2026"
    }
   ],
@@ -961,6 +961,21 @@
     "title": "AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/",
     "summary": "AWS Security Hub Network Scanning now scans Amazon RDS DB instances to identify those that are reachable from the internet. Network Scanning automatically discovers existing and new RDS DB instances in your accounts and …"
+   },
+   {
+    "title": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/",
+    "summary": "Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the r7i.metal-24xl and r7i.metal-48xl Amazon Elastic Compute Cloud (EC2) bare metal instance types for VMware Cloud Foundation (VCF) 9…"
+   },
+   {
+    "title": "AWS Lambda durable functions now supports pausing and deleting executions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-pause-delete/",
+    "summary": "AWS Lambda durable functions now lets you pause a running durable execution and resume it later without losing its progress. When you resume an execution, it continues from its last checkpoint on the same function versio…"
+   },
+   {
+    "title": "AWS Workload Credentials Provider adds container support for ACM certificates",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-certificates-container-support/",
+    "summary": "The open source AWS Workload Credentials Provider can now export AWS Certificate Manager (ACM) certificates to applications running in containers on Amazon Elastic Container Service (Amazon ECS), including AWS Fargate, A…"
    }
   ],
   "digest_date": "17 Nov 2026"
