@@ -22,6 +22,9 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-12-1",
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,23 +85,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-11-12-1",
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "PHP 8.6.0RC7 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-12-1",
+    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "PHP 8.6.0RC7 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-12-1",
+   "date": "12 Nov 2026"
   },
   "fails": 0
  },
@@ -476,8 +476,8 @@
    "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
-   "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
    "ce00981d1658528c2bbebcada8637ef5b8015150",
+   "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
    "718e327b5292d7dd6b81b0561629e273e6a1eb93",
    "6dad964f1428935658fd5d4a1fcb31e0f321403d",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
