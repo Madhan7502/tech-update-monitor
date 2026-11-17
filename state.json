@@ -22,9 +22,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-12-1",
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -85,20 +82,23 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
+   "https://www.php.net/archive/2026.php#2026-11-12-1",
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0RC7 available for testing",
-    "link": "https://www.php.net/index.php#2026-11-12-1",
-    "date": "12 Nov 2026"
+    "title": "Informational advisory: Session upload progress",
+    "link": "https://www.php.net/index.php#2026-10-23-1",
+    "date": "23 Oct 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0RC7 available for testing",
-   "link": "https://www.php.net/index.php#2026-11-12-1",
-   "date": "12 Nov 2026"
+   "title": "Informational advisory: Session upload progress",
+   "link": "https://www.php.net/index.php#2026-10-23-1",
+   "date": "23 Oct 2026"
   },
   "fails": 0
  },
@@ -445,6 +445,7 @@
    "896e0e347b0abff138c927dbfc688d7fe91c8d19",
    "1e611eb089c2dcdee4d3ad6757e34268499769c6",
    "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665",
+   "f4fff8347a4c644b7373219b1e824b393a8ffa2b",
    "923dad6aa251b0e75cec0eae8d265d4e82f90eec",
    "4d97a56c219110ad3e3f5cbecf2da37860f74be1",
    "c8ded8f1861a08b45fa7f54574fdb5b08677e1b7",
@@ -475,8 +476,8 @@
    "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
-   "ce00981d1658528c2bbebcada8637ef5b8015150",
    "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
+   "ce00981d1658528c2bbebcada8637ef5b8015150",
    "718e327b5292d7dd6b81b0561629e273e6a1eb93",
    "6dad964f1428935658fd5d4a1fcb31e0f321403d",
    "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
@@ -760,6 +761,11 @@
     "date": "16 Nov 2026"
    },
    {
+    "title": "Amazon Connect Customer agent assist now supports interactive responses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses",
+    "date": "16 Nov 2026"
+   },
+   {
     "title": "AWS KMS now supports key sharing with AWS Resource Access Manager",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
     "date": "16 Nov 2026"
@@ -773,11 +779,6 @@
     "title": "AWS Marketplace Metering Service now supports decimal usage quantities",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
     "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/",
-    "date": "16 Nov 2026"
    }
   ],
   "latest": {
@@ -786,7 +787,13 @@
    "date": "16 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon Connect Customer agent assist now supports interactive responses",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses",
+    "summary": "Amazon Connect Customer agent assist now supports interactive components, including cards, carousels, buttons, and input fields. The AI agent analyzes conversation context in real time, recommends actions, retrieves info…"
+   }
+  ],
   "digest_date": "17 Nov 2026"
  },
  "apple-dev-releases": {
