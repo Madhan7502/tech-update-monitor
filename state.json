@@ -22,6 +22,9 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-12-1",
+   "https://www.php.net/archive/2026.php#2026-11-05-1",
+   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2026.php#2026-10-23-1",
    "https://www.php.net/archive/2026.php#2026-10-21-5",
    "https://www.php.net/archive/2026.php#2026-10-21-6",
@@ -82,23 +85,20 @@
    "https://www.php.net/archive/2026.php#2026-01-15-2",
    "https://www.php.net/archive/2026.php#2026-01-15-1",
    "https://www.php.net/archive/2026.php#2026-01-14-1",
-   "https://www.php.net/archive/2026.php#2026-11-12-1",
-   "https://www.php.net/archive/2026.php#2026-11-05-1",
-   "https://www.php.net/archive/2026.php#2026-10-26-1",
    "https://www.php.net/archive/2025.php#2025-12-18-5",
    "https://www.php.net/archive/2025.php#2025-12-18-4"
   ],
   "recent": [
    {
-    "title": "Informational advisory: Session upload progress",
-    "link": "https://www.php.net/index.php#2026-10-23-1",
-    "date": "23 Oct 2026"
+    "title": "PHP 8.6.0RC7 available for testing",
+    "link": "https://www.php.net/index.php#2026-11-12-1",
+    "date": "12 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Informational advisory: Session upload progress",
-   "link": "https://www.php.net/index.php#2026-10-23-1",
-   "date": "23 Oct 2026"
+   "title": "PHP 8.6.0RC7 available for testing",
+   "link": "https://www.php.net/index.php#2026-11-12-1",
+   "date": "12 Nov 2026"
   },
   "fails": 0
  },
@@ -439,16 +439,20 @@
  },
  "aws-whats-new": {
   "seen": [
+   "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "1971db31412624560a9d5f6ebd6289a73bc0f1ed",
    "896e0e347b0abff138c927dbfc688d7fe91c8d19",
    "1e611eb089c2dcdee4d3ad6757e34268499769c6",
+   "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665",
    "923dad6aa251b0e75cec0eae8d265d4e82f90eec",
    "4d97a56c219110ad3e3f5cbecf2da37860f74be1",
+   "c8ded8f1861a08b45fa7f54574fdb5b08677e1b7",
    "d3f26a86dfd62a9d44d28a5cfee2b29847f1e40d",
    "3187d74950b83f54d7e7b68cf6af7ed579fe9221",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
+   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
    "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
@@ -724,6 +728,11 @@
   ],
   "recent": [
    {
+    "title": "Amazon ECR now replicates image deletions across regions and accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
+    "date": "16 Nov 2026"
+   },
+   {
     "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
     "date": "16 Nov 2026"
@@ -739,6 +748,11 @@
     "date": "16 Nov 2026"
    },
    {
+    "title": "Amazon Connect Health medical coding is now available in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/",
+    "date": "16 Nov 2026"
+   },
+   {
     "title": "AWS KMS now supports key sharing with AWS Resource Access Manager",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
     "date": "16 Nov 2026"
@@ -746,6 +760,11 @@
    {
     "title": "Set up, connect, and govern AI agents faster with Amazon WorkSpaces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern",
+    "date": "16 Nov 2026"
+   },
+   {
+    "title": "AWS Marketplace Metering Service now supports decimal usage quantities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
     "date": "16 Nov 2026"
    },
    {
@@ -757,26 +776,11 @@
     "title": "IAM Identity Center now supports VPC endpoints and network access controls",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/",
     "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS Backup adds logically air-gapped vault support for Amazon RDS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/",
-    "date": "16 Nov 2026"
-   },
-   {
-    "title": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/",
-    "date": "16 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
+   "title": "Amazon ECR now replicates image deletions across regions and accounts",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
    "date": "16 Nov 2026"
   },
   "fails": 0,
@@ -830,6 +834,26 @@
     "title": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/",
     "summary": "Amazon Virtual Private Cloud (VPC) now supports Networking Flexible Cost Allocation (FCA), which splits shared networking costs by the resources that actually drive them, so you can see what each team or application used…"
+   },
+   {
+    "title": "Amazon ECR now replicates image deletions across regions and accounts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr",
+    "summary": "Amazon Elastic Container Registry (Amazon ECR) now supports replicating image deletions and tag removals to your replication destinations. Previously, ECR replication copied images to destination regions and accounts but…"
+   },
+   {
+    "title": "Amazon Connect Health medical coding is now available in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/",
+    "summary": "Today, AWS announces the public preview of medical coding in Amazon Connect Health , a HIPAA-eligible AI service that works alongside healthcare teams across patient engagement and point-of-care workflows. Medical coding…"
+   },
+   {
+    "title": "AWS Marketplace Metering Service now supports decimal usage quantities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/",
+    "summary": "AWS Marketplace Metering Service now supports decimal usage quantities in the MeterUsage and BatchMeterUsage APIs. Previously, AWS Marketplace sellers reported usage to both APIs in whole numbers, and now they can report…"
+   },
+   {
+    "title": "AWS IAM Identity Center now supports ForceAuthn in SAML requests",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-reauth/",
+    "summary": "AWS IAM Identity Center now gives you the option to require workforce users to re-authenticate with your external identity provider (IdP) each time their user interactive session expires. By default, when a user's sessio…"
    }
   ],
   "digest_date": "16 Nov 2026"
