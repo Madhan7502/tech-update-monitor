@@ -451,8 +451,8 @@
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "b592aa3ca52f5a6095742b2961d342b77766b8bc",
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
    "4816cab1177d1626b6bf0c611df71cdd607834f1",
@@ -487,13 +487,13 @@
    "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
-   "242c89f52297efd375ff69a5daee00d13cdce25a",
-   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
-   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
+   "242c89f52297efd375ff69a5daee00d13cdce25a",
+   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "0af56a8a1b748c421129766b46275ba325e2e6f8",
-   "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
+   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
    "9cda7a449218b643ecb54e92e884a6ca88684081",
+   "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -790,8 +790,8 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
     "date": "17 Nov 2026"
    }
   ],
