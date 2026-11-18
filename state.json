@@ -442,6 +442,9 @@
  },
  "aws-whats-new": {
   "seen": [
+   "b9c1771361764a2db757c5d9398fcbe028f42f84",
+   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
+   "f68a89b4487a9bf4fe4143a46ed71d7468f2521a",
    "9768fdd60b7cfc6d41c3286fa165977a0c3ad1a6",
    "56bff82d685c15b1b6090e307929c3fd01a2256a",
    "db88f419854d484316df6b66ab397cf874bc59cf",
@@ -452,12 +455,13 @@
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "b592aa3ca52f5a6095742b2961d342b77766b8bc",
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
    "4816cab1177d1626b6bf0c611df71cdd607834f1",
    "7965338fd39b7f41f872cc127c80eeaf1bbf3973",
+   "4676d8ce01693aab85a77cdd8ca0c92a115fff8e",
    "e574e68611c1298671e34d0391fedbf58f930584",
    "0fd5641650668df6dad512d7fdc082dc59b48fe0",
    "a428c88e38b6d07a9e56485f614b72f7c7dd785d",
@@ -490,14 +494,14 @@
    "4a5dc7030f436adb887ed40ae8994429e486d81f",
    "32a5e55fd30bf5dd3f41da194ba4e66502bee81a",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
-   "8f29fe30810ed601f31c91d1c77199562a68df3d",
-   "242c89f52297efd375ff69a5daee00d13cdce25a",
-   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
-   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
+   "242c89f52297efd375ff69a5daee00d13cdce25a",
+   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "0af56a8a1b748c421129766b46275ba325e2e6f8",
+   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
    "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
    "9cda7a449218b643ecb54e92e884a6ca88684081",
+   "8f29fe30810ed601f31c91d1c77199562a68df3d",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -737,13 +741,24 @@
    "8bd721819f380c79930d285c4aeae10ee2504efc",
    "3ed0aa8ffeb876bedc097a22d404b2d639b91c1c",
    "eef2ddfabb5fcc0c876ad972916e7f6c830be18d",
-   "d4651dcd8180cb4c942c115db2c34d0ce32bef0f",
-   "5fc97181692d5b273b31a2b96041d6ef5034ea5d",
-   "811dc9092ea620c36b4a765953f41ee5c9c015d5",
-   "22a5d1fad4cd49ee8ad19a23807834dfc41f6a77",
-   "ffa1ebe766d430534e98b5e36b1899420aed4994"
+   "d4651dcd8180cb4c942c115db2c34d0ce32bef0f"
   ],
   "recent": [
+   {
+    "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+    "date": "18 Nov 2026"
+   },
+   {
+    "title": "Amazon Cognito now supports point-in-time recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
+    "date": "18 Nov 2026"
+   },
+   {
+    "title": "Amazon RDS now supports fast storage volume initialization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/",
+    "date": "18 Nov 2026"
+   },
    {
     "title": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
@@ -778,26 +793,11 @@
     "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
     "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon ECR now supports global authentication tokens for private registries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
-    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
+   "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
    "date": "18 Nov 2026"
   },
   "fails": 0,
@@ -826,6 +826,26 @@
     "title": "AWS Transform now supports migration to AWS Outposts",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-outposts-migration/",
     "summary": "AWS Transform now supports AWS Outposts as a migration target. You can migrate workloads onto your Outposts from on-premises environments, another Outpost, or a different Availability Zone or Region. AWS Transform is a c…"
+   },
+   {
+    "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
+    "summary": "Starting today, Amazon Relational Database Service (Amazon RDS) for MySQL supports MySQL minor version 8.4.13, the latest minor released by community MySQL. We recommend upgrading to the newer minor versions to accept fi…"
+   },
+   {
+    "title": "Amazon Cognito now supports point-in-time recovery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
+    "summary": "Amazon Cognito now supports point-in-time recovery (PITR), so you can restore the user data in a user pool to an earlier time. Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, an…"
+   },
+   {
+    "title": "Amazon RDS now supports fast storage volume initialization",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/",
+    "summary": "Amazon RDS now initializes storage volumes faster when you perform a point-in-time restore (PITR), create a read replica, or convert a Single-AZ instance to Multi-AZ. Each of these operations creates storage volumes from…"
+   },
+   {
+    "title": "Amazon OpenSearch Serverless now supports ingest pipelines",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-serverless-support-ingest-pipelines",
+    "summary": "Amazon OpenSearch Serverless now supports ingest pipelines, so you can clean, enrich, and vectorize documents inside your collection as they are indexed, without running separate preprocessing infrastructure. Teams build…"
    }
   ],
   "digest_date": "18 Nov 2026"
@@ -1031,6 +1051,8 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-18:/blog/posts/google-play-adaptive-quality-standards",
+   "tag:developer.android.com,2026-11-18:/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
    "tag:developer.android.com,2026-11-17:/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
    "tag:developer.android.com,2026-11-16:/blog/posts/beyond-the-app-google-play-buyer-reach",
    "tag:developer.android.com,2026-11-11:/blog/posts/smileid-camerax-android-identity-verification",
@@ -1066,15 +1088,15 @@
   ],
   "recent": [
    {
-    "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
-    "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
-    "date": "17 Nov 2026"
+    "title": "Elevating apps: New adaptive quality standards on Google Play",
+    "link": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
+    "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Ship smarter keep rules: How library providers can unblock app-level DEX code optimization",
-   "link": "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
-   "date": "17 Nov 2026"
+   "title": "Elevating apps: New adaptive quality standards on Google Play",
+   "link": "https://developer.android.com/blog/posts/google-play-adaptive-quality-standards",
+   "date": "18 Nov 2026"
   },
   "fails": 0
  },
