@@ -1147,6 +1147,7 @@
  },
  "apple-dev-news": {
   "seen": [
+   "https://developer.apple.com/news/?id=4o5ie73a",
    "https://developer.apple.com/news/?id=oqng0zjk",
    "https://developer.apple.com/news/?id=jkykd58d",
    "https://developer.apple.com/news/?id=ow0j45ny",
@@ -1219,15 +1220,15 @@
   ],
   "recent": [
    {
-    "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
-    "link": "https://developer.apple.com/news/?id=oqng0zjk",
-    "date": "16 Nov 2026"
+    "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+    "link": "https://developer.apple.com/news/?id=4o5ie73a",
+    "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Updates to Device Control and Data Access, and Full Disk Access in macOS",
-   "link": "https://developer.apple.com/news/?id=oqng0zjk",
-   "date": "16 Nov 2026"
+   "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
+   "link": "https://developer.apple.com/news/?id=4o5ie73a",
+   "date": "18 Nov 2026"
   },
   "fails": 0
  },
