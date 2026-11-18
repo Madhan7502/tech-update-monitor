@@ -448,11 +448,13 @@
    "3058da9264ccfc1996482b9e5943a21115172fdb",
    "9c85e14af0fc5cd101a7cae2599f17185e3de708",
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
+   "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "b592aa3ca52f5a6095742b2961d342b77766b8bc",
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
+   "4816cab1177d1626b6bf0c611df71cdd607834f1",
    "7965338fd39b7f41f872cc127c80eeaf1bbf3973",
    "e574e68611c1298671e34d0391fedbf58f930584",
    "0fd5641650668df6dad512d7fdc082dc59b48fe0",
@@ -467,8 +469,9 @@
    "219b324141c75d68b150bcd97ee60002d2aaff33",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
-   "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
+   "9c4b61d3e80a1ec945c96f969a705e3daf9fee21",
    "a844d6e8feb78be28266fd051c461e111593145e",
+   "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
@@ -478,13 +481,18 @@
    "c7e628225658ce647a7042ac0041ba065edf9e27",
    "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "8428eee375a6b87b22b64c8371af52893c18d342",
+   "292bfa793e9bd16fac8b20acfa209b66bea46f70",
+   "c64c364541dde5571ffaed008dae5d8c5e6f0f89",
+   "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
    "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
    "242c89f52297efd375ff69a5daee00d13cdce25a",
-   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
    "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "0af56a8a1b748c421129766b46275ba325e2e6f8",
+   "006048efc7e83812e3dfd5ee536c39f60f1b8090",
+   "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
+   "9cda7a449218b643ecb54e92e884a6ca88684081",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -733,15 +741,7 @@
    "45ce576fba59a79c98b68debcae7dcf50e130a1e",
    "0df44dd0e4d25ede7e1429eaaa0a12c92984dfce",
    "caa54e615b946ba6a50a3529e56369eebd291332",
-   "9a00f9d53bc589fd126ff5380636f9e5d6127ee0",
-   "b4f4ba88a2e9a608122e3200c53b26b1612ca3a7",
-   "f36dd0823949baaf925b57f75e57b15163665dba",
-   "f1f53c7d6c30635fbc0c2456afbabc000b3fbf01",
-   "3a25ba62642aa675299f9367b21064b2f9c8126b",
-   "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
-   "73aa6c63960b6738e19ed23000fa18890df45888",
-   "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "dec813d41f02b1a929463ab13b2460a7af0388d0"
+   "9a00f9d53bc589fd126ff5380636f9e5d6127ee0"
   ],
   "recent": [
    {
@@ -775,13 +775,13 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
+    "title": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/",
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
+    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
     "date": "17 Nov 2026"
    },
    {
@@ -790,8 +790,8 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
     "date": "17 Nov 2026"
    }
   ],
@@ -801,249 +801,8 @@
    "date": "17 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon Connect Customer agent assist now supports interactive responses",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses",
-    "summary": "Amazon Connect Customer agent assist now supports interactive components, including cards, carousels, buttons, and input fields. The AI agent analyzes conversation context in real time, recommends actions, retrieves info…"
-   },
-   {
-    "title": "AWS Security Hub extends unified security management to Google Cloud Platform",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/",
-    "summary": "Today, AWS announces that AWS Security Hub now monitors Google Cloud Platform (GCP) resources, extending risk analytics, cloud security posture management, vulnerability management, and security response management acros…"
-   },
-   {
-    "title": "AWS IAM announces Access Troubleshooter to debug access denied errors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/",
-    "summary": "AWS Identity and Access Management (IAM) introduces Access Troubleshooter , a new capability that gives you visibility into the full authorization context behind access denied errors so you can resolve them without trial…"
-   },
-   {
-    "title": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/",
-    "summary": "Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex business …"
-   },
-   {
-    "title": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/",
-    "summary": "AWS now offers a 99.999% availability service level agreement (SLA) for cross-Region traffic over Amazon Virtual Private Cloud (Amazon VPC) cross-Region peering, AWS Transit Gateway, and AWS Cloud WAN, with a new capabil…"
-   },
-   {
-    "title": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview",
-    "summary": "When a WorkSpace is slow or won't connect, the IT administrator trying to help has traditionally had to dig through Amazon CloudWatch metrics, logs, and configuration data across multiple tools to find out why. And in th…"
-   },
-   {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers",
-    "summary": "Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity…"
-   },
-   {
-    "title": "AWS launches credit splitting and transfers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/",
-    "summary": "AWS now supports credit splitting and transfers, enabling customers to divide any AWS credit into multiple smaller credits and transfer them to other linked accounts within their payer account. Previously, AWS applied cr…"
-   },
-   {
-    "title": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/",
-    "summary": "AWS Billing and Cost Management now gives customers symmetric, granular control over how credits, Reserved Instances, and Savings Plans are shared across their organization. Organizations with grant funding, regulatory o…"
-   },
-   {
-    "title": "Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/",
-    "summary": "Amazon Web Services announces the preview of Infoblox Threat Defense on Amazon Route 53 Resolver DNS Firewall . Security administrators can now apply Infoblox threat intelligence directly in DNS Firewall rules to preempt…"
-   },
-   {
-    "title": "AWS announces agentic account creation for agentic coding harnesses",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/",
-    "summary": "AWS now enables agentic coding harnesses to open the new AWS sign-up experience for developers who don't have an AWS account yet. Previously, developers working in agentic coding environments like Claude Code, Codex, and…"
-   },
-   {
-    "title": "Amazon EKS Auto Mode now rightsizes Pods to reduce compute costs (Preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eks-auto-mode-pod-rightsizing-preview/",
-    "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) introduces resource optimization for EKS Auto Mode, a new capability that rightsizes the CPU and memory requests of running Pods based on their actual usage. CPU and memory …"
-   },
-   {
-    "title": "AWS Split Cost Allocation Data now supports Amazon S3",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-split-cost-allocation/",
-    "summary": "You can now allocate the storage and request costs of a shared Amazon S3 general purpose bucket to its prefixes in the AWS Cost and Usage Report (CUR). Many organizations store data for multiple teams, applications, or t…"
-   },
-   {
-    "title": "Amazon S3 Storage Lens now tracks S3 Intelligent-Tiering access tiers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-storage-lens-s3-intelligent-tiering-access-tiers/",
-    "summary": "Amazon S3 Storage Lens now provides storage metrics for each S3 Intelligent-Tiering access tier. You can see object counts and storage bytes in every tier across your buckets. This helps you track how your data moves bet…"
-   },
-   {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
-    "summary": "Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity…"
-   },
-   {
-    "title": "AWS Config announces managed conformance packs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs",
-    "summary": "AWS Config now offers managed conformance packs. AWS builds and maintains these packs for specific compliance and governance frameworks. When you deploy one, you choose a framework, and AWS Config evaluates your resource…"
-   },
-   {
-    "title": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/",
-    "summary": "Amazon Aurora DSQL now records statistics for each SQL statement your cluster runs and publishes them as Amazon CloudWatch OpenTelemetry (OTel) metrics. You can view them in Amazon CloudWatch Database Insights. For each …"
-   },
-   {
-    "title": "Amazon WorkSpaces provides a new Windows client experience",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client",
-    "summary": "Amazon WorkSpaces provides a new Windows client experience for Amazon WorkSpaces Personal. The new client experience includes an updated interface, a simplified connection flow, easier-to-find settings, and the new WorkS…"
-   },
-   {
-    "title": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/",
-    "summary": "AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons…"
-   },
-   {
-    "title": "AWS Split Cost Allocation Data now supports Amazon S3",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/split-cost-allocation-data-s3/",
-    "summary": "Starting today, you can allocate the storage and request costs of a shared Amazon S3 general purpose bucket to the prefixes in that bucket in the AWS Cost and Usage Report (CUR). Organizations often store data for many t…"
-   },
-   {
-    "title": "AWS Network Firewall now supports context-aware rules with AWS Transit Gateway-attached firewalls",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-context-aware-rules/",
-    "summary": "AWS Network Firewall attached to AWS Transit Gateway now allows you to use context-aware rules in your firewall policy. Network Firewall is a managed firewall and intrusion prevention service that inspects and filters tr…"
-   },
-   {
-    "title": "AWS Security Hub now infers resource criticality from installed software and usage",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
-    "summary": "Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure finding…"
-   },
-   {
-    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
-    "summary": "Amazon Bedrock AgentCore Memory now lets you keep short-term memory events for up to 10 years, up from one year. Developers can now use short-term memory as a long-lived record of agent conversations and interactions. Th…"
-   },
-   {
-    "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
-    "summary": "Amazon Bedrock AgentCore Memory now keeps a full session summary for every session. It's a single record that gives a snapshot of what happened in the conversation. Summary chunks cover the conversation in more detail, w…"
-   },
-   {
-    "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
-    "summary": "Building high-quality training datasets has traditionally required weeks of manual labeling and data cleaning. Amazon SageMaker now offers AI data preparation capabilities that help data scientists and ML engineers build…"
-   },
-   {
-    "title": "Amazon Bedrock AgentCore now offers free monthly web search queries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/",
-    "summary": "Amazon Bedrock AgentCore now offers 5,000 free web search queries per month through the Web Search Tool in AgentCore gateway and the Web Search API. AgentCore helps developers build, deploy, and operate highly effective …"
-   },
-   {
-    "title": "Amazon MSK Standard Brokers now support Graviton4-based M8g instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/",
-    "summary": "AWS Graviton4-based M8g instances are now generally available for Standard Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Standard Brokers on M7g, M8g delivers up to 35% lower P99 produce …"
-   },
-   {
-    "title": "Amazon MSK Express Brokers now support Graviton4-based M8g instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/",
-    "summary": "AWS Graviton4-based M8g instances are now generally available for Express Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Express Brokers on M7g, M8g delivers 15% lower compute costs, up to…"
-   },
-   {
-    "title": "Amazon SageMaker HyperPod now supports cluster operations for tracking scaling and on-demand Deep Health Check requests",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-cluster-ops/",
-    "summary": "Amazon SageMaker HyperPod introduces cluster operations, giving you visibility into every scaling and on-demand deep health check request from submission to completion. When a request runs into errors, the SageMaker AI c…"
-   },
-   {
-    "title": "AWS Transit Gateway now shares resource context with firewalls for segmentation policies",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-firewall-context-sharing/",
-    "summary": "AWS Transit Gateway now supports context sharing with security services, such as attached firewalls, allowing you to use Amazon Virtual Private Clouds (VPCs), VPC subnets, VPC security groups, and transit gateway attachm…"
-   },
-   {
-    "title": "AWS Security Hub now detects when vulnerable software is running on Amazon EC2 instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-detects-vulnerable-software/",
-    "summary": "AWS Security Hub now detects when software with a known vulnerability is actively running on your Amazon EC2 instances. Exposure findings now include a new trait, *The EC2 instance is running software with a known vulner…"
-   },
-   {
-    "title": "AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/",
-    "summary": "AWS Security Hub Network Scanning now scans Amazon RDS DB instances to identify those that are reachable from the internet. Network Scanning automatically discovers existing and new RDS DB instances in your accounts and …"
-   },
-   {
-    "title": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/",
-    "summary": "Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the r7i.metal-24xl and r7i.metal-48xl Amazon Elastic Compute Cloud (EC2) bare metal instance types for VMware Cloud Foundation (VCF) 9…"
-   },
-   {
-    "title": "AWS Lambda durable functions now supports pausing and deleting executions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-pause-delete/",
-    "summary": "AWS Lambda durable functions now lets you pause a running durable execution and resume it later without losing its progress. When you resume an execution, it continues from its last checkpoint on the same function versio…"
-   },
-   {
-    "title": "AWS Workload Credentials Provider adds container support for ACM certificates",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-certificates-container-support/",
-    "summary": "The open source AWS Workload Credentials Provider can now export AWS Certificate Manager (ACM) certificates to applications running in containers on Amazon Elastic Container Service (Amazon ECS), including AWS Fargate, A…"
-   },
-   {
-    "title": "Amazon EMR 8.2 is now available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
-    "summary": "Amazon EMR 8.2 is now available with new features across Amazon EMR on EC2, Amazon EMR on EKS, and Amazon EMR Serverless. This release upgrades Apache Spark to 4.1.3, Apache Iceberg to 1.11.0, and Delta Lake to 4.2.0, an…"
-   },
-   {
-    "title": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/",
-    "summary": "Amazon EMR Serverless now offers the Apache Spark optimization agent, which analyzes completed Spark job runs and delivers cost and performance optimization recommendations in seconds. You can select a cost or performanc…"
-   },
-   {
-    "title": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/",
-    "summary": "AWS Partners can now expedite Migration Acceleration Program (MAP) deals, from qualification to incentive payout, with an end-to-end agentic workflow in AWS Transform. Partners can manage the full MAP lifecycle without l…"
-   },
-   {
-    "title": "Amazon ECR now supports global authentication tokens for private registries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
-    "summary": "Amazon Elastic Container Registry (Amazon ECR) now supports global authentication tokens for private registries. Previously, you needed to request a separate authentication token in each AWS Region where you push or pull…"
-   },
-   {
-    "title": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/",
-    "summary": "Today, AWS announces the general availability of DynamoDB caching with Amazon ElastiCache Serverless for Valkey, enabling sub-millisecond read latency for frequently accessed DynamoDB data. Previously, if you required fa…"
-   },
-   {
-    "title": "Amazon Route 53 Resolver DNS Firewall now supports automated allow-list generation",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-dns-firewall-auto-allowlists/",
-    "summary": "Amazon Route 53 Resolver DNS Firewall now automatically generates domain allow-lists from your VPCs' observed DNS query traffic, helping you enforce least-privilege DNS access and reduce the risk of DNS-based data exfilt…"
-   },
-   {
-    "title": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
-    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Israel (Tel Aviv) region. The C8gn instances provide up to 30%…"
-   },
-   {
-    "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
-    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8ine instances are available in the AWS Europe (Ireland) region. C8ine instances are powered by custom sixth generation Intel Xeon Scalable processors, available…"
-   },
-   {
-    "title": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region",
-    "summary": "Amazon OpenSearch UI has expanded to the AWS Africa (Cape Town) Region, bringing availability to 25 AWS Regions. OpenSearch UI provides a single endpoint to query, visualize, and analyze data across Amazon OpenSearch Ser…"
-   },
-   {
-    "title": "Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-key-exchange-support/",
-    "summary": "Amazon S3 adds post-quantum TLS (PQ-TLS) key exchange support to S3 Vectors and AWS PrivateLink for Amazon S3 interface endpoints. This extends the post-quantum cryptography support already available on regional S3, S3 T…"
-   },
-   {
-    "title": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/",
-    "summary": "Amazon S3 now records the TLS key exchange algorithm in AWS CloudTrail for S3 requests, so you can see which requests and clients use post-quantum TLS (PQ-TLS). With this visibility, you can measure the share of your S3 …"
-   },
-   {
-    "title": "AWS Elemental MediaConnect expands routing control and protocol support",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rtmp-support-aws-elemental-mediaconnect/",
-    "summary": "With AWS Elemental MediaConnect , you now have more protocol support and routing control for your live video workflows. First, MediaConnect now supports more protocols, including RTMP, RTMPS, and eRTMP, across both flows…"
-   },
-   {
-    "title": "Amazon Route 53 Global Resolver is now available over AWS Cloud WAN for hybrid networks",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-global-resolver-cloud-wan/",
-    "summary": "Amazon Route 53 Global Resolver now supports anycast DNS resolution for private connections managed through your AWS Cloud WAN configuration. This enables organizations with hybrid networks to resolve DNS queries to publ…"
-   }
-  ],
-  "digest_date": "17 Nov 2026"
+  "pending": [],
+  "digest_date": "18 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
