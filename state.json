@@ -442,6 +442,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "56bff82d685c15b1b6090e307929c3fd01a2256a",
    "db88f419854d484316df6b66ab397cf874bc59cf",
    "5c82b52ee969fbb6d8ef53e0911817511c8d9810",
    "ab144c3651830376fb751168722fbe3fa83e7db6",
@@ -491,8 +492,8 @@
    "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "0af56a8a1b748c421129766b46275ba325e2e6f8",
    "006048efc7e83812e3dfd5ee536c39f60f1b8090",
-   "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
    "9cda7a449218b643ecb54e92e884a6ca88684081",
+   "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -740,10 +741,14 @@
    "b0c32396b20f5ae43478e77a4f95abb8cd231247",
    "45ce576fba59a79c98b68debcae7dcf50e130a1e",
    "0df44dd0e4d25ede7e1429eaaa0a12c92984dfce",
-   "caa54e615b946ba6a50a3529e56369eebd291332",
-   "9a00f9d53bc589fd126ff5380636f9e5d6127ee0"
+   "caa54e615b946ba6a50a3529e56369eebd291332"
   ],
   "recent": [
+   {
+    "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
+    "date": "17 Nov 2026"
+   },
    {
     "title": "Amazon EMR 8.2 is now available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
@@ -788,20 +793,21 @@
     "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
     "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon API Gateway REST APIs now support JWT authorizers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
-    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon EMR 8.2 is now available",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/",
+   "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
    "date": "17 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
+    "summary": "Amazon WorkSpaces Applications now supports smart card redirection on single-session and multi-session fleets, so users can access the smart card connected to their local device from applications inside their streaming s…"
+   }
+  ],
   "digest_date": "18 Nov 2026"
  },
  "apple-dev-releases": {
