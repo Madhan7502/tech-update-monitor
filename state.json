@@ -442,6 +442,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "9768fdd60b7cfc6d41c3286fa165977a0c3ad1a6",
    "56bff82d685c15b1b6090e307929c3fd01a2256a",
    "db88f419854d484316df6b66ab397cf874bc59cf",
    "5c82b52ee969fbb6d8ef53e0911817511c8d9810",
@@ -486,6 +487,7 @@
    "c64c364541dde5571ffaed008dae5d8c5e6f0f89",
    "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
+   "4a5dc7030f436adb887ed40ae8994429e486d81f",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
    "242c89f52297efd375ff69a5daee00d13cdce25a",
@@ -494,6 +496,7 @@
    "006048efc7e83812e3dfd5ee536c39f60f1b8090",
    "9cda7a449218b643ecb54e92e884a6ca88684081",
    "ca230adc3a839a3b06568a09c5dc8241fea5fa46",
+   "8f29fe30810ed601f31c91d1c77199562a68df3d",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -738,12 +741,14 @@
    "811dc9092ea620c36b4a765953f41ee5c9c015d5",
    "22a5d1fad4cd49ee8ad19a23807834dfc41f6a77",
    "ffa1ebe766d430534e98b5e36b1899420aed4994",
-   "b0c32396b20f5ae43478e77a4f95abb8cd231247",
-   "45ce576fba59a79c98b68debcae7dcf50e130a1e",
-   "0df44dd0e4d25ede7e1429eaaa0a12c92984dfce",
-   "caa54e615b946ba6a50a3529e56369eebd291332"
+   "b0c32396b20f5ae43478e77a4f95abb8cd231247"
   ],
   "recent": [
+   {
+    "title": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
+    "date": "18 Nov 2026"
+   },
    {
     "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
@@ -788,17 +793,12 @@
     "title": "AWS Security Hub now infers resource criticality from installed software and usage",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/",
     "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
-    "date": "17 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
-   "date": "17 Nov 2026"
+   "title": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
+   "date": "18 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -806,6 +806,21 @@
     "title": "Amazon WorkSpaces Applications adds support for smart card redirection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/",
     "summary": "Amazon WorkSpaces Applications now supports smart card redirection on single-session and multi-session fleets, so users can access the smart card connected to their local device from applications inside their streaming s…"
+   },
+   {
+    "title": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/",
+    "summary": "AWS Control Tower now lets you use an existing Amazon S3 bucket in your landing zone to store AWS Config and AWS CloudTrail logs. Previously, AWS Control Tower required you to use the Amazon S3 bucket it creates and mana…"
+   },
+   {
+    "title": "AWS Transform now provides F5 BIG-IP load balancer migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-f5-big-ip-migration/",
+    "summary": "AWS Transform now migrates F5 BIG-IP load balancer configurations to Elastic Load Balancing as part of network migration. Applications cut over with Application Load Balancers (ALB) and Network Load Balancers (NLB) alrea…"
+   },
+   {
+    "title": "AWS Transform now provides Well-Architected Agent reviews",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transform-well-architected-agent/",
+    "summary": "AWS Transform for migrations now includes Well-Architected reviews of target networks as it migrates and modernizes infrastructure to AWS. These recommendations, provided by the AWS Well-Architected Agent in public previ…"
    }
   ],
   "digest_date": "18 Nov 2026"
@@ -912,6 +927,7 @@
  },
  "apple-dev-news": {
   "seen": [
+   "https://developer.apple.com/news/?id=vb753j92",
    "https://developer.apple.com/news/?id=4o5ie73a",
    "https://developer.apple.com/news/?id=oqng0zjk",
    "https://developer.apple.com/news/?id=jkykd58d",
@@ -985,14 +1001,14 @@
   ],
   "recent": [
    {
-    "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
-    "link": "https://developer.apple.com/news/?id=4o5ie73a",
+    "title": "App Store Award finalists announced",
+    "link": "https://developer.apple.com/news/?id=vb753j92",
     "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Tax and price updates for apps, In-App Purchases, and subscriptions",
-   "link": "https://developer.apple.com/news/?id=4o5ie73a",
+   "title": "App Store Award finalists announced",
+   "link": "https://developer.apple.com/news/?id=vb753j92",
    "date": "18 Nov 2026"
   },
   "fails": 0
