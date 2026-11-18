@@ -445,39 +445,46 @@
    "db88f419854d484316df6b66ab397cf874bc59cf",
    "5c82b52ee969fbb6d8ef53e0911817511c8d9810",
    "ab144c3651830376fb751168722fbe3fa83e7db6",
+   "3058da9264ccfc1996482b9e5943a21115172fdb",
+   "9c85e14af0fc5cd101a7cae2599f17185e3de708",
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "60f9ee66e6264de9426ec7f90720ddc308ae9828",
+   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
    "7965338fd39b7f41f872cc127c80eeaf1bbf3973",
+   "e574e68611c1298671e34d0391fedbf58f930584",
    "0fd5641650668df6dad512d7fdc082dc59b48fe0",
    "a428c88e38b6d07a9e56485f614b72f7c7dd785d",
    "7076abb8a48f687d18be4f96b678486b4d33340c",
    "040eb57268976d2f70c567ed42370207c4f61df8",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
-   "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
    "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
+   "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
    "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
    "5a8135356af8cfb6402661eaca567aa7638ca0cb",
    "219b324141c75d68b150bcd97ee60002d2aaff33",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
+   "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
+   "a844d6e8feb78be28266fd051c461e111593145e",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
-   "8c5d276d980374901bf09862f6751629938a26e4",
-   "e6d6e31f572a07720a819142adffa47c065c78fa",
-   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
-   "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
+   "3b3d59b5059995218ea04335955eb5c202dbfdb9",
+   "8c5d276d980374901bf09862f6751629938a26e4",
+   "e6d6e31f572a07720a819142adffa47c065c78fa",
    "c7e628225658ce647a7042ac0041ba065edf9e27",
+   "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "8428eee375a6b87b22b64c8371af52893c18d342",
+   "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "4c93fd60a5a20564daa4352e94a7329ef36d49e0",
    "6f1e4d70c9507eb39666da19ecc1e5b8e245e26d",
    "242c89f52297efd375ff69a5daee00d13cdce25a",
-   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
    "006048efc7e83812e3dfd5ee536c39f60f1b8090",
+   "d03ce6fc2dcffd6d6e85a1251adaeb2640502c07",
+   "0af56a8a1b748c421129766b46275ba325e2e6f8",
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
@@ -494,10 +501,10 @@
    "f16907ce2617719bf16322f247187ae125e89be9",
    "4a2111f436d1dc22498d430b12f3be6913f336ce",
    "632115f37ab31df080fefd08dc44d9a1389271e7",
+   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "21b1355d87e15f92a15dfe9456d208467000569f",
    "c7c5495c285624074d1c2b237907b56e78a9dec0",
    "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
-   "3affa91302463eafada7dfa8c8b90ff583e5d118",
    "b380379f433b5ecbf4e2e746eeb8d5a03039a989",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
@@ -734,14 +741,7 @@
    "f66cbf1ffc3565baf8fe828d30335c5cf81d64a2",
    "73aa6c63960b6738e19ed23000fa18890df45888",
    "63edb037893ce28839821b4454f1c6100c89e2fe",
-   "dec813d41f02b1a929463ab13b2460a7af0388d0",
-   "64c66cb3331951fa82344959a64e53a9f48bcc07",
-   "07ed88fe9f8e1b2fe1a16534b1ed3d9b60a24864",
-   "2ba792e977f41dc473f18c1540be380fc4751f37",
-   "205208c03437303d0af7a2cd3cc4076a8b4bd81c",
-   "8262f5ff17bcee74f5f1ead2692eb252a3059f1b",
-   "6b01aa15dfdaff90dbbb86ac3f4ab01fdf22e6f5",
-   "8edf703a7ba1f2e9eb30aa6f0e56c72198d49e0a"
+   "dec813d41f02b1a929463ab13b2460a7af0388d0"
   ],
   "recent": [
    {
@@ -760,6 +760,16 @@
     "date": "17 Nov 2026"
    },
    {
+    "title": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
+    "date": "17 Nov 2026"
+   },
+   {
+    "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
+    "date": "17 Nov 2026"
+   },
+   {
     "title": "Amazon ECR now supports global authentication tokens for private registries",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr",
     "date": "17 Nov 2026"
@@ -770,28 +780,18 @@
     "date": "17 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
-    "date": "17 Nov 2026"
-   },
-   {
     "title": "Amazon API Gateway REST APIs now support JWT authorizers",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/",
     "date": "17 Nov 2026"
    },
    {
+    "title": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention",
+    "date": "17 Nov 2026"
+   },
+   {
     "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
-    "date": "17 Nov 2026"
-   },
-   {
-    "title": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/",
     "date": "17 Nov 2026"
    }
   ],
@@ -1006,6 +1006,41 @@
     "title": "Amazon Route 53 Resolver DNS Firewall now supports automated allow-list generation",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-dns-firewall-auto-allowlists/",
     "summary": "Amazon Route 53 Resolver DNS Firewall now automatically generates domain allow-lists from your VPCs' observed DNS query traffic, helping you enforce least-privilege DNS access and reduce the risk of DNS-based data exfilt…"
+   },
+   {
+    "title": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Israel (Tel Aviv) region. The C8gn instances provide up to 30%…"
+   },
+   {
+    "title": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8ine instances are available in the AWS Europe (Ireland) region. C8ine instances are powered by custom sixth generation Intel Xeon Scalable processors, available…"
+   },
+   {
+    "title": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region",
+    "summary": "Amazon OpenSearch UI has expanded to the AWS Africa (Cape Town) Region, bringing availability to 25 AWS Regions. OpenSearch UI provides a single endpoint to query, visualize, and analyze data across Amazon OpenSearch Ser…"
+   },
+   {
+    "title": "Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-key-exchange-support/",
+    "summary": "Amazon S3 adds post-quantum TLS (PQ-TLS) key exchange support to S3 Vectors and AWS PrivateLink for Amazon S3 interface endpoints. This extends the post-quantum cryptography support already available on regional S3, S3 T…"
+   },
+   {
+    "title": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/",
+    "summary": "Amazon S3 now records the TLS key exchange algorithm in AWS CloudTrail for S3 requests, so you can see which requests and clients use post-quantum TLS (PQ-TLS). With this visibility, you can measure the share of your S3 …"
+   },
+   {
+    "title": "AWS Elemental MediaConnect expands routing control and protocol support",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rtmp-support-aws-elemental-mediaconnect/",
+    "summary": "With AWS Elemental MediaConnect , you now have more protocol support and routing control for your live video workflows. First, MediaConnect now supports more protocols, including RTMP, RTMPS, and eRTMP, across both flows…"
+   },
+   {
+    "title": "Amazon Route 53 Global Resolver is now available over AWS Cloud WAN for hybrid networks",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-global-resolver-cloud-wan/",
+    "summary": "Amazon Route 53 Global Resolver now supports anycast DNS resolution for private connections managed through your AWS Cloud WAN configuration. This enables organizations with hybrid networks to resolve DNS queries to publ…"
    }
   ],
   "digest_date": "17 Nov 2026"
