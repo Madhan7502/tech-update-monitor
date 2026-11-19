@@ -455,12 +455,17 @@
  },
  "aws-whats-new": {
   "seen": [
+   "14838e985dc5ad7ce8cab53c9c8615631026d66f",
+   "57e5d9662829ced41138cd9d655385c2563dbb17",
+   "d64b7591d2687766b24e50a7852f53af51d31824",
    "ca15b1bbf6d7ec86ef578cf963f977d624ceba40",
+   "f468b118564dc4cafce64d0115a46d23e4b6f1e9",
    "1f004edcf54d0e0d31304d02efae24cbe457a7a6",
    "c478ecce87c779564801365fe5d8847944359ece",
    "88cca09c2dc521d99fac2d308aaa28d4c8f8fb9f",
    "a48002a9e5df2d4160bcb0c616b103d4e9133c80",
    "5d6d07eea3f78b84fa0085c10aac5d6096043d1c",
+   "b21e5267df252850fce81dc1155c37953c8a81d0",
    "840fb7d843e7ae31d73427bda6336122086c2af4",
    "195a65fb0db436d8206a670e1a0bd29fce439b12",
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
@@ -469,14 +474,22 @@
    "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
    "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
    "5e781511f52b5f6655832f78e720fb573d7ac05c",
+   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
    "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
    "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
-   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
+   "6ba2a107a04072590a435b13e2f61e9cf13fd038",
+   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
+   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
    "78963c0d96b5a2fc774d4db26979d90854214cf5",
+   "542601e8f20dc928d7c29480ad803e29c3cadc27",
+   "c36da359e5944f2db57112cc6c15b7b7c69198df",
+   "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
+   "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
+   "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
    "27e8f52eb50c883c24483985176537dfcc02be2b",
@@ -741,25 +754,32 @@
    "c447ee5df3f8309ca884fc41318c20931c019601",
    "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
    "a218ad130e39a4672fb58325557de5656bebd26b",
-   "ce6ed10f75f13bd11f6653742108c16da3a4eadf",
-   "752e236292a5ae074221a50751d31c81bc3df1c6",
-   "08b6fb71e4f6428ecfc7252bc1286f21ec367ec3",
-   "aa7f0cce667ad347bd5bab0f8ff3e665e0995b6b",
-   "1d4e80e6d3665eabde241c65a09271914cac3f54",
-   "299514e963fee2299882c211483246d8655b2c33",
-   "15c2982606a5dccd557757ececeda4fa0430fe18",
-   "51394e29679c98b5e16fde925542e43fb0ffd0a8",
-   "6743432091dcce59d373592f5240046ae19f2042",
-   "5fa100a0eb1b5dc8ec0c9ce0fbb73158c004e862",
-   "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
-   "118d029a647a76156f557b3c260252d58f3d05b2",
-   "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
-   "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8"
+   "ce6ed10f75f13bd11f6653742108c16da3a4eadf"
   ],
   "recent": [
    {
+    "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "Amazon Route 53 now supports health checks for private endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
+    "date": "19 Nov 2026"
+   },
+   {
     "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/",
     "date": "19 Nov 2026"
    },
    {
@@ -786,31 +806,11 @@
     "title": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/",
     "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon MSK Connect now supports restarting existing connectors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Marketplace now supports buyer contact sharing at subscription",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Systems Manager Parameter Store raises API throughput limits",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
-    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
+   "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
    "date": "19 Nov 2026"
   },
   "fails": 0,
@@ -954,6 +954,71 @@
     "title": "AgentCore runtime instances now support privileged mode",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-elevated-privileges/",
     "summary": "Amazon Bedrock AgentCore runtime instances now support privileged mode, which lets your agents install system-level software and run nested containers. Runtime instances run your agents on Amazon EC2 instances while Agen…"
+   },
+   {
+    "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+    "summary": "Amazon Connect Customer announces the general availability of Resolutions, an agentic operations solution that resolves high-volume work end-to-end, including refund requests, transaction disputes, fraud investigations, …"
+   },
+   {
+    "title": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
+    "summary": "You can now assess a seller's security, buy, and deploy supported products in one conversation with AWS Marketplace agent mode, the conversational AI experience for procuring cloud solutions. You share your requirement o…"
+   },
+   {
+    "title": "Amazon Route 53 now supports health checks for private endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
+    "summary": "Amazon Route 53 now offers Private Endpoint Health Checks, enabling business-critical workloads that never touch the public internet, such as internal APIs, databases, and self-hosted nodes behind internal load balancers…"
+   },
+   {
+    "title": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/",
+    "summary": "AWS Lambda now supports a 30-minute function timeout for Event Functions that run on demand, doubling the 15-minute limit for synchronous , asynchronous , and event source mapping (ESM) invocations. On Lambda Managed Ins…"
+   },
+   {
+    "title": "Aurora PostgreSQL with express configuration now supports Amazon VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-express-vpc/",
+    "summary": "Aurora PostgreSQL databases created with express configuration can now move into an Amazon Virtual Private Cloud (VPC) with a single API call or a modify action in the Amazon RDS console. This helps you take AI-built pro…"
+   },
+   {
+    "title": "AWS Marketplace now offers Express Checkout for buyers without an AWS account",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-express-checkout/",
+    "summary": "Today, AWS announces AWS Marketplace Express Checkout , a simpler way for businesses that don't have an existing AWS account to buy software from established vendors in AWS Marketplace . Express Checkout is built for bus…"
+   },
+   {
+    "title": "AWS Partner Central Agents now guide partners to higher-quality opportunities and explain co-sell motions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-guide-quality/",
+    "summary": "Today, AWS announces that AWS Partner Central Agents now guide AWS Partners to create and enrich opportunities for a high-quality submission, and explain the assigned co-sell motion of each opportunity and why AWS assign…"
+   },
+   {
+    "title": "Announcing Data as a Service for AWS Marketplace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-data-as-a-service/",
+    "summary": "Today, AWS Marketplace announces the general availability of Data as a Service, a new product type that lets customers buy third-party datasets and licensed content. Customers often have the models and compute they need,…"
+   },
+   {
+    "title": "Amazon VPC Flow Logs now supports Amazon EKS metadata",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-vpc-flow-logs-amazon-eks-metadata/",
+    "summary": "Amazon VPC Flow Logs now adds Amazon Elastic Kubernetes Service (Amazon EKS) metadata to flow log records. Each record identifies the pod that sent or received the traffic, along with its cluster, namespace and labels. T…"
+   },
+   {
+    "title": "AWS License Manager now supports AWS Managed Microsoft AD (Hybrid Edition)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/license-manager-hybrid-ad-support/",
+    "summary": "AWS License Manager now supports AWS Managed Microsoft AD (Hybrid Edition) , so you can use your existing Microsoft Active Directory (AD) to manage user-based subscriptions for Microsoft Office, Visual Studio, and Remote…"
+   },
+   {
+    "title": "Amazon Connect Customer now provides AI chat summaries in the CCP",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-chat-summaries-ccp/",
+    "summary": "Amazon Connect Customer now provides agents with a generative AI-powered post-contact summary of each chat conversation inside the Contact Control Panel (CCP) within seconds after the chat ends, so agents can complete af…"
+   },
+   {
+    "title": "Amazon Polly now supports voice cloning",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/",
+    "summary": "Today, we are excited to announce the general availability of voice cloning in Amazon Polly, as a gated release. Using a few minutes of recordings from a consenting speaker, you can now create a cloned voice that sounds …"
+   },
+   {
+    "title": "AWS CloudFormation StackSets adds progress visibility to simplify tracking deployments at scale",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-stacksets-progress/",
+    "summary": "AWS CloudFormation StackSets now shows stage-by-stage progress for deployments across accounts and AWS Regions, whether you target tens of accounts or thousands. You can follow each deployment as it progresses and take a…"
    }
   ],
   "digest_date": "19 Nov 2026"
