@@ -348,71 +348,72 @@
  },
  "aws-security": {
   "seen": [
+   "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
    "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
-   "da30ae6a1da3419f1a5c9d59832fb5bbe74873d3",
-   "bbb17114bf3fa34310841283a4ba6ec7541ffc44",
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "f47e9ba7c7b5ae347881029736a7379bf6d2bd1f",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
    "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
-   "673bae0c00db5a735d35b34fe46471676b93f07b",
-   "e5b25bbb67cb84fa3b1d3e37b1874e9bce1133db",
-   "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
-   "13b91c68b37257b54cb7a7d0d1500b8f742f06e3",
    "1b21708205307263ba3444e51ec90c23b3d8f920",
-   "4e29542325ff9665c1ea503c505483ad7e71472a",
-   "721763cd6fe8947ddcbbadd646565d665db5d721",
+   "f86b7cf7044cd0afaa24898a00792e28442e4588",
    "a59e94bb7defda662009462222a39af819a71462",
    "f92e3c008a9612ccddf297f58da43638cc8c2e62",
    "29e6500de55a9c2d65f4fbbac801e0e7474aa9f7",
    "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
    "24fde24e1c343ffce5617fb9bccf5941e64f535b",
-   "d3adfc1fe68bc634cee1e4a3f237a01374373147",
-   "3db5546e06e92097c8d1b92e8935452d83f5de21",
+   "88af8529196585374f2e4a683845bef78ec79f37",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
-   "9485271775e2e715c1aac015cf7c1c2a1f859448",
    "465c3dbae5c9b8fe3b3dae9fb6fd5bf9be0aaac4",
-   "f563dc94146a877aa80beb8c2c39e07e111ee75d",
    "a58ae473469a46ce684fefcb4c3c22c888d06781",
-   "480c805f3ae1f9e194f801cf3d990df3766e2883",
-   "d1dc74af84e7d562ddce7195c94840bed5edf948",
-   "994733f2d9a910e2112e532a60bd1f6cae666b03",
+   "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
    "fe6cfa258e531ef540be8420825818e163f7567a",
    "c4dcda64d241c4df77bf73a89bcac2c2e94f066a",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
+   "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "54788f8c676b1547122542050a6b12ac04d037ea",
+   "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
    "f853e3ceb73dda15c7174846e097388478ce538d",
    "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "dec0a4afced6486c9fdc47cc2b9e0575ad21a9d5",
-   "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
+   "dff144593749dca3a3f418c5ee75f421ae5adf99",
+   "3bb1db076bdd716118f503168527d049ebd4cae9",
+   "bf7963dacc18803b0da8912de42c04cee194d4be",
+   "d01e56f4bafc001da89c0b9537a406966dd9391b",
+   "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
+   "d5984ef7453dd8f49e680d707090c120f10cc32e",
+   "da30ae6a1da3419f1a5c9d59832fb5bbe74873d3",
+   "bbb17114bf3fa34310841283a4ba6ec7541ffc44",
+   "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
+   "9d700919e2f70330d633e01c546b31d90b1d2f48",
+   "7bfd65ffb87e18d21dd01d08cf6ab19279d1c0c4",
+   "673bae0c00db5a735d35b34fe46471676b93f07b",
+   "e5b25bbb67cb84fa3b1d3e37b1874e9bce1133db",
+   "5cabfa4b1da69d944ee6a9fb023e0f77c8d52d36",
+   "13b91c68b37257b54cb7a7d0d1500b8f742f06e3",
+   "4e29542325ff9665c1ea503c505483ad7e71472a",
+   "721763cd6fe8947ddcbbadd646565d665db5d721",
+   "3c7e628a51881badf43b30208f756fb18ab71e69",
+   "d3adfc1fe68bc634cee1e4a3f237a01374373147",
+   "3db5546e06e92097c8d1b92e8935452d83f5de21",
+   "9485271775e2e715c1aac015cf7c1c2a1f859448",
+   "f563dc94146a877aa80beb8c2c39e07e111ee75d",
+   "480c805f3ae1f9e194f801cf3d990df3766e2883",
+   "d1dc74af84e7d562ddce7195c94840bed5edf948",
+   "994733f2d9a910e2112e532a60bd1f6cae666b03",
+   "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
+   "72e0fb9d5e67d44108f265509e13ed134a146d90",
    "56b57968e580bf11f441ecf31a5b8a9afe448a88",
    "c8658ed4fd285ad5eb27affa0f1faed90b789c5f",
    "3cfbf6554e55bfc6497a111785ed3c369afa517d",
-   "bf7963dacc18803b0da8912de42c04cee194d4be",
-   "d01e56f4bafc001da89c0b9537a406966dd9391b",
+   "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
    "a66b1f00c06a2c8e4c7b45cfa9c4cb995a739909",
-   "88af8529196585374f2e4a683845bef78ec79f37",
-   "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
-   "6d8eb18279597df0ab8c1a9df40e073655b12052",
-   "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
-   "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
-   "3c7e628a51881badf43b30208f756fb18ab71e69",
-   "fc2a6a358fe2f8038bbd25e6abf2391e988c7451",
-   "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
-   "f86b7cf7044cd0afaa24898a00792e28442e4588",
-   "3bb1db076bdd716118f503168527d049ebd4cae9",
    "ff53d793f3546d3790211b5684726f1b87870b69",
    "57d63a0eb89cd8fd6b3998fe1df038a4bd6a0141",
    "2e4d3463deeceb8bc1dd75bd5e5fbdfd9e8fef0e",
    "4a93b9f8f1745d1db6ed92b465cf9c8c14732303",
    "3fe0a88cff07c5c613cb809e24cc4ef2599ea901",
-   "d5984ef7453dd8f49e680d707090c120f10cc32e",
-   "9d700919e2f70330d633e01c546b31d90b1d2f48",
-   "7bfd65ffb87e18d21dd01d08cf6ab19279d1c0c4",
-   "9e7f73a13a39b5de557f5c1c42a8fe17592c3ab6",
-   "27aef933c7ba00e5b1d1a1a5aa7f7d21838b7c74",
    "7ea2775846ae6f0398c0f9eaa3805d7539c41b5d",
    "994f50277f499e61c223462dc874510bfeef240d",
    "61c44aa8dbf37dc6d92a3824f223e6a79783be92",
@@ -441,21 +442,24 @@
   ],
   "recent": [
    {
-    "title": "PHP Foundation Security Releases – November 19, 2026",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/",
+    "title": "jcr:content",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP Foundation Security Releases – November 19, 2026",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/",
+   "title": "jcr:content",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/",
    "date": "19 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
+   "88c1fdb2bd1964c9c8075fa93d9ed629651a4ac9",
    "14838e985dc5ad7ce8cab53c9c8615631026d66f",
+   "ed283d59f8064ee4267113d8c8f71ca342cdee09",
    "57e5d9662829ced41138cd9d655385c2563dbb17",
    "d64b7591d2687766b24e50a7852f53af51d31824",
    "ca15b1bbf6d7ec86ef578cf963f977d624ceba40",
@@ -464,30 +468,36 @@
    "c478ecce87c779564801365fe5d8847944359ece",
    "88cca09c2dc521d99fac2d308aaa28d4c8f8fb9f",
    "a48002a9e5df2d4160bcb0c616b103d4e9133c80",
+   "e1bef2d44dc47bb4f0fb93cdefb79d81c40b7a20",
+   "62a6c490dc41e303b203547df6199e019ba38b12",
    "5d6d07eea3f78b84fa0085c10aac5d6096043d1c",
    "b21e5267df252850fce81dc1155c37953c8a81d0",
+   "be7f58178e94d384fdacba858b1a672bb1613539",
    "840fb7d843e7ae31d73427bda6336122086c2af4",
    "195a65fb0db436d8206a670e1a0bd29fce439b12",
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "193374600beba7135a895e1dbab3b3118135d7d5",
-   "bed02927620bb91cc40419784c1b739ca2905bd1",
-   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
-   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
-   "5e781511f52b5f6655832f78e720fb573d7ac05c",
-   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
    "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
+   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
+   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
+   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
+   "5e781511f52b5f6655832f78e720fb573d7ac05c",
+   "bed02927620bb91cc40419784c1b739ca2905bd1",
    "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
    "6ba2a107a04072590a435b13e2f61e9cf13fd038",
-   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
    "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
+   "d689640e6f4c34ed0124c1891c77ebd95a5967ce",
+   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
    "78963c0d96b5a2fc774d4db26979d90854214cf5",
    "542601e8f20dc928d7c29480ad803e29c3cadc27",
+   "feb63d7deb99241e71791db1e0e65baaa6cf851e",
    "c36da359e5944f2db57112cc6c15b7b7c69198df",
    "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
    "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
+   "b6c9587d3739ba882ee45b6a319fafc391dda6ea",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
@@ -499,9 +509,9 @@
    "557a8c90d55210daf2d42f39ba7d1a21de23e101",
    "7118b7ae3743c14328f2ec32eabc48f9868dbc7f",
    "b9c1771361764a2db757c5d9398fcbe028f42f84",
-   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "773429e77ddfdf8677d5931ac9ba9ecc7aabd8f2",
    "c8f09f31a713e1970966be83812310f8840eb8cf",
+   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "63047290b4aab88e93188116f0c0364034571340",
    "f68a89b4487a9bf4fe4143a46ed71d7468f2521a",
    "8282bcbea7784b4fd0ce3891bcff6fba226371bd",
@@ -745,21 +755,27 @@
    "44eb82e3e0e4e2d78924e1a3da14ed0de5018b46",
    "895640e1e7e3c3aa8dc335af8c829b494fe49694",
    "203ca073d81dcb45e1fce41776f353f2757e28b9",
-   "bd097fe58f1f5c2a6612b2fad48d8104feacb590",
-   "d90b410693cece436db43a8262bd721ce9cd3363",
-   "882da41b114479d7e8bda60ff9fcb1fec8afc04b",
-   "a9b496609d0857f97431ca87eb482869bc61d76a",
-   "f4695226ea2d8376e6a6dfecb91ff38ac7dbc417",
-   "bd3512132333424f74718c5e5f4d7687d63a1839",
-   "c447ee5df3f8309ca884fc41318c20931c019601",
-   "434a9913339a1c32c6fe40c02d0ec36b66177ff6",
-   "a218ad130e39a4672fb58325557de5656bebd26b",
-   "ce6ed10f75f13bd11f6653742108c16da3a4eadf"
+   "bd097fe58f1f5c2a6612b2fad48d8104feacb590"
   ],
   "recent": [
    {
+    "title": "AWS Marketplace now supports agentic payments with AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
+    "date": "19 Nov 2026"
+   },
+   {
     "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Lambda durable functions now supports OpenTelemetry tracing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
     "date": "19 Nov 2026"
    },
    {
@@ -791,26 +807,11 @@
     "title": "AWS Transform extends application-centric migration across the lifecycle",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration",
     "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/",
-    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+   "title": "AWS Marketplace now supports agentic payments with AgentCore",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
    "date": "19 Nov 2026"
   },
   "fails": 0,
@@ -1019,18 +1020,63 @@
     "title": "AWS CloudFormation StackSets adds progress visibility to simplify tracking deployments at scale",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-stacksets-progress/",
     "summary": "AWS CloudFormation StackSets now shows stage-by-stage progress for deployments across accounts and AWS Regions, whether you target tens of accounts or thousands. You can follow each deployment as it progresses and take a…"
+   },
+   {
+    "title": "AWS Marketplace now supports agentic payments with AgentCore",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+    "summary": "AWS Marketplace now supports agentic payments over the x402 protocol, so AI agents can discover and buy select products and pay per request in US dollars through AgentCore payments, part of Amazon Bedrock AgentCore. Agen…"
+   },
+   {
+    "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
+    "summary": "With upgrades to its storage layer, Amazon Aurora DSQL now delivers up to 50% higher write throughput for many transactional workloads. Data loads finish sooner, and tables whose primary key always increases, such as tab…"
+   },
+   {
+    "title": "AWS Lambda durable functions now supports OpenTelemetry tracing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
+    "summary": "AWS Lambda announces OpenTelemetry (OTel) support for Lambda durable functions. You can now trace your durable executions and emit traces to Amazon CloudWatch and other industry-standard observability tools. This helps y…"
+   },
+   {
+    "title": "Amazon Cognito now supports AWS Secrets Manager for app client secrets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/",
+    "summary": "Amazon Cognito now integrates with AWS Secrets Manager , so you can store and manage your user pool app client secrets in Secrets Manager. Amazon Cognito helps you implement secure sign-in and access control for users, A…"
+   },
+   {
+    "title": "AWS WAF launches new Security Analytics Dashboard for real-time investigations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/",
+    "summary": "AWS WAF now gives you one place to find and stop unwanted traffic across every application in your account. The new AWS WAF security analytics dashboard brings together traffic from all of your protection packs (web ACLs…"
+   },
+   {
+    "title": "Amazon Aurora now supports moving clusters to a different VPC",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/",
+    "summary": "Aurora PostgreSQL and Aurora MySQL clusters can now move from one Amazon Virtual Private Cloud (VPC) to another without data migration. You can move a cluster with a single API call or a modify action in the Amazon RDS c…"
+   },
+   {
+    "title": "Amazon Aurora DSQL now supports PL/pgSQL functions and procedures",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-plpgsql-support/",
+    "summary": "Amazon Aurora DSQL now supports PL/pgSQL, enabling developers to create and execute stored functions and procedures directly in the database. Amazon Aurora DSQL is a serverless, distributed SQL database designed for appl…"
+   },
+   {
+    "title": "AWS Partner Central Agents now generate Value Realization Plans",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-bvr-vrp",
+    "summary": "Today, AWS announces that AWS Partner Central Agents can now generate Value Realization Plans (VRPs) for the Business Value Realization (BVR) motion in AWS Partner Central . The VRP is the plan of record for a BVR engage…"
+   },
+   {
+    "title": "Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
+    "summary": "Amazon SageMaker AI now monitors the response time and GPU use of generative AI inference endpoints by default and notifies customers when responses slow down, GPUs sit mostly idle, or a configuration falls behind. Custo…"
    }
   ],
   "digest_date": "19 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=11192026a",
+   "https://developer.apple.com/news/releases/?id=11192026b",
    "https://developer.apple.com/news/releases/?id=11182026b",
    "https://developer.apple.com/news/releases/?id=11182026a",
    "https://developer.apple.com/news/releases/?id=11162026h",
    "https://developer.apple.com/news/releases/?id=11162026g",
-   "https://developer.apple.com/news/releases/?id=11162026a",
-   "https://developer.apple.com/news/releases/?id=11162026b",
    "https://developer.apple.com/news/releases/?id=11162026c",
    "https://developer.apple.com/news/releases/?id=11162026d",
    "https://developer.apple.com/news/releases/?id=11162026e",
@@ -1076,6 +1122,8 @@
    "https://developer.apple.com/news/releases/?id=05112026k",
    "https://developer.apple.com/news/releases/?id=05112026l",
    "https://developer.apple.com/news/releases/?id=05112026m",
+   "https://developer.apple.com/news/releases/?id=11162026a",
+   "https://developer.apple.com/news/releases/?id=11162026b",
    "https://developer.apple.com/news/releases/?id=11122026a",
    "https://developer.apple.com/news/releases/?id=11032026h",
    "https://developer.apple.com/news/releases/?id=11032026g",
@@ -1113,14 +1161,14 @@
   ],
   "recent": [
    {
-    "title": "App Store Connect API 4.6.1",
-    "link": "https://developer.apple.com/news/releases/?id=11182026b",
+    "title": "iOS 27.3 beta 2 v2 (24C5049f)",
+    "link": "https://developer.apple.com/news/releases/?id=11192026a",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "App Store Connect API 4.6.1",
-   "link": "https://developer.apple.com/news/releases/?id=11182026b",
+   "title": "iOS 27.3 beta 2 v2 (24C5049f)",
+   "link": "https://developer.apple.com/news/releases/?id=11192026a",
    "date": "19 Nov 2026"
   },
   "fails": 0
