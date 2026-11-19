@@ -446,13 +446,15 @@
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
    "27e8f52eb50c883c24483985176537dfcc02be2b",
+   "a354bb255087bba0756f9bec8d7bbb849c438cee",
+   "00ba5333ab93c982dff647e9f6d17ee6c883a6e5",
    "eae15b3fe26d7e4636c34566eb8b19ba2b8949c8",
    "557a8c90d55210daf2d42f39ba7d1a21de23e101",
    "7118b7ae3743c14328f2ec32eabc48f9868dbc7f",
    "b9c1771361764a2db757c5d9398fcbe028f42f84",
-   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "773429e77ddfdf8677d5931ac9ba9ecc7aabd8f2",
    "c8f09f31a713e1970966be83812310f8840eb8cf",
+   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "63047290b4aab88e93188116f0c0364034571340",
    "f68a89b4487a9bf4fe4143a46ed71d7468f2521a",
    "8282bcbea7784b4fd0ce3891bcff6fba226371bd",
@@ -471,8 +473,8 @@
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "b592aa3ca52f5a6095742b2961d342b77766b8bc",
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
    "4816cab1177d1626b6bf0c611df71cdd607834f1",
@@ -740,9 +742,7 @@
    "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
    "eef082f1709a6687aed6f9caae4605bb93c1a942",
-   "30d1ce5d72752a78261a96e66820f860988c1e26",
-   "0921a9c4d7919609b8560666f4d44625590508a6",
-   "bb228c8dc7d26f2dab160da874367138b859b877"
+   "30d1ce5d72752a78261a96e66820f860988c1e26"
   ],
   "recent": [
    {
@@ -758,6 +758,16 @@
    {
     "title": "Amazon SageMaker AI now supports cross-Region inference routing",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
+    "date": "18 Nov 2026"
+   },
+   {
+    "title": "AWS announces ExtendDB 1.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
+    "date": "18 Nov 2026"
+   },
+   {
+    "title": "AWS Transform custom now supports cross-account sharing of transformation definitions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/",
     "date": "18 Nov 2026"
    },
    {
@@ -781,18 +791,8 @@
     "date": "18 Nov 2026"
    },
    {
-    "title": "Amazon Cognito now supports point-in-time recovery",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
-    "date": "18 Nov 2026"
-   },
-   {
     "title": "Amazon RDS for MySQL now supports MySQL major version 9.7",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/",
-    "date": "18 Nov 2026"
-   },
-   {
-    "title": "Amazon EKS Hybrid Nodes reduces price for large hosts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-hybrid-nodes-pricing-change/",
     "date": "18 Nov 2026"
    }
   ],
@@ -937,6 +937,16 @@
     "title": "Amazon SageMaker HyperPod now supports higher pod density on EKS-orchestrated clusters",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-higher-pod-density/",
     "summary": "Amazon SageMaker HyperPod now supports higher pod density per node on EKS-orchestrated clusters, allowing you to get more out of every instance. This leaves more room for your applications alongside system DaemonSets for…"
+   },
+   {
+    "title": "AWS announces ExtendDB 1.0",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
+    "summary": "Today, Amazon Web Services (AWS) announced version 1.0 of ExtendDB, the first release of the open source Amazon DynamoDB-compatible adapter for production use. ExtendDB is fully compatible with the DynamoDB API and runs …"
+   },
+   {
+    "title": "AWS Transform custom now supports cross-account sharing of transformation definitions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/",
+    "summary": "AWS Transform custom now enables you to share transformation definitions (TDs) and their associated lessons across AWS accounts, organizational units (OUs), or your entire organization in AWS Organizations through AWS Re…"
    }
   ],
   "digest_date": "18 Nov 2026"
