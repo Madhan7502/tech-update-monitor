@@ -445,6 +445,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
@@ -455,9 +456,9 @@
    "557a8c90d55210daf2d42f39ba7d1a21de23e101",
    "7118b7ae3743c14328f2ec32eabc48f9868dbc7f",
    "b9c1771361764a2db757c5d9398fcbe028f42f84",
-   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "773429e77ddfdf8677d5931ac9ba9ecc7aabd8f2",
    "c8f09f31a713e1970966be83812310f8840eb8cf",
+   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "63047290b4aab88e93188116f0c0364034571340",
    "f68a89b4487a9bf4fe4143a46ed71d7468f2521a",
    "8282bcbea7784b4fd0ce3891bcff6fba226371bd",
@@ -478,12 +479,12 @@
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "b592aa3ca52f5a6095742b2961d342b77766b8bc",
+   "60f9ee66e6264de9426ec7f90720ddc308ae9828",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
-   "4816cab1177d1626b6bf0c611df71cdd607834f1",
    "4099f5310e7a5ead7ecaab53635ccceceb8e01bd",
+   "4816cab1177d1626b6bf0c611df71cdd607834f1",
    "7965338fd39b7f41f872cc127c80eeaf1bbf3973",
    "4676d8ce01693aab85a77cdd8ca0c92a115fff8e",
    "e574e68611c1298671e34d0391fedbf58f930584",
@@ -493,20 +494,20 @@
    "7076abb8a48f687d18be4f96b678486b4d33340c",
    "040eb57268976d2f70c567ed42370207c4f61df8",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
-   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
    "219b324141c75d68b150bcd97ee60002d2aaff33",
-   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
+   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
    "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
+   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
    "9c4b61d3e80a1ec945c96f969a705e3daf9fee21",
    "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
    "a844d6e8feb78be28266fd051c461e111593145e",
+   "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
    "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
-   "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
    "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "c7e628225658ce647a7042ac0041ba065edf9e27",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
@@ -743,10 +744,14 @@
    "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
    "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
    "02e968798e00983065fb64ed95c3312a0d7db390",
-   "fb8fcb86cdc11d35141a97ced9907f8207dd15b7",
-   "83cb3298c9867b9fc35ba38e0216243ea7999fca"
+   "fb8fcb86cdc11d35141a97ced9907f8207dd15b7"
   ],
   "recent": [
+   {
+    "title": "AWS Transform supports optimized storage for server migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
+    "date": "19 Nov 2026"
+   },
    {
     "title": "AWS Transform automates source and migration target actions to accelerate cutover",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
@@ -791,16 +796,11 @@
     "title": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
     "date": "18 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
-    "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Transform automates source and migration target actions to accelerate cutover",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+   "title": "AWS Transform supports optimized storage for server migration",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
    "date": "19 Nov 2026"
   },
   "fails": 0,
@@ -814,6 +814,11 @@
     "title": "AWS Transform automates source and migration target actions to accelerate cutover",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
     "summary": "AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration, appl…"
+   },
+   {
+    "title": "AWS Transform supports optimized storage for server migration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
+    "summary": "AWS Transform for migrations now recommends the optimized storage type and configuration for every server you migrate, so you no longer do it server by server. Building on recent storage assessment capabilities , AWS Tra…"
    }
   ],
   "digest_date": "19 Nov 2026"
