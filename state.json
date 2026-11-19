@@ -455,19 +455,27 @@
  },
  "aws-whats-new": {
   "seen": [
+   "ca15b1bbf6d7ec86ef578cf963f977d624ceba40",
+   "1f004edcf54d0e0d31304d02efae24cbe457a7a6",
+   "c478ecce87c779564801365fe5d8847944359ece",
+   "88cca09c2dc521d99fac2d308aaa28d4c8f8fb9f",
    "a48002a9e5df2d4160bcb0c616b103d4e9133c80",
+   "5d6d07eea3f78b84fa0085c10aac5d6096043d1c",
+   "840fb7d843e7ae31d73427bda6336122086c2af4",
    "195a65fb0db436d8206a670e1a0bd29fce439b12",
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "193374600beba7135a895e1dbab3b3118135d7d5",
-   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
-   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
-   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
-   "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
-   "5e781511f52b5f6655832f78e720fb573d7ac05c",
    "bed02927620bb91cc40419784c1b739ca2905bd1",
+   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
+   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
+   "5e781511f52b5f6655832f78e720fb573d7ac05c",
+   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
+   "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
+   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
+   "78963c0d96b5a2fc774d4db26979d90854214cf5",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
@@ -478,9 +486,9 @@
    "557a8c90d55210daf2d42f39ba7d1a21de23e101",
    "7118b7ae3743c14328f2ec32eabc48f9868dbc7f",
    "b9c1771361764a2db757c5d9398fcbe028f42f84",
+   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "773429e77ddfdf8677d5931ac9ba9ecc7aabd8f2",
    "c8f09f31a713e1970966be83812310f8840eb8cf",
-   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "63047290b4aab88e93188116f0c0364034571340",
    "f68a89b4487a9bf4fe4143a46ed71d7468f2521a",
    "8282bcbea7784b4fd0ce3891bcff6fba226371bd",
@@ -491,9 +499,10 @@
    "cd0339545addd598b2efec11c8688986991c0161",
    "9768fdd60b7cfc6d41c3286fa165977a0c3ad1a6",
    "e70c8a7e2cf584183b045d0b4f3fa3e33e55a0a5",
+   "41f24d4ceb9cbec4d75a7a68faf2c4b09a2d8cd7",
    "15dc1502dc04257e278ddc1958608acf711c65c9",
    "c66a2a9b0b7f952c095e86edb9a4dc69a3ac2c73",
-   "41f24d4ceb9cbec4d75a7a68faf2c4b09a2d8cd7",
+   "012b4678d105a75fd3c6b4b94439ead2ea81e388",
    "68a5687addd248056c6fcf280b7971d27fa92d93",
    "e66545c4cd27f85019af7c727bf2b59118fbf195",
    "56bff82d685c15b1b6090e307929c3fd01a2256a",
@@ -505,8 +514,8 @@
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "60f9ee66e6264de9426ec7f90720ddc308ae9828",
+   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
    "4099f5310e7a5ead7ecaab53635ccceceb8e01bd",
@@ -745,21 +754,42 @@
    "d6c80550c8d8c09f8bd49e0d62fdde0a1101a4f9",
    "118d029a647a76156f557b3c260252d58f3d05b2",
    "9109257cc35fc3a79bde4c9c31c513bda0903bd6",
-   "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8",
-   "ef73768c6b0de5ed1e1d7964b573ed46b78f0d04",
-   "a1d9dd307b56585bf315ca1bdc9ac6dd5d503123",
-   "c91aa9a8823bd097410d67eddcefd5b57a8e9012",
-   "b0bb19bc12baf292d6ec190fa2b46a176c08465d",
-   "6f504586d36baf58417c8efbb5b80e5b278fc9e8",
-   "b7a29c601af051b84bc2ba29ee88822a7398532d",
-   "5cac41800c97cfb88b23bf77bdabf7b33f14fcb7",
-   "570915d1de33f8940cbe123a8b0aa650e1dddb08",
-   "c367b32b8a6b90e9582f3b3965ccd7339f360d2f"
+   "61e2ba2f9580330bce15e18f45ab4dc7a33ebbb8"
   ],
   "recent": [
    {
+    "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Transform combines migration assessment and planning in one experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Transform extends application-centric migration across the lifecycle",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk",
+    "date": "19 Nov 2026"
+   },
+   {
     "title": "AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "Amazon MSK Connect now supports restarting existing connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors",
     "date": "19 Nov 2026"
    },
    {
@@ -776,41 +806,11 @@
     "title": "AWS Systems Manager Parameter Store raises API throughput limits",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
     "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Marketplace now supports buyer approval workflows",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Transform supports optimized storage for server migration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer enables Cases by default for new instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon WorkSpaces now lets developers enable Nested Virtualization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-nested-virtualization/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports Identity Tagging",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-identity-tagging/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports closed-source models in Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-bedrock/",
-    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls",
+   "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
    "date": "19 Nov 2026"
   },
   "fails": 0,
@@ -909,6 +909,51 @@
     "title": "AWS AppConfig launches support for managing native AI model and AI prompt configuration",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/",
     "summary": "Today, AWS AppConfig introduces two new configuration profile types to help you manage the settings for your generative AI applications: AI model invocation configurations, and AI prompt configurations. You can now chang…"
+   },
+   {
+    "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
+    "summary": "Today, AWS announces deal-level revenue attribution for AWS Revenue Measurement (previously Partner Revenue Measurement) capabilities. AWS Partners can now see how the AWS revenue measured for their products maps to spec…"
+   },
+   {
+    "title": "AWS Transform combines migration assessment and planning in one experience",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning",
+    "summary": "AWS Transform for migrations now combines migration assessment and migration planning into a single migration job. Previously, you ran separate jobs to build a total cost of ownership (TCO) business case and to plan your…"
+   },
+   {
+    "title": "AWS Transform extends application-centric migration across the lifecycle",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration",
+    "summary": "AWS Transform now puts applications at the center of every stage of the migration journey, so you can discover, plan, migrate, validate, and track the applications your business runs on rather than just the servers under…"
+   },
+   {
+    "title": "Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk",
+    "summary": "The Amazon Interactive Video Service (Amazon IVS) Linux broadcast SDK is now available for IVS Real-Time Streaming. Applications running on Linux can join an IVS stage, receive audio from participants, and send audio bac…"
+   },
+   {
+    "title": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/",
+    "summary": "AWS Marketplace search, Agent Mode, and AWS sales teams use listings to recommend partner offerings to AWS customers. Partners who sell software and services can now create and improve their listings in AWS Partner Centr…"
+   },
+   {
+    "title": "Amazon MSK Connect now supports restarting existing connectors",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors",
+    "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now supports restarting both existing and newly created connectors and their tasks in place, enabling fast recovery for streaming data pipelines. Ama…"
+   },
+   {
+    "title": "Amazon EC2 launches performance status checks and new utilization metrics for EC2 Detailed Monitoring",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-performance-status-checks/",
+    "summary": "Customers can now use Amazon EC2 performance status checks and new utilization metrics for EC2 Detailed Monitoring to observe and act on the performance of their EC2 workloads without setup within the instance, complemen…"
+   },
+   {
+    "title": "AWS Lambda Durable Execution SDK for Rust is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-execution-sdk-rust/",
+    "summary": "Today, AWS announces the general availability of the open source AWS Lambda Durable Execution SDK for Rust. Rust developers can use the SDK to build resilient, long-running workflows using Lambda durable functions, to cr…"
+   },
+   {
+    "title": "AgentCore runtime instances now support privileged mode",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-elevated-privileges/",
+    "summary": "Amazon Bedrock AgentCore runtime instances now support privileged mode, which lets your agents install system-level software and run nested containers. Runtime instances run your agents on Amazon EC2 instances while Agen…"
    }
   ],
   "digest_date": "19 Nov 2026"
