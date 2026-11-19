@@ -445,6 +445,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
    "27e8f52eb50c883c24483985176537dfcc02be2b",
@@ -454,9 +455,9 @@
    "557a8c90d55210daf2d42f39ba7d1a21de23e101",
    "7118b7ae3743c14328f2ec32eabc48f9868dbc7f",
    "b9c1771361764a2db757c5d9398fcbe028f42f84",
+   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "773429e77ddfdf8677d5931ac9ba9ecc7aabd8f2",
    "c8f09f31a713e1970966be83812310f8840eb8cf",
-   "58fbbf12ab0c111998a923f5107cba6ecec04c12",
    "63047290b4aab88e93188116f0c0364034571340",
    "f68a89b4487a9bf4fe4143a46ed71d7468f2521a",
    "8282bcbea7784b4fd0ce3891bcff6fba226371bd",
@@ -477,12 +478,12 @@
    "e06ee3bfd27af410260e9993136b38c2c7cc2d80",
    "6d93802cee82980ee97e5ed1fd0cccfe62831c57",
    "89ce060b87899ad75599ebc53b84756342c78966",
-   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "60f9ee66e6264de9426ec7f90720ddc308ae9828",
+   "b592aa3ca52f5a6095742b2961d342b77766b8bc",
    "2fd03c8a49a69bf155ae3e81c52201e6e2549c08",
    "2b1b86cf51136abd60abec9e4e53bd0a7cec1ec6",
-   "4099f5310e7a5ead7ecaab53635ccceceb8e01bd",
    "4816cab1177d1626b6bf0c611df71cdd607834f1",
+   "4099f5310e7a5ead7ecaab53635ccceceb8e01bd",
    "7965338fd39b7f41f872cc127c80eeaf1bbf3973",
    "4676d8ce01693aab85a77cdd8ca0c92a115fff8e",
    "e574e68611c1298671e34d0391fedbf58f930584",
@@ -743,10 +744,14 @@
    "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
    "02e968798e00983065fb64ed95c3312a0d7db390",
    "fb8fcb86cdc11d35141a97ced9907f8207dd15b7",
-   "83cb3298c9867b9fc35ba38e0216243ea7999fca",
-   "9d1beb736f2173009643fc2363644bced67dd873"
+   "83cb3298c9867b9fc35ba38e0216243ea7999fca"
   ],
   "recent": [
+   {
+    "title": "AWS Transform automates source and migration target actions to accelerate cutover",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+    "date": "19 Nov 2026"
+   },
    {
     "title": "Amazon OpenSearch Memory is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
@@ -791,17 +796,12 @@
     "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
     "date": "18 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for MySQL now supports MySQL major version 9.7",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/",
-    "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon OpenSearch Memory is now generally available",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
-   "date": "18 Nov 2026"
+   "title": "AWS Transform automates source and migration target actions to accelerate cutover",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+   "date": "19 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -809,6 +809,11 @@
     "title": "Amazon CloudWatch simplifies network performance monitoring for your Amazon Virtual Private Cloud (VPC)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-network-path-monitoring/",
     "summary": "Amazon CloudWatch Network Monitoring now allows you to monitor the health of the AWS network paths that your workloads take by using performance monitors. Performance monitors provide near real-time visibility into wheth…"
+   },
+   {
+    "title": "AWS Transform automates source and migration target actions to accelerate cutover",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+    "summary": "AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration, appl…"
    }
   ],
   "digest_date": "19 Nov 2026"
