@@ -454,9 +454,11 @@
  },
  "aws-whats-new": {
   "seen": [
-   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
-   "3c1407505032c21d02109a6313f0d7bdc57c04d9",
+   "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "193374600beba7135a895e1dbab3b3118135d7d5",
+   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
+   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
+   "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
    "27e8f52eb50c883c24483985176537dfcc02be2b",
@@ -476,8 +478,10 @@
    "f46323467d49f5a2525fa830b8d463d95657028b",
    "ff6c3aea61c8c412bb1ab1f7d8543da956d66b0a",
    "acec5bd8c34e35f3eea13aa16db600e634ab5200",
+   "cd0339545addd598b2efec11c8688986991c0161",
    "9768fdd60b7cfc6d41c3286fa165977a0c3ad1a6",
    "e70c8a7e2cf584183b045d0b4f3fa3e33e55a0a5",
+   "c66a2a9b0b7f952c095e86edb9a4dc69a3ac2c73",
    "68a5687addd248056c6fcf280b7971d27fa92d93",
    "e66545c4cd27f85019af7c727bf2b59118fbf195",
    "56bff82d685c15b1b6090e307929c3fd01a2256a",
@@ -749,26 +753,32 @@
    "a4fa2e14d7c441b661d72339409015e1eb85c211",
    "a525cc70fbe1bab89960f540ece8012a715e2717",
    "0f0554fdc697dda5e920e5b8a9e007720e87f28e",
-   "16f812d8b7c36c237a2e398a395595e2a611423e",
-   "a097b2fedf3a1cc2e06ec675e50f26ab915790aa",
-   "0c5c946db9a84a5a290bb7e1c3b4577820eb630a",
-   "d0fa251659d79f0fc67ce314ab2fa39b236f0c67",
-   "02e968798e00983065fb64ed95c3312a0d7db390"
+   "16f812d8b7c36c237a2e398a395595e2a611423e"
   ],
   "recent": [
+   {
+    "title": "AWS Marketplace now supports buyer contact sharing at subscription",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "AWS Systems Manager Parameter Store raises API throughput limits",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
+    "date": "19 Nov 2026"
+   },
    {
     "title": "AWS Transform supports optimized storage for server migration",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
     "date": "19 Nov 2026"
    },
    {
-    "title": "AWS Transform automates source and migration target actions to accelerate cutover",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+    "title": "AWS Marketplace now supports buyer approval workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/",
     "date": "19 Nov 2026"
    },
    {
-    "title": "AWS Systems Manager Parameter Store raises API throughput limits",
-    "link": "https://aws.amazon.com/aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
+    "title": "AWS Transform automates source and migration target actions to accelerate cutover",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
     "date": "19 Nov 2026"
    },
    {
@@ -795,21 +805,11 @@
     "title": "AWS Transform custom now supports cross-account sharing of transformation definitions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/",
     "date": "18 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudFront standard logging now supports CMCD and additional log fields",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-standard-logging-cmcd-fields",
-    "date": "18 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
-    "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Transform supports optimized storage for server migration",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
+   "title": "AWS Marketplace now supports buyer contact sharing at subscription",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
    "date": "19 Nov 2026"
   },
   "fails": 0,
@@ -833,6 +833,26 @@
     "title": "AWS Systems Manager Parameter Store raises API throughput limits",
     "link": "https://aws.amazon.com/aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
     "summary": "AWS Systems Manager Parameter Store has increased the default throughput limits for five API operations. For accounts that have turned on the higher throughput setting, the quotas have changed as follows, in transactions…"
+   },
+   {
+    "title": "AWS Marketplace now supports buyer contact sharing at subscription",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
+    "summary": "AWS Marketplace now supports buyer contact sharing. When customers subscribe to a third-party product, they can share their contact information with the seller. This helps sellers onboard new customers, send deployment g…"
+   },
+   {
+    "title": "AWS Marketplace now supports buyer approval workflows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/",
+    "summary": "Today, AWS Marketplace announces the general availability of buyer approvals. This lets you decide which AWS Marketplace purchases need sign-off, who approves them, and where approval happens. You can define buying polic…"
+   },
+   {
+    "title": "AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-slack-code-channels-Teams-two-way/",
+    "summary": "AWS DevOps Agent now supports dedicated Slack code channels and two-way conversations in Microsoft Teams, so on-call engineers and DevOps teams can investigate and resolve incidents where they already work together. AWS …"
+   },
+   {
+    "title": "AWS Deadline Cloud now supports Amazon EC2 G7 instances in service-managed fleets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/deadline-cloud-supports-ec2-g7/",
+    "summary": "AWS Deadline Cloud now supports Amazon EC2 G7 instances in service-managed fleets. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads for visual effects, animation, product design,…"
    }
   ],
   "digest_date": "19 Nov 2026"
