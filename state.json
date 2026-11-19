@@ -367,7 +367,6 @@
    "29e6500de55a9c2d65f4fbbac801e0e7474aa9f7",
    "b7ba2ba913dcb24a5e856b7d9818c3164502e52e",
    "24fde24e1c343ffce5617fb9bccf5941e64f535b",
-   "88af8529196585374f2e4a683845bef78ec79f37",
    "d3adfc1fe68bc634cee1e4a3f237a01374373147",
    "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
@@ -378,11 +377,10 @@
    "480c805f3ae1f9e194f801cf3d990df3766e2883",
    "d1dc74af84e7d562ddce7195c94840bed5edf948",
    "994733f2d9a910e2112e532a60bd1f6cae666b03",
+   "fe6cfa258e531ef540be8420825818e163f7567a",
    "c4dcda64d241c4df77bf73a89bcac2c2e94f066a",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
-   "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
    "54788f8c676b1547122542050a6b12ac04d037ea",
-   "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "500a8c753a17ff6af4c7ef150b47207ef58270b8",
    "f853e3ceb73dda15c7174846e097388478ce538d",
    "a164b4fac5ab28977795fc9390625a3cdfadda6c",
@@ -395,6 +393,9 @@
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "d01e56f4bafc001da89c0b9537a406966dd9391b",
    "a66b1f00c06a2c8e4c7b45cfa9c4cb995a739909",
+   "88af8529196585374f2e4a683845bef78ec79f37",
+   "e21314ce438bd46d8948ed8d79b5fb9786ee20c8",
+   "6d8eb18279597df0ab8c1a9df40e073655b12052",
    "41ccadb2178b1fdd1d47b3830f155bd164ea2869",
    "be5fe36c31418cc13a6cdec7b3854a43b7a0d01f",
    "3c7e628a51881badf43b30208f756fb18ab71e69",
@@ -440,24 +441,26 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-114938 - OpenJDK Base64 Decoder Intrinsic Out-of-Bounds Write Issue",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-189-aws/",
+    "title": "PHP Foundation Security Releases – November 19, 2026",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-114938 - OpenJDK Base64 Decoder Intrinsic Out-of-Bounds Write Issue",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-189-aws/",
+   "title": "PHP Foundation Security Releases – November 19, 2026",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/",
    "date": "19 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "195a65fb0db436d8206a670e1a0bd29fce439b12",
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "193374600beba7135a895e1dbab3b3118135d7d5",
    "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
    "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
+   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
    "10d541c4ecaa51ecb9f44197be54193f28da4a64",
@@ -482,6 +485,8 @@
    "9768fdd60b7cfc6d41c3286fa165977a0c3ad1a6",
    "e70c8a7e2cf584183b045d0b4f3fa3e33e55a0a5",
    "c66a2a9b0b7f952c095e86edb9a4dc69a3ac2c73",
+   "41f24d4ceb9cbec4d75a7a68faf2c4b09a2d8cd7",
+   "15dc1502dc04257e278ddc1958608acf711c65c9",
    "68a5687addd248056c6fcf280b7971d27fa92d93",
    "e66545c4cd27f85019af7c727bf2b59118fbf195",
    "56bff82d685c15b1b6090e307929c3fd01a2256a",
@@ -749,13 +754,14 @@
    "9227ada578da028352c1420b8854a05fb8b176a3",
    "f9bccb63730b04a3b6fe9c493f3029fa0ae8e025",
    "21d2c73d7cb4b3c96230b157fdb232c52f6d2127",
-   "07aebc8dcce1260f793b3d68cc0fe418bce0c558",
-   "a4fa2e14d7c441b661d72339409015e1eb85c211",
-   "a525cc70fbe1bab89960f540ece8012a715e2717",
-   "0f0554fdc697dda5e920e5b8a9e007720e87f28e",
-   "16f812d8b7c36c237a2e398a395595e2a611423e"
+   "07aebc8dcce1260f793b3d68cc0fe418bce0c558"
   ],
   "recent": [
+   {
+    "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
+    "date": "19 Nov 2026"
+   },
    {
     "title": "AWS Marketplace now supports buyer contact sharing at subscription",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
@@ -777,6 +783,11 @@
     "date": "19 Nov 2026"
    },
    {
+    "title": "Amazon Connect Customer enables Cases by default for new instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/",
+    "date": "19 Nov 2026"
+   },
+   {
     "title": "AWS Transform automates source and migration target actions to accelerate cutover",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
     "date": "19 Nov 2026"
@@ -795,21 +806,11 @@
     "title": "Amazon SageMaker AI now supports cross-Region inference routing",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
     "date": "18 Nov 2026"
-   },
-   {
-    "title": "AWS announces ExtendDB 1.0",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/",
-    "date": "18 Nov 2026"
-   },
-   {
-    "title": "AWS Transform custom now supports cross-account sharing of transformation definitions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/",
-    "date": "18 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Marketplace now supports buyer contact sharing at subscription",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
+   "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
    "date": "19 Nov 2026"
   },
   "fails": 0,
@@ -853,6 +854,26 @@
     "title": "AWS Deadline Cloud now supports Amazon EC2 G7 instances in service-managed fleets",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/deadline-cloud-supports-ec2-g7/",
     "summary": "AWS Deadline Cloud now supports Amazon EC2 G7 instances in service-managed fleets. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads for visual effects, animation, product design,…"
+   },
+   {
+    "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
+    "summary": "Amazon Aurora DSQL now lets you create multi-Region clusters whose Regions are on different continents, such as US East (N. Virginia) and Europe (Ireland). Until now, the Regions in a multi-Region cluster had to be in th…"
+   },
+   {
+    "title": "Amazon Connect Customer enables Cases by default for new instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/",
+    "summary": "Amazon Connect Customer enables Cases by default for new instances, so operations teams can start tracking and resolving customer issues on day one without any setup work. New instances come with Cases connected to rules…"
+   },
+   {
+    "title": "Amazon Braket adds PAUSED device status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/braket-new-device-state/",
+    "summary": "Amazon Braket now offers a new device status, PAUSED, to give customers clear and actionable information on when they can submit quantum tasks and hybrid jobs and when those tasks and jobs will run. Device status now tel…"
+   },
+   {
+    "title": "AWS HealthOmics now supports Nextflow version 26.10",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-healthomics-nextflow-version-26-10/",
+    "summary": "AWS HealthOmics now supports Nextflow version 26.10, which adds enhancements such as static typing, pipeline composition, and configurable report directories. AWS HealthOmics is a HIPAA-eligible service that helps health…"
    }
   ],
   "digest_date": "19 Nov 2026"
@@ -1060,6 +1081,7 @@
  },
  "android-dev-blog": {
   "seen": [
+   "tag:developer.android.com,2026-11-19:/blog/posts/android-developer-verification-2027",
    "tag:developer.android.com,2026-11-18:/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
    "tag:developer.android.com,2026-11-18:/blog/posts/jetpack-compose-november-2026-release",
    "tag:developer.android.com,2026-11-18:/blog/posts/google-play-adaptive-quality-standards",
@@ -1098,15 +1120,15 @@
   ],
   "recent": [
    {
-    "title": "Elevating games: New large screens and foldables quality standards on Google Play",
-    "link": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
-    "date": "18 Nov 2026"
+    "title": "Expanding Android developer verification in 2027",
+    "link": "https://developer.android.com/blog/posts/android-developer-verification-2027",
+    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Elevating games: New large screens and foldables quality standards on Google Play",
-   "link": "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
-   "date": "18 Nov 2026"
+   "title": "Expanding Android developer verification in 2027",
+   "link": "https://developer.android.com/blog/posts/android-developer-verification-2027",
+   "date": "19 Nov 2026"
   },
   "fails": 0
  },
