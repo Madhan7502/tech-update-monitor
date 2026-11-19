@@ -490,28 +490,28 @@
    "7076abb8a48f687d18be4f96b678486b4d33340c",
    "040eb57268976d2f70c567ed42370207c4f61df8",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
-   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
-   "219b324141c75d68b150bcd97ee60002d2aaff33",
-   "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
    "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "219b324141c75d68b150bcd97ee60002d2aaff33",
+   "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
+   "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
    "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
    "9c4b61d3e80a1ec945c96f969a705e3daf9fee21",
    "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
    "a844d6e8feb78be28266fd051c461e111593145e",
+   "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
-   "8c5d276d980374901bf09862f6751629938a26e4",
-   "e6d6e31f572a07720a819142adffa47c065c78fa",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
+   "8c5d276d980374901bf09862f6751629938a26e4",
+   "e6d6e31f572a07720a819142adffa47c065c78fa",
    "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
    "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "c7e628225658ce647a7042ac0041ba065edf9e27",
    "8428eee375a6b87b22b64c8371af52893c18d342",
    "292bfa793e9bd16fac8b20acfa209b66bea46f70",
    "c64c364541dde5571ffaed008dae5d8c5e6f0f89",
-   "bf807b647999e23f4e6b0e6393414f30eab79adb",
    "3b3d59b5059995218ea04335955eb5c202dbfdb9",
    "4a5dc7030f436adb887ed40ae8994429e486d81f",
    "32a5e55fd30bf5dd3f41da194ba4e66502bee81a",
@@ -1407,6 +1407,9 @@
  },
  "stripe-php": {
   "seen": [
+   "tag:github.com,2008:Repository/1953386/v23.2.0-beta.1",
+   "tag:github.com,2008:Repository/1953386/v23.2.0-alpha.1",
+   "tag:github.com,2008:Repository/1953386/v23.1.0",
    "tag:github.com,2008:Repository/1953386/v23.0.0",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.3",
    "tag:github.com,2008:Repository/1953386/v22.2.0-alpha.2",
@@ -1442,20 +1445,23 @@
   ],
   "recent": [
    {
-    "title": "v23.0.0",
-    "link": "https://github.com/stripe/stripe-php/releases/tag/v23.0.0",
-    "date": "11 Nov 2026"
+    "title": "v23.1.0",
+    "link": "https://github.com/stripe/stripe-php/releases/tag/v23.1.0",
+    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "v23.0.0",
-   "link": "https://github.com/stripe/stripe-php/releases/tag/v23.0.0",
-   "date": "11 Nov 2026"
+   "title": "v23.1.0",
+   "link": "https://github.com/stripe/stripe-php/releases/tag/v23.1.0",
+   "date": "19 Nov 2026"
   },
   "fails": 0
  },
  "stripe-node": {
   "seen": [
+   "tag:github.com,2008:Repository/2471804/v23.3.0-beta.1",
+   "tag:github.com,2008:Repository/2471804/v23.3.0-alpha.1",
+   "tag:github.com,2008:Repository/2471804/v23.2.0",
    "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.3",
    "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.2",
    "tag:github.com,2008:Repository/2471804/v23.2.0-alpha.1",
@@ -1474,20 +1480,23 @@
   ],
   "recent": [
    {
-    "title": "v23.1.0",
-    "link": "https://github.com/stripe/stripe-node/releases/tag/v23.1.0",
-    "date": "29 Oct 2026"
+    "title": "v23.2.0",
+    "link": "https://github.com/stripe/stripe-node/releases/tag/v23.2.0",
+    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "v23.1.0",
-   "link": "https://github.com/stripe/stripe-node/releases/tag/v23.1.0",
-   "date": "29 Oct 2026"
+   "title": "v23.2.0",
+   "link": "https://github.com/stripe/stripe-node/releases/tag/v23.2.0",
+   "date": "19 Nov 2026"
   },
   "fails": 0
  },
  "stripe-python": {
   "seen": [
+   "tag:github.com,2008:Repository/1953389/v17.2.0b1",
+   "tag:github.com,2008:Repository/1953389/v17.2.0a1",
+   "tag:github.com,2008:Repository/1953389/v17.1.0",
    "tag:github.com,2008:Repository/1953389/v17.0.0",
    "tag:github.com,2008:Repository/1953389/v16.2.0a3",
    "tag:github.com,2008:Repository/1953389/v16.2.0a2",
@@ -1520,15 +1529,15 @@
   ],
   "recent": [
    {
-    "title": "v17.0.0",
-    "link": "https://github.com/stripe/stripe-python/releases/tag/v17.0.0",
-    "date": "11 Nov 2026"
+    "title": "v17.1.0",
+    "link": "https://github.com/stripe/stripe-python/releases/tag/v17.1.0",
+    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "v17.0.0",
-   "link": "https://github.com/stripe/stripe-python/releases/tag/v17.0.0",
-   "date": "11 Nov 2026"
+   "title": "v17.1.0",
+   "link": "https://github.com/stripe/stripe-python/releases/tag/v17.1.0",
+   "date": "19 Nov 2026"
   },
   "fails": 0
  },
