@@ -444,8 +444,8 @@
  "aws-whats-new": {
   "seen": [
    "d06a0a33762520b10d0b4dac7c6d7bc4ef748c94",
-   "10d541c4ecaa51ecb9f44197be54193f28da4a64",
    "27e8f52eb50c883c24483985176537dfcc02be2b",
+   "10d541c4ecaa51ecb9f44197be54193f28da4a64",
    "a354bb255087bba0756f9bec8d7bbb849c438cee",
    "00ba5333ab93c982dff647e9f6d17ee6c883a6e5",
    "eae15b3fe26d7e4636c34566eb8b19ba2b8949c8",
@@ -460,6 +460,7 @@
    "8282bcbea7784b4fd0ce3891bcff6fba226371bd",
    "07132868ec690e4e2ee9833e0e7d367d04a85466",
    "f46323467d49f5a2525fa830b8d463d95657028b",
+   "ff6c3aea61c8c412bb1ab1f7d8543da956d66b0a",
    "9768fdd60b7cfc6d41c3286fa165977a0c3ad1a6",
    "e70c8a7e2cf584183b045d0b4f3fa3e33e55a0a5",
    "68a5687addd248056c6fcf280b7971d27fa92d93",
@@ -489,20 +490,20 @@
    "040eb57268976d2f70c567ed42370207c4f61df8",
    "5e3e9d594324dbf3b1ded8f532b0ca4ad124a141",
    "d31c84b56987ea1ac529f4ff8c21d7cd2caaec95",
-   "219b324141c75d68b150bcd97ee60002d2aaff33",
    "70f77ff31521866a8d49308c7e1fbed595c9e6e6",
-   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
    "9404c7c1c3337a96ca8c8e953d8b33fc0c496a5a",
+   "5a8135356af8cfb6402661eaca567aa7638ca0cb",
+   "219b324141c75d68b150bcd97ee60002d2aaff33",
    "02c4b0f3d7760a614205e08049ad911640f1e97e",
    "10ed1900b12f46289e7f4b8e041221dbd8e3d743",
    "9c4b61d3e80a1ec945c96f969a705e3daf9fee21",
-   "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
    "a844d6e8feb78be28266fd051c461e111593145e",
+   "0f0ddec92791f095a33dd34d5d7f8e9fdab5104c",
    "8bc36fad49393a8146e3a7910694db10c12619ba",
-   "8c5d276d980374901bf09862f6751629938a26e4",
-   "e6d6e31f572a07720a819142adffa47c065c78fa",
    "ebb8b452e844f26898a6a3040900673bad67c9e7",
    "bdbabba677db79962418c7e2da7ac18f2cd1f0b2",
+   "8c5d276d980374901bf09862f6751629938a26e4",
+   "e6d6e31f572a07720a819142adffa47c065c78fa",
    "8aa1b903ca7a798169ce5bbb52f9df7cda4fc1f1",
    "523e763c24ced7bde8f1cab4eddb1eb45ba8f761",
    "c7e628225658ce647a7042ac0041ba065edf9e27",
@@ -741,8 +742,7 @@
    "fb8fcb86cdc11d35141a97ced9907f8207dd15b7",
    "83cb3298c9867b9fc35ba38e0216243ea7999fca",
    "9d1beb736f2173009643fc2363644bced67dd873",
-   "eef082f1709a6687aed6f9caae4605bb93c1a942",
-   "30d1ce5d72752a78261a96e66820f860988c1e26"
+   "eef082f1709a6687aed6f9caae4605bb93c1a942"
   ],
   "recent": [
    {
@@ -751,13 +751,13 @@
     "date": "18 Nov 2026"
    },
    {
-    "title": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
+    "title": "Amazon SageMaker AI now supports cross-Region inference routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
     "date": "18 Nov 2026"
    },
    {
-    "title": "Amazon SageMaker AI now supports cross-Region inference routing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/",
+    "title": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
     "date": "18 Nov 2026"
    },
    {
@@ -947,12 +947,18 @@
     "title": "AWS Transform custom now supports cross-account sharing of transformation definitions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/",
     "summary": "AWS Transform custom now enables you to share transformation definitions (TDs) and their associated lessons across AWS accounts, organizational units (OUs), or your entire organization in AWS Organizations through AWS Re…"
+   },
+   {
+    "title": "Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/",
+    "summary": "Amazon ElastiCache for Valkey now offers fully managed distributed KV caching, a new capability that reduces self-hosted large language model (LLM) inference costs by up to 40% and time to first token (TTFT) by up to 80%…"
    }
   ],
   "digest_date": "18 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
+   "https://developer.apple.com/news/releases/?id=11182026b",
    "https://developer.apple.com/news/releases/?id=11182026a",
    "https://developer.apple.com/news/releases/?id=11162026h",
    "https://developer.apple.com/news/releases/?id=11162026g",
@@ -1040,15 +1046,15 @@
   ],
   "recent": [
    {
-    "title": "HomeView Software 27.2.1 (24V553)",
-    "link": "https://developer.apple.com/news/releases/?id=11182026a",
-    "date": "18 Nov 2026"
+    "title": "App Store Connect API 4.6.1",
+    "link": "https://developer.apple.com/news/releases/?id=11182026b",
+    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "HomeView Software 27.2.1 (24V553)",
-   "link": "https://developer.apple.com/news/releases/?id=11182026a",
-   "date": "18 Nov 2026"
+   "title": "App Store Connect API 4.6.1",
+   "link": "https://developer.apple.com/news/releases/?id=11182026b",
+   "date": "19 Nov 2026"
   },
   "fails": 0
  },
