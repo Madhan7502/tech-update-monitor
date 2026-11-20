@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -100,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.5.13 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-4",
+    "title": "PHP 8.6.0 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-5",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.5.13 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-4",
+   "title": "PHP 8.6.0 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-5",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -348,9 +349,6 @@
  },
  "aws-security": {
   "seen": [
-   "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
-   "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
-   "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "673bae0c00db5a735d35b34fe46471676b93f07b",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
@@ -387,6 +385,10 @@
    "f3ce02f6767583f9c816fbd889d0dfbd517f7c04",
    "007dfd39f2506be6dbbaf22ea8e4d6fa10eedc89",
    "7508e4544fcccf81041fa1786a819a3a7ef0fcd0",
+   "ffea508e971188b50ba0a0c32a9b22e36b3b773c",
+   "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
+   "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
+   "3db5546e06e92097c8d1b92e8935452d83f5de21",
    "bcc0b3e117d66ddf2ac068793b3bfb2afff2bef2",
    "b5124159e3326f45eae7d6f5f1002322a3faf92e",
    "93aba748ac2216a59e2d111811741cccfcf58a8e",
@@ -445,26 +447,34 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-133199 - Incorrect privilege assignment on reused e-mail addresses or group names in AWS ssosync",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-194-aws/",
+    "title": "CVE-2026-130901 - Improper limitation of a pathname to a restricted directory in Amazon awslabs.document-loader-mcp-server",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-195-aws/",
     "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-133199 - Incorrect privilege assignment on reused e-mail addresses or group names in AWS ssosync",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-194-aws/",
+   "title": "CVE-2026-130901 - Improper limitation of a pathname to a restricted directory in Amazon awslabs.document-loader-mcp-server",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-195-aws/",
    "date": "20 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "b6e31d09e73b9bbd6214600cea0453a3686347b0",
+   "75045e061356e99011e8afd0ccf81b32474ed4c3",
    "344b860c79e8a39f46097c85c6a5967bc51e583e",
+   "4e474f508c81639f25d5c98ad9d64086a61b2aa3",
+   "a8cb47452baf351f32e36fa5079b71d8d2eccd4f",
    "2ce88365065aaaf445be25c90cc4bb1d623a6f51",
+   "e36431c1eb2c41d0e27d67f47dfe60126538a8c1",
+   "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
+   "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
    "c49daaabd2b33202fd7d47ade7aca9eff2fdd0f3",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
+   "cb034df9a902d85a21e42253d5f1c32b42c217cc",
    "cd0339545addd598b2efec11c8688986991c0161",
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
    "ad9942991b58d39d2fc5ed02f47ff0b66c69d266",
@@ -489,6 +499,7 @@
    "be7f58178e94d384fdacba858b1a672bb1613539",
    "840fb7d843e7ae31d73427bda6336122086c2af4",
    "195a65fb0db436d8206a670e1a0bd29fce439b12",
+   "805122235bda3ded247b630fc0332a8e9107aca1",
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "93f38ae3cc9a4b8385fad6b9bc19b0a698a4e878",
    "193374600beba7135a895e1dbab3b3118135d7d5",
@@ -749,26 +760,47 @@
    "824d6b17856a1981502dec09f1fe7c88f34dbdc6",
    "b6b6780958fddc6e533d47386c625a9a31ff8195",
    "020b078d0397d878fecd01105f89c3380742f318",
-   "8a81da6a4c78bb86eb232b0756e6431d3bc2e9c3",
-   "17c3ec1e40cdb423d30df922a2eaa6f81ed7de1d",
-   "df4e4919eada171d3fa2618c2f13290ac4fb0057",
-   "ed422b711fac8f5c81a9ce8efd56fecf4a44c54a",
-   "03eaf64b7d3e93d37021e3fe144250a1c1f50618",
-   "89ed024be140b595e9141060046a7bf40629b0b3",
-   "694823d2c8580fe07e4af365bd37e1f292586a9d",
-   "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
-   "b98196ed032920a1f754c112d39dc2a641a9b771",
-   "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3"
+   "8a81da6a4c78bb86eb232b0756e6431d3bc2e9c3"
   ],
   "recent": [
+   {
+    "title": "AWS Billing and Cost Management now offers APIs to track payment status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon EventBridge Scheduler adds 589 new API actions and event bus targets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/",
+    "date": "20 Nov 2026"
+   },
    {
     "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
     "date": "20 Nov 2026"
    },
    {
+    "title": "Amazon EventBridge Custom event bus now supports Webhook Events",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon EventBridge Custom event bus now supports Amazon MSK as a target",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "Amazon Aurora MySQL 8.4.12 is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon Connect Customer expands how teams track and act on service level agreements for cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Transform announces UI component modernization for Windows web applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/",
     "date": "20 Nov 2026"
    },
    {
@@ -780,41 +812,11 @@
     "title": "Introducing Amazon EC2 T9g instances based on Graviton5",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
     "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-slack-code-channels-teams-two-way/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Marketplace now supports agentic payments with AgentCore",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon Cognito now supports client ID metadata documents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
-    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
+   "title": "AWS Billing and Cost Management now offers APIs to track payment status",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
    "date": "20 Nov 2026"
   },
   "fails": 0,
@@ -848,6 +850,51 @@
     "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/",
     "summary": "AWS Data Exports for Cost and Usage Report (CUR) 2.0 now includes standardized cost and rate columns that represent cost consistently across AWS purchase options, including On Demand, Savings Plans, Reserved Instances, E…"
+   },
+   {
+    "title": "AWS Billing and Cost Management now offers APIs to track payment status",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
+    "summary": "Today, AWS Billing and Cost Management announces new APIs that let you view your AWS payment information through the AWS SDKs and the AWS CLI. With these APIs, you can check your account balance, find invoices that are d…"
+   },
+   {
+    "title": "Amazon EventBridge Scheduler adds 589 new API actions and event bus targets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/",
+    "summary": "Amazon EventBridge Scheduler expands its AWS SDK integrations with 589 new API actions across 81 AWS services, and adds templated targets for the enhanced EventBridge Custom event bus. You can now schedule direct invocat…"
+   },
+   {
+    "title": "Amazon EventBridge Custom event bus now supports Webhook Events",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events",
+    "summary": "Amazon EventBridge now supports Webhook Events for the enhanced Custom event bus, so SaaS applications, AI agents, and custom integrations can send events to a bus over HTTPS. You no longer need to deploy and operate you…"
+   },
+   {
+    "title": "Amazon EventBridge Custom event bus now supports Amazon MSK as a target",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/",
+    "summary": "Amazon EventBridge now supports Amazon Managed Streaming for Apache Kafka (Amazon MSK) as a target for the enhanced Custom event bus, so you can deliver events to Kafka topics without running your own producer. The Event…"
+   },
+   {
+    "title": "Amazon Connect Customer expands how teams track and act on service level agreements for cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/",
+    "summary": "Amazon Connect Customer enhances service level agreements (SLAs) for cases, so teams can set service goals for more of their work and respond faster when a case falls behind. Admins can set SLAs on case fields beyond sta…"
+   },
+   {
+    "title": "AWS Transform announces UI component modernization for Windows web applications",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/",
+    "summary": "Today, AWS announced the general availability of third-party UI component porting for ASP.NET web site modernization in AWS Transform. When AWS Transform modernizes a legacy ASP.NET web site, it now detects dependencies …"
+   },
+   {
+    "title": "Amazon MSK now supports in-place upgrade from Standard brokers to Express brokers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-to-express-brokers-in-place-upgrade",
+    "summary": "You can now upgrade existing Amazon MSK Provisioned clusters from Standard brokers to Express brokers in place, with fully managed data migration and no application changes. Express brokers are designed to deliver up to …"
+   },
+   {
+    "title": "Amazon VPC Lattice now supports CloudWatch metrics for VPC resources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-lattice-cloudwatch-metrics/",
+    "summary": "Amazon VPC Lattice now publishes Amazon CloudWatch metrics for VPC resources. Resource owners — those who share resources via VPC Lattice — and resource consumers — those who access those shared resources — can now see T…"
+   },
+   {
+    "title": "AWS RTB Fabric Modules are now generally available through AWS Marketplace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-rtb-fabric-modules-marketplace/",
+    "summary": "AWS RTB Fabric Modules from AdTech partners including Pixalate, WURFL by ScientiaMobile, and Picnic are now available through AWS Marketplace. With AWS RTB Fabric Modules, any demand-side platform (DSP), supply-side plat…"
    }
   ],
   "digest_date": "20 Nov 2026"
