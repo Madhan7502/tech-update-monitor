@@ -458,6 +458,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
    "ad9942991b58d39d2fc5ed02f47ff0b66c69d266",
    "88c1fdb2bd1964c9c8075fa93d9ed629651a4ac9",
@@ -484,38 +485,38 @@
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "93f38ae3cc9a4b8385fad6b9bc19b0a698a4e878",
    "193374600beba7135a895e1dbab3b3118135d7d5",
-   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
-   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
-   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
-   "5e781511f52b5f6655832f78e720fb573d7ac05c",
    "bed02927620bb91cc40419784c1b739ca2905bd1",
+   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
+   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
+   "5e781511f52b5f6655832f78e720fb573d7ac05c",
+   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
    "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
-   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
-   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
-   "6ba2a107a04072590a435b13e2f61e9cf13fd038",
    "d689640e6f4c34ed0124c1891c77ebd95a5967ce",
-   "4e21c44f007a5507f0503396ee8c4aa983ee71e4",
-   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
    "9103cd82d94aa6eb6caffd4ee7083f032754cfda",
-   "fe1d39fc117e911e70b37b23772651cf0ca16a65",
+   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
+   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
+   "6ba2a107a04072590a435b13e2f61e9cf13fd038",
+   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
    "5f7cc29347b77dc2fb7a24796f89ed42a87a1102",
    "2c1cc5264a1a47f97b83cfeb2fd7b3c8a251fe62",
+   "fe1d39fc117e911e70b37b23772651cf0ca16a65",
+   "4e21c44f007a5507f0503396ee8c4aa983ee71e4",
    "1de747a0d1b442d456f7f62029062d5d47b13719",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
-   "c36da359e5944f2db57112cc6c15b7b7c69198df",
-   "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
-   "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
    "78963c0d96b5a2fc774d4db26979d90854214cf5",
    "542601e8f20dc928d7c29480ad803e29c3cadc27",
+   "c36da359e5944f2db57112cc6c15b7b7c69198df",
+   "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
    "b6c9587d3739ba882ee45b6a319fafc391dda6ea",
-   "a49fe612a26bd0ce19d5f27f018e08e8f4f030b6",
-   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
-   "8775386dc999173fada22cdf8e23b50f4d47f635",
-   "1bb58135317934bb9b331716a3d4af831980f8ea",
+   "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
    "26e1acefcdf1a4a7a66447ab6f07344b845f6099",
+   "1bb58135317934bb9b331716a3d4af831980f8ea",
+   "a49fe612a26bd0ce19d5f27f018e08e8f4f030b6",
    "feb63d7deb99241e71791db1e0e65baaa6cf851e",
+   "8775386dc999173fada22cdf8e23b50f4d47f635",
+   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
    "67df8e65945704eae05a003c08a5fd5d04e8742b",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
@@ -756,10 +757,14 @@
    "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
-   "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e",
-   "183cdd10ccbab444b1698a32a2db0762830e99e9"
+   "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e"
   ],
   "recent": [
+   {
+    "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
+    "date": "20 Nov 2026"
+   },
    {
     "title": "AWS Marketplace now supports agentic payments with AgentCore",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
@@ -804,20 +809,21 @@
     "title": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/",
     "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon Route 53 now supports health checks for private endpoints",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
-    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Marketplace now supports agentic payments with AgentCore",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
-   "date": "19 Nov 2026"
+   "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
+   "date": "20 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
+    "summary": "Today, AWS announces the general availability of a new Local Zone in Bogotá, Colombia, bringing AWS infrastructure closer to end users for applications that require single-digit millisecond latency. You can use the Bogot…"
+   }
+  ],
   "digest_date": "20 Nov 2026"
  },
  "apple-dev-releases": {
