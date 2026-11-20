@@ -1419,10 +1419,11 @@
    "9.4.0",
    "9.4.1",
    "9.5.0",
-   "9.5.1"
+   "9.5.1",
+   "9.5.2"
   ],
   "latest": {
-   "title": "Latest stable version: 9.5.1",
+   "title": "Latest stable version: 9.5.2",
    "link": "https://developer.android.com/build/releases/gradle-plugin",
    "date": ""
   },
