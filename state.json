@@ -461,7 +461,13 @@
  },
  "aws-whats-new": {
   "seen": [
+   "73a0ac376f9ac5409c2559aefcfb50e0589fe9e2",
+   "6ff37aa30a29dd2099529ac7c6c41375f6baee8b",
+   "f890aab8066b55b22b87b5745573585aca70265d",
    "9726e8c0deb6ac49490db469347a3bdd3dbb9d86",
+   "609b10847d86c65781c1c54d20c4bc92f80e87a8",
+   "04af247eb3bca136b92ef248b9b31e838b7ae15e",
+   "1d988d2199dd73845fd88dbea0f3a4940d1a2766",
    "c311750b5abf42ae38337e2a8e418a0372e79fe4",
    "06ed2b32cda75ecb478eff821410ea508ff9c5e5",
    "b6e31d09e73b9bbd6214600cea0453a3686347b0",
@@ -473,12 +479,20 @@
    "e36431c1eb2c41d0e27d67f47dfe60126538a8c1",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
+   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
    "c49daaabd2b33202fd7d47ade7aca9eff2fdd0f3",
+   "a687e4c378ce1715ae055850ef22e8bf251679c0",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
+   "70d205dc426570b8676e5efb7a68cdd397f14376",
+   "3107339583692a3a4d7f905133e424e8f898a87f",
    "cb034df9a902d85a21e42253d5f1c32b42c217cc",
+   "dc032020825c153cb3dd6608e3bcc87db2dbcfd8",
+   "0e6e37dbe8df1574629dfb5ae9dfa5c2bb3299fd",
+   "029e03bf745c856a8bd7ae3ae9a177382fef2e76",
    "cd0339545addd598b2efec11c8688986991c0161",
+   "fe57fa6c24e0f7f418d3c74921fecd335c863daa",
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
    "ad9942991b58d39d2fc5ed02f47ff0b66c69d266",
    "88c1fdb2bd1964c9c8075fa93d9ed629651a4ac9",
@@ -490,6 +504,7 @@
    "e7edf120a215bc3c5ba3eb455c05ac6b659984d3",
    "d64b7591d2687766b24e50a7852f53af51d31824",
    "ca15b1bbf6d7ec86ef578cf963f977d624ceba40",
+   "9e727e293e85e1a2299463e33090b98db0be0c28",
    "f468b118564dc4cafce64d0115a46d23e4b6f1e9",
    "1f004edcf54d0e0d31304d02efae24cbe457a7a6",
    "c478ecce87c779564801365fe5d8847944359ece",
@@ -745,27 +760,42 @@
    "fc07bf7de75064d128cb58173f82c6398f09d00d",
    "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
    "00b5bc98d9b154e37228f697b9518b134120b7af",
-   "ecb62bc341ebf65e234894e5bdfc7180eb6f8b54",
-   "393203824328178a434a7819ff128ddcfb8ede17",
-   "a7af5889bc5e2e06655d95df82056798e162cc73",
-   "4734449cefc84bded424f1fe2616c674afbad206",
-   "5d6178483982386c49e3759fecd7fbfea2e8f70f",
-   "3ce5726905eb6f326ededabb1cfd9f3fa5af95db",
-   "95b105c8a9ce16dd2369c1f794293433d21aaf51",
-   "1c8bc75ce97c79997a9014776564bd29c323288f",
-   "f57f48c1670dc959fb58d96ca6ff656ade951daf",
-   "63bd18ea956986784d9ede7006ddefbdd87590ae",
-   "21713d0ec9d732c0877a15b3d12c26d1baccf9df",
-   "fe7e9f57ad24e5d72930c66717ee0d7684ecc174",
-   "c709ece569c34ea5d43f9ba42100f73be326cc95",
-   "8f3ab64dfd1c62fc9f72b6db7f65f6597693b24b",
-   "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
-   "824d6b17856a1981502dec09f1fe7c88f34dbdc6"
+   "ecb62bc341ebf65e234894e5bdfc7180eb6f8b54"
   ],
   "recent": [
    {
+    "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon Transcribe announces a synchronous transcription API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon DynamoDB vector search now supports new inline filter operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
-    "link": "https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Spend limits in the new AWS experience now support SMS alerts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sms/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/",
     "date": "20 Nov 2026"
    },
    {
@@ -782,41 +812,11 @@
     "title": "AWS Billing and Cost Management now offers APIs to track payment status",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
     "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon EventBridge Scheduler adds 589 new API actions and event bus targets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon EventBridge Custom event bus now supports Webhook Events",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon EventBridge Custom event bus now supports Amazon MSK as a target",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon Aurora MySQL 8.4.12 is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer expands how teams track and act on service level agreements for cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/",
-    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
-   "link": "https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
+   "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
    "date": "20 Nov 2026"
   },
   "fails": 0,
@@ -910,6 +910,81 @@
     "title": "AWS Pricing Calculator now estimates workload costs through a new API",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
     "summary": "AWS Pricing Calculator now offers GetUsageLinesEstimatedCost, a new API that returns the estimated cost of a planned workload in a single API call. You send up to 500 usage lines in one request and get the cost back righ…"
+   },
+   {
+    "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
+    "summary": "Today, Amazon CloudWatch announces support for your own application telemetry in the CloudWatch Observability EKS add-on. The CloudWatch agent you already run now accepts metrics, traces, and logs from your applications,…"
+   },
+   {
+    "title": "Amazon Transcribe announces a synchronous transcription API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/",
+    "summary": "Amazon Transcribe now offers a synchronous transcription API, `TranscribeAudio`. Send a complete audio file in a single request and get the full transcript back in the same response. There is no job to start, no status t…"
+   },
+   {
+    "title": "Amazon DynamoDB vector search now supports new inline filter operators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
+    "summary": "Amazon DynamoDB vector search inline filters now support range comparisons, value lists, and logical operators in addition to the equality operator, so you can narrow a vector search to exactly the items you want. You ca…"
+   },
+   {
+    "title": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/",
+    "summary": "AWS Partner Central Agents now help AWS Partners create and manage AWS Partner Central and AWS Marketplace support cases in one place. The agents are available 24/7 and draw on Partner Central account details and authori…"
+   },
+   {
+    "title": "Spend limits in the new AWS experience now support SMS alerts",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sms/",
+    "summary": "Builders using the new AWS experience on the Paid plan can now receive spend limit alerts by text message (SMS), alongside existing email notifications. A spend limit sets the maximum monthly cost for a project. Notifica…"
+   },
+   {
+    "title": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/",
+    "summary": "Amazon S3 Vectors now supports up to 40 KB of filterable metadata per vector, up from 2 KB. You can attach and filter on more attributes per vector, such as category, permissions, timestamps, and descriptive tags, so you…"
+   },
+   {
+    "title": "AWS Lambda MicroVMs is now available in 7 additional AWS regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-7-regions",
+    "summary": "AWS Lambda MicroVMs is now available in 7 additional AWS Regions: Asia Pacific (Osaka), Asia Pacific (Seoul), Canada (Central), Europe (London), Europe (Paris), South America (São Paulo), and US West (N. California). Wit…"
+   },
+   {
+    "title": "AgentCore runtime instances now support Amazon EC2 G7 instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
+    "summary": "Amazon Bedrock AgentCore runtime instances now support Amazon EC2 G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. Runtime instances run your agents on Amazon EC2 instances while AgentCore hand…"
+   },
+   {
+    "title": "AWS Continuum for Penetration Testing now estimates task hours before you run a test",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-cost-estimates/",
+    "summary": "AWS Continuum for Penetration Testing (formerly AWS Security Agent) now lets you estimate task hours before running a penetration test, so developers and security teams can see how many billable task hours a test is like…"
+   },
+   {
+    "title": "Amazon Transcribe now available in AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-germany/",
+    "summary": "Amazon Transcribe is now available in the AWS European Sovereign Cloud (Germany) Region. Customers who need to keep data and operations within the EU for regulatory compliance and data sovereignty requirements can now us…"
+   },
+   {
+    "title": "AWS DevOps Agent adds community and partner tools repository",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-tools-repository/",
+    "summary": "AWS DevOps Agent now gives you ways to share and leverage skills, MCP servers, connectors, and custom agents that enhance the capabilities of your AWS DevOps Agent instances. The AWS DevOps Agent Tools open source reposi…"
+   },
+   {
+    "title": "AWS DevOps Agent adds new chat capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-new-chat-capabilities/",
+    "summary": "AWS DevOps Agent now extends its chat capabilities across MCP clients like Kiro and Claude Code, as well as Slack and Microsoft Teams channels. With Model Context Protocol (MCP) support, AWS DevOps Agent can now take dir…"
+   },
+   {
+    "title": "AWS DevOps Agent reduces investigation latency",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-reduces-latency/",
+    "summary": "When an incident is occurring, mean time to recover needs to be as fast as possible. With this launch, incident investigations performed by AWS DevOps Agent complete faster. Investigations now also include a real-time su…"
+   },
+   {
+    "title": "AWS Partner Central guides now available in the console and through AWS Partner Central Agents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-guides-mcp/",
+    "summary": "AWS announces AWS Partner Central guides with access through the AWS Partner Central console and the AWS Partner Central Agents Model Context Protocol (MCP) server. The guides give AWS Partners one place to search, read,…"
+   },
+   {
+    "title": "IAM Roles Anywhere now supports aliases to simplify workload configuration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-alias/",
+    "summary": "AWS Identity and Access Management (IAM) Roles Anywhere now supports aliases, which are readable names that you assign to trust anchors, profiles, and certificate revocation lists (CRLs). Your workloads can request tempo…"
    }
   ],
   "digest_date": "20 Nov 2026"
