@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -87,7 +88,6 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.5.13 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-4",
+    "title": "PHP 8.6.0 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-5",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.5.13 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-4",
+   "title": "PHP 8.6.0 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-5",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -465,6 +465,7 @@
    "38f3a462608c5989d35d6f4b6b0028e8482a3542",
    "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
    "95b93fff19edab6a6dff4b5b1acedb5a0a54d223",
+   "e042d7326c974818ccd9ca045bedab32281193d4",
    "73a0ac376f9ac5409c2559aefcfb50e0589fe9e2",
    "6ff37aa30a29dd2099529ac7c6c41375f6baee8b",
    "f890aab8066b55b22b87b5745573585aca70265d",
@@ -482,6 +483,7 @@
    "a8cb47452baf351f32e36fa5079b71d8d2eccd4f",
    "2ce88365065aaaf445be25c90cc4bb1d623a6f51",
    "e36431c1eb2c41d0e27d67f47dfe60126538a8c1",
+   "b9393d1fa084429da1cef133ad7efac98087be12",
    "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
@@ -489,21 +491,28 @@
    "70799b8c9c3a5498dca09a0ed78053d146e7b894",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
+   "868b1482ea911460dde8fce321f42fbefbe6ee81",
    "0790daaa1090f191712c317bf63e4c639cc71bd7",
    "6295dee371511cb476d8efc418adcff2690071a1",
    "c49daaabd2b33202fd7d47ade7aca9eff2fdd0f3",
    "a687e4c378ce1715ae055850ef22e8bf251679c0",
    "a05d2de881d535cacc1454a3313655a7727e58b3",
+   "441ec56587a15f30865bfca9cd4ae816786549ed",
    "8144e0fc9a2fddd08dd358907062dfa7191f13bf",
+   "89ab64b8a98abd06c9bd0bbf854350ff17660ea0",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
    "70d205dc426570b8676e5efb7a68cdd397f14376",
-   "3107339583692a3a4d7f905133e424e8f898a87f",
    "233e03a45947d6106fd31ef811d8e9247f776d44",
+   "3107339583692a3a4d7f905133e424e8f898a87f",
+   "0c6d5590ed875105cd726b4d073723fb9797b991",
    "cb034df9a902d85a21e42253d5f1c32b42c217cc",
    "dc032020825c153cb3dd6608e3bcc87db2dbcfd8",
    "0e6e37dbe8df1574629dfb5ae9dfa5c2bb3299fd",
    "94e47fb4d51042f6366bd6fcdb4981d23fa02d67",
    "029e03bf745c856a8bd7ae3ae9a177382fef2e76",
+   "ec011ece14c08c6fa72472ffd9e6249012958e69",
+   "a41425c4d97e2ae440c1734f4711c62db2c8bc7c",
+   "e24002814dd4404b18c234c08f571ab0573ddf0b",
    "cd0339545addd598b2efec11c8688986991c0161",
    "fe57fa6c24e0f7f418d3c74921fecd335c863daa",
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
@@ -751,16 +760,7 @@
    "c6b614d0ff25b9d7fa8cd701331121ff7306448f",
    "a8cc7e188654fa1751e640311c0290004c457482",
    "eccfcbd02190a62ea69a2d6e38091edbccdd6726",
-   "3f1c640a37341b7c4d377a992eb703a61373c252",
-   "3b0c87f8ee50465602d051bba8ffbd0794875bbb",
-   "dff857440b2ae2a192d5f9ce5d70e8a9bb5e3e58",
-   "86b5725a099e9e140e215d5df331c144076d8067",
-   "9f9cecc9c112a29a0f15138997b9772e92533008",
-   "97bb11d1c498ee1a769b9d84e5c8412a16cdf393",
-   "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
-   "d5c1d7112d1769a51c00a3fa424eb49e934e94ef",
-   "63049a8ec8ead59c5b6a5aa1938d9500b7afa6ea",
-   "5ac2609b22747de622319ee9b0304db497747509"
+   "3f1c640a37341b7c4d377a992eb703a61373c252"
   ],
   "recent": [
    {
@@ -781,6 +781,11 @@
    {
     "title": "AWS Quick introduces enterprise guardrails (preview)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
     "date": "20 Nov 2026"
    },
    {
@@ -806,11 +811,6 @@
    {
     "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/",
     "date": "20 Nov 2026"
    }
   ],
@@ -1050,6 +1050,51 @@
     "title": "Amazon Textract Insights is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-insights-ga/",
     "summary": "Amazon Textract Insights brings document understanding to Amazon Textract. It is a new generative AI feature of Amazon Textract, and is now generally available in the US East (N. Virginia) and US West (Oregon) AWS Region…"
+   },
+   {
+    "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
+    "summary": "Today, AWS announces the preview of Data Hub in AWS Billing and Cost Management, a managed data layer that enables AWS FinOps Agent to query cost and usage data with SQL. In preview, Data Hub is available to AWS FinOps A…"
+   },
+   {
+    "title": "Amazon MSK Standard Brokers adds support for Apache Kafka version 4.2",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-msk-standard-version-42/",
+    "summary": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) now supports Apache Kafka version 4.2 on Standard brokers. A key highlight of this release is Queues for Kafka, which is now production ready. With Queues, multiple …"
+   },
+   {
+    "title": "AWS Lambda adds support for Node.js 26",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-nodejs-26/",
+    "summary": "AWS Lambda now supports creating serverless applications using Node.js 26, for both Lambda Web Functions and Lambda Event Functions. Developers can use Node.js 26 as both a managed runtime and a base container image (Eve…"
+   },
+   {
+    "title": "Amazon RDS for Db2 now supports new Canadian time zones",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-new-canadian-time",
+    "summary": "​​Amazon RDS for Db2 now supports four new time zones, America/Vancouver, America/Edmonton, America/Inuvik, and America/Winnipeg, that reflect the updated local time rules for British Columbia, Alberta, the Northwest Ter…"
+   },
+   {
+    "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+    "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support…"
+   },
+   {
+    "title": "AWS Agent Registry now supports WebBotAuth bot registration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/",
+    "summary": "AWS Agent Registry now supports registering WebBotAuth (WBA) bots as a new record type, making it easier to verify legitimate bot traffic through a standardized protocol. Previously, organizations lacked a standardized w…"
+   },
+   {
+    "title": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/",
+    "summary": "AWS Lambda MicroVMs now supports customer managed keys (CMK) in AWS Key Management Service (KMS) for data encryption at rest. CMK gives you full control over the lifecycle and usage of your KMS keys , helping meet compli…"
+   },
+   {
+    "title": "AWS Secrets Store CSI Driver Provider now supports AssumeRole for cross-account secret access",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-store-csi-driver-assumerole/",
+    "summary": "The AWS Secrets Store CSI Driver Provider now supports AssumeRole (role-chaining), allowing Kubernetes pods to access secrets and parameters across AWS accounts by assuming an IAM role in the account where the secrets ar…"
+   },
+   {
+    "title": "AWS Agent Registry now offers naming and public discovery capabilities",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/",
+    "summary": "AWS Agent Registry now offers public naming capabilities, making it easy to attach verified domain names to your agents and AI tools. Developers and network admins can perform domain verification checks to prove domain o…"
    }
   ],
   "digest_date": "20 Nov 2026"
