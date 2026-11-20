@@ -459,12 +459,14 @@
  "aws-whats-new": {
   "seen": [
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
+   "ad9942991b58d39d2fc5ed02f47ff0b66c69d266",
    "88c1fdb2bd1964c9c8075fa93d9ed629651a4ac9",
    "933ab4118c3faf5c583fd0378c463fdb22a14d77",
    "0265b42490e15e06862edf8086e1478e3b460cd1",
    "14838e985dc5ad7ce8cab53c9c8615631026d66f",
-   "57e5d9662829ced41138cd9d655385c2563dbb17",
    "ed283d59f8064ee4267113d8c8f71ca342cdee09",
+   "57e5d9662829ced41138cd9d655385c2563dbb17",
+   "e7edf120a215bc3c5ba3eb455c05ac6b659984d3",
    "d64b7591d2687766b24e50a7852f53af51d31824",
    "ca15b1bbf6d7ec86ef578cf963f977d624ceba40",
    "f468b118564dc4cafce64d0115a46d23e4b6f1e9",
@@ -485,13 +487,16 @@
    "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
    "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
    "5e781511f52b5f6655832f78e720fb573d7ac05c",
-   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
    "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
    "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
    "d689640e6f4c34ed0124c1891c77ebd95a5967ce",
-   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
+   "9103cd82d94aa6eb6caffd4ee7083f032754cfda",
    "4dbfca0118ebd182bad2f94a2305242fd6411eca",
+   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
+   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
    "6ba2a107a04072590a435b13e2f61e9cf13fd038",
+   "4e21c44f007a5507f0503396ee8c4aa983ee71e4",
+   "2c1cc5264a1a47f97b83cfeb2fd7b3c8a251fe62",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
@@ -503,6 +508,10 @@
    "542601e8f20dc928d7c29480ad803e29c3cadc27",
    "b6c9587d3739ba882ee45b6a319fafc391dda6ea",
    "1bb58135317934bb9b331716a3d4af831980f8ea",
+   "26e1acefcdf1a4a7a66447ab6f07344b845f6099",
+   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
+   "a49fe612a26bd0ce19d5f27f018e08e8f4f030b6",
+   "8775386dc999173fada22cdf8e23b50f4d47f635",
    "67df8e65945704eae05a003c08a5fd5d04e8742b",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
@@ -748,21 +757,17 @@
    "397a47fb048607862de5231fc2f7aa38e1d09bc6",
    "637ec7b2739626a1f8d2b6b4d60251111447301d",
    "ce25bc1fe5273df0394d6723f5dee14ec9d782c9",
-   "f9dac3090f79f2c3f400924a47c27d357c685663",
-   "45605d11543599bd61c012b182ca7d8ac813abd8",
-   "658460b6f929f397164b8c531f138be0c3d00bee",
-   "684adca7753d41094e153834c9c8981e9f0f00d8",
-   "03bf0c63db81def5cda0fa8fba8fbcabdaed8959",
-   "6a144260487c990b3439413a03e5206226a61f43",
-   "e9312af8896ed0f82d7d9c4c40fd433aa19b8c51",
-   "90d634c9e73519a12114d1c7cbddda2269f0a5e2",
-   "df06406c54979dfb60aa14a12d2173500870493b",
-   "ebd41dffa30d68683fd1f05e485ea0d15ed555d3"
+   "f9dac3090f79f2c3f400924a47c27d357c685663"
   ],
   "recent": [
    {
     "title": "AWS Marketplace now supports agentic payments with AgentCore",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "Amazon Cognito now supports client ID metadata documents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
     "date": "19 Nov 2026"
    },
    {
@@ -786,28 +791,23 @@
     "date": "19 Nov 2026"
    },
    {
-    "title": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
-    "date": "19 Nov 2026"
-   },
-   {
     "title": "AWS Lambda durable functions now supports OpenTelemetry tracing",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
     "date": "19 Nov 2026"
    },
    {
+    "title": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
+    "date": "19 Nov 2026"
+   },
+   {
+    "title": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/",
+    "date": "19 Nov 2026"
+   },
+   {
     "title": "Amazon Route 53 now supports health checks for private endpoints",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/",
     "date": "19 Nov 2026"
    }
   ],
@@ -1087,6 +1087,51 @@
     "title": "Amazon S3 Tables now support promoting replicas to writable tables",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-replication-writable-tables/",
     "summary": "Amazon S3 Tables replication now lets you make a read-only replica of your Apache Iceberg table a standalone, writable table with a single API call. S3 Tables replication keeps read-only replica tables in sync with your …"
+   },
+   {
+    "title": "Amazon Cognito now supports client ID metadata documents",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
+    "summary": "Amazon Cognito now supports OAuth client ID metadata documents (CIMD). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. With CIMD, Model Context Pro…"
+   },
+   {
+    "title": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/",
+    "summary": "Amazon WorkSpaces Applications now supports WebAuthn redirection, so users can sign in to websites and applications in their streaming session with a FIDO2 authenticator on their local device, such as a security key, Win…"
+   },
+   {
+    "title": "AWS Data Competency adds Open Data and Interoperability category for Software Partners",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/",
+    "summary": "Today, AWS announces the Open Data and Interoperability category within the AWS Data Competency. The new category recognizes AWS Software Partners whose solutions keep customer data open and under customer control, letti…"
+   },
+   {
+    "title": "AWS expands Amazon Connect Customer Competency to Software Partners",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-competency-software-partners/",
+    "summary": "AWS announces the expansion of the Amazon Connect Customer Competency to Software Partners. The AWS Specialization now recognizes both Services and Software Partners with technical depth and proven success on Amazon Conn…"
+   },
+   {
+    "title": "AWS Site-to-Site VPN now supports post-quantum key exchanges",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/site-to-site-vpn-post-quantum/",
+    "summary": "AWS Site-to-Site VPN now supports post-quantum key exchanges to help improve the security posture of your VPN tunnels. This feature supports your migration to post-quantum cryptography based on NIST guidelines. AWS Site-…"
+   },
+   {
+    "title": "AWS Network Firewall launches explicit proxy functionality and NAT Gateway association",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/",
+    "summary": "You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network address translation. You can use this capability with existing Network Firew…"
+   },
+   {
+    "title": "Amazon Cognito now supports dynamic client registration",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/",
+    "summary": "Amazon Cognito now supports OAuth dynamic client registration (DCR, RFC 7591). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. With DCR support, Mo…"
+   },
+   {
+    "title": "Amazon Bedrock AgentCore Identity adds private certificate authority support",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-identity-private-ca/",
+    "summary": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs) for custom OAuth 2.0 credential providers. If you already connect your agents to identity providers (IdPs) hosted in your VPC, you can …"
+   },
+   {
+    "title": "AWS Network Load Balancer now supports mutual TLS authentication",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/",
+    "summary": "AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who needed mTLS with NLB built their own solutions or ran third-party proxie…"
    }
   ],
   "digest_date": "19 Nov 2026"
