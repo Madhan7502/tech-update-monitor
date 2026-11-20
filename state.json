@@ -461,9 +461,14 @@
  },
  "aws-whats-new": {
   "seen": [
+   "3a44c1a96340154fd49bfc7ddd110c254f93484b",
+   "38f3a462608c5989d35d6f4b6b0028e8482a3542",
+   "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
+   "95b93fff19edab6a6dff4b5b1acedb5a0a54d223",
    "73a0ac376f9ac5409c2559aefcfb50e0589fe9e2",
    "6ff37aa30a29dd2099529ac7c6c41375f6baee8b",
    "f890aab8066b55b22b87b5745573585aca70265d",
+   "4ef0a2563f316986a96d6b1482b11cbcfffead48",
    "9726e8c0deb6ac49490db469347a3bdd3dbb9d86",
    "609b10847d86c65781c1c54d20c4bc92f80e87a8",
    "04af247eb3bca136b92ef248b9b31e838b7ae15e",
@@ -477,19 +482,27 @@
    "a8cb47452baf351f32e36fa5079b71d8d2eccd4f",
    "2ce88365065aaaf445be25c90cc4bb1d623a6f51",
    "e36431c1eb2c41d0e27d67f47dfe60126538a8c1",
+   "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
    "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
+   "70799b8c9c3a5498dca09a0ed78053d146e7b894",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
+   "0790daaa1090f191712c317bf63e4c639cc71bd7",
+   "6295dee371511cb476d8efc418adcff2690071a1",
    "c49daaabd2b33202fd7d47ade7aca9eff2fdd0f3",
    "a687e4c378ce1715ae055850ef22e8bf251679c0",
+   "a05d2de881d535cacc1454a3313655a7727e58b3",
+   "8144e0fc9a2fddd08dd358907062dfa7191f13bf",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
    "70d205dc426570b8676e5efb7a68cdd397f14376",
    "3107339583692a3a4d7f905133e424e8f898a87f",
+   "233e03a45947d6106fd31ef811d8e9247f776d44",
    "cb034df9a902d85a21e42253d5f1c32b42c217cc",
    "dc032020825c153cb3dd6608e3bcc87db2dbcfd8",
    "0e6e37dbe8df1574629dfb5ae9dfa5c2bb3299fd",
+   "94e47fb4d51042f6366bd6fcdb4981d23fa02d67",
    "029e03bf745c856a8bd7ae3ae9a177382fef2e76",
    "cd0339545addd598b2efec11c8688986991c0161",
    "fe57fa6c24e0f7f418d3c74921fecd335c863daa",
@@ -747,22 +760,29 @@
    "94ec484d4289315f7c43cbd07018b5fdac4a44f9",
    "d5c1d7112d1769a51c00a3fa424eb49e934e94ef",
    "63049a8ec8ead59c5b6a5aa1938d9500b7afa6ea",
-   "5ac2609b22747de622319ee9b0304db497747509",
-   "13a72a1318791eaea980b31d145db7e869bcf35b",
-   "45e7ea51cd555e49c5a2777361b00e23e373f1d7",
-   "bbcaf356af3e96509c108ab2c8fc90bdf460b2c0",
-   "ef802f0cd7f5063467ea6db5df6f8f9a29308b69",
-   "2b361798ed11118d509da753dff827fc7c0789f0",
-   "82021c4f9288ff24747886843045a87b4bcbe9d5",
-   "3881849da0aa39ba85b7535f46df7f36c7cb0c21",
-   "891bfd65a220f48dc316929952aec522eaba8127",
-   "90e2c8ce44a7dfbe0d19e8f4926cfb39ca00984b",
-   "fc07bf7de75064d128cb58173f82c6398f09d00d",
-   "316530cd15d40fbe645dbc681e7222c5bfcb62ef",
-   "00b5bc98d9b154e37228f697b9518b134120b7af",
-   "ecb62bc341ebf65e234894e5bdfc7180eb6f8b54"
+   "5ac2609b22747de622319ee9b0304db497747509"
   ],
   "recent": [
+   {
+    "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Quick now supports group assignments for custom permissions and limit profiles",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Quick introduces enterprise guardrails (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
+    "date": "20 Nov 2026"
+   },
    {
     "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
@@ -779,6 +799,11 @@
     "date": "20 Nov 2026"
    },
    {
+    "title": "Amazon CloudWatch Observability EKS add-on now supports telemetry filtering",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-otel-addon-filtering/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
     "date": "20 Nov 2026"
@@ -787,36 +812,11 @@
     "title": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/",
     "date": "20 Nov 2026"
-   },
-   {
-    "title": "Spend limits in the new AWS experience now support SMS alerts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sms/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Pricing Calculator now estimates workload costs through a new API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Billing and Cost Management now offers APIs to track payment status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
-    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
+   "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
    "date": "20 Nov 2026"
   },
   "fails": 0,
@@ -985,6 +985,71 @@
     "title": "IAM Roles Anywhere now supports aliases to simplify workload configuration",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-alias/",
     "summary": "AWS Identity and Access Management (IAM) Roles Anywhere now supports aliases, which are readable names that you assign to trust anchors, profiles, and certificate revocation lists (CRLs). Your workloads can request tempo…"
+   },
+   {
+    "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+    "summary": "Amazon CloudWatch now supports a 30-day query window for PromQL queries against OpenTelemetry metrics, up from 7 days. You can query a month of data in a single request, chart month-over-month and week-over-week trends o…"
+   },
+   {
+    "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
+    "summary": "Today, Amazon CloudWatch announces built-in monitoring for open source tools running on your Amazon EKS clusters, including Karpenter, KEDA, vLLM, KServe, SGLang, Ray and Knative Serving. You get dashboards for the tools…"
+   },
+   {
+    "title": "AWS Quick now supports group assignments for custom permissions and limit profiles",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
+    "summary": "AWS Quick now supports assignments for custom permissions and limit profiles to groups from your enterprise identity provider (IdP). Administrators can now apply feature restrictions and per-user resource limits to IdP g…"
+   },
+   {
+    "title": "AWS Quick introduces enterprise guardrails (preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
+    "summary": "AWS Quick now includes enterprise guardrails, giving administrators configurable content safety and sensitive-information controls for user prompts. Administrators can apply guardrail policies to individual users or ente…"
+   },
+   {
+    "title": "Amazon CloudWatch Observability EKS add-on now supports telemetry filtering",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-otel-addon-filtering/",
+    "summary": "Today, Amazon CloudWatch announces telemetry filtering for the CloudWatch Observability EKS add-on, so you can stop paying to ingest telemetry you don't use. You can now set cluster-wide include and exclude lists for nam…"
+   },
+   {
+    "title": "Amazon ECS Action Logs now cover tasks, container instances, and capacity providers",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-action-logs-expanded-troubleshooting",
+    "summary": "Amazon Elastic Container Service (Amazon ECS) now extends Action Logs to include tasks, container instances, clusters, and capacity providers, so you can see why your tasks failed or why your clusters didn't scale as des…"
+   },
+   {
+    "title": "Amazon Managed Service for Prometheus supports 2B active metrics and 300K rules per workspace",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amp-supports-2b-metrics-300k-rules/",
+    "summary": "Amazon Managed Service for Prometheus now supports up to 2 billion active metric time series and up to 300,000 total recording and alerting rules per workspace. Customers can also create multiple workspaces per account. …"
+   },
+   {
+    "title": "Amazon S3 increases the read request rate for general purpose buckets by up to 2x",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-increases-read-request-rate/",
+    "summary": "Amazon S3 now supports at least 11,000 GET/HEAD requests per second, up from 5,500, for general purpose buckets. With this higher request rate, you can retrieve data faster for read-intensive workloads such as machine le…"
+   },
+   {
+    "title": "AWS Lambda adds support for Python 3.15",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-python-315/",
+    "summary": "AWS Lambda now supports creating serverless applications using Python 3.15. Python 3.15 is generally available for Lambda Event Functions and is available in public preview for Lambda Web Functions. This is the first Pyt…"
+   },
+   {
+    "title": "​​​Amazon RDS for Db2 now supports renaming databases​",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-rename-databases",
+    "summary": "​​Amazon Relational Database Service (Amazon RDS) for Db2 now supports renaming databases in place. You can rename a database on your DB instance by calling the new rdsadmin.rename_database stored procedure. Previously, …"
+   },
+   {
+    "title": "Amazon RDS for Db2 now supports object-level audit policies",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-object-level-audit-policies",
+    "summary": "Amazon RDS for Db2 now supports object-level audit policies, giving you fine-grained control over which database objects are audited. You can create custom audit policies and attach them to specific tables, users, groups…"
+   },
+   {
+    "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Osaka)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-racks-osaka/",
+    "summary": "Second-generation AWS Outposts racks are now supported in the AWS Asia Pacific (Osaka) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocatio…"
+   },
+   {
+    "title": "Amazon Textract Insights is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-insights-ga/",
+    "summary": "Amazon Textract Insights brings document understanding to Amazon Textract. It is a new generative AI feature of Amazon Textract, and is now generally available in the US East (N. Virginia) and US West (Oregon) AWS Region…"
    }
   ],
   "digest_date": "20 Nov 2026"
