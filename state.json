@@ -482,6 +482,7 @@
    "840fb7d843e7ae31d73427bda6336122086c2af4",
    "195a65fb0db436d8206a670e1a0bd29fce439b12",
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
+   "93f38ae3cc9a4b8385fad6b9bc19b0a698a4e878",
    "193374600beba7135a895e1dbab3b3118135d7d5",
    "bed02927620bb91cc40419784c1b739ca2905bd1",
    "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
@@ -503,18 +504,18 @@
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
-   "78963c0d96b5a2fc774d4db26979d90854214cf5",
-   "542601e8f20dc928d7c29480ad803e29c3cadc27",
    "c36da359e5944f2db57112cc6c15b7b7c69198df",
    "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
-   "b6c9587d3739ba882ee45b6a319fafc391dda6ea",
    "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
-   "26e1acefcdf1a4a7a66447ab6f07344b845f6099",
-   "1bb58135317934bb9b331716a3d4af831980f8ea",
+   "78963c0d96b5a2fc774d4db26979d90854214cf5",
+   "542601e8f20dc928d7c29480ad803e29c3cadc27",
+   "b6c9587d3739ba882ee45b6a319fafc391dda6ea",
    "a49fe612a26bd0ce19d5f27f018e08e8f4f030b6",
-   "feb63d7deb99241e71791db1e0e65baaa6cf851e",
-   "8775386dc999173fada22cdf8e23b50f4d47f635",
    "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
+   "8775386dc999173fada22cdf8e23b50f4d47f635",
+   "1bb58135317934bb9b331716a3d4af831980f8ea",
+   "26e1acefcdf1a4a7a66447ab6f07344b845f6099",
+   "feb63d7deb99241e71791db1e0e65baaa6cf851e",
    "67df8e65945704eae05a003c08a5fd5d04e8742b",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
@@ -756,8 +757,7 @@
    "c765d93c996000109b8e37b7335895f2b0982322",
    "000083a5ad322d97910107aa397f720aa7d047fc",
    "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e",
-   "183cdd10ccbab444b1698a32a2db0762830e99e9",
-   "397a47fb048607862de5231fc2f7aa38e1d09bc6"
+   "183cdd10ccbab444b1698a32a2db0762830e99e9"
   ],
   "recent": [
    {
@@ -817,339 +817,8 @@
    "date": "19 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon CloudWatch simplifies network performance monitoring for your Amazon Virtual Private Cloud (VPC)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-network-path-monitoring/",
-    "summary": "Amazon CloudWatch Network Monitoring now allows you to monitor the health of the AWS network paths that your workloads take by using performance monitors. Performance monitors provide near real-time visibility into wheth…"
-   },
-   {
-    "title": "AWS Transform automates source and migration target actions to accelerate cutover",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
-    "summary": "AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration, appl…"
-   },
-   {
-    "title": "AWS Transform supports optimized storage for server migration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/",
-    "summary": "AWS Transform for migrations now recommends the optimized storage type and configuration for every server you migrate, so you no longer do it server by server. Building on recent storage assessment capabilities , AWS Tra…"
-   },
-   {
-    "title": "AWS Systems Manager Parameter Store raises API throughput limits",
-    "link": "https://aws.amazon.com/aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/",
-    "summary": "AWS Systems Manager Parameter Store has increased the default throughput limits for five API operations. For accounts that have turned on the higher throughput setting, the quotas have changed as follows, in transactions…"
-   },
-   {
-    "title": "AWS Marketplace now supports buyer contact sharing at subscription",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/",
-    "summary": "AWS Marketplace now supports buyer contact sharing. When customers subscribe to a third-party product, they can share their contact information with the seller. This helps sellers onboard new customers, send deployment g…"
-   },
-   {
-    "title": "AWS Marketplace now supports buyer approval workflows",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/",
-    "summary": "Today, AWS Marketplace announces the general availability of buyer approvals. This lets you decide which AWS Marketplace purchases need sign-off, who approves them, and where approval happens. You can define buying polic…"
-   },
-   {
-    "title": "AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-slack-code-channels-Teams-two-way/",
-    "summary": "AWS DevOps Agent now supports dedicated Slack code channels and two-way conversations in Microsoft Teams, so on-call engineers and DevOps teams can investigate and resolve incidents where they already work together. AWS …"
-   },
-   {
-    "title": "AWS Deadline Cloud now supports Amazon EC2 G7 instances in service-managed fleets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/deadline-cloud-supports-ec2-g7/",
-    "summary": "AWS Deadline Cloud now supports Amazon EC2 G7 instances in service-managed fleets. Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads for visual effects, animation, product design,…"
-   },
-   {
-    "title": "Amazon Aurora DSQL now supports multi-Region peering across continents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/",
-    "summary": "Amazon Aurora DSQL now lets you create multi-Region clusters whose Regions are on different continents, such as US East (N. Virginia) and Europe (Ireland). Until now, the Regions in a multi-Region cluster had to be in th…"
-   },
-   {
-    "title": "Amazon Connect Customer enables Cases by default for new instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/",
-    "summary": "Amazon Connect Customer enables Cases by default for new instances, so operations teams can start tracking and resolving customer issues on day one without any setup work. New instances come with Cases connected to rules…"
-   },
-   {
-    "title": "Amazon Braket adds PAUSED device status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/braket-new-device-state/",
-    "summary": "Amazon Braket now offers a new device status, PAUSED, to give customers clear and actionable information on when they can submit quantum tasks and hybrid jobs and when those tasks and jobs will run. Device status now tel…"
-   },
-   {
-    "title": "AWS HealthOmics now supports Nextflow version 26.10",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-healthomics-nextflow-version-26-10/",
-    "summary": "AWS HealthOmics now supports Nextflow version 26.10, which adds enhancements such as static typing, pipeline composition, and configurable report directories. AWS HealthOmics is a HIPAA-eligible service that helps health…"
-   },
-   {
-    "title": "AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls",
-    "summary": "AWS Elemental MediaTailor now supports Dynamic Avail Sizing, which reduces the slate viewers see when ad breaks, also called avails, in live HLS streams go unfilled. MediaTailor is a server-side ad insertion and channel …"
-   },
-   {
-    "title": "Amazon WorkSpaces now lets developers enable Nested Virtualization",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-nested-virtualization/",
-    "summary": "Developers on Amazon WorkSpaces Personal can now turn on Nested Virtualization for their own WorkSpaces from the Windows WorkSpaces client, without asking an administrator to make each change. Once an administrator grant…"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports Identity Tagging",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-identity-tagging/",
-    "summary": "AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces Identity Tagging in AWS Revenue Measurement, a new way for Partne…"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports closed-source models in Amazon Bedrock",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-bedrock/",
-    "summary": "AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces expanded Amazon Bedrock support in AWS Revenue Measurement. Partn…"
-   },
-   {
-    "title": "AWS Health now supports resource and account tags",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-health-supports-tags/",
-    "summary": "AWS Health now supports resource and account tags in Health events. This new capability enables you to enrich Health events with resource tags and account tags, providing additional context to help you manage and respond…"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports Account Tagging for SaaS Products",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-account-tagging/",
-    "summary": "AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces Account Tagging for SaaS Products for AWS Revenue Measurement. Pa…"
-   },
-   {
-    "title": "AWS AppConfig launches support for managing native AI model and AI prompt configuration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/",
-    "summary": "Today, AWS AppConfig introduces two new configuration profile types to help you manage the settings for your generative AI applications: AI model invocation configurations, and AI prompt configurations. You can now chang…"
-   },
-   {
-    "title": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/",
-    "summary": "Today, AWS announces deal-level revenue attribution for AWS Revenue Measurement (previously Partner Revenue Measurement) capabilities. AWS Partners can now see how the AWS revenue measured for their products maps to spec…"
-   },
-   {
-    "title": "AWS Transform combines migration assessment and planning in one experience",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning",
-    "summary": "AWS Transform for migrations now combines migration assessment and migration planning into a single migration job. Previously, you ran separate jobs to build a total cost of ownership (TCO) business case and to plan your…"
-   },
-   {
-    "title": "AWS Transform extends application-centric migration across the lifecycle",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration",
-    "summary": "AWS Transform now puts applications at the center of every stage of the migration journey, so you can discover, plan, migrate, validate, and track the applications your business runs on rather than just the servers under…"
-   },
-   {
-    "title": "Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk",
-    "summary": "The Amazon Interactive Video Service (Amazon IVS) Linux broadcast SDK is now available for IVS Real-Time Streaming. Applications running on Linux can join an IVS stage, receive audio from participants, and send audio bac…"
-   },
-   {
-    "title": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/",
-    "summary": "AWS Marketplace search, Agent Mode, and AWS sales teams use listings to recommend partner offerings to AWS customers. Partners who sell software and services can now create and improve their listings in AWS Partner Centr…"
-   },
-   {
-    "title": "Amazon MSK Connect now supports restarting existing connectors",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors",
-    "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now supports restarting both existing and newly created connectors and their tasks in place, enabling fast recovery for streaming data pipelines. Ama…"
-   },
-   {
-    "title": "Amazon EC2 launches performance status checks and new utilization metrics for EC2 Detailed Monitoring",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-performance-status-checks/",
-    "summary": "Customers can now use Amazon EC2 performance status checks and new utilization metrics for EC2 Detailed Monitoring to observe and act on the performance of their EC2 workloads without setup within the instance, complemen…"
-   },
-   {
-    "title": "AWS Lambda Durable Execution SDK for Rust is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-execution-sdk-rust/",
-    "summary": "Today, AWS announces the general availability of the open source AWS Lambda Durable Execution SDK for Rust. Rust developers can use the SDK to build resilient, long-running workflows using Lambda durable functions, to cr…"
-   },
-   {
-    "title": "AgentCore runtime instances now support privileged mode",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-elevated-privileges/",
-    "summary": "Amazon Bedrock AgentCore runtime instances now support privileged mode, which lets your agents install system-level software and run nested containers. Runtime instances run your agents on Amazon EC2 instances while Agen…"
-   },
-   {
-    "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
-    "summary": "Amazon Connect Customer announces the general availability of Resolutions, an agentic operations solution that resolves high-volume work end-to-end, including refund requests, transaction disputes, fraud investigations, …"
-   },
-   {
-    "title": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
-    "summary": "You can now assess a seller's security, buy, and deploy supported products in one conversation with AWS Marketplace agent mode, the conversational AI experience for procuring cloud solutions. You share your requirement o…"
-   },
-   {
-    "title": "Amazon Route 53 now supports health checks for private endpoints",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
-    "summary": "Amazon Route 53 now offers Private Endpoint Health Checks, enabling business-critical workloads that never touch the public internet, such as internal APIs, databases, and self-hosted nodes behind internal load balancers…"
-   },
-   {
-    "title": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/",
-    "summary": "AWS Lambda now supports a 30-minute function timeout for Event Functions that run on demand, doubling the 15-minute limit for synchronous , asynchronous , and event source mapping (ESM) invocations. On Lambda Managed Ins…"
-   },
-   {
-    "title": "Aurora PostgreSQL with express configuration now supports Amazon VPC",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-express-vpc/",
-    "summary": "Aurora PostgreSQL databases created with express configuration can now move into an Amazon Virtual Private Cloud (VPC) with a single API call or a modify action in the Amazon RDS console. This helps you take AI-built pro…"
-   },
-   {
-    "title": "AWS Marketplace now offers Express Checkout for buyers without an AWS account",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-express-checkout/",
-    "summary": "Today, AWS announces AWS Marketplace Express Checkout , a simpler way for businesses that don't have an existing AWS account to buy software from established vendors in AWS Marketplace . Express Checkout is built for bus…"
-   },
-   {
-    "title": "AWS Partner Central Agents now guide partners to higher-quality opportunities and explain co-sell motions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-guide-quality/",
-    "summary": "Today, AWS announces that AWS Partner Central Agents now guide AWS Partners to create and enrich opportunities for a high-quality submission, and explain the assigned co-sell motion of each opportunity and why AWS assign…"
-   },
-   {
-    "title": "Announcing Data as a Service for AWS Marketplace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-data-as-a-service/",
-    "summary": "Today, AWS Marketplace announces the general availability of Data as a Service, a new product type that lets customers buy third-party datasets and licensed content. Customers often have the models and compute they need,…"
-   },
-   {
-    "title": "Amazon VPC Flow Logs now supports Amazon EKS metadata",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-vpc-flow-logs-amazon-eks-metadata/",
-    "summary": "Amazon VPC Flow Logs now adds Amazon Elastic Kubernetes Service (Amazon EKS) metadata to flow log records. Each record identifies the pod that sent or received the traffic, along with its cluster, namespace and labels. T…"
-   },
-   {
-    "title": "AWS License Manager now supports AWS Managed Microsoft AD (Hybrid Edition)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/license-manager-hybrid-ad-support/",
-    "summary": "AWS License Manager now supports AWS Managed Microsoft AD (Hybrid Edition) , so you can use your existing Microsoft Active Directory (AD) to manage user-based subscriptions for Microsoft Office, Visual Studio, and Remote…"
-   },
-   {
-    "title": "Amazon Connect Customer now provides AI chat summaries in the CCP",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-chat-summaries-ccp/",
-    "summary": "Amazon Connect Customer now provides agents with a generative AI-powered post-contact summary of each chat conversation inside the Contact Control Panel (CCP) within seconds after the chat ends, so agents can complete af…"
-   },
-   {
-    "title": "Amazon Polly now supports voice cloning",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/",
-    "summary": "Today, we are excited to announce the general availability of voice cloning in Amazon Polly, as a gated release. Using a few minutes of recordings from a consenting speaker, you can now create a cloned voice that sounds …"
-   },
-   {
-    "title": "AWS CloudFormation StackSets adds progress visibility to simplify tracking deployments at scale",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-stacksets-progress/",
-    "summary": "AWS CloudFormation StackSets now shows stage-by-stage progress for deployments across accounts and AWS Regions, whether you target tens of accounts or thousands. You can follow each deployment as it progresses and take a…"
-   },
-   {
-    "title": "AWS Marketplace now supports agentic payments with AgentCore",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/",
-    "summary": "AWS Marketplace now supports agentic payments over the x402 protocol, so AI agents can discover and buy select products and pay per request in US dollars through AgentCore payments, part of Amazon Bedrock AgentCore. Agen…"
-   },
-   {
-    "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
-    "summary": "With upgrades to its storage layer, Amazon Aurora DSQL now delivers up to 50% higher write throughput for many transactional workloads. Data loads finish sooner, and tables whose primary key always increases, such as tab…"
-   },
-   {
-    "title": "AWS Lambda durable functions now supports OpenTelemetry tracing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
-    "summary": "AWS Lambda announces OpenTelemetry (OTel) support for Lambda durable functions. You can now trace your durable executions and emit traces to Amazon CloudWatch and other industry-standard observability tools. This helps y…"
-   },
-   {
-    "title": "Amazon Cognito now supports AWS Secrets Manager for app client secrets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/",
-    "summary": "Amazon Cognito now integrates with AWS Secrets Manager , so you can store and manage your user pool app client secrets in Secrets Manager. Amazon Cognito helps you implement secure sign-in and access control for users, A…"
-   },
-   {
-    "title": "AWS WAF launches new Security Analytics Dashboard for real-time investigations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/",
-    "summary": "AWS WAF now gives you one place to find and stop unwanted traffic across every application in your account. The new AWS WAF security analytics dashboard brings together traffic from all of your protection packs (web ACLs…"
-   },
-   {
-    "title": "Amazon Aurora now supports moving clusters to a different VPC",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/",
-    "summary": "Aurora PostgreSQL and Aurora MySQL clusters can now move from one Amazon Virtual Private Cloud (VPC) to another without data migration. You can move a cluster with a single API call or a modify action in the Amazon RDS c…"
-   },
-   {
-    "title": "Amazon Aurora DSQL now supports PL/pgSQL functions and procedures",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-plpgsql-support/",
-    "summary": "Amazon Aurora DSQL now supports PL/pgSQL, enabling developers to create and execute stored functions and procedures directly in the database. Amazon Aurora DSQL is a serverless, distributed SQL database designed for appl…"
-   },
-   {
-    "title": "AWS Partner Central Agents now generate Value Realization Plans",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-bvr-vrp",
-    "summary": "Today, AWS announces that AWS Partner Central Agents can now generate Value Realization Plans (VRPs) for the Business Value Realization (BVR) motion in AWS Partner Central . The VRP is the plan of record for a BVR engage…"
-   },
-   {
-    "title": "Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/",
-    "summary": "Amazon SageMaker AI now monitors the response time and GPU use of generative AI inference endpoints by default and notifies customers when responses slow down, GPUs sit mostly idle, or a configuration falls behind. Custo…"
-   },
-   {
-    "title": "Amazon CloudFront adds IP based routing and connection logs to SaaS Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging",
-    "summary": "Amazon CloudFront now allows web development and SaaS platforms to serve different tiers of customers on the same wildcard domain by using IP addresses to route them to the right configuration. For example, these platfor…"
-   },
-   {
-    "title": "Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants",
-    "summary": "Amazon CloudFront now lets web development platforms and SaaS providers move a customer's domain to their platform in a single request with no downtime, and serve requests to the domain while the TLS certificate is being…"
-   },
-   {
-    "title": "Amazon Inspector Code Security adds GitHub Enterprise Server and private connectivity",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/",
-    "summary": "Amazon Inspector Code Security now supports GitHub Enterprise Server (GHES) integration and private network connectivity for GHES and GitLab Self-Managed. Code Security is also launching automatic fix pull requests in pu…"
-   },
-   {
-    "title": "Amazon S3 Tables now support promoting replicas to writable tables",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-replication-writable-tables/",
-    "summary": "Amazon S3 Tables replication now lets you make a read-only replica of your Apache Iceberg table a standalone, writable table with a single API call. S3 Tables replication keeps read-only replica tables in sync with your …"
-   },
-   {
-    "title": "Amazon Cognito now supports client ID metadata documents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
-    "summary": "Amazon Cognito now supports OAuth client ID metadata documents (CIMD). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. With CIMD, Model Context Pro…"
-   },
-   {
-    "title": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/",
-    "summary": "Amazon WorkSpaces Applications now supports WebAuthn redirection, so users can sign in to websites and applications in their streaming session with a FIDO2 authenticator on their local device, such as a security key, Win…"
-   },
-   {
-    "title": "AWS Data Competency adds Open Data and Interoperability category for Software Partners",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/",
-    "summary": "Today, AWS announces the Open Data and Interoperability category within the AWS Data Competency. The new category recognizes AWS Software Partners whose solutions keep customer data open and under customer control, letti…"
-   },
-   {
-    "title": "AWS expands Amazon Connect Customer Competency to Software Partners",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-competency-software-partners/",
-    "summary": "AWS announces the expansion of the Amazon Connect Customer Competency to Software Partners. The AWS Specialization now recognizes both Services and Software Partners with technical depth and proven success on Amazon Conn…"
-   },
-   {
-    "title": "AWS Site-to-Site VPN now supports post-quantum key exchanges",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/site-to-site-vpn-post-quantum/",
-    "summary": "AWS Site-to-Site VPN now supports post-quantum key exchanges to help improve the security posture of your VPN tunnels. This feature supports your migration to post-quantum cryptography based on NIST guidelines. AWS Site-…"
-   },
-   {
-    "title": "AWS Network Firewall launches explicit proxy functionality and NAT Gateway association",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/",
-    "summary": "You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network address translation. You can use this capability with existing Network Firew…"
-   },
-   {
-    "title": "Amazon Cognito now supports dynamic client registration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/",
-    "summary": "Amazon Cognito now supports OAuth dynamic client registration (DCR, RFC 7591). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. With DCR support, Mo…"
-   },
-   {
-    "title": "Amazon Bedrock AgentCore Identity adds private certificate authority support",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-identity-private-ca/",
-    "summary": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs) for custom OAuth 2.0 credential providers. If you already connect your agents to identity providers (IdPs) hosted in your VPC, you can …"
-   },
-   {
-    "title": "AWS Network Load Balancer now supports mutual TLS authentication",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/",
-    "summary": "AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who needed mTLS with NLB built their own solutions or ran third-party proxie…"
-   },
-   {
-    "title": "AWS Continuum for Penetration Testing now supports pause and resume",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-pause-resume/",
-    "summary": "AWS Continuum for Penetration Testing (formerly AWS Security Agent) now lets you pause a running penetration test job and resume it later from its last saved checkpoint. Continuum for Penetration Testing runs on-demand, …"
-   },
-   {
-    "title": "AWS STS announces GetScopedCredentials to scope down permissions at runtime",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/",
-    "summary": "AWS Security Token Service (AWS STS) announces GetScopedCredentials, a new API that lets you scope down the permissions of existing temporary security credentials. With GetScopedCredentials, you can give your agents, sub…"
-   },
-   {
-    "title": "Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-thf-european-sovereign/",
-    "summary": "Second-generation AWS Outposts racks are now supported in the AWS European Sovereign Cloud (Germany) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data cente…"
-   }
-  ],
-  "digest_date": "19 Nov 2026"
+  "pending": [],
+  "digest_date": "20 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
