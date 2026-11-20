@@ -496,22 +496,24 @@
    "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
    "6ba2a107a04072590a435b13e2f61e9cf13fd038",
    "4e21c44f007a5507f0503396ee8c4aa983ee71e4",
+   "5f7cc29347b77dc2fb7a24796f89ed42a87a1102",
    "2c1cc5264a1a47f97b83cfeb2fd7b3c8a251fe62",
+   "fe1d39fc117e911e70b37b23772651cf0ca16a65",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
-   "feb63d7deb99241e71791db1e0e65baaa6cf851e",
-   "c36da359e5944f2db57112cc6c15b7b7c69198df",
-   "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
-   "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
    "78963c0d96b5a2fc774d4db26979d90854214cf5",
    "542601e8f20dc928d7c29480ad803e29c3cadc27",
+   "c36da359e5944f2db57112cc6c15b7b7c69198df",
+   "4cbd22aea19411fa7a325a4c286a46d3b7edf765",
    "b6c9587d3739ba882ee45b6a319fafc391dda6ea",
-   "1bb58135317934bb9b331716a3d4af831980f8ea",
+   "8824b7df8c60ac3405b93251bef2f0f19fce52a5",
    "26e1acefcdf1a4a7a66447ab6f07344b845f6099",
-   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
+   "1bb58135317934bb9b331716a3d4af831980f8ea",
    "a49fe612a26bd0ce19d5f27f018e08e8f4f030b6",
+   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
    "8775386dc999173fada22cdf8e23b50f4d47f635",
+   "feb63d7deb99241e71791db1e0e65baaa6cf851e",
    "67df8e65945704eae05a003c08a5fd5d04e8742b",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
@@ -755,9 +757,7 @@
    "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e",
    "183cdd10ccbab444b1698a32a2db0762830e99e9",
    "397a47fb048607862de5231fc2f7aa38e1d09bc6",
-   "637ec7b2739626a1f8d2b6b4d60251111447301d",
-   "ce25bc1fe5273df0394d6723f5dee14ec9d782c9",
-   "f9dac3090f79f2c3f400924a47c27d357c685663"
+   "637ec7b2739626a1f8d2b6b4d60251111447301d"
   ],
   "recent": [
    {
@@ -1132,6 +1132,16 @@
     "title": "AWS Network Load Balancer now supports mutual TLS authentication",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/",
     "summary": "AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who needed mTLS with NLB built their own solutions or ran third-party proxie…"
+   },
+   {
+    "title": "AWS Continuum for Penetration Testing now supports pause and resume",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-pause-resume/",
+    "summary": "AWS Continuum for Penetration Testing (formerly AWS Security Agent) now lets you pause a running penetration test job and resume it later from its last saved checkpoint. Continuum for Penetration Testing runs on-demand, …"
+   },
+   {
+    "title": "AWS STS announces GetScopedCredentials to scope down permissions at runtime",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/",
+    "summary": "AWS Security Token Service (AWS STS) announces GetScopedCredentials, a new API that lets you scope down the permissions of existing temporary security credentials. With GetScopedCredentials, you can give your agents, sub…"
    }
   ],
   "digest_date": "19 Nov 2026"
