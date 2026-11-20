@@ -459,6 +459,11 @@
  },
  "aws-whats-new": {
   "seen": [
+   "344b860c79e8a39f46097c85c6a5967bc51e583e",
+   "2ce88365065aaaf445be25c90cc4bb1d623a6f51",
+   "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
+   "b879d6e5bde55774fc455d4fa328fff88b2c9300",
+   "c49daaabd2b33202fd7d47ade7aca9eff2fdd0f3",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
    "cd0339545addd598b2efec11c8688986991c0161",
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
@@ -753,14 +758,34 @@
    "694823d2c8580fe07e4af365bd37e1f292586a9d",
    "f493f9bf672ed26d239aa652f0a7cef3ca79fca2",
    "b98196ed032920a1f754c112d39dc2a641a9b771",
-   "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3",
-   "282ae2276740d0cab2442abc6cb00f23af6023cf",
-   "4fc32f2f322f3ee915fae1a07439d8943a2ba03e",
-   "c765d93c996000109b8e37b7335895f2b0982322",
-   "000083a5ad322d97910107aa397f720aa7d047fc",
-   "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e"
+   "eb43b5f1e9b7b4eeb20bdefa2adced4e3466ffc3"
   ],
   "recent": [
+   {
+    "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon Aurora MySQL 8.4.12 is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Transform announces support for .NET 11 and expanded project types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Introducing Amazon EC2 T9g instances based on Graviton5",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/",
+    "date": "20 Nov 2026"
+   },
    {
     "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
@@ -785,36 +810,11 @@
     "title": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/",
     "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudFront adds IP based routing and connection logs to SaaS Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Lambda durable functions now supports OpenTelemetry tracing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/",
-    "date": "19 Nov 2026"
-   },
-   {
-    "title": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion",
-    "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
+   "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
    "date": "20 Nov 2026"
   },
   "fails": 0,
@@ -823,6 +823,31 @@
     "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
     "summary": "Today, AWS announces the general availability of a new Local Zone in Bogotá, Colombia, bringing AWS infrastructure closer to end users for applications that require single-digit millisecond latency. You can use the Bogot…"
+   },
+   {
+    "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
+    "summary": "AWS CloudFormation StackSets now supports custom execution roles for service-managed stack sets, which enables you to scope the permissions StackSets uses in each target AWS account. StackSets deploys the same infrastruc…"
+   },
+   {
+    "title": "Amazon Aurora MySQL 8.4.12 is now generally available",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/",
+    "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 supports MySQL 8.4.12. This release includes several security enhancements and bug fixes. We recommend upgrading to the newer minor versions to accept fixes for …"
+   },
+   {
+    "title": "AWS Transform announces support for .NET 11 and expanded project types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/",
+    "summary": "Today, AWS announced the general availability of .NET 11 support in AWS Transform for .NET. Support for VB.NET, desktop projects, and mobile projects, previously in preview, is also now generally available. You can moder…"
+   },
+   {
+    "title": "Introducing Amazon EC2 T9g instances based on Graviton5",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
+    "summary": "AWS is announcing the general availability of new low-cost burstable Amazon EC2 T9g instances, which offer the best price performance among general-purpose EC2 instances. These instances are powered by AWS Graviton5 proc…"
+   },
+   {
+    "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/",
+    "summary": "AWS Data Exports for Cost and Usage Report (CUR) 2.0 now includes standardized cost and rate columns that represent cost consistently across AWS purchase options, including On Demand, Savings Plans, Reserved Instances, E…"
    }
   ],
   "digest_date": "20 Nov 2026"
