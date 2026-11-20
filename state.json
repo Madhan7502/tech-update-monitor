@@ -499,6 +499,7 @@
    "5f7cc29347b77dc2fb7a24796f89ed42a87a1102",
    "2c1cc5264a1a47f97b83cfeb2fd7b3c8a251fe62",
    "fe1d39fc117e911e70b37b23772651cf0ca16a65",
+   "1de747a0d1b442d456f7f62029062d5d47b13719",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
    "a750b55934cda7b301f4eae8dc8fef6feb8badac",
@@ -511,9 +512,9 @@
    "26e1acefcdf1a4a7a66447ab6f07344b845f6099",
    "1bb58135317934bb9b331716a3d4af831980f8ea",
    "a49fe612a26bd0ce19d5f27f018e08e8f4f030b6",
-   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
-   "8775386dc999173fada22cdf8e23b50f4d47f635",
    "feb63d7deb99241e71791db1e0e65baaa6cf851e",
+   "8775386dc999173fada22cdf8e23b50f4d47f635",
+   "defad3d34385f50f91b7ad8e1ba2494e88b4cb2e",
    "67df8e65945704eae05a003c08a5fd5d04e8742b",
    "cbcd582728b7d428673546f0182c9a19a6fa5713",
    "9c2f8a29e97c880fdc60e7882d32b02f160981dc",
@@ -756,8 +757,7 @@
    "000083a5ad322d97910107aa397f720aa7d047fc",
    "eee4fbcb582d52ebd6dbe35bfb6f1e5df7e4630e",
    "183cdd10ccbab444b1698a32a2db0762830e99e9",
-   "397a47fb048607862de5231fc2f7aa38e1d09bc6",
-   "637ec7b2739626a1f8d2b6b4d60251111447301d"
+   "397a47fb048607862de5231fc2f7aa38e1d09bc6"
   ],
   "recent": [
    {
@@ -1142,6 +1142,11 @@
     "title": "AWS STS announces GetScopedCredentials to scope down permissions at runtime",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/",
     "summary": "AWS Security Token Service (AWS STS) announces GetScopedCredentials, a new API that lets you scope down the permissions of existing temporary security credentials. With GetScopedCredentials, you can give your agents, sub…"
+   },
+   {
+    "title": "Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-thf-european-sovereign/",
+    "summary": "Second-generation AWS Outposts racks are now supported in the AWS European Sovereign Cloud (Germany) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data cente…"
    }
   ],
   "digest_date": "19 Nov 2026"
