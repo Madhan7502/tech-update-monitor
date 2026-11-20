@@ -27,7 +27,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -88,6 +87,7 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-5",
+    "title": "PHP 8.5.13 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-4",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-5",
+   "title": "PHP 8.5.13 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-4",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -461,6 +461,9 @@
  },
  "aws-whats-new": {
   "seen": [
+   "9726e8c0deb6ac49490db469347a3bdd3dbb9d86",
+   "c311750b5abf42ae38337e2a8e418a0372e79fe4",
+   "06ed2b32cda75ecb478eff821410ea508ff9c5e5",
    "b6e31d09e73b9bbd6214600cea0453a3686347b0",
    "75045e061356e99011e8afd0ccf81b32474ed4c3",
    "344b860c79e8a39f46097c85c6a5967bc51e583e",
@@ -503,22 +506,22 @@
    "e8e7e81d9f08911f4ba598e53ec5626f6edf3065",
    "93f38ae3cc9a4b8385fad6b9bc19b0a698a4e878",
    "193374600beba7135a895e1dbab3b3118135d7d5",
-   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
-   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
-   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
-   "5e781511f52b5f6655832f78e720fb573d7ac05c",
    "bed02927620bb91cc40419784c1b739ca2905bd1",
+   "81623ab1a97d44ad24b107dd5c0a1901f038e6ad",
+   "db40e7122bcf7fb8a0becb0050f6be40ba5edd48",
+   "5e781511f52b5f6655832f78e720fb573d7ac05c",
+   "361dd3937c3ed645aeb7fa92bdbb7d0eb106b3d0",
    "3aa3f643424bf2a463ffe5a28f5bc9f6887dec39",
-   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
-   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
-   "6ba2a107a04072590a435b13e2f61e9cf13fd038",
    "d689640e6f4c34ed0124c1891c77ebd95a5967ce",
-   "4e21c44f007a5507f0503396ee8c4aa983ee71e4",
-   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
    "9103cd82d94aa6eb6caffd4ee7083f032754cfda",
-   "fe1d39fc117e911e70b37b23772651cf0ca16a65",
+   "4dbfca0118ebd182bad2f94a2305242fd6411eca",
+   "9bc777b32b6667a7f66b23c1fe5bea96c7c48ce7",
+   "6ba2a107a04072590a435b13e2f61e9cf13fd038",
+   "ca48d2dd1dfd8e1869a0828825a2252de7d2e3b9",
    "5f7cc29347b77dc2fb7a24796f89ed42a87a1102",
    "2c1cc5264a1a47f97b83cfeb2fd7b3c8a251fe62",
+   "fe1d39fc117e911e70b37b23772651cf0ca16a65",
+   "4e21c44f007a5507f0503396ee8c4aa983ee71e4",
    "1de747a0d1b442d456f7f62029062d5d47b13719",
    "3c1407505032c21d02109a6313f0d7bdc57c04d9",
    "f70af05e96de8c862562a5ac0ec8ba2c3b8a2960",
@@ -757,12 +760,24 @@
    "c709ece569c34ea5d43f9ba42100f73be326cc95",
    "8f3ab64dfd1c62fc9f72b6db7f65f6597693b24b",
    "7f499fa9f2d0ae8c5152abb5732601b9b501dcbe",
-   "824d6b17856a1981502dec09f1fe7c88f34dbdc6",
-   "b6b6780958fddc6e533d47386c625a9a31ff8195",
-   "020b078d0397d878fecd01105f89c3380742f318",
-   "8a81da6a4c78bb86eb232b0756e6431d3bc2e9c3"
+   "824d6b17856a1981502dec09f1fe7c88f34dbdc6"
   ],
   "recent": [
+   {
+    "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
+    "link": "https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Pricing Calculator now estimates workload costs through a new API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
+    "date": "20 Nov 2026"
+   },
    {
     "title": "AWS Billing and Cost Management now offers APIs to track payment status",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
@@ -797,26 +812,11 @@
     "title": "Amazon Connect Customer expands how teams track and act on service level agreements for cases",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/",
     "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Transform announces UI component modernization for Windows web applications",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Transform announces support for .NET 11 and expanded project types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Introducing Amazon EC2 T9g instances based on Graviton5",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
-    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Billing and Cost Management now offers APIs to track payment status",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
+   "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
+   "link": "https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
    "date": "20 Nov 2026"
   },
   "fails": 0,
@@ -895,6 +895,21 @@
     "title": "AWS RTB Fabric Modules are now generally available through AWS Marketplace",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-rtb-fabric-modules-marketplace/",
     "summary": "AWS RTB Fabric Modules from AdTech partners including Pixalate, WURFL by ScientiaMobile, and Picnic are now available through AWS Marketplace. With AWS RTB Fabric Modules, any demand-side platform (DSP), supply-side plat…"
+   },
+   {
+    "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
+    "link": "https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
+    "summary": "Amazon SageMaker JumpStart now offers a model leaderboard in Amazon SageMaker Studio. You can use it to compare foundation models side by side on throughput, latency, and cost, and then deploy or customize the model that…"
+   },
+   {
+    "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
+    "summary": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define dat…"
+   },
+   {
+    "title": "AWS Pricing Calculator now estimates workload costs through a new API",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
+    "summary": "AWS Pricing Calculator now offers GetUsageLinesEstimatedCost, a new API that returns the estimated cost of a planned workload in a single API call. You send up to 500 usage lines in one request and get the cost back righ…"
    }
   ],
   "digest_date": "20 Nov 2026"
