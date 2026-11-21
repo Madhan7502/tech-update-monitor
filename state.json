@@ -27,7 +27,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -88,6 +87,7 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-5",
+    "title": "PHP 8.5.13 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-4",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-5",
+   "title": "PHP 8.5.13 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-4",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -461,14 +461,19 @@
  },
  "aws-whats-new": {
   "seen": [
+   "34ca12b0edf222dced19882c6e5df11e7aef2df3",
+   "864da979c045b5e595db76e05e9889d0a540dd00",
    "3a44c1a96340154fd49bfc7ddd110c254f93484b",
+   "f153ada87741a768bccaae4b9523d9090e89d683",
+   "34345fb38770408032c115f1a4191e05c4320a9b",
+   "5c86b319c2bf1abbca4ee58acfbd48e7e46eaf8b",
    "38f3a462608c5989d35d6f4b6b0028e8482a3542",
    "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
    "95b93fff19edab6a6dff4b5b1acedb5a0a54d223",
    "e042d7326c974818ccd9ca045bedab32281193d4",
    "73a0ac376f9ac5409c2559aefcfb50e0589fe9e2",
-   "6ff37aa30a29dd2099529ac7c6c41375f6baee8b",
    "f890aab8066b55b22b87b5745573585aca70265d",
+   "6ff37aa30a29dd2099529ac7c6c41375f6baee8b",
    "4ef0a2563f316986a96d6b1482b11cbcfffead48",
    "9726e8c0deb6ac49490db469347a3bdd3dbb9d86",
    "609b10847d86c65781c1c54d20c4bc92f80e87a8",
@@ -487,10 +492,11 @@
    "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
-   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "70799b8c9c3a5498dca09a0ed78053d146e7b894",
+   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
+   "ef96f608fd55ed5203c288210765e4467ce767d1",
    "868b1482ea911460dde8fce321f42fbefbe6ee81",
    "0790daaa1090f191712c317bf63e4c639cc71bd7",
    "6295dee371511cb476d8efc418adcff2690071a1",
@@ -501,18 +507,20 @@
    "8144e0fc9a2fddd08dd358907062dfa7191f13bf",
    "89ab64b8a98abd06c9bd0bbf854350ff17660ea0",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
-   "70d205dc426570b8676e5efb7a68cdd397f14376",
-   "233e03a45947d6106fd31ef811d8e9247f776d44",
    "3107339583692a3a4d7f905133e424e8f898a87f",
+   "233e03a45947d6106fd31ef811d8e9247f776d44",
+   "70d205dc426570b8676e5efb7a68cdd397f14376",
    "0c6d5590ed875105cd726b4d073723fb9797b991",
+   "948777bb3e6e5d40d12166c8e8211ab2936ed74f",
    "cb034df9a902d85a21e42253d5f1c32b42c217cc",
    "dc032020825c153cb3dd6608e3bcc87db2dbcfd8",
    "0e6e37dbe8df1574629dfb5ae9dfa5c2bb3299fd",
-   "94e47fb4d51042f6366bd6fcdb4981d23fa02d67",
    "029e03bf745c856a8bd7ae3ae9a177382fef2e76",
-   "ec011ece14c08c6fa72472ffd9e6249012958e69",
+   "94e47fb4d51042f6366bd6fcdb4981d23fa02d67",
    "a41425c4d97e2ae440c1734f4711c62db2c8bc7c",
    "e24002814dd4404b18c234c08f571ab0573ddf0b",
+   "ec011ece14c08c6fa72472ffd9e6249012958e69",
+   "255d47ae422bd715c398eecdd5ce7f14c928f510",
    "cd0339545addd598b2efec11c8688986991c0161",
    "fe57fa6c24e0f7f418d3c74921fecd335c863daa",
    "799e717c67fea2f9dcb8fe4218d4349d4e353d02",
@@ -752,20 +760,37 @@
    "28de3d4a73617fd5046478a7b35f8c9804aa3139",
    "c4cfcfa1e71f0ee09a994c48caa68c5ce66ed86c",
    "36ebf879f8aa0114e8ce3178fb68d6787ce45312",
-   "7fa88f6944ec142cc1a3333e292ef7c1d9836c61",
-   "03e6bc2b214a0333f3cacb0c94586f101af89b48",
-   "f4fd9952e4273533d0d11f4140c7899117fdff6d",
-   "e10ffb125a2374f5d4d1565d57b7d022f80d44bb",
-   "ca814a0556063b477122138dc62eb63c2d9db7f8",
-   "c6b614d0ff25b9d7fa8cd701331121ff7306448f",
-   "a8cc7e188654fa1751e640311c0290004c457482",
-   "eccfcbd02190a62ea69a2d6e38091edbccdd6726",
-   "3f1c640a37341b7c4d377a992eb703a61373c252"
+   "7fa88f6944ec142cc1a3333e292ef7c1d9836c61"
   ],
   "recent": [
    {
+    "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Account Mapping and Planning now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Demand Center now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Lead groups and channel recommendations now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
     "date": "20 Nov 2026"
    },
    {
@@ -787,36 +812,11 @@
     "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
     "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon Transcribe announces a synchronous transcription API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon DynamoDB vector search now supports new inline filter operators",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudWatch Observability EKS add-on now supports telemetry filtering",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-otel-addon-filtering/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
-    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+   "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
    "date": "20 Nov 2026"
   },
   "fails": 0,
@@ -1095,6 +1095,46 @@
     "title": "AWS Agent Registry now offers naming and public discovery capabilities",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/",
     "summary": "AWS Agent Registry now offers public naming capabilities, making it easy to attach verified domain names to your agents and AI tools. Developers and network admins can perform domain verification checks to prove domain o…"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now provides a Primary Endpoint, a DNS name that always resolves to the current primary DB instance in a replica configuration. When you switch over to an Oracle…"
+   },
+   {
+    "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
+    "summary": "Amazon Cognito multi-Region replication (MRR) now supports additional AWS Regions, extending the resilience benefits of MRR to more workloads. Amazon Cognito helps you implement secure sign-in and access control for user…"
+   },
+   {
+    "title": "Account Mapping and Planning now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
+    "summary": "AWS Partners can now map their target accounts against AWS records and find where to collaborate with AWS on joint go-to-market before an opportunity exists. Account Mapping and Planning in AWS Partner Central replaces m…"
+   },
+   {
+    "title": "Demand Center now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
+    "summary": "AWS Partners can now plan, launch, fund, and measure demand generation campaigns in one AI-powered experience. Demand Center in AWS Partner Central succeeds Marketing Central and brings together Marketing Central and MDF…"
+   },
+   {
+    "title": "Lead groups and channel recommendations now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
+    "summary": "AWS Partners can now organize enriched leads and plan outreach with lead groups and channel recommendations in AWS Partner Central. Enriched leads are automatically grouped by solution area and segmented into sales-ready…"
+   },
+   {
+    "title": "Amazon Managed Service for Prometheus now available in the AWS European Sovereign Cloud (Germany) region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amp-aws-european-sovereign-cloud/",
+    "summary": "Amazon Managed Service for Prometheus is now available in the AWS European Sovereign Cloud (Germany) region, along with Amazon Managed Service for Prometheus collector. Amazon Managed Service for Prometheus is a fully ma…"
+   },
+   {
+    "title": "AWS Backup now supports incremental backups for Amazon DynamoDB",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-incremental-backups-dynamodb/",
+    "summary": "AWS Backup now supports incremental backups of Amazon DynamoDB tables, enabling you to reduce backup storage while maintaining backup schedules as frequent as one hour. Until now, AWS Backup created a full copy of your D…"
+   },
+   {
+    "title": "Amazon SageMaker adds new capabilities – improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/",
+    "summary": "Improved blueprints: Amazon SageMaker Unified Studio now gives project teams more ownership of their data and resources, within governance policies that administrators set centrally. Additional releases include faster no…"
    }
   ],
   "digest_date": "20 Nov 2026"
