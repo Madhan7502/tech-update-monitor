@@ -461,11 +461,15 @@
  },
  "aws-whats-new": {
   "seen": [
+   "e0fc98ef66b4cecc5a95d98917bfb19e3c0c5175",
    "34ca12b0edf222dced19882c6e5df11e7aef2df3",
+   "d0ec8f682174ffe2e30deb3b6bb329765f689425",
+   "6a2cebc4340117ae8e0d31d42a5786d069bff421",
    "864da979c045b5e595db76e05e9889d0a540dd00",
+   "6e00c22c337f31343b32e730d59d47b7dbcfbbfe",
    "3a44c1a96340154fd49bfc7ddd110c254f93484b",
-   "f153ada87741a768bccaae4b9523d9090e89d683",
    "34345fb38770408032c115f1a4191e05c4320a9b",
+   "f153ada87741a768bccaae4b9523d9090e89d683",
    "5c86b319c2bf1abbca4ee58acfbd48e7e46eaf8b",
    "38f3a462608c5989d35d6f4b6b0028e8482a3542",
    "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
@@ -492,8 +496,8 @@
    "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
-   "70799b8c9c3a5498dca09a0ed78053d146e7b894",
    "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
+   "70799b8c9c3a5498dca09a0ed78053d146e7b894",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
    "ef96f608fd55ed5203c288210765e4467ce767d1",
@@ -501,17 +505,20 @@
    "0790daaa1090f191712c317bf63e4c639cc71bd7",
    "6295dee371511cb476d8efc418adcff2690071a1",
    "c49daaabd2b33202fd7d47ade7aca9eff2fdd0f3",
+   "36c6387bf5eb3fd6c685662dedce9c6a02d52b79",
    "a687e4c378ce1715ae055850ef22e8bf251679c0",
    "a05d2de881d535cacc1454a3313655a7727e58b3",
    "441ec56587a15f30865bfca9cd4ae816786549ed",
    "8144e0fc9a2fddd08dd358907062dfa7191f13bf",
    "89ab64b8a98abd06c9bd0bbf854350ff17660ea0",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
-   "3107339583692a3a4d7f905133e424e8f898a87f",
-   "233e03a45947d6106fd31ef811d8e9247f776d44",
    "70d205dc426570b8676e5efb7a68cdd397f14376",
+   "233e03a45947d6106fd31ef811d8e9247f776d44",
    "0c6d5590ed875105cd726b4d073723fb9797b991",
+   "3107339583692a3a4d7f905133e424e8f898a87f",
    "948777bb3e6e5d40d12166c8e8211ab2936ed74f",
+   "f20db42f0570aec9fea6f0a1e64d4679280d8c5a",
+   "0116834268e969d8c5c50d4be97996d887f88512",
    "cb034df9a902d85a21e42253d5f1c32b42c217cc",
    "dc032020825c153cb3dd6608e3bcc87db2dbcfd8",
    "0e6e37dbe8df1574629dfb5ae9dfa5c2bb3299fd",
@@ -753,19 +760,27 @@
    "35a351f7bafefa28a047443866d5e774e948660f",
    "efc3f90bb3d08afe671cac02304fb774682946c2",
    "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
-   "a8a7f9ccd478b163085aac4396bbdfb6e27ff4ab",
-   "17b5364b57d95b7a0b6f728d1c71787a5f3ea945",
-   "fcee45539ac565b1007a0b9ac7d4c6fd59b99651",
-   "5500e2898da276249fd4f0483ec49fc3acbd3536",
-   "28de3d4a73617fd5046478a7b35f8c9804aa3139",
-   "c4cfcfa1e71f0ee09a994c48caa68c5ce66ed86c",
-   "36ebf879f8aa0114e8ce3178fb68d6787ce45312",
-   "7fa88f6944ec142cc1a3333e292ef7c1d9836c61"
+   "a8a7f9ccd478b163085aac4396bbdfb6e27ff4ab"
   ],
   "recent": [
    {
+    "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+    "date": "21 Nov 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports Primary Endpoint",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
+    "date": "20 Nov 2026"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
     "date": "20 Nov 2026"
    },
    {
@@ -774,13 +789,13 @@
     "date": "20 Nov 2026"
    },
    {
-    "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+    "title": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
     "date": "20 Nov 2026"
    },
    {
-    "title": "Account Mapping and Planning now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
+    "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
     "date": "20 Nov 2026"
    },
    {
@@ -789,35 +804,20 @@
     "date": "20 Nov 2026"
    },
    {
+    "title": "Account Mapping and Planning now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "Lead groups and channel recommendations now available in AWS Partner Central",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Quick now supports group assignments for custom permissions and limit profiles",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS Quick introduces enterprise guardrails (preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
     "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon RDS for Oracle now supports Primary Endpoint",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
-   "date": "20 Nov 2026"
+   "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+   "date": "21 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -1135,6 +1135,41 @@
     "title": "Amazon SageMaker adds new capabilities – improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/",
     "summary": "Improved blueprints: Amazon SageMaker Unified Studio now gives project teams more ownership of their data and resources, within governance policies that administrators set centrally. Additional releases include faster no…"
+   },
+   {
+    "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+    "summary": "Web Search on Amazon Bedrock, the tool that grounds AI agents and applications in cited, current web information, now supports five new languages, plus non-US English, on Amazon Bedrock AgentCore and Amazon Bedrock: Span…"
+   },
+   {
+    "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
+    "summary": "AWS Network Firewall announces the public preview of automated Internet firewall, a new centralized control that allows you to configure Network Firewall, with native network address translation (NAT) capability, on the …"
+   },
+   {
+    "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Replica First Patching, which reduces downtime during minor version upgrades. Replica First Patching is available for Enterprise Edition DB instance…"
+   },
+   {
+    "title": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
+    "summary": "Amazon Neptune Serverless now delivers up to 30% better performance at the same price per Neptune Capacity Unit, running on AWS Graviton4 processors. The new Graviton4-based platform also brings an improved scaling algor…"
+   },
+   {
+    "title": "AWS CloudFormation increases the default stacks per account quota to 300,000",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-stacks-per-account-quota/",
+    "summary": "AWS CloudFormation now supports up to 300,000 stacks in each AWS account and Region by default (previously 2,000), which enables you to add stacks as your workloads grow without requesting a quota increase. CloudFormatio…"
+   },
+   {
+    "title": "Announcing a new skill for AI agents in Amazon Textract Core",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-textract-core-skill-ai-agents/",
+    "summary": "Amazon Textract Core now lets AI agents extract text, tables, forms, and other data from documents through a skill, with no server to run or infrastructure to deploy. The skill guides an agent to the right Amazon Textrac…"
+   },
+   {
+    "title": "Amazon Route 53 private hosted zones now support public DNS fallback",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-public-dns-fallback/",
+    "summary": "Amazon Route 53 private hosted zones now support public DNS fallback. When a query for a name in your private hosted zone's domain doesn't match a record in the zone, Route 53 returns the answer from public DNS instead o…"
    }
   ],
   "digest_date": "20 Nov 2026"
