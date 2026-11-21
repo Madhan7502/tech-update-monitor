@@ -461,6 +461,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "5773cc6c5894dd48459d77d322ea3acbae675570",
    "e0fc98ef66b4cecc5a95d98917bfb19e3c0c5175",
    "34ca12b0edf222dced19882c6e5df11e7aef2df3",
    "d0ec8f682174ffe2e30deb3b6bb329765f689425",
@@ -468,8 +469,8 @@
    "864da979c045b5e595db76e05e9889d0a540dd00",
    "6e00c22c337f31343b32e730d59d47b7dbcfbbfe",
    "3a44c1a96340154fd49bfc7ddd110c254f93484b",
-   "34345fb38770408032c115f1a4191e05c4320a9b",
    "f153ada87741a768bccaae4b9523d9090e89d683",
+   "34345fb38770408032c115f1a4191e05c4320a9b",
    "5c86b319c2bf1abbca4ee58acfbd48e7e46eaf8b",
    "38f3a462608c5989d35d6f4b6b0028e8482a3542",
    "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
@@ -483,7 +484,9 @@
    "609b10847d86c65781c1c54d20c4bc92f80e87a8",
    "04af247eb3bca136b92ef248b9b31e838b7ae15e",
    "1d988d2199dd73845fd88dbea0f3a4940d1a2766",
+   "68db578853b3f91eb21ed3531f94095a5427a1df",
    "c311750b5abf42ae38337e2a8e418a0372e79fe4",
+   "ba91fbdb4176dfd00bb2222542142c427f225b22",
    "06ed2b32cda75ecb478eff821410ea508ff9c5e5",
    "b6e31d09e73b9bbd6214600cea0453a3686347b0",
    "75045e061356e99011e8afd0ccf81b32474ed4c3",
@@ -496,8 +499,8 @@
    "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
-   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "70799b8c9c3a5498dca09a0ed78053d146e7b894",
+   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
    "ef96f608fd55ed5203c288210765e4467ce767d1",
@@ -511,11 +514,13 @@
    "441ec56587a15f30865bfca9cd4ae816786549ed",
    "8144e0fc9a2fddd08dd358907062dfa7191f13bf",
    "89ab64b8a98abd06c9bd0bbf854350ff17660ea0",
+   "39e7c7710482cd5e4cbfe8b1fd43fc6589cf25ed",
+   "329aece692ba170b23a976ea72eaa40d12b73ec2",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
-   "70d205dc426570b8676e5efb7a68cdd397f14376",
-   "233e03a45947d6106fd31ef811d8e9247f776d44",
-   "0c6d5590ed875105cd726b4d073723fb9797b991",
    "3107339583692a3a4d7f905133e424e8f898a87f",
+   "233e03a45947d6106fd31ef811d8e9247f776d44",
+   "70d205dc426570b8676e5efb7a68cdd397f14376",
+   "0c6d5590ed875105cd726b4d073723fb9797b991",
    "948777bb3e6e5d40d12166c8e8211ab2936ed74f",
    "f20db42f0570aec9fea6f0a1e64d4679280d8c5a",
    "0116834268e969d8c5c50d4be97996d887f88512",
@@ -755,14 +760,14 @@
    "5da48d238c99f9ba4b8bce18ade35eeb57d91428",
    "6d70e1840c8f7d6b5c940a93ef7d712c158626c3",
    "f29cfbd0c368b1d18006ff8f3355e49762785a3d",
-   "b5aa31368a66bd4ebb99a45dbaef58e20dfd5a79",
-   "76d322e990d90df8d55eba2942eb80399574ad61",
-   "35a351f7bafefa28a047443866d5e774e948660f",
-   "efc3f90bb3d08afe671cac02304fb774682946c2",
-   "84f8cd09245bc4d14993d1762e54bbcd2c07e932",
-   "a8a7f9ccd478b163085aac4396bbdfb6e27ff4ab"
+   "b5aa31368a66bd4ebb99a45dbaef58e20dfd5a79"
   ],
   "recent": [
+   {
+    "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
+    "date": "21 Nov 2026"
+   },
    {
     "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
@@ -799,24 +804,19 @@
     "date": "20 Nov 2026"
    },
    {
-    "title": "Demand Center now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
-    "date": "20 Nov 2026"
-   },
-   {
     "title": "Account Mapping and Planning now available in AWS Partner Central",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
     "date": "20 Nov 2026"
    },
    {
-    "title": "Lead groups and channel recommendations now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
+    "title": "Demand Center now available in AWS Partner Central",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
     "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+   "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
    "date": "21 Nov 2026"
   },
   "fails": 0,
@@ -1170,6 +1170,31 @@
     "title": "Amazon Route 53 private hosted zones now support public DNS fallback",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-public-dns-fallback/",
     "summary": "Amazon Route 53 private hosted zones now support public DNS fallback. When a query for a name in your private hosted zone's domain doesn't match a record in the zone, Route 53 returns the answer from public DNS instead o…"
+   },
+   {
+    "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
+    "summary": "Amazon CloudWatch Omni now supports collecting Azure resource logs, Azure Monitor platform metrics, virtual network (VNet) flow logs, and traces from Application Insights. Teams that run workloads on both AWS and Azure n…"
+   },
+   {
+    "title": "AWS Lambda now provides cost optimization recommendations for Event Functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/",
+    "summary": "AWS Lambda now provides cost optimization recommendations for Event Functions in AWS Trusted Advisor . These recommendations identify on-demand functions where moving to Lambda Managed Instances (LMI) is estimated to red…"
+   },
+   {
+    "title": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon SQS FIFO queues",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-10K-batch-size-SQSFIFO/",
+    "summary": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon Simple Queue Service (Amazon SQS) FIFO queue event source mappings (ESMs) in provisioned mode , up from 10 messages previously. With larger batches…"
+   },
+   {
+    "title": "Amazon Route 53 now supports Availability Zone (AZ) affinity routing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-affinity-routing/",
+    "summary": "Amazon Route 53 now supports Availability Zone (AZ) affinity routing, which routes DNS queries from your VPCs to resources in the same AZ as the client that sends the query. This helps you keep traffic within the same AZ…"
+   },
+   {
+    "title": "Amazon VPC IPAM policies now support automated internet firewall and AWS Lambda Web Functions and MicroVMs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-ipam-policies-firewall-lambda/",
+    "summary": "Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) policies now support AWS Network Firewall automated internet firewall and AWS Lambda Web Functions and MicroVMs. You can centrally configure IPAM policies acro…"
    }
   ],
   "digest_date": "20 Nov 2026"
