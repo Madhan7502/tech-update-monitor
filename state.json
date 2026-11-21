@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -87,7 +88,6 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.5.13 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-4",
+    "title": "PHP 8.6.0 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-5",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.5.13 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-4",
+   "title": "PHP 8.6.0 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-5",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -461,17 +461,21 @@
  },
  "aws-whats-new": {
   "seen": [
+   "7e707b761ba75e75404d343abd9149897263bc6b",
    "5773cc6c5894dd48459d77d322ea3acbae675570",
+   "ba64504218769240ee1a5fd68f6abf1949d8f37f",
    "e0fc98ef66b4cecc5a95d98917bfb19e3c0c5175",
+   "00da1162ce6d80562c229c06a3c8599478791345",
    "34ca12b0edf222dced19882c6e5df11e7aef2df3",
    "c0e711c8e0f6af456df22b477ce4e7d1954cfe73",
    "d0ec8f682174ffe2e30deb3b6bb329765f689425",
+   "c8f2f77c6be4c8b577b8c2ca0a149175e67afa36",
    "6a2cebc4340117ae8e0d31d42a5786d069bff421",
    "864da979c045b5e595db76e05e9889d0a540dd00",
    "6e00c22c337f31343b32e730d59d47b7dbcfbbfe",
    "3a44c1a96340154fd49bfc7ddd110c254f93484b",
-   "f153ada87741a768bccaae4b9523d9090e89d683",
    "34345fb38770408032c115f1a4191e05c4320a9b",
+   "f153ada87741a768bccaae4b9523d9090e89d683",
    "5c86b319c2bf1abbca4ee58acfbd48e7e46eaf8b",
    "38f3a462608c5989d35d6f4b6b0028e8482a3542",
    "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
@@ -756,22 +760,33 @@
    "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
    "0a01318cae87012346895bbf7db63c2863a928d0",
    "489b936081748cbc11890df04af10317d0c86b1c",
-   "3020b3b9b35c40f6a62efb238e2632d247c7d24c",
-   "24e87ff5928fe0493fbd5b557333c0d15c152d6b",
-   "5da48d238c99f9ba4b8bce18ade35eeb57d91428",
-   "6d70e1840c8f7d6b5c940a93ef7d712c158626c3",
-   "f29cfbd0c368b1d18006ff8f3355e49762785a3d"
+   "3020b3b9b35c40f6a62efb238e2632d247c7d24c"
   ],
   "recent": [
+   {
+    "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
+    "date": "21 Nov 2026"
+   },
    {
     "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
     "date": "21 Nov 2026"
    },
    {
+    "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
+    "date": "21 Nov 2026"
+   },
+   {
     "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
     "date": "21 Nov 2026"
+   },
+   {
+    "title": "Build more capable automations through chat with Flows in AWS Quick",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-flows-automations-chat/",
+    "date": "20 Nov 2026"
    },
    {
     "title": "Amazon RDS for Oracle now supports Primary Endpoint",
@@ -789,38 +804,44 @@
     "date": "20 Nov 2026"
    },
    {
+    "title": "AWS Quick now supports Japanese, German, Vietnamese, and Chinese",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Account Mapping and Planning now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
     "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
+   "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
    "date": "21 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
+    "summary": "AWS Quick now supports plugins, agents, skills, connectors, and flows built for a specific task, role, or use case. Most work draws on several of these at once: connectors to reach your systems, skills for how your team …"
+   },
+   {
+    "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
+    "summary": "The AWS Quick web app now brings the Quick desktop experience to your browser. Create, share, and use the same agents and skills as on desktop, with the same connectors. Start each day with a daily briefing and a priorit…"
+   },
+   {
+    "title": "Build more capable automations through chat with Flows in AWS Quick",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-flows-automations-chat/",
+    "summary": "Flows in AWS Quick now lets users build, run, and refine automations for themselves and their teams, all through conversation. Users describe a process in chat, and Quick builds the flow, with no coding needed. Flows can…"
+   },
+   {
+    "title": "AWS Quick now supports Japanese, German, Vietnamese, and Chinese",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/",
+    "summary": "Today, AWS announces that AWS Quick, the AI workspace for business users, now supports Japanese, German, Vietnamese, and Chinese (Simplified and Traditional). AWS Quick now displays its interface in these languages and r…"
+   }
+  ],
   "digest_date": "21 Nov 2026"
  },
  "apple-dev-releases": {
