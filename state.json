@@ -464,6 +464,7 @@
    "5773cc6c5894dd48459d77d322ea3acbae675570",
    "e0fc98ef66b4cecc5a95d98917bfb19e3c0c5175",
    "34ca12b0edf222dced19882c6e5df11e7aef2df3",
+   "c0e711c8e0f6af456df22b477ce4e7d1954cfe73",
    "d0ec8f682174ffe2e30deb3b6bb329765f689425",
    "6a2cebc4340117ae8e0d31d42a5786d069bff421",
    "864da979c045b5e595db76e05e9889d0a540dd00",
@@ -499,8 +500,8 @@
    "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
-   "70799b8c9c3a5498dca09a0ed78053d146e7b894",
    "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
+   "70799b8c9c3a5498dca09a0ed78053d146e7b894",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
    "ef96f608fd55ed5203c288210765e4467ce767d1",
@@ -517,10 +518,10 @@
    "39e7c7710482cd5e4cbfe8b1fd43fc6589cf25ed",
    "329aece692ba170b23a976ea72eaa40d12b73ec2",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
-   "3107339583692a3a4d7f905133e424e8f898a87f",
-   "233e03a45947d6106fd31ef811d8e9247f776d44",
    "70d205dc426570b8676e5efb7a68cdd397f14376",
+   "233e03a45947d6106fd31ef811d8e9247f776d44",
    "0c6d5590ed875105cd726b4d073723fb9797b991",
+   "3107339583692a3a4d7f905133e424e8f898a87f",
    "948777bb3e6e5d40d12166c8e8211ab2936ed74f",
    "f20db42f0570aec9fea6f0a1e64d4679280d8c5a",
    "0116834268e969d8c5c50d4be97996d887f88512",
@@ -759,8 +760,7 @@
    "24e87ff5928fe0493fbd5b557333c0d15c152d6b",
    "5da48d238c99f9ba4b8bce18ade35eeb57d91428",
    "6d70e1840c8f7d6b5c940a93ef7d712c158626c3",
-   "f29cfbd0c368b1d18006ff8f3355e49762785a3d",
-   "b5aa31368a66bd4ebb99a45dbaef58e20dfd5a79"
+   "f29cfbd0c368b1d18006ff8f3355e49762785a3d"
   ],
   "recent": [
    {
@@ -779,6 +779,11 @@
     "date": "20 Nov 2026"
    },
    {
+    "title": "AWS Lambda now publishes Event Function state change events to Amazon EventBridge",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/",
+    "date": "20 Nov 2026"
+   },
+   {
     "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
     "date": "20 Nov 2026"
@@ -806,11 +811,6 @@
    {
     "title": "Account Mapping and Planning now available in AWS Partner Central",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
-    "date": "20 Nov 2026"
-   },
-   {
-    "title": "Demand Center now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
     "date": "20 Nov 2026"
    }
   ],
@@ -820,384 +820,8 @@
    "date": "21 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/",
-    "summary": "Today, AWS announces the general availability of a new Local Zone in Bogotá, Colombia, bringing AWS infrastructure closer to end users for applications that require single-digit millisecond latency. You can use the Bogot…"
-   },
-   {
-    "title": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/",
-    "summary": "AWS CloudFormation StackSets now supports custom execution roles for service-managed stack sets, which enables you to scope the permissions StackSets uses in each target AWS account. StackSets deploys the same infrastruc…"
-   },
-   {
-    "title": "Amazon Aurora MySQL 8.4.12 is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/",
-    "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 supports MySQL 8.4.12. This release includes several security enhancements and bug fixes. We recommend upgrading to the newer minor versions to accept fixes for …"
-   },
-   {
-    "title": "AWS Transform announces support for .NET 11 and expanded project types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/",
-    "summary": "Today, AWS announced the general availability of .NET 11 support in AWS Transform for .NET. Support for VB.NET, desktop projects, and mobile projects, previously in preview, is also now generally available. You can moder…"
-   },
-   {
-    "title": "Introducing Amazon EC2 T9g instances based on Graviton5",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/",
-    "summary": "AWS is announcing the general availability of new low-cost burstable Amazon EC2 T9g instances, which offer the best price performance among general-purpose EC2 instances. These instances are powered by AWS Graviton5 proc…"
-   },
-   {
-    "title": "AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/",
-    "summary": "AWS Data Exports for Cost and Usage Report (CUR) 2.0 now includes standardized cost and rate columns that represent cost consistently across AWS purchase options, including On Demand, Savings Plans, Reserved Instances, E…"
-   },
-   {
-    "title": "AWS Billing and Cost Management now offers APIs to track payment status",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/",
-    "summary": "Today, AWS Billing and Cost Management announces new APIs that let you view your AWS payment information through the AWS SDKs and the AWS CLI. With these APIs, you can check your account balance, find invoices that are d…"
-   },
-   {
-    "title": "Amazon EventBridge Scheduler adds 589 new API actions and event bus targets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/",
-    "summary": "Amazon EventBridge Scheduler expands its AWS SDK integrations with 589 new API actions across 81 AWS services, and adds templated targets for the enhanced EventBridge Custom event bus. You can now schedule direct invocat…"
-   },
-   {
-    "title": "Amazon EventBridge Custom event bus now supports Webhook Events",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events",
-    "summary": "Amazon EventBridge now supports Webhook Events for the enhanced Custom event bus, so SaaS applications, AI agents, and custom integrations can send events to a bus over HTTPS. You no longer need to deploy and operate you…"
-   },
-   {
-    "title": "Amazon EventBridge Custom event bus now supports Amazon MSK as a target",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/",
-    "summary": "Amazon EventBridge now supports Amazon Managed Streaming for Apache Kafka (Amazon MSK) as a target for the enhanced Custom event bus, so you can deliver events to Kafka topics without running your own producer. The Event…"
-   },
-   {
-    "title": "Amazon Connect Customer expands how teams track and act on service level agreements for cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/",
-    "summary": "Amazon Connect Customer enhances service level agreements (SLAs) for cases, so teams can set service goals for more of their work and respond faster when a case falls behind. Admins can set SLAs on case fields beyond sta…"
-   },
-   {
-    "title": "AWS Transform announces UI component modernization for Windows web applications",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/",
-    "summary": "Today, AWS announced the general availability of third-party UI component porting for ASP.NET web site modernization in AWS Transform. When AWS Transform modernizes a legacy ASP.NET web site, it now detects dependencies …"
-   },
-   {
-    "title": "Amazon MSK now supports in-place upgrade from Standard brokers to Express brokers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-to-express-brokers-in-place-upgrade",
-    "summary": "You can now upgrade existing Amazon MSK Provisioned clusters from Standard brokers to Express brokers in place, with fully managed data migration and no application changes. Express brokers are designed to deliver up to …"
-   },
-   {
-    "title": "Amazon VPC Lattice now supports CloudWatch metrics for VPC resources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-lattice-cloudwatch-metrics/",
-    "summary": "Amazon VPC Lattice now publishes Amazon CloudWatch metrics for VPC resources. Resource owners — those who share resources via VPC Lattice — and resource consumers — those who access those shared resources — can now see T…"
-   },
-   {
-    "title": "AWS RTB Fabric Modules are now generally available through AWS Marketplace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-rtb-fabric-modules-marketplace/",
-    "summary": "AWS RTB Fabric Modules from AdTech partners including Pixalate, WURFL by ScientiaMobile, and Picnic are now available through AWS Marketplace. With AWS RTB Fabric Modules, any demand-side platform (DSP), supply-side plat…"
-   },
-   {
-    "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
-    "link": "https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
-    "summary": "Amazon SageMaker JumpStart now offers a model leaderboard in Amazon SageMaker Studio. You can use it to compare foundation models side by side on throughput, latency, and cost, and then deploy or customize the model that…"
-   },
-   {
-    "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
-    "summary": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define dat…"
-   },
-   {
-    "title": "AWS Pricing Calculator now estimates workload costs through a new API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/",
-    "summary": "AWS Pricing Calculator now offers GetUsageLinesEstimatedCost, a new API that returns the estimated cost of a planned workload in a single API call. You send up to 500 usage lines in one request and get the cost back righ…"
-   },
-   {
-    "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
-    "summary": "Today, Amazon CloudWatch announces support for your own application telemetry in the CloudWatch Observability EKS add-on. The CloudWatch agent you already run now accepts metrics, traces, and logs from your applications,…"
-   },
-   {
-    "title": "Amazon Transcribe announces a synchronous transcription API",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/",
-    "summary": "Amazon Transcribe now offers a synchronous transcription API, `TranscribeAudio`. Send a complete audio file in a single request and get the full transcript back in the same response. There is no job to start, no status t…"
-   },
-   {
-    "title": "Amazon DynamoDB vector search now supports new inline filter operators",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
-    "summary": "Amazon DynamoDB vector search inline filters now support range comparisons, value lists, and logical operators in addition to the equality operator, so you can narrow a vector search to exactly the items you want. You ca…"
-   },
-   {
-    "title": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/",
-    "summary": "AWS Partner Central Agents now help AWS Partners create and manage AWS Partner Central and AWS Marketplace support cases in one place. The agents are available 24/7 and draw on Partner Central account details and authori…"
-   },
-   {
-    "title": "Spend limits in the new AWS experience now support SMS alerts",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sms/",
-    "summary": "Builders using the new AWS experience on the Paid plan can now receive spend limit alerts by text message (SMS), alongside existing email notifications. A spend limit sets the maximum monthly cost for a project. Notifica…"
-   },
-   {
-    "title": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/",
-    "summary": "Amazon S3 Vectors now supports up to 40 KB of filterable metadata per vector, up from 2 KB. You can attach and filter on more attributes per vector, such as category, permissions, timestamps, and descriptive tags, so you…"
-   },
-   {
-    "title": "AWS Lambda MicroVMs is now available in 7 additional AWS regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-7-regions",
-    "summary": "AWS Lambda MicroVMs is now available in 7 additional AWS Regions: Asia Pacific (Osaka), Asia Pacific (Seoul), Canada (Central), Europe (London), Europe (Paris), South America (São Paulo), and US West (N. California). Wit…"
-   },
-   {
-    "title": "AgentCore runtime instances now support Amazon EC2 G7 instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
-    "summary": "Amazon Bedrock AgentCore runtime instances now support Amazon EC2 G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. Runtime instances run your agents on Amazon EC2 instances while AgentCore hand…"
-   },
-   {
-    "title": "AWS Continuum for Penetration Testing now estimates task hours before you run a test",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-cost-estimates/",
-    "summary": "AWS Continuum for Penetration Testing (formerly AWS Security Agent) now lets you estimate task hours before running a penetration test, so developers and security teams can see how many billable task hours a test is like…"
-   },
-   {
-    "title": "Amazon Transcribe now available in AWS European Sovereign Cloud",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-germany/",
-    "summary": "Amazon Transcribe is now available in the AWS European Sovereign Cloud (Germany) Region. Customers who need to keep data and operations within the EU for regulatory compliance and data sovereignty requirements can now us…"
-   },
-   {
-    "title": "AWS DevOps Agent adds community and partner tools repository",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-tools-repository/",
-    "summary": "AWS DevOps Agent now gives you ways to share and leverage skills, MCP servers, connectors, and custom agents that enhance the capabilities of your AWS DevOps Agent instances. The AWS DevOps Agent Tools open source reposi…"
-   },
-   {
-    "title": "AWS DevOps Agent adds new chat capabilities",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-new-chat-capabilities/",
-    "summary": "AWS DevOps Agent now extends its chat capabilities across MCP clients like Kiro and Claude Code, as well as Slack and Microsoft Teams channels. With Model Context Protocol (MCP) support, AWS DevOps Agent can now take dir…"
-   },
-   {
-    "title": "AWS DevOps Agent reduces investigation latency",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-reduces-latency/",
-    "summary": "When an incident is occurring, mean time to recover needs to be as fast as possible. With this launch, incident investigations performed by AWS DevOps Agent complete faster. Investigations now also include a real-time su…"
-   },
-   {
-    "title": "AWS Partner Central guides now available in the console and through AWS Partner Central Agents",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-guides-mcp/",
-    "summary": "AWS announces AWS Partner Central guides with access through the AWS Partner Central console and the AWS Partner Central Agents Model Context Protocol (MCP) server. The guides give AWS Partners one place to search, read,…"
-   },
-   {
-    "title": "IAM Roles Anywhere now supports aliases to simplify workload configuration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-alias/",
-    "summary": "AWS Identity and Access Management (IAM) Roles Anywhere now supports aliases, which are readable names that you assign to trust anchors, profiles, and certificate revocation lists (CRLs). Your workloads can request tempo…"
-   },
-   {
-    "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
-    "summary": "Amazon CloudWatch now supports a 30-day query window for PromQL queries against OpenTelemetry metrics, up from 7 days. You can query a month of data in a single request, chart month-over-month and week-over-week trends o…"
-   },
-   {
-    "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
-    "summary": "Today, Amazon CloudWatch announces built-in monitoring for open source tools running on your Amazon EKS clusters, including Karpenter, KEDA, vLLM, KServe, SGLang, Ray and Knative Serving. You get dashboards for the tools…"
-   },
-   {
-    "title": "AWS Quick now supports group assignments for custom permissions and limit profiles",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
-    "summary": "AWS Quick now supports assignments for custom permissions and limit profiles to groups from your enterprise identity provider (IdP). Administrators can now apply feature restrictions and per-user resource limits to IdP g…"
-   },
-   {
-    "title": "AWS Quick introduces enterprise guardrails (preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
-    "summary": "AWS Quick now includes enterprise guardrails, giving administrators configurable content safety and sensitive-information controls for user prompts. Administrators can apply guardrail policies to individual users or ente…"
-   },
-   {
-    "title": "Amazon CloudWatch Observability EKS add-on now supports telemetry filtering",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-otel-addon-filtering/",
-    "summary": "Today, Amazon CloudWatch announces telemetry filtering for the CloudWatch Observability EKS add-on, so you can stop paying to ingest telemetry you don't use. You can now set cluster-wide include and exclude lists for nam…"
-   },
-   {
-    "title": "Amazon ECS Action Logs now cover tasks, container instances, and capacity providers",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-action-logs-expanded-troubleshooting",
-    "summary": "Amazon Elastic Container Service (Amazon ECS) now extends Action Logs to include tasks, container instances, clusters, and capacity providers, so you can see why your tasks failed or why your clusters didn't scale as des…"
-   },
-   {
-    "title": "Amazon Managed Service for Prometheus supports 2B active metrics and 300K rules per workspace",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amp-supports-2b-metrics-300k-rules/",
-    "summary": "Amazon Managed Service for Prometheus now supports up to 2 billion active metric time series and up to 300,000 total recording and alerting rules per workspace. Customers can also create multiple workspaces per account. …"
-   },
-   {
-    "title": "Amazon S3 increases the read request rate for general purpose buckets by up to 2x",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-increases-read-request-rate/",
-    "summary": "Amazon S3 now supports at least 11,000 GET/HEAD requests per second, up from 5,500, for general purpose buckets. With this higher request rate, you can retrieve data faster for read-intensive workloads such as machine le…"
-   },
-   {
-    "title": "AWS Lambda adds support for Python 3.15",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-python-315/",
-    "summary": "AWS Lambda now supports creating serverless applications using Python 3.15. Python 3.15 is generally available for Lambda Event Functions and is available in public preview for Lambda Web Functions. This is the first Pyt…"
-   },
-   {
-    "title": "​​​Amazon RDS for Db2 now supports renaming databases​",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-rename-databases",
-    "summary": "​​Amazon Relational Database Service (Amazon RDS) for Db2 now supports renaming databases in place. You can rename a database on your DB instance by calling the new rdsadmin.rename_database stored procedure. Previously, …"
-   },
-   {
-    "title": "Amazon RDS for Db2 now supports object-level audit policies",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-object-level-audit-policies",
-    "summary": "Amazon RDS for Db2 now supports object-level audit policies, giving you fine-grained control over which database objects are audited. You can create custom audit policies and attach them to specific tables, users, groups…"
-   },
-   {
-    "title": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Osaka)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-racks-osaka/",
-    "summary": "Second-generation AWS Outposts racks are now supported in the AWS Asia Pacific (Osaka) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocatio…"
-   },
-   {
-    "title": "Amazon Textract Insights is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-insights-ga/",
-    "summary": "Amazon Textract Insights brings document understanding to Amazon Textract. It is a new generative AI feature of Amazon Textract, and is now generally available in the US East (N. Virginia) and US West (Oregon) AWS Region…"
-   },
-   {
-    "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
-    "summary": "Today, AWS announces the preview of Data Hub in AWS Billing and Cost Management, a managed data layer that enables AWS FinOps Agent to query cost and usage data with SQL. In preview, Data Hub is available to AWS FinOps A…"
-   },
-   {
-    "title": "Amazon MSK Standard Brokers adds support for Apache Kafka version 4.2",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-msk-standard-version-42/",
-    "summary": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) now supports Apache Kafka version 4.2 on Standard brokers. A key highlight of this release is Queues for Kafka, which is now production ready. With Queues, multiple …"
-   },
-   {
-    "title": "AWS Lambda adds support for Node.js 26",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-nodejs-26/",
-    "summary": "AWS Lambda now supports creating serverless applications using Node.js 26, for both Lambda Web Functions and Lambda Event Functions. Developers can use Node.js 26 as both a managed runtime and a base container image (Eve…"
-   },
-   {
-    "title": "Amazon RDS for Db2 now supports new Canadian time zones",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-new-canadian-time",
-    "summary": "​​Amazon RDS for Db2 now supports four new time zones, America/Vancouver, America/Edmonton, America/Inuvik, and America/Winnipeg, that reflect the updated local time rules for British Columbia, Alberta, the Northwest Ter…"
-   },
-   {
-    "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
-    "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) updates for Microsoft SQL Server. This release includes support…"
-   },
-   {
-    "title": "AWS Agent Registry now supports WebBotAuth bot registration",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/",
-    "summary": "AWS Agent Registry now supports registering WebBotAuth (WBA) bots as a new record type, making it easier to verify legitimate bot traffic through a standardized protocol. Previously, organizations lacked a standardized w…"
-   },
-   {
-    "title": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/",
-    "summary": "AWS Lambda MicroVMs now supports customer managed keys (CMK) in AWS Key Management Service (KMS) for data encryption at rest. CMK gives you full control over the lifecycle and usage of your KMS keys , helping meet compli…"
-   },
-   {
-    "title": "AWS Secrets Store CSI Driver Provider now supports AssumeRole for cross-account secret access",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-store-csi-driver-assumerole/",
-    "summary": "The AWS Secrets Store CSI Driver Provider now supports AssumeRole (role-chaining), allowing Kubernetes pods to access secrets and parameters across AWS accounts by assuming an IAM role in the account where the secrets ar…"
-   },
-   {
-    "title": "AWS Agent Registry now offers naming and public discovery capabilities",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/",
-    "summary": "AWS Agent Registry now offers public naming capabilities, making it easy to attach verified domain names to your agents and AI tools. Developers and network admins can perform domain verification checks to prove domain o…"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports Primary Endpoint",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
-    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now provides a Primary Endpoint, a DNS name that always resolves to the current primary DB instance in a replica configuration. When you switch over to an Oracle…"
-   },
-   {
-    "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
-    "summary": "Amazon Cognito multi-Region replication (MRR) now supports additional AWS Regions, extending the resilience benefits of MRR to more workloads. Amazon Cognito helps you implement secure sign-in and access control for user…"
-   },
-   {
-    "title": "Account Mapping and Planning now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
-    "summary": "AWS Partners can now map their target accounts against AWS records and find where to collaborate with AWS on joint go-to-market before an opportunity exists. Account Mapping and Planning in AWS Partner Central replaces m…"
-   },
-   {
-    "title": "Demand Center now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
-    "summary": "AWS Partners can now plan, launch, fund, and measure demand generation campaigns in one AI-powered experience. Demand Center in AWS Partner Central succeeds Marketing Central and brings together Marketing Central and MDF…"
-   },
-   {
-    "title": "Lead groups and channel recommendations now available in AWS Partner Central",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
-    "summary": "AWS Partners can now organize enriched leads and plan outreach with lead groups and channel recommendations in AWS Partner Central. Enriched leads are automatically grouped by solution area and segmented into sales-ready…"
-   },
-   {
-    "title": "Amazon Managed Service for Prometheus now available in the AWS European Sovereign Cloud (Germany) region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amp-aws-european-sovereign-cloud/",
-    "summary": "Amazon Managed Service for Prometheus is now available in the AWS European Sovereign Cloud (Germany) region, along with Amazon Managed Service for Prometheus collector. Amazon Managed Service for Prometheus is a fully ma…"
-   },
-   {
-    "title": "AWS Backup now supports incremental backups for Amazon DynamoDB",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-incremental-backups-dynamodb/",
-    "summary": "AWS Backup now supports incremental backups of Amazon DynamoDB tables, enabling you to reduce backup storage while maintaining backup schedules as frequent as one hour. Until now, AWS Backup created a full copy of your D…"
-   },
-   {
-    "title": "Amazon SageMaker adds new capabilities – improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/",
-    "summary": "Improved blueprints: Amazon SageMaker Unified Studio now gives project teams more ownership of their data and resources, within governance policies that administrators set centrally. Additional releases include faster no…"
-   },
-   {
-    "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
-    "summary": "Web Search on Amazon Bedrock, the tool that grounds AI agents and applications in cited, current web information, now supports five new languages, plus non-US English, on Amazon Bedrock AgentCore and Amazon Bedrock: Span…"
-   },
-   {
-    "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
-    "summary": "AWS Network Firewall announces the public preview of automated Internet firewall, a new centralized control that allows you to configure Network Firewall, with native network address translation (NAT) capability, on the …"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
-    "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Replica First Patching, which reduces downtime during minor version upgrades. Replica First Patching is available for Enterprise Edition DB instance…"
-   },
-   {
-    "title": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
-    "summary": "Amazon Neptune Serverless now delivers up to 30% better performance at the same price per Neptune Capacity Unit, running on AWS Graviton4 processors. The new Graviton4-based platform also brings an improved scaling algor…"
-   },
-   {
-    "title": "AWS CloudFormation increases the default stacks per account quota to 300,000",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-stacks-per-account-quota/",
-    "summary": "AWS CloudFormation now supports up to 300,000 stacks in each AWS account and Region by default (previously 2,000), which enables you to add stacks as your workloads grow without requesting a quota increase. CloudFormatio…"
-   },
-   {
-    "title": "Announcing a new skill for AI agents in Amazon Textract Core",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-textract-core-skill-ai-agents/",
-    "summary": "Amazon Textract Core now lets AI agents extract text, tables, forms, and other data from documents through a skill, with no server to run or infrastructure to deploy. The skill guides an agent to the right Amazon Textrac…"
-   },
-   {
-    "title": "Amazon Route 53 private hosted zones now support public DNS fallback",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-public-dns-fallback/",
-    "summary": "Amazon Route 53 private hosted zones now support public DNS fallback. When a query for a name in your private hosted zone's domain doesn't match a record in the zone, Route 53 returns the answer from public DNS instead o…"
-   },
-   {
-    "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
-    "summary": "Amazon CloudWatch Omni now supports collecting Azure resource logs, Azure Monitor platform metrics, virtual network (VNet) flow logs, and traces from Application Insights. Teams that run workloads on both AWS and Azure n…"
-   },
-   {
-    "title": "AWS Lambda now provides cost optimization recommendations for Event Functions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/",
-    "summary": "AWS Lambda now provides cost optimization recommendations for Event Functions in AWS Trusted Advisor . These recommendations identify on-demand functions where moving to Lambda Managed Instances (LMI) is estimated to red…"
-   },
-   {
-    "title": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon SQS FIFO queues",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-10K-batch-size-SQSFIFO/",
-    "summary": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon Simple Queue Service (Amazon SQS) FIFO queue event source mappings (ESMs) in provisioned mode , up from 10 messages previously. With larger batches…"
-   },
-   {
-    "title": "Amazon Route 53 now supports Availability Zone (AZ) affinity routing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-affinity-routing/",
-    "summary": "Amazon Route 53 now supports Availability Zone (AZ) affinity routing, which routes DNS queries from your VPCs to resources in the same AZ as the client that sends the query. This helps you keep traffic within the same AZ…"
-   },
-   {
-    "title": "Amazon VPC IPAM policies now support automated internet firewall and AWS Lambda Web Functions and MicroVMs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-ipam-policies-firewall-lambda/",
-    "summary": "Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) policies now support AWS Network Firewall automated internet firewall and AWS Lambda Web Functions and MicroVMs. You can centrally configure IPAM policies acro…"
-   }
-  ],
-  "digest_date": "20 Nov 2026"
+  "pending": [],
+  "digest_date": "21 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
