@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -87,7 +88,6 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.5.13 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-4",
+    "title": "PHP 8.6.0 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-5",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.5.13 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-4",
+   "title": "PHP 8.6.0 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-5",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -500,8 +500,8 @@
    "2e17a38f6c4f750a99d3577faf4859c71c590ca8",
    "59cf4a0ed2c5345ce798832bd2b218b890b10e8c",
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
-   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "70799b8c9c3a5498dca09a0ed78053d146e7b894",
+   "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
    "ef96f608fd55ed5203c288210765e4467ce767d1",
@@ -518,10 +518,10 @@
    "39e7c7710482cd5e4cbfe8b1fd43fc6589cf25ed",
    "329aece692ba170b23a976ea72eaa40d12b73ec2",
    "08dbc148bb7d0b59e3d0e5c7c9161da74da6c579",
-   "70d205dc426570b8676e5efb7a68cdd397f14376",
-   "233e03a45947d6106fd31ef811d8e9247f776d44",
-   "0c6d5590ed875105cd726b4d073723fb9797b991",
    "3107339583692a3a4d7f905133e424e8f898a87f",
+   "233e03a45947d6106fd31ef811d8e9247f776d44",
+   "70d205dc426570b8676e5efb7a68cdd397f14376",
+   "0c6d5590ed875105cd726b4d073723fb9797b991",
    "948777bb3e6e5d40d12166c8e8211ab2936ed74f",
    "f20db42f0570aec9fea6f0a1e64d4679280d8c5a",
    "0116834268e969d8c5c50d4be97996d887f88512",
