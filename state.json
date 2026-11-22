@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -87,7 +88,6 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.5.13 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-4",
+    "title": "PHP 8.6.0 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-5",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.5.13 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-4",
+   "title": "PHP 8.6.0 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-5",
    "date": "19 Nov 2026"
   },
   "fails": 0
