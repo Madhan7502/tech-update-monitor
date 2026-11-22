@@ -27,7 +27,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
    "https://www.php.net/archive/2026.php#2026-11-19-2",
@@ -88,6 +87,7 @@
    "https://www.php.net/archive/2026.php#2026-04-09-2",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
+   "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
    "https://www.php.net/archive/2026.php#2026-02-12-2",
    "https://www.php.net/archive/2026.php#2026-02-12-1",
@@ -101,14 +101,14 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-5",
+    "title": "PHP 8.5.13 Released!",
+    "link": "https://www.php.net/index.php#2026-11-19-4",
     "date": "19 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-5",
+   "title": "PHP 8.5.13 Released!",
+   "link": "https://www.php.net/index.php#2026-11-19-4",
    "date": "19 Nov 2026"
   },
   "fails": 0
@@ -490,8 +490,8 @@
    "04af247eb3bca136b92ef248b9b31e838b7ae15e",
    "1d988d2199dd73845fd88dbea0f3a4940d1a2766",
    "68db578853b3f91eb21ed3531f94095a5427a1df",
-   "c311750b5abf42ae38337e2a8e418a0372e79fe4",
    "ba91fbdb4176dfd00bb2222542142c427f225b22",
+   "c311750b5abf42ae38337e2a8e418a0372e79fe4",
    "06ed2b32cda75ecb478eff821410ea508ff9c5e5",
    "b6e31d09e73b9bbd6214600cea0453a3686347b0",
    "75045e061356e99011e8afd0ccf81b32474ed4c3",
@@ -506,9 +506,9 @@
    "0c0d23bfb753d7cdfc4120dd32a078b0c4945cc3",
    "8cc964bd2d5ffb95c0a2e75463daf9009b5c3079",
    "70799b8c9c3a5498dca09a0ed78053d146e7b894",
+   "ef96f608fd55ed5203c288210765e4467ce767d1",
    "b879d6e5bde55774fc455d4fa328fff88b2c9300",
    "8af7ea171a4eb38b77843d75b5c9241c69b6e9e2",
-   "ef96f608fd55ed5203c288210765e4467ce767d1",
    "868b1482ea911460dde8fce321f42fbefbe6ee81",
    "0790daaa1090f191712c317bf63e4c639cc71bd7",
    "6295dee371511cb476d8efc418adcff2690071a1",
@@ -2003,6 +2003,7 @@
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.3.1",
    "tag:github.com,2008:Repository/355691505/5.3.0",
    "tag:github.com,2008:Repository/355691505/5.2.1",
    "tag:github.com,2008:Repository/355691505/5.2.0",
@@ -2024,15 +2025,15 @@
   ],
   "recent": [
    {
-    "title": "5.3.0",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.0",
-    "date": "16 Nov 2026"
+    "title": "5.3.1",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.1",
+    "date": "22 Nov 2026"
    }
   ],
   "latest": {
-   "title": "5.3.0",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.0",
-   "date": "16 Nov 2026"
+   "title": "5.3.1",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.1",
+   "date": "22 Nov 2026"
   },
   "fails": 0
  }
