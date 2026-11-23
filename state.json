@@ -461,6 +461,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "9f972b10d4eb4c8836e9eb273a8fbca77db862ce",
    "7e707b761ba75e75404d343abd9149897263bc6b",
    "5773cc6c5894dd48459d77d322ea3acbae675570",
    "ba64504218769240ee1a5fd68f6abf1949d8f37f",
@@ -759,10 +760,14 @@
    "1229c3a132755235c2c7a6532cc877d1a5628ecc",
    "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
    "0a01318cae87012346895bbf7db63c2863a928d0",
-   "489b936081748cbc11890df04af10317d0c86b1c",
-   "3020b3b9b35c40f6a62efb238e2632d247c7d24c"
+   "489b936081748cbc11890df04af10317d0c86b1c"
   ],
   "recent": [
+   {
+    "title": "Amazon CloudWatch Query Studio now supports saved queries",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
+    "date": "21 Nov 2026"
+   },
    {
     "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
@@ -807,21 +812,16 @@
     "title": "AWS Quick now supports Japanese, German, Vietnamese, and Chinese",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/",
     "date": "20 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
-    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
+   "title": "Amazon CloudWatch Query Studio now supports saved queries",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
    "date": "21 Nov 2026"
   },
   "fails": 0,
   "pending": [],
-  "digest_date": "22 Nov 2026"
+  "digest_date": "23 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
