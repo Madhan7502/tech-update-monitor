@@ -349,7 +349,6 @@
  },
  "aws-security": {
   "seen": [
-   "673bae0c00db5a735d35b34fe46471676b93f07b",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
@@ -386,6 +385,8 @@
    "007dfd39f2506be6dbbaf22ea8e4d6fa10eedc89",
    "7508e4544fcccf81041fa1786a819a3a7ef0fcd0",
    "ffea508e971188b50ba0a0c32a9b22e36b3b773c",
+   "f3822d55098115f56753be6d8573fdead57e59f3",
+   "673bae0c00db5a735d35b34fe46471676b93f07b",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
    "3db5546e06e92097c8d1b92e8935452d83f5de21",
@@ -447,20 +448,36 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-130901 - Improper limitation of a pathname to a restricted directory in Amazon awslabs.document-loader-mcp-server",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-195-aws/",
-    "date": "20 Nov 2026"
+    "title": "CVE-2026-134056 - Out-of-bounds write in padded block cipher decryption in AWS-LC",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/",
+    "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-130901 - Improper limitation of a pathname to a restricted directory in Amazon awslabs.document-loader-mcp-server",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-195-aws/",
-   "date": "20 Nov 2026"
+   "title": "CVE-2026-134056 - Out-of-bounds write in padded block cipher decryption in AWS-LC",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/",
+   "date": "23 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "115deab71d8dd377725ba6c832970a8c8e516663",
+   "4776b278cf3413b5ff56c184b7a13095cffd901a",
+   "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
+   "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
+   "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
+   "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
+   "b95c1bb1d4d120f1899fe82c743e877778f1392f",
+   "32830008107d01a6562024ad77107d1a3d79cbfe",
+   "f1310b37ba8fb89a9cbb6915da4abfdbb190bed2",
+   "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
+   "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
+   "8f00cf446f01df8789616760fda94c913c7cbbd7",
+   "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
+   "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
+   "549dcebac3fb7e432db4500d5e1102cfd686731e",
+   "61d4ef798f1fa0576a34be67b5fd991ab9aa40a7",
    "9f972b10d4eb4c8836e9eb273a8fbca77db862ce",
    "7e707b761ba75e75404d343abd9149897263bc6b",
    "5773cc6c5894dd48459d77d322ea3acbae675570",
@@ -471,12 +488,14 @@
    "c0e711c8e0f6af456df22b477ce4e7d1954cfe73",
    "d0ec8f682174ffe2e30deb3b6bb329765f689425",
    "c8f2f77c6be4c8b577b8c2ca0a149175e67afa36",
+   "d8c0e86f53d7e42e3e53c4dd59b7d9d94fc03313",
    "6a2cebc4340117ae8e0d31d42a5786d069bff421",
    "864da979c045b5e595db76e05e9889d0a540dd00",
    "6e00c22c337f31343b32e730d59d47b7dbcfbbfe",
    "3a44c1a96340154fd49bfc7ddd110c254f93484b",
-   "34345fb38770408032c115f1a4191e05c4320a9b",
+   "c00edf882a7ed6b701461e075990cea14b722866",
    "f153ada87741a768bccaae4b9523d9090e89d683",
+   "34345fb38770408032c115f1a4191e05c4320a9b",
    "5c86b319c2bf1abbca4ee58acfbd48e7e46eaf8b",
    "38f3a462608c5989d35d6f4b6b0028e8482a3542",
    "d3a7913b0a10e68a2b59de8728a363e0c03208f6",
@@ -485,6 +504,7 @@
    "73a0ac376f9ac5409c2559aefcfb50e0589fe9e2",
    "f890aab8066b55b22b87b5745573585aca70265d",
    "6ff37aa30a29dd2099529ac7c6c41375f6baee8b",
+   "7976bd7ada38f37d8a68b32fb50df41e16dd5828",
    "4ef0a2563f316986a96d6b1482b11cbcfffead48",
    "9726e8c0deb6ac49490db469347a3bdd3dbb9d86",
    "609b10847d86c65781c1c54d20c4bc92f80e87a8",
@@ -741,86 +761,163 @@
    "eda34f5bc1002fafcf314aadaf20f1b7420fedd0",
    "622ebb47cb5747a71f99950887566ac590089335",
    "f9bed7f55d83040264330b8be57f6a6b58b961ec",
-   "03fba84e76b2bb2cd0cf13aa4cce5e2c0f8bb648",
-   "207a39dbc5b502aba399bf68a4f579ee65521079",
-   "d7e60a14df6857abf8ca9980f6f3ba973272e9bc",
-   "fee69eedfd76dcd01b523e60e3e759f75751d99a",
-   "6e4df7c694c131de7b115a19b3d3092219a9b235",
-   "7983ef26c5654f20499086edfa31d0adc63399b5",
-   "54e7e75769610b05e03d0fde5c9ae9e6da336505",
-   "172f4186adad79bee64ec94287949a528070583d",
-   "a38f3dc5f2f509bd9f099a6e09c4e8e5a958fb16",
-   "d630710aaf49da772d41305d8794e04dd58f2559",
-   "c5d1ee644d2b7751132db2da1c0b84eff8c51707",
-   "3f3ceb02f3e404b709da8aa1d8cf28cdec18421f",
-   "4e1794bd95756cc5c5aceec80edd3b27f8114ff3",
-   "614453bbec40b4444a4fc2274656c102aed48bdb",
-   "883262429c01e999d215208817491eab1b642c75",
-   "7297e9856c32c5fcf1c67557ee2bb20e42ece110",
-   "1229c3a132755235c2c7a6532cc877d1a5628ecc",
-   "412dbd790a8a20a0e2516dd2f68f0e1ca4c76010",
-   "0a01318cae87012346895bbf7db63c2863a928d0",
-   "489b936081748cbc11890df04af10317d0c86b1c"
+   "03fba84e76b2bb2cd0cf13aa4cce5e2c0f8bb648"
   ],
   "recent": [
    {
-    "title": "Amazon CloudWatch Query Studio now supports saved queries",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
-    "date": "21 Nov 2026"
+    "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
-    "date": "21 Nov 2026"
+    "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
-    "date": "21 Nov 2026"
+    "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
-    "date": "21 Nov 2026"
+    "title": "AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
-    "date": "21 Nov 2026"
+    "title": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "Build more capable automations through chat with Flows in AWS Quick",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-flows-automations-chat/",
-    "date": "20 Nov 2026"
+    "title": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "Amazon RDS for Oracle now supports Primary Endpoint",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
-    "date": "20 Nov 2026"
+    "title": "Announcing metal size for Amazon EC2 G7 instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "AWS Lambda now publishes Event Function state change events to Amazon EventBridge",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/",
-    "date": "20 Nov 2026"
+    "title": "Amazon Aurora serverless for MySQL now supports up to 384 ACUs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
-    "date": "20 Nov 2026"
+    "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
+    "date": "23 Nov 2026"
    },
    {
-    "title": "AWS Quick now supports Japanese, German, Vietnamese, and Chinese",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/",
-    "date": "20 Nov 2026"
+    "title": "Amazon Connect Customer AI agents now fill in step-by-step guides",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
+    "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon CloudWatch Query Studio now supports saved queries",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
-   "date": "21 Nov 2026"
+   "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+   "date": "23 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+    "summary": "Amazon Connect Customer now allows supervisors to force logout agents directly from the real-time analytics dashboard, eliminating the need to manually contact agents to end their sessions. Force logout ends all active a…"
+   },
+   {
+    "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
+    "summary": "Amazon Connect Customer now uses generative AI to automate evaluations of human and AI agent performance in 45 additional languages, such as Arabic, Dutch, Indonesian, and Polish. Managers define custom evaluation criter…"
+   },
+   {
+    "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
+    "summary": "AWS Partners and AWS Marketplace sellers now have two new ways to access their analytics data in AWS Partner Central. Partner Central Agents answer questions in plain language, and Data Subscriptions deliver Partner Cent…"
+   },
+   {
+    "title": "AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud",
+    "summary": "Amazon Bedrock AgentCore runtime instances are now available in the AWS GovCloud (US-West) Region. Runtime instances run your agents on Amazon EC2 instances in your own account, while AgentCore handles provisioning, patc…"
+   },
+   {
+    "title": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
+    "summary": "Amazon CloudFront now supports HTTP/2 connections to custom origins and VPC origins. HTTP/2 lets CloudFront send many requests over fewer connections to your origin. This means fewer connections and TLS handshakes for yo…"
+   },
+   {
+    "title": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/",
+    "summary": "AWS Global Accelerator now preserves the client IP address for traffic sent to Network Load Balancer (NLB) endpoints with TLS listeners. You can terminate TLS at your NLB and still see the original client IP address in y…"
+   },
+   {
+    "title": "Announcing metal size for Amazon EC2 G7 instances",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
+    "summary": "Today, AWS announces the general availability of the metal size for Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6…"
+   },
+   {
+    "title": "Amazon Aurora serverless for MySQL now supports up to 384 ACUs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/",
+    "summary": "Amazon Aurora serverless now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora MySQL-Compatible Edition, a 50% increase from the previous maximum of 256 ACUs. Each ACU provides approximately…"
+   },
+   {
+    "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
+    "summary": "Amazon SageMaker Studio now provides a native developer experience for Amazon SageMaker HyperPod, enabling data scientists to submit distributed training jobs, deploy models, and monitor workloads through a visual interf…"
+   },
+   {
+    "title": "Amazon Connect Customer AI agents now fill in step-by-step guides",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
+    "summary": "AI agents in Amazon Connect Customer can now populate fields of a step-by-step guide for contact center agents during live customer interactions. With step-by-step guides, managers can design forms and other user interfa…"
+   },
+   {
+    "title": "AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/",
+    "summary": "AWS CodeDeploy can now suspend Amazon EC2 Auto Scaling processes during EC2 in-place deployments to Auto Scaling groups. CodeDeploy is a fully managed service that automates application deployments to Amazon EC2 instance…"
+   },
+   {
+    "title": "Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/",
+    "summary": "Amazon Inspector has expanded its vulnerability management capabilities with runtime reachability analysis for findings originating from Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Compute Cloud (Am…"
+   },
+   {
+    "title": "AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/",
+    "summary": "AWS Systems Manager Automation now lets you create custom workflows (runbooks) that can automate operational tasks across Microsoft Azure, Google Cloud, and AWS resources. Automation helps you make changes safely at scal…"
+   },
+   {
+    "title": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
+    "summary": "Amazon EC2 Capacity Blocks for ML now lets customers search across multiple instance types and AWS Regions in a single search, making it easier to find and reserve the capacity their ML workloads need. With Capacity Bloc…"
+   },
+   {
+    "title": "You can now copy data server-side between Amazon S3 buckets and Amazon FSx file systems with S3 Access Points",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-server-side-copy-fsx/",
+    "summary": "You can now use Amazon S3 Access Points to copy or move data server-side between Amazon S3 general purpose buckets and Amazon FSx file systems within the same AWS Region, making it faster, lower-cost, and easier to move …"
+   },
+   {
+    "title": "AWS Certificate Manager now supports Amazon N2 certificates for mTLS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-amazon-n2-certificates/",
+    "summary": "AWS Certificate Manager (ACM) now issues Amazon N2 certificates for mutual TLS (mTLS) and other authentication outside web browsers. ACM public certificates no longer include client authentication, in line with WebPKI re…"
+   },
+   {
+    "title": "AWS Compute Optimizer automation rules now support organizational units",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-compute-optimizer/",
+    "summary": "AWS Compute Optimizer automation rules can now target the organizational units (OUs) you manage with AWS Organizations, making it easier for large organizations to scale optimization across their accounts. Previously, ma…"
+   },
+   {
+    "title": "AWS DevOps Agent achieves FedRAMP Class D Certification in AWS GovCloud (US-West)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-fedramp-class-d/",
+    "summary": "AWS DevOps Agent is now certified at the Federal Risk and Authorization Management (FedRAMP) Class D level in AWS GovCloud (US). AWS DevOps Agent is your always-available operations teammate that resolves and proactively…"
+   },
+   {
+    "title": "AWS Private CA now supports X.509 IAM condition keys",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-private-ca-x509-iam-keys/",
+    "summary": "AWS Private Certificate Authority (AWS Private CA) now supports IAM condition keys that describe the certificate being issued. You can write IAM policies that allow or deny a certificate request based on its subject, sub…"
+   }
+  ],
   "digest_date": "23 Nov 2026"
  },
  "apple-dev-releases": {
@@ -1029,9 +1126,9 @@
  "android-dev-blog": {
   "seen": [
    "tag:developer.android.com,2026-11-19:/blog/posts/android-developer-verification-2027",
+   "tag:developer.android.com,2026-11-18:/blog/posts/google-play-adaptive-quality-standards",
    "tag:developer.android.com,2026-11-18:/blog/posts/elevating-game-quality-foldables-large-screens-google-play",
    "tag:developer.android.com,2026-11-18:/blog/posts/jetpack-compose-november-2026-release",
-   "tag:developer.android.com,2026-11-18:/blog/posts/google-play-adaptive-quality-standards",
    "tag:developer.android.com,2026-11-17:/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization",
    "tag:developer.android.com,2026-11-16:/blog/posts/beyond-the-app-google-play-buyer-reach",
    "tag:developer.android.com,2026-11-11:/blog/posts/smileid-camerax-android-identity-verification",
@@ -1970,6 +2067,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.1.2",
    "tag:github.com,2008:Repository/355691391/5.1.1",
    "tag:github.com,2008:Repository/355691391/5.1.0",
    "tag:github.com,2008:Repository/355691391/5.0.3",
@@ -1989,15 +2087,15 @@
   ],
   "recent": [
    {
-    "title": "5.1.1",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/5.1.1",
-    "date": "11 Nov 2026"
+    "title": "5.1.2",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.1.2",
+    "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "5.1.1",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/5.1.1",
-   "date": "11 Nov 2026"
+   "title": "5.1.2",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.1.2",
+   "date": "23 Nov 2026"
   },
   "fails": 0
  },
