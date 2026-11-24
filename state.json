@@ -349,7 +349,6 @@
  },
  "aws-security": {
   "seen": [
-   "bf7963dacc18803b0da8912de42c04cee194d4be",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
    "a59e94bb7defda662009462222a39af819a71462",
@@ -386,6 +385,8 @@
    "7508e4544fcccf81041fa1786a819a3a7ef0fcd0",
    "ffea508e971188b50ba0a0c32a9b22e36b3b773c",
    "f3822d55098115f56753be6d8573fdead57e59f3",
+   "0bada62e5376e7ff04ad2589232c726edc9d9ec3",
+   "bf7963dacc18803b0da8912de42c04cee194d4be",
    "673bae0c00db5a735d35b34fe46471676b93f07b",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
    "9d24fa2ac61a60d625d7a8c9880fadc38584c861",
@@ -448,34 +449,44 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-134056 - Out-of-bounds write in padded block cipher decryption in AWS-LC",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/",
+    "title": "CVE-2026-134069 - Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/",
     "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-134056 - Out-of-bounds write in padded block cipher decryption in AWS-LC",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/",
+   "title": "CVE-2026-134069 - Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/",
    "date": "23 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "1c703815596e215596d8dedf6299d02308af8fe1",
+   "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
+   "765a47a7adb614804421be6562016c8aa8b73314",
+   "aaa7db14a954ddf9213b6a82bfc4017099fef3f3",
+   "eb2d6d8ec8640fc023d9b4e40e2b09e2c984facb",
    "115deab71d8dd377725ba6c832970a8c8e516663",
+   "aa2d3c5393a359c75385eb93f466177017cbe9c7",
    "4776b278cf3413b5ff56c184b7a13095cffd901a",
+   "a69b611574f3c493c2d4b20374528cc3eb1a502e",
    "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
    "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
    "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
-   "b95c1bb1d4d120f1899fe82c743e877778f1392f",
    "32830008107d01a6562024ad77107d1a3d79cbfe",
+   "b95c1bb1d4d120f1899fe82c743e877778f1392f",
    "f1310b37ba8fb89a9cbb6915da4abfdbb190bed2",
    "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
-   "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
    "8f00cf446f01df8789616760fda94c913c7cbbd7",
+   "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
+   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
+   "ffd041db2a111419f4f401e038dc12195a7686e0",
    "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
    "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
+   "d2ab7dcc29c04f4731a0ad39974e102261507213",
    "549dcebac3fb7e432db4500d5e1102cfd686731e",
    "61d4ef798f1fa0576a34be67b5fd991ab9aa40a7",
    "9f972b10d4eb4c8836e9eb273a8fbca77db862ce",
@@ -751,22 +762,42 @@
    "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
    "84c1d22357374a433976f32572fde8664865ca86",
    "0856dcf267c717133a21d4c1317a62f31cdff9da",
-   "9256138d2f5c4b91e2f8c28c8be7470e91b01153",
-   "ce00981d1658528c2bbebcada8637ef5b8015150",
-   "718e327b5292d7dd6b81b0561629e273e6a1eb93",
-   "23db02502afb70ed481cd9b593980c870412ca7c",
-   "6dad964f1428935658fd5d4a1fcb31e0f321403d",
-   "2f2bacfcc4af3ef26388a5361e9ecccd0ab19634",
-   "3db630b4d39f71745fccb4ab20f546149ec5ebc8",
-   "eda34f5bc1002fafcf314aadaf20f1b7420fedd0",
-   "622ebb47cb5747a71f99950887566ac590089335",
-   "f9bed7f55d83040264330b8be57f6a6b58b961ec",
-   "03fba84e76b2bb2cd0cf13aa4cce5e2c0f8bb648"
+   "9256138d2f5c4b91e2f8c28c8be7470e91b01153"
   ],
   "recent": [
    {
+    "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
+    "date": "23 Nov 2026"
+   },
+   {
+    "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
+    "date": "23 Nov 2026"
+   },
+   {
+    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+    "date": "23 Nov 2026"
+   },
+   {
+    "title": "AWS WAF introduces simplified pricing",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/",
+    "date": "23 Nov 2026"
+   },
+   {
+    "title": "AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
+    "date": "23 Nov 2026"
+   },
+   {
     "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+    "date": "23 Nov 2026"
+   },
+   {
+    "title": "Amazon Connect Customer now lets you test AI model version upgrades for automated evaluations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations",
     "date": "23 Nov 2026"
    },
    {
@@ -775,150 +806,24 @@
     "date": "23 Nov 2026"
    },
    {
+    "title": "Amazon CloudFront is now available in the AWS European Sovereign Cloud",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-european-sovereign-cloud",
+    "date": "23 Nov 2026"
+   },
+   {
     "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Announcing metal size for Amazon EC2 G7 instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon Aurora serverless for MySQL now supports up to 384 ACUs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer AI agents now fill in step-by-step guides",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
     "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
+   "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
    "date": "23 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
-    "summary": "Amazon Connect Customer now allows supervisors to force logout agents directly from the real-time analytics dashboard, eliminating the need to manually contact agents to end their sessions. Force logout ends all active a…"
-   },
-   {
-    "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
-    "summary": "Amazon Connect Customer now uses generative AI to automate evaluations of human and AI agent performance in 45 additional languages, such as Arabic, Dutch, Indonesian, and Polish. Managers define custom evaluation criter…"
-   },
-   {
-    "title": "AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/",
-    "summary": "AWS Partners and AWS Marketplace sellers now have two new ways to access their analytics data in AWS Partner Central. Partner Central Agents answer questions in plain language, and Data Subscriptions deliver Partner Cent…"
-   },
-   {
-    "title": "AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud",
-    "summary": "Amazon Bedrock AgentCore runtime instances are now available in the AWS GovCloud (US-West) Region. Runtime instances run your agents on Amazon EC2 instances in your own account, while AgentCore handles provisioning, patc…"
-   },
-   {
-    "title": "Amazon CloudFront Announces HTTP/2 Support for Connections to Origins",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/",
-    "summary": "Amazon CloudFront now supports HTTP/2 connections to custom origins and VPC origins. HTTP/2 lets CloudFront send many requests over fewer connections to your origin. This means fewer connections and TLS handshakes for yo…"
-   },
-   {
-    "title": "AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/",
-    "summary": "AWS Global Accelerator now preserves the client IP address for traffic sent to Network Load Balancer (NLB) endpoints with TLS listeners. You can terminate TLS at your NLB and still see the original client IP address in y…"
-   },
-   {
-    "title": "Announcing metal size for Amazon EC2 G7 instances",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/",
-    "summary": "Today, AWS announces the general availability of the metal size for Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6…"
-   },
-   {
-    "title": "Amazon Aurora serverless for MySQL now supports up to 384 ACUs",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/",
-    "summary": "Amazon Aurora serverless now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora MySQL-Compatible Edition, a 50% increase from the previous maximum of 256 ACUs. Each ACU provides approximately…"
-   },
-   {
-    "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
-    "summary": "Amazon SageMaker Studio now provides a native developer experience for Amazon SageMaker HyperPod, enabling data scientists to submit distributed training jobs, deploy models, and monitor workloads through a visual interf…"
-   },
-   {
-    "title": "Amazon Connect Customer AI agents now fill in step-by-step guides",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
-    "summary": "AI agents in Amazon Connect Customer can now populate fields of a step-by-step guide for contact center agents during live customer interactions. With step-by-step guides, managers can design forms and other user interfa…"
-   },
-   {
-    "title": "AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/",
-    "summary": "AWS CodeDeploy can now suspend Amazon EC2 Auto Scaling processes during EC2 in-place deployments to Auto Scaling groups. CodeDeploy is a fully managed service that automates application deployments to Amazon EC2 instance…"
-   },
-   {
-    "title": "Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/",
-    "summary": "Amazon Inspector has expanded its vulnerability management capabilities with runtime reachability analysis for findings originating from Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Compute Cloud (Am…"
-   },
-   {
-    "title": "AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/",
-    "summary": "AWS Systems Manager Automation now lets you create custom workflows (runbooks) that can automate operational tasks across Microsoft Azure, Google Cloud, and AWS resources. Automation helps you make changes safely at scal…"
-   },
-   {
-    "title": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
-    "summary": "Amazon EC2 Capacity Blocks for ML now lets customers search across multiple instance types and AWS Regions in a single search, making it easier to find and reserve the capacity their ML workloads need. With Capacity Bloc…"
-   },
-   {
-    "title": "You can now copy data server-side between Amazon S3 buckets and Amazon FSx file systems with S3 Access Points",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-server-side-copy-fsx/",
-    "summary": "You can now use Amazon S3 Access Points to copy or move data server-side between Amazon S3 general purpose buckets and Amazon FSx file systems within the same AWS Region, making it faster, lower-cost, and easier to move …"
-   },
-   {
-    "title": "AWS Certificate Manager now supports Amazon N2 certificates for mTLS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-amazon-n2-certificates/",
-    "summary": "AWS Certificate Manager (ACM) now issues Amazon N2 certificates for mutual TLS (mTLS) and other authentication outside web browsers. ACM public certificates no longer include client authentication, in line with WebPKI re…"
-   },
-   {
-    "title": "AWS Compute Optimizer automation rules now support organizational units",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-compute-optimizer/",
-    "summary": "AWS Compute Optimizer automation rules can now target the organizational units (OUs) you manage with AWS Organizations, making it easier for large organizations to scale optimization across their accounts. Previously, ma…"
-   },
-   {
-    "title": "AWS DevOps Agent achieves FedRAMP Class D Certification in AWS GovCloud (US-West)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-fedramp-class-d/",
-    "summary": "AWS DevOps Agent is now certified at the Federal Risk and Authorization Management (FedRAMP) Class D level in AWS GovCloud (US). AWS DevOps Agent is your always-available operations teammate that resolves and proactively…"
-   },
-   {
-    "title": "AWS Private CA now supports X.509 IAM condition keys",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-private-ca-x509-iam-keys/",
-    "summary": "AWS Private Certificate Authority (AWS Private CA) now supports IAM condition keys that describe the certificate being issued. You can write IAM policies that allow or deny a certificate request based on its subject, sub…"
-   }
-  ],
-  "digest_date": "23 Nov 2026"
+  "pending": [],
+  "digest_date": "24 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
