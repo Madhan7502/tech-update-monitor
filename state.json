@@ -475,8 +475,8 @@
    "4ef0369cd03a57b16d09cd5c98f7079b92c760f4",
    "1c703815596e215596d8dedf6299d02308af8fe1",
    "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
-   "765a47a7adb614804421be6562016c8aa8b73314",
    "eb002b5eed3da5300a91bafed4edf21d3aaca84a",
+   "765a47a7adb614804421be6562016c8aa8b73314",
    "716919cf5c6de019c7a1af326e40a7f57890ce81",
    "aaa7db14a954ddf9213b6a82bfc4017099fef3f3",
    "eb2d6d8ec8640fc023d9b4e40e2b09e2c984facb",
@@ -487,12 +487,13 @@
    "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
    "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
    "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
-   "ef08b635a8d772d11019dc51aad038b5360bf366",
    "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
+   "ef08b635a8d772d11019dc51aad038b5360bf366",
    "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
    "28b5f972175159f477e65b2adf87473598889407",
-   "dcb28931c531edb18b35370ff3c3d3fc6747655d",
+   "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
+   "dcb28931c531edb18b35370ff3c3d3fc6747655d",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
    "b95c1bb1d4d120f1899fe82c743e877778f1392f",
    "32830008107d01a6562024ad77107d1a3d79cbfe",
@@ -500,10 +501,10 @@
    "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
    "8f00cf446f01df8789616760fda94c913c7cbbd7",
    "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
-   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "2300a72cfb7a937fb3697b77d7c54c1151116976",
-   "fa45daf5066bf841c125800ce8fc06286e52efab",
    "ffd041db2a111419f4f401e038dc12195a7686e0",
+   "fa45daf5066bf841c125800ce8fc06286e52efab",
+   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "d524f85abdf549c8b302fdb431cd4a759b4cf3db",
    "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
    "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
@@ -766,8 +767,7 @@
    "b380379f433b5ecbf4e2e746eeb8d5a03039a989",
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
-   "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
-   "3cd93d4aacc3e7c3ebc421780f0cca6c7e5d4ec8"
+   "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124"
   ],
   "recent": [
    {
@@ -806,13 +806,13 @@
     "date": "23 Nov 2026"
    },
    {
-    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+    "title": "Amazon API Gateway announces API Portal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
     "date": "23 Nov 2026"
    },
    {
-    "title": "Amazon API Gateway announces API Portal",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
+    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
     "date": "23 Nov 2026"
    },
    {
@@ -827,94 +827,8 @@
    "date": "24 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon OpenSearch Service now supports OpenSearch version 3.9",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9",
-    "summary": "You can now run OpenSearch version 3.9 on Amazon OpenSearch Service. OpenSearch 3.9 helps you reduce vector memory and storage, evaluate search quality with more large language model (LLM) providers, build more responsiv…"
-   },
-   {
-    "title": "AWS Device Farm launches Device Connect for local access to remote Android devices",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-device-connect/",
-    "summary": "AWS Device Farm , a service for testing mobile and web apps, now offers Device Connect. With Device Connect, you and AI agents can use remote Android devices from your local machine in an IDE, terminal, or development en…"
-   },
-   {
-    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
-    "summary": "Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber through the bedrock-runtime endpoint on Amazon Bedrock in AWS GovCloud (US). Daybreak Red is designed for advanced, …"
-   },
-   {
-    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
-    "summary": "Starting today, the next generation of Amazon OpenSearch Serverless is available in the AWS Africa (Cape Town) Region. Customers can now use a fully managed search, vector and analytics engine that provisions resources i…"
-   },
-   {
-    "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
-    "summary": "AWS CloudFormation now supports 206 additional resource types across 88 services, including Amazon SageMaker Hub, Amazon Bedrock AgentCore PolicyEngine, and Amazon EC2 Snapshot. This closes key gaps in CloudFormation cov…"
-   },
-   {
-    "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/",
-    "summary": "Amazon Connect Customer analytics dashboards now support grouping historical metrics by time interval on trailing widgets, giving contact center managers granular control over how performance data is visualized over time…"
-   },
-   {
-    "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
-    "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports up to 500 databases per DB instance, up from the previous limit of 100. This higher density helps software as a service (SaaS) providers, multi-…"
-   },
-   {
-    "title": "Amazon API Gateway announces API Portal",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
-    "summary": "Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS …"
-   },
-   {
-    "title": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions/",
-    "summary": "AWS Quick now supports three-legged OAuth (3LO) with end-user permissions for Snowflake and Databricks. When end users in AWS Quick consume Chat, interactive dashboards, or Apps, queries run using their own Snowflake or …"
-   },
-   {
-    "title": "Amazon SageMaker HyperPod extends AMI auto-patching to Slurm and inference on EKS",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-patching-slurm-eks-inference/",
-    "summary": "Amazon SageMaker HyperPod now automatically patches AMIs on Slurm clusters and introduces a new AMI patching strategy for Amazon EKS clusters that deploy inference workloads. SageMaker HyperPod is purpose-built infrastru…"
-   },
-   {
-    "title": "Amazon SageMaker HyperPod now detects and recovers hung training jobs on Slurm clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-slurm-hung-jobs/",
-    "summary": "Amazon SageMaker HyperPod now supports hung job detection for Slurm-orchestrated clusters, which finds training jobs that have stopped making progress and returns them to the job queue. SageMaker HyperPod helps you provi…"
-   },
-   {
-    "title": "RDS PostgreSQL now supports PostgreSQL 19.0 in the Amazon RDS Database Preview Environment",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/postgresql-19-amazon-rds-database-preview-environment/",
-    "summary": "Starting today, Amazon RDS for PostgreSQL 19.0 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate PostgreSQL 19.0 on Amazon RDS PostgreSQL. PostgreSQL 19.0 introduces the REPACK comman…"
-   },
-   {
-    "title": "AWS Quick brings AI-ready capabilities to your existing datasets",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-ai-ready-existing-datasets/",
-    "summary": "Today, AWS Quick makes your legacy datasets AI ready through the new technology stack used by its improved visual data preparation experience. This stack powers Dataset Semantics, topics and semantic models, and Dataset …"
-   },
-   {
-    "title": "Amazon SageMaker HyperPod deep health check now validates training correctness",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation/",
-    "summary": "Amazon SageMaker HyperPod clusters orchestrated by Amazon EKS now support MultiNodeTrainingValidation, a deep health check that validates nodes train correctly before your jobs run. SageMaker HyperPod is purpose-built in…"
-   },
-   {
-    "title": "Amazon SageMaker AI now supports viewing capacity reservations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-capacity-reservations/",
-    "summary": "Amazon SageMaker AI now lets you view SageMaker Capacity Reservations in the SageMaker console, AWS CLI, and AWS SDKs. Previously, customers had no self-service way to see their reserved capacity, including reservation t…"
-   },
-   {
-    "title": "AWS DevOps Agent adds Access Profiles and AWS Organizations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-access-profiles-orgs/",
-    "summary": "AWS DevOps Agent now gives you more ways to govern and control your AWS DevOps Agent instances. With the new Access Profiles feature you can link IAM IDC users in your Agent Spaces to specific permission sets. For exampl…"
-   },
-   {
-    "title": "AWS Parallel Computing Service now supports Split Cost Allocation Data",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data/",
-    "summary": "Starting today, customers can receive granular cost visibility for AWS Parallel Computing Service (AWS PCS) in the AWS Cost and Usage Reports (CUR), enabling you to analyze, optimize, and chargeback costs for your Slurm …"
-   }
-  ],
-  "digest_date": "24 Nov 2026"
+  "pending": [],
+  "digest_date": "25 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
