@@ -350,7 +350,6 @@
  },
  "aws-security": {
   "seen": [
-   "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "d01e56f4bafc001da89c0b9537a406966dd9391b",
    "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
    "29e6500de55a9c2d65f4fbbac801e0e7474aa9f7",
@@ -384,6 +383,8 @@
    "8a3ba16e94b79cd525d1214a165327e022b528b7",
    "b2366e512e289d41c35483befdee62c51d858f99",
    "9dc239af4c7c042dbd17e3d3b2839e9f1cbf1ec2",
+   "9b270cdae1efe7fb2670de7243cf455ac4fdc705",
+   "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
    "a59e94bb7defda662009462222a39af819a71462",
@@ -454,20 +455,26 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-135614 - Sensitive data redaction bypass in the troubleshooting tool in Amazon ECS MCP Server",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/",
-    "date": "24 Nov 2026"
+    "title": "CVE-2026-136267 - Improper neutralization of special elements used in an OS command in Kiro Web",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-202-aws/",
+    "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-135614 - Sensitive data redaction bypass in the troubleshooting tool in Amazon ECS MCP Server",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/",
-   "date": "24 Nov 2026"
+   "title": "CVE-2026-136267 - Improper neutralization of special elements used in an OS command in Kiro Web",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-202-aws/",
+   "date": "25 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "13a9f65ee8b496aff313fbb47a4792bc041022ba",
+   "f84b0e0148b7bebeef4a1552cbbe9c0a367478ed",
+   "1261fa7782468a0acf9eae17357c16de93b8dc55",
+   "05bc2c12ccf14794e8f46d6e7a48a82edcfc6ebf",
+   "748a70f6726698d7048854827cf1517d265097ff",
+   "b858784192128dbc8ba48e2a3858f16fb2475916",
    "7ccf6b03523294b5f308ca26add4391707736005",
    "c71718e379912f65ec350fd43eeccff3a1bf04da",
    "0ef3f159d46f9258b0ca08f918de4ed71ce52921",
@@ -475,8 +482,8 @@
    "4ef0369cd03a57b16d09cd5c98f7079b92c760f4",
    "1c703815596e215596d8dedf6299d02308af8fe1",
    "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
-   "eb002b5eed3da5300a91bafed4edf21d3aaca84a",
    "765a47a7adb614804421be6562016c8aa8b73314",
+   "eb002b5eed3da5300a91bafed4edf21d3aaca84a",
    "716919cf5c6de019c7a1af326e40a7f57890ce81",
    "aaa7db14a954ddf9213b6a82bfc4017099fef3f3",
    "eb2d6d8ec8640fc023d9b4e40e2b09e2c984facb",
@@ -487,12 +494,12 @@
    "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
    "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
    "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
-   "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
    "ef08b635a8d772d11019dc51aad038b5360bf366",
    "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
-   "28b5f972175159f477e65b2adf87473598889407",
+   "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
    "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
+   "28b5f972175159f477e65b2adf87473598889407",
    "dcb28931c531edb18b35370ff3c3d3fc6747655d",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
    "b95c1bb1d4d120f1899fe82c743e877778f1392f",
@@ -501,10 +508,10 @@
    "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
    "8f00cf446f01df8789616760fda94c913c7cbbd7",
    "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
-   "2300a72cfb7a937fb3697b77d7c54c1151116976",
-   "ffd041db2a111419f4f401e038dc12195a7686e0",
-   "fa45daf5066bf841c125800ce8fc06286e52efab",
    "1618b232859e62b3f779bd4749d8bb03a6a8db23",
+   "2300a72cfb7a937fb3697b77d7c54c1151116976",
+   "fa45daf5066bf841c125800ce8fc06286e52efab",
+   "ffd041db2a111419f4f401e038dc12195a7686e0",
    "d524f85abdf549c8b302fdb431cd4a759b4cf3db",
    "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
    "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
@@ -761,15 +768,39 @@
    "4a2111f436d1dc22498d430b12f3be6913f336ce",
    "632115f37ab31df080fefd08dc44d9a1389271e7",
    "3affa91302463eafada7dfa8c8b90ff583e5d118",
-   "21b1355d87e15f92a15dfe9456d208467000569f",
-   "c7c5495c285624074d1c2b237907b56e78a9dec0",
-   "edec30cab72ad68234a6273b2b7a45b45e4e6a7b",
-   "b380379f433b5ecbf4e2e746eeb8d5a03039a989",
-   "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
-   "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
-   "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124"
+   "21b1355d87e15f92a15dfe9456d208467000569f"
   ],
   "recent": [
+   {
+    "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+    "date": "25 Nov 2026"
+   },
+   {
+    "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/",
+    "date": "25 Nov 2026"
+   },
+   {
+    "title": "Amazon EC2 C9gd instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
+    "date": "25 Nov 2026"
+   },
+   {
+    "title": "Amazon EC2 C9g instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/",
+    "date": "25 Nov 2026"
+   },
+   {
+    "title": "Amazon EC2 M9g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/",
+    "date": "25 Nov 2026"
+   },
+   {
+    "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/",
+    "date": "25 Nov 2026"
+   },
    {
     "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
@@ -789,45 +820,46 @@
     "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/",
     "date": "24 Nov 2026"
-   },
-   {
-    "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
-    "date": "24 Nov 2026"
-   },
-   {
-    "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "AWS Sign-In introduces configurable Sign-in duration of up to 90 days",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon API Gateway announces API Portal",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon OpenSearch Service now supports OpenSearch version 3.9",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9",
-    "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
-   "date": "24 Nov 2026"
+   "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+   "date": "25 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in the Israel (Tel Aviv) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance comp…"
+   },
+   {
+    "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9gd instances are available in the Asia Pacific (Seoul) region. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-designed …"
+   },
+   {
+    "title": "Amazon EC2 C9gd instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9gd instances are available in the Europe (Ireland, Spain) regions. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-desig…"
+   },
+   {
+    "title": "Amazon EC2 C9g instances are now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g instances are available in the Asia Pacific (Sydney), Europe (Ireland, Spain), and South America (São Paulo) regions. These instances are powered by AWS Gravi…"
+   },
+   {
+    "title": "Amazon EC2 M9g instances now available in additional regions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/",
+    "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g instances, powered by AWS Graviton5 processors, are available in US West (N. California), Canada (Central), South America (São Paulo), and Asia Pacific (Seoul…"
+   },
+   {
+    "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/",
+    "summary": "Trusted identity propagation (TIP) carries the identity of a human user or workload with requests to supported AWS Services. Customers can use that identity in IAM policy conditions for access control and to identify the…"
+   }
+  ],
   "digest_date": "25 Nov 2026"
  },
  "apple-dev-releases": {
@@ -1424,10 +1456,11 @@
    "9.4.1",
    "9.5.0",
    "9.5.1",
-   "9.5.2"
+   "9.5.2",
+   "9.5.3"
   ],
   "latest": {
-   "title": "Latest stable version: 9.5.2",
+   "title": "Latest stable version: 9.5.3",
    "link": "https://developer.android.com/build/releases/gradle-plugin",
    "date": ""
   },
