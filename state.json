@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-20-1",
    "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
    "https://www.php.net/archive/2026.php#2026-11-19-3",
@@ -54,7 +55,7 @@
    "https://www.php.net/archive/2026.php#2026-09-10-1",
    "https://www.php.net/archive/2026.php#2026-09-09-2",
    "https://www.php.net/archive/2026.php#2026-09-09-1",
-   "https://www.php.net/archive/2026.php#2026-09-02-1",
+   "https://www.php.net/archive/2026.php#2026-09-02-2",
    "https://www.php.net/archive/2026.php#2026-09-02-1",
    "https://www.php.net/archive/2026.php#2026-08-31-1",
    "https://www.php.net/archive/2026.php#2026-08-27-3",
@@ -101,15 +102,15 @@
   ],
   "recent": [
    {
-    "title": "PHP 8.6.0 Released!",
-    "link": "https://www.php.net/index.php#2026-11-19-5",
-    "date": "19 Nov 2026"
+    "title": "PHP Conference Kansai 2026 (JAPAN)",
+    "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
+    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP 8.6.0 Released!",
-   "link": "https://www.php.net/index.php#2026-11-19-5",
-   "date": "19 Nov 2026"
+   "title": "PHP Conference Kansai 2026 (JAPAN)",
+   "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
+   "date": "20 Nov 2026"
   },
   "fails": 0
  },
@@ -349,13 +350,6 @@
  },
  "aws-security": {
   "seen": [
-   "0158576b30a96af13eb840a860a5ccdb7283e9c5",
-   "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
-   "a59e94bb7defda662009462222a39af819a71462",
-   "d1dc74af84e7d562ddce7195c94840bed5edf948",
-   "56b57968e580bf11f441ecf31a5b8a9afe448a88",
-   "4e29542325ff9665c1ea503c505483ad7e71472a",
-   "da30ae6a1da3419f1a5c9d59832fb5bbe74873d3",
    "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "d01e56f4bafc001da89c0b9537a406966dd9391b",
    "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
@@ -386,6 +380,17 @@
    "ffea508e971188b50ba0a0c32a9b22e36b3b773c",
    "f3822d55098115f56753be6d8573fdead57e59f3",
    "0bada62e5376e7ff04ad2589232c726edc9d9ec3",
+   "894e27f00a93648d0c5efbc5ac12da50db16c339",
+   "8a3ba16e94b79cd525d1214a165327e022b528b7",
+   "b2366e512e289d41c35483befdee62c51d858f99",
+   "9dc239af4c7c042dbd17e3d3b2839e9f1cbf1ec2",
+   "0158576b30a96af13eb840a860a5ccdb7283e9c5",
+   "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
+   "a59e94bb7defda662009462222a39af819a71462",
+   "d1dc74af84e7d562ddce7195c94840bed5edf948",
+   "56b57968e580bf11f441ecf31a5b8a9afe448a88",
+   "4e29542325ff9665c1ea503c505483ad7e71472a",
+   "da30ae6a1da3419f1a5c9d59832fb5bbe74873d3",
    "bf7963dacc18803b0da8912de42c04cee194d4be",
    "673bae0c00db5a735d35b34fe46471676b93f07b",
    "9f9f944f0f5c6173b9f6b99610e3d5de627e35e0",
@@ -449,23 +454,29 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-134069 - Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/",
-    "date": "23 Nov 2026"
+    "title": "CVE-2026-135614 - Sensitive data redaction bypass in the troubleshooting tool in Amazon ECS MCP Server",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/",
+    "date": "24 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-134069 - Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/",
-   "date": "23 Nov 2026"
+   "title": "CVE-2026-135614 - Sensitive data redaction bypass in the troubleshooting tool in Amazon ECS MCP Server",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/",
+   "date": "24 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "7ccf6b03523294b5f308ca26add4391707736005",
+   "c71718e379912f65ec350fd43eeccff3a1bf04da",
+   "0ef3f159d46f9258b0ca08f918de4ed71ce52921",
+   "41103a102724ab982da9176567c6a550c7a4e63e",
+   "4ef0369cd03a57b16d09cd5c98f7079b92c760f4",
    "1c703815596e215596d8dedf6299d02308af8fe1",
    "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
    "765a47a7adb614804421be6562016c8aa8b73314",
+   "eb002b5eed3da5300a91bafed4edf21d3aaca84a",
    "716919cf5c6de019c7a1af326e40a7f57890ce81",
    "aaa7db14a954ddf9213b6a82bfc4017099fef3f3",
    "eb2d6d8ec8640fc023d9b4e40e2b09e2c984facb",
@@ -476,18 +487,27 @@
    "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
    "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
    "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
+   "ef08b635a8d772d11019dc51aad038b5360bf366",
+   "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
+   "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
+   "28b5f972175159f477e65b2adf87473598889407",
+   "dcb28931c531edb18b35370ff3c3d3fc6747655d",
+   "aa83ec46d840050d414a1e740a0118affd2c3401",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
    "b95c1bb1d4d120f1899fe82c743e877778f1392f",
    "32830008107d01a6562024ad77107d1a3d79cbfe",
    "f1310b37ba8fb89a9cbb6915da4abfdbb190bed2",
    "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
    "8f00cf446f01df8789616760fda94c913c7cbbd7",
-   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
-   "ffd041db2a111419f4f401e038dc12195a7686e0",
+   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "2300a72cfb7a937fb3697b77d7c54c1151116976",
+   "fa45daf5066bf841c125800ce8fc06286e52efab",
+   "ffd041db2a111419f4f401e038dc12195a7686e0",
+   "d524f85abdf549c8b302fdb431cd4a759b4cf3db",
    "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
    "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
+   "eea75752b6ab7caf256f63623a99470459f3b77f",
    "d2ab7dcc29c04f4731a0ad39974e102261507213",
    "549dcebac3fb7e432db4500d5e1102cfd686731e",
    "61d4ef798f1fa0576a34be67b5fd991ab9aa40a7",
@@ -747,24 +767,34 @@
    "0165a6b58e27995a89e8ad07b3500dc5f2480a48",
    "45fcba7ce3a97728f2c61c1b915bb905f2f219f8",
    "f7d85f6d3f999ab8810bdcaa0aba54d9c79a0124",
-   "3cd93d4aacc3e7c3ebc421780f0cca6c7e5d4ec8",
-   "d215143aceaf1d7ec7cb6d13895f809f243b1629",
-   "f1030379bbe6243793dd0bd58417ce0012dc0016",
-   "0befeaa93cd6c65f10eda18753c24d546868af9f",
-   "c50422dc3ed71aa44eaa344157bb3e30cbb31584",
-   "ad7be316bf4cc3367291312912f0ef6d5d2806b6",
-   "4fab11841325d933b57a685d6e3094c2ecaa40c7",
-   "de0d791db79933ce63274d060dbae3f5757eb04c",
-   "50434053494890342e760fd84417b10db3296159",
-   "2a8a195de5263ec069e07456e1171a94d0235c0a",
-   "1b3f2f9d1b1cca9894b52872d228ee34eb1956bd",
-   "9acec05822cb907c69d336dbb6e1ef40b44b5627",
-   "867374befae2f029622d5ccf7df8ab367601e0fc",
-   "63df85ec7627c1233dcdfefc061dc87eae3f182e",
-   "f5a0acbf7e00e729c4dd79609b394530a7bcbb15",
-   "84c1d22357374a433976f32572fde8664865ca86"
+   "3cd93d4aacc3e7c3ebc421780f0cca6c7e5d4ec8"
   ],
   "recent": [
+   {
+    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
+    "date": "24 Nov 2026"
+   },
+   {
+    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
+    "date": "24 Nov 2026"
+   },
+   {
+    "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
+    "date": "24 Nov 2026"
+   },
+   {
+    "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/",
+    "date": "24 Nov 2026"
+   },
+   {
+    "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
+    "date": "24 Nov 2026"
+   },
    {
     "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
@@ -781,45 +811,20 @@
     "date": "23 Nov 2026"
    },
    {
+    "title": "Amazon API Gateway announces API Portal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
+    "date": "23 Nov 2026"
+   },
+   {
     "title": "Amazon OpenSearch Service now supports OpenSearch version 3.9",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "AWS WAF introduces simplified pricing",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer now lets you test AI model version upgrades for automated evaluations",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer expands automated performance evaluations to 45 new languages",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/",
-    "date": "23 Nov 2026"
-   },
-   {
-    "title": "Amazon CloudFront is now available in the AWS European Sovereign Cloud",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-european-sovereign-cloud",
     "date": "23 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon EC2 X8i instances are now available in the Asia Pacific (New Zealand) Region",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/",
-   "date": "23 Nov 2026"
+   "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
+   "date": "24 Nov 2026"
   },
   "fails": 0,
   "pending": [
@@ -832,6 +837,81 @@
     "title": "AWS Device Farm launches Device Connect for local access to remote Android devices",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-device-connect/",
     "summary": "AWS Device Farm , a service for testing mobile and web apps, now offers Device Connect. With Device Connect, you and AI agents can use remote Android devices from your local machine in an IDE, terminal, or development en…"
+   },
+   {
+    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
+    "summary": "Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber through the bedrock-runtime endpoint on Amazon Bedrock in AWS GovCloud (US). Daybreak Red is designed for advanced, …"
+   },
+   {
+    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
+    "summary": "Starting today, the next generation of Amazon OpenSearch Serverless is available in the AWS Africa (Cape Town) Region. Customers can now use a fully managed search, vector and analytics engine that provisions resources i…"
+   },
+   {
+    "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
+    "summary": "AWS CloudFormation now supports 206 additional resource types across 88 services, including Amazon SageMaker Hub, Amazon Bedrock AgentCore PolicyEngine, and Amazon EC2 Snapshot. This closes key gaps in CloudFormation cov…"
+   },
+   {
+    "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/",
+    "summary": "Amazon Connect Customer analytics dashboards now support grouping historical metrics by time interval on trailing widgets, giving contact center managers granular control over how performance data is visualized over time…"
+   },
+   {
+    "title": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance",
+    "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports up to 500 databases per DB instance, up from the previous limit of 100. This higher density helps software as a service (SaaS) providers, multi-…"
+   },
+   {
+    "title": "Amazon API Gateway announces API Portal",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
+    "summary": "Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS …"
+   },
+   {
+    "title": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions/",
+    "summary": "AWS Quick now supports three-legged OAuth (3LO) with end-user permissions for Snowflake and Databricks. When end users in AWS Quick consume Chat, interactive dashboards, or Apps, queries run using their own Snowflake or …"
+   },
+   {
+    "title": "Amazon SageMaker HyperPod extends AMI auto-patching to Slurm and inference on EKS",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-patching-slurm-eks-inference/",
+    "summary": "Amazon SageMaker HyperPod now automatically patches AMIs on Slurm clusters and introduces a new AMI patching strategy for Amazon EKS clusters that deploy inference workloads. SageMaker HyperPod is purpose-built infrastru…"
+   },
+   {
+    "title": "Amazon SageMaker HyperPod now detects and recovers hung training jobs on Slurm clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-slurm-hung-jobs/",
+    "summary": "Amazon SageMaker HyperPod now supports hung job detection for Slurm-orchestrated clusters, which finds training jobs that have stopped making progress and returns them to the job queue. SageMaker HyperPod helps you provi…"
+   },
+   {
+    "title": "RDS PostgreSQL now supports PostgreSQL 19.0 in the Amazon RDS Database Preview Environment",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/postgresql-19-amazon-rds-database-preview-environment/",
+    "summary": "Starting today, Amazon RDS for PostgreSQL 19.0 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate PostgreSQL 19.0 on Amazon RDS PostgreSQL. PostgreSQL 19.0 introduces the REPACK comman…"
+   },
+   {
+    "title": "AWS Quick brings AI-ready capabilities to your existing datasets",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-ai-ready-existing-datasets/",
+    "summary": "Today, AWS Quick makes your legacy datasets AI ready through the new technology stack used by its improved visual data preparation experience. This stack powers Dataset Semantics, topics and semantic models, and Dataset …"
+   },
+   {
+    "title": "Amazon SageMaker HyperPod deep health check now validates training correctness",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation/",
+    "summary": "Amazon SageMaker HyperPod clusters orchestrated by Amazon EKS now support MultiNodeTrainingValidation, a deep health check that validates nodes train correctly before your jobs run. SageMaker HyperPod is purpose-built in…"
+   },
+   {
+    "title": "Amazon SageMaker AI now supports viewing capacity reservations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-capacity-reservations/",
+    "summary": "Amazon SageMaker AI now lets you view SageMaker Capacity Reservations in the SageMaker console, AWS CLI, and AWS SDKs. Previously, customers had no self-service way to see their reserved capacity, including reservation t…"
+   },
+   {
+    "title": "AWS DevOps Agent adds Access Profiles and AWS Organizations",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-access-profiles-orgs/",
+    "summary": "AWS DevOps Agent now gives you more ways to govern and control your AWS DevOps Agent instances. With the new Access Profiles feature you can link IAM IDC users in your Agent Spaces to specific permission sets. For exampl…"
+   },
+   {
+    "title": "AWS Parallel Computing Service now supports Split Cost Allocation Data",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data/",
+    "summary": "Starting today, customers can receive granular cost visibility for AWS Parallel Computing Service (AWS PCS) in the AWS Cost and Usage Reports (CUR), enabling you to analyze, optimize, and chargeback costs for your Slurm …"
    }
   ],
   "digest_date": "24 Nov 2026"
