@@ -350,10 +350,6 @@
  },
  "aws-security": {
   "seen": [
-   "d01e56f4bafc001da89c0b9537a406966dd9391b",
-   "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
-   "29e6500de55a9c2d65f4fbbac801e0e7474aa9f7",
-   "c4dcda64d241c4df77bf73a89bcac2c2e94f066a",
    "a58ae473469a46ce684fefcb4c3c22c888d06781",
    "dec0a4afced6486c9fdc47cc2b9e0575ad21a9d5",
    "bbb17114bf3fa34310841283a4ba6ec7541ffc44",
@@ -384,6 +380,11 @@
    "b2366e512e289d41c35483befdee62c51d858f99",
    "9dc239af4c7c042dbd17e3d3b2839e9f1cbf1ec2",
    "9b270cdae1efe7fb2670de7243cf455ac4fdc705",
+   "03b8e5415a84f10f40f3c028b5672da74c360f5b",
+   "d01e56f4bafc001da89c0b9537a406966dd9391b",
+   "ce739a2fd25a20b69f9eb0d414e486fc62b0eeff",
+   "29e6500de55a9c2d65f4fbbac801e0e7474aa9f7",
+   "c4dcda64d241c4df77bf73a89bcac2c2e94f066a",
    "a164b4fac5ab28977795fc9390625a3cdfadda6c",
    "0158576b30a96af13eb840a860a5ccdb7283e9c5",
    "2a029c70d722e3b2278eccf61bf9c79ccbfa21b9",
@@ -455,25 +456,31 @@
   ],
   "recent": [
    {
-    "title": "CVE-2026-136267 - Improper neutralization of special elements used in an OS command in Kiro Web",
-    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-202-aws/",
+    "title": "CVE-2026-134070 - Improper input sanitization in the AWS Config remediation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3",
+    "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/",
     "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "CVE-2026-136267 - Improper neutralization of special elements used in an OS command in Kiro Web",
-   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-202-aws/",
+   "title": "CVE-2026-134070 - Improper input sanitization in the AWS Config remediation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3",
+   "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/",
    "date": "25 Nov 2026"
   },
   "fails": 0
  },
  "aws-whats-new": {
   "seen": [
+   "04beebe56b418ea550545c13d2589e65a551fb25",
+   "24a9d93500bc2ee53803fc427e94715f20b0e75a",
    "13a9f65ee8b496aff313fbb47a4792bc041022ba",
    "f84b0e0148b7bebeef4a1552cbbe9c0a367478ed",
    "1261fa7782468a0acf9eae17357c16de93b8dc55",
    "05bc2c12ccf14794e8f46d6e7a48a82edcfc6ebf",
    "748a70f6726698d7048854827cf1517d265097ff",
+   "de01eaaf2131bb9cfcc8f89ad3ff93321348acfa",
+   "b1e24734819b8442154aa6da6228dbda9657016f",
+   "37c2475c2a609cf1dd04939aba52b07d5b4a8c00",
+   "0d2157f1c463d7d992e6eb7371519a20f0ed9588",
    "b858784192128dbc8ba48e2a3858f16fb2475916",
    "7ccf6b03523294b5f308ca26add4391707736005",
    "c71718e379912f65ec350fd43eeccff3a1bf04da",
@@ -482,8 +489,8 @@
    "4ef0369cd03a57b16d09cd5c98f7079b92c760f4",
    "1c703815596e215596d8dedf6299d02308af8fe1",
    "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
-   "765a47a7adb614804421be6562016c8aa8b73314",
    "eb002b5eed3da5300a91bafed4edf21d3aaca84a",
+   "765a47a7adb614804421be6562016c8aa8b73314",
    "716919cf5c6de019c7a1af326e40a7f57890ce81",
    "aaa7db14a954ddf9213b6a82bfc4017099fef3f3",
    "eb2d6d8ec8640fc023d9b4e40e2b09e2c984facb",
@@ -494,13 +501,14 @@
    "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
    "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
    "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
-   "ef08b635a8d772d11019dc51aad038b5360bf366",
-   "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
    "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
+   "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
+   "ef08b635a8d772d11019dc51aad038b5360bf366",
+   "28b5f972175159f477e65b2adf87473598889407",
    "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
-   "28b5f972175159f477e65b2adf87473598889407",
    "dcb28931c531edb18b35370ff3c3d3fc6747655d",
+   "17af86fbb5e5842967a551d5135a25faee49aecd",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
    "b95c1bb1d4d120f1899fe82c743e877778f1392f",
    "32830008107d01a6562024ad77107d1a3d79cbfe",
@@ -508,10 +516,10 @@
    "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
    "8f00cf446f01df8789616760fda94c913c7cbbd7",
    "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
-   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "2300a72cfb7a937fb3697b77d7c54c1151116976",
-   "fa45daf5066bf841c125800ce8fc06286e52efab",
    "ffd041db2a111419f4f401e038dc12195a7686e0",
+   "fa45daf5066bf841c125800ce8fc06286e52efab",
+   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "d524f85abdf549c8b302fdb431cd4a759b4cf3db",
    "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
    "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
@@ -761,16 +769,19 @@
    "f4fff8347a4c644b7373219b1e824b393a8ffa2b",
    "923dad6aa251b0e75cec0eae8d265d4e82f90eec",
    "4d97a56c219110ad3e3f5cbecf2da37860f74be1",
-   "c8ded8f1861a08b45fa7f54574fdb5b08677e1b7",
-   "d3f26a86dfd62a9d44d28a5cfee2b29847f1e40d",
-   "3187d74950b83f54d7e7b68cf6af7ed579fe9221",
-   "f16907ce2617719bf16322f247187ae125e89be9",
-   "4a2111f436d1dc22498d430b12f3be6913f336ce",
-   "632115f37ab31df080fefd08dc44d9a1389271e7",
-   "3affa91302463eafada7dfa8c8b90ff583e5d118",
-   "21b1355d87e15f92a15dfe9456d208467000569f"
+   "c8ded8f1861a08b45fa7f54574fdb5b08677e1b7"
   ],
   "recent": [
+   {
+    "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
+    "date": "25 Nov 2026"
+   },
+   {
+    "title": "Amazon CloudWatch Omni now integrates with PagerDuty",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/",
+    "date": "25 Nov 2026"
+   },
    {
     "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
@@ -797,34 +808,24 @@
     "date": "25 Nov 2026"
    },
    {
-    "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/",
+    "title": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/",
     "date": "25 Nov 2026"
    },
    {
-    "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
-    "date": "24 Nov 2026"
+    "title": "AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/",
+    "date": "25 Nov 2026"
    },
    {
-    "title": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/",
-    "date": "24 Nov 2026"
-   },
-   {
-    "title": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/",
-    "date": "24 Nov 2026"
-   },
-   {
-    "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/",
-    "date": "24 Nov 2026"
+    "title": "AWS IoT Core quotas and usage are now visible in AWS Service Quotas console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/",
+    "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+   "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
    "date": "25 Nov 2026"
   },
   "fails": 0,
@@ -858,6 +859,41 @@
     "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/",
     "summary": "Trusted identity propagation (TIP) carries the identity of a human user or workload with requests to supported AWS Services. Customers can use that identity in IAM policy conditions for access control and to identify the…"
+   },
+   {
+    "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
+    "summary": "Today, AWS announces a developer preview of a new extension for orchestrating Lambda MicroVMs with Lambda durable functions . The extension adds durable operations for running work on MicroVMs and managing their lifecycl…"
+   },
+   {
+    "title": "Amazon CloudWatch Omni now integrates with PagerDuty",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/",
+    "summary": "Amazon CloudWatch Omni alerts can now automatically create PagerDuty incidents, so notifications flow directly into your existing incident management workflows. This reduces mean time to resolution (MTTR) by eliminating …"
+   },
+   {
+    "title": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/",
+    "summary": "Amazon Transcribe Turbo, our next-generation speech-to-text model, is now in public preview in US East (Ohio) for batch and streaming. Turbo improves accuracy, supports custom vocabulary, and formats numbers, dates, curr…"
+   },
+   {
+    "title": "AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/",
+    "summary": "AWS IoT Core can now send traffic to HTTPS endpoints within a dedicated, published IPv6 address range. This launch enables you to configure your HTTPS endpoints to accept requests only from AWS IoT Core and block all oth…"
+   },
+   {
+    "title": "AWS IoT Core quotas and usage are now visible in AWS Service Quotas console",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/",
+    "summary": "AWS IoT Core now publishes its most used service quotas and your current usage against the quotas in AWS Service Quotas console , improving observability and monitoring of API limits and quotas. This launch enables you t…"
+   },
+   {
+    "title": "AWS Device Farm now supports Android emulators and iOS simulators",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-virtual-devices/",
+    "summary": "AWS Device Farm , a service for testing mobile and web apps, now supports Android emulators and iOS simulators alongside real devices for automated and manual testing, enabling faster testing at scale early in your devel…"
+   },
+   {
+    "title": "Amazon SageMaker HyperPod now supports NCCL profiling for training jobs",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-nccl-profiler/",
+    "summary": "Amazon SageMaker HyperPod now supports NVIDIA Collective Communications Library (NCCL) profiling with the HyperPod NCCL Profiler, giving you visibility into communication performance across the nodes and GPUs in a distri…"
    }
   ],
   "digest_date": "25 Nov 2026"
