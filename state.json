@@ -27,7 +27,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-11-20-1",
    "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
@@ -88,6 +87,7 @@
    "https://www.php.net/archive/2026.php#2026-05-07-1",
    "https://www.php.net/archive/2026.php#2026-05-04-1",
    "https://www.php.net/archive/2026.php#2026-04-09-2",
+   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
@@ -103,15 +103,15 @@
   ],
   "recent": [
    {
-    "title": "Laracon EU 2027",
-    "link": "https://www.php.net/conferences/index.php#2026-11-25-1",
-    "date": "25 Nov 2026"
+    "title": "PHP Conference Kansai 2026 (JAPAN)",
+    "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
+    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Laracon EU 2027",
-   "link": "https://www.php.net/conferences/index.php#2026-11-25-1",
-   "date": "25 Nov 2026"
+   "title": "PHP Conference Kansai 2026 (JAPAN)",
+   "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
+   "date": "20 Nov 2026"
   },
   "fails": 0
  },
@@ -489,6 +489,7 @@
    "c71718e379912f65ec350fd43eeccff3a1bf04da",
    "0ef3f159d46f9258b0ca08f918de4ed71ce52921",
    "41103a102724ab982da9176567c6a550c7a4e63e",
+   "642f22f2aca90883bc5fe23c991e8ff88068a99e",
    "4ef0369cd03a57b16d09cd5c98f7079b92c760f4",
    "1c703815596e215596d8dedf6299d02308af8fe1",
    "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
@@ -507,9 +508,9 @@
    "ef08b635a8d772d11019dc51aad038b5360bf366",
    "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
    "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
-   "28b5f972175159f477e65b2adf87473598889407",
    "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
+   "28b5f972175159f477e65b2adf87473598889407",
    "dcb28931c531edb18b35370ff3c3d3fc6747655d",
    "17af86fbb5e5842967a551d5135a25faee49aecd",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
@@ -770,8 +771,7 @@
    "1e611eb089c2dcdee4d3ad6757e34268499769c6",
    "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665",
    "f4fff8347a4c644b7373219b1e824b393a8ffa2b",
-   "923dad6aa251b0e75cec0eae8d265d4e82f90eec",
-   "4d97a56c219110ad3e3f5cbecf2da37860f74be1"
+   "923dad6aa251b0e75cec0eae8d265d4e82f90eec"
   ],
   "recent": [
    {
@@ -831,7 +831,13 @@
    "date": "25 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon OpenSearch Service new engine now joins logs, traces, and metadata",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-distributed-joins",
+    "summary": "Amazon OpenSearch Service now supports distributed joins, high-cardinality aggregations, and OpenSearch query DSL on the new engine. Observability data often spans logs, traces, service metadata, deployment records, and …"
+   }
+  ],
   "digest_date": "26 Nov 2026"
  },
  "apple-dev-releases": {
