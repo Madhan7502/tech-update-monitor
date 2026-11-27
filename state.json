@@ -472,6 +472,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "20962687458db91bbeb71fb2c384a24f61f7c71c",
    "04beebe56b418ea550545c13d2589e65a551fb25",
    "24a9d93500bc2ee53803fc427e94715f20b0e75a",
    "13a9f65ee8b496aff313fbb47a4792bc041022ba",
@@ -493,8 +494,8 @@
    "4ef0369cd03a57b16d09cd5c98f7079b92c760f4",
    "1c703815596e215596d8dedf6299d02308af8fe1",
    "4677e5a4242cc2a6e4241e0fec2abd565b1f6af2",
-   "765a47a7adb614804421be6562016c8aa8b73314",
    "eb002b5eed3da5300a91bafed4edf21d3aaca84a",
+   "765a47a7adb614804421be6562016c8aa8b73314",
    "716919cf5c6de019c7a1af326e40a7f57890ce81",
    "aaa7db14a954ddf9213b6a82bfc4017099fef3f3",
    "eb2d6d8ec8640fc023d9b4e40e2b09e2c984facb",
@@ -505,12 +506,12 @@
    "1d39ce5ee5dfee255c83d7eff1e924190d30d5a4",
    "56a2ac1b9a1416bad18e0fde6bc2d0d822784645",
    "6c492755e5a7606d53f702f3e8eed7e6e04a98f6",
-   "ef08b635a8d772d11019dc51aad038b5360bf366",
-   "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
    "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
+   "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
+   "ef08b635a8d772d11019dc51aad038b5360bf366",
+   "28b5f972175159f477e65b2adf87473598889407",
    "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
-   "28b5f972175159f477e65b2adf87473598889407",
    "dcb28931c531edb18b35370ff3c3d3fc6747655d",
    "17af86fbb5e5842967a551d5135a25faee49aecd",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
@@ -520,10 +521,10 @@
    "66800ffddbfdfc33ae7e34f2d6d1618817c4ef5f",
    "8f00cf446f01df8789616760fda94c913c7cbbd7",
    "bd7c63b7c0f9f1003452cc8e3c26309897313fd9",
-   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "2300a72cfb7a937fb3697b77d7c54c1151116976",
-   "fa45daf5066bf841c125800ce8fc06286e52efab",
    "ffd041db2a111419f4f401e038dc12195a7686e0",
+   "fa45daf5066bf841c125800ce8fc06286e52efab",
+   "1618b232859e62b3f779bd4749d8bb03a6a8db23",
    "d524f85abdf549c8b302fdb431cd4a759b4cf3db",
    "1f36485e5ed927a96f9dca11aad2dcbaf9550fe7",
    "0e893c5509e216fa6369c47e4254a6eabf8ecfe5",
@@ -770,10 +771,14 @@
    "896e0e347b0abff138c927dbfc688d7fe91c8d19",
    "1e611eb089c2dcdee4d3ad6757e34268499769c6",
    "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665",
-   "f4fff8347a4c644b7373219b1e824b393a8ffa2b",
-   "923dad6aa251b0e75cec0eae8d265d4e82f90eec"
+   "f4fff8347a4c644b7373219b1e824b393a8ffa2b"
   ],
   "recent": [
+   {
+    "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
+    "date": "26 Nov 2026"
+   },
    {
     "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
@@ -818,27 +823,16 @@
     "title": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/",
     "date": "25 Nov 2026"
-   },
-   {
-    "title": "AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/",
-    "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
-   "date": "25 Nov 2026"
+   "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
+   "date": "26 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon OpenSearch Service new engine now joins logs, traces, and metadata",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-distributed-joins",
-    "summary": "Amazon OpenSearch Service now supports distributed joins, high-cardinality aggregations, and OpenSearch query DSL on the new engine. Observability data often spans logs, traces, service metadata, deployment records, and …"
-   }
-  ],
-  "digest_date": "26 Nov 2026"
+  "pending": [],
+  "digest_date": "27 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
@@ -1988,6 +1982,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.2.0",
    "tag:github.com,2008:Repository/355691391/5.1.2",
    "tag:github.com,2008:Repository/355691391/5.1.1",
    "tag:github.com,2008:Repository/355691391/5.1.0",
@@ -2008,15 +2003,15 @@
   ],
   "recent": [
    {
-    "title": "5.1.2",
-    "link": "https://github.com/customerio/customerio-android/releases/tag/5.1.2",
-    "date": "23 Nov 2026"
+    "title": "5.2.0",
+    "link": "https://github.com/customerio/customerio-android/releases/tag/5.2.0",
+    "date": "26 Nov 2026"
    }
   ],
   "latest": {
-   "title": "5.1.2",
-   "link": "https://github.com/customerio/customerio-android/releases/tag/5.1.2",
-   "date": "23 Nov 2026"
+   "title": "5.2.0",
+   "link": "https://github.com/customerio/customerio-android/releases/tag/5.2.0",
+   "date": "26 Nov 2026"
   },
   "fails": 0
  },
