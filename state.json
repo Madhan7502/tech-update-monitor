@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-11-20-1",
    "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
@@ -87,7 +88,6 @@
    "https://www.php.net/archive/2026.php#2026-05-07-1",
    "https://www.php.net/archive/2026.php#2026-05-04-1",
    "https://www.php.net/archive/2026.php#2026-04-09-2",
-   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
@@ -103,15 +103,15 @@
   ],
   "recent": [
    {
-    "title": "PHP Conference Kansai 2026 (JAPAN)",
-    "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
-    "date": "20 Nov 2026"
+    "title": "Laracon EU 2027",
+    "link": "https://www.php.net/conferences/index.php#2026-11-25-1",
+    "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP Conference Kansai 2026 (JAPAN)",
-   "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
-   "date": "20 Nov 2026"
+   "title": "Laracon EU 2027",
+   "link": "https://www.php.net/conferences/index.php#2026-11-25-1",
+   "date": "25 Nov 2026"
   },
   "fails": 0
  },
@@ -509,9 +509,9 @@
    "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
    "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
    "ef08b635a8d772d11019dc51aad038b5360bf366",
-   "28b5f972175159f477e65b2adf87473598889407",
    "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
+   "28b5f972175159f477e65b2adf87473598889407",
    "dcb28931c531edb18b35370ff3c3d3fc6747655d",
    "17af86fbb5e5842967a551d5135a25faee49aecd",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
@@ -1304,10 +1304,11 @@
    "9.5.29",
    "9.5.31",
    "9.5.32",
-   "9.5.33"
+   "9.5.33",
+   "9.5.34"
   ],
   "latest": {
-   "title": "Latest stable version: 9.5.33",
+   "title": "Latest stable version: 9.5.34",
    "link": "https://developer.android.com/build/shrink-code",
    "date": ""
   },
