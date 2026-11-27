@@ -27,6 +27,7 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-26-1",
    "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-11-20-1",
    "https://www.php.net/archive/2026.php#2026-11-19-5",
@@ -103,15 +104,15 @@
   ],
   "recent": [
    {
-    "title": "Laracon EU 2027",
-    "link": "https://www.php.net/conferences/index.php#2026-11-25-1",
-    "date": "25 Nov 2026"
+    "title": "phpday 2027 - Call for Papers",
+    "link": "https://www.php.net/conferences/index.php?view=cfps#2026-11-26-1",
+    "date": "26 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Laracon EU 2027",
-   "link": "https://www.php.net/conferences/index.php#2026-11-25-1",
-   "date": "25 Nov 2026"
+   "title": "phpday 2027 - Call for Papers",
+   "link": "https://www.php.net/conferences/index.php?view=cfps#2026-11-26-1",
+   "date": "26 Nov 2026"
   },
   "fails": 0
  },
@@ -472,6 +473,7 @@
  },
  "aws-whats-new": {
   "seen": [
+   "5e572f9a5e41dd283a793052533ac15a33ae08dd",
    "20962687458db91bbeb71fb2c384a24f61f7c71c",
    "04beebe56b418ea550545c13d2589e65a551fb25",
    "24a9d93500bc2ee53803fc427e94715f20b0e75a",
@@ -509,9 +511,9 @@
    "b5cd935e83718c96c5ac723277ce0040bf22d4f2",
    "44a2e5ac22905bf0eb0a90f2575dd2467dd3bbca",
    "ef08b635a8d772d11019dc51aad038b5360bf366",
+   "28b5f972175159f477e65b2adf87473598889407",
    "443ac279634964d7fcb4d887d83c96d9ca10c6c4",
    "aa83ec46d840050d414a1e740a0118affd2c3401",
-   "28b5f972175159f477e65b2adf87473598889407",
    "dcb28931c531edb18b35370ff3c3d3fc6747655d",
    "17af86fbb5e5842967a551d5135a25faee49aecd",
    "c85c7e95f87cdf18e1a4523197e28439f28de3e2",
@@ -770,10 +772,14 @@
    "1971db31412624560a9d5f6ebd6289a73bc0f1ed",
    "896e0e347b0abff138c927dbfc688d7fe91c8d19",
    "1e611eb089c2dcdee4d3ad6757e34268499769c6",
-   "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665",
-   "f4fff8347a4c644b7373219b1e824b393a8ffa2b"
+   "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665"
   ],
   "recent": [
+   {
+    "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
+    "date": "27 Nov 2026"
+   },
    {
     "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
@@ -818,20 +824,21 @@
     "title": "Elastic Load Balancing for Envoy is now generally available",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available",
     "date": "25 Nov 2026"
-   },
-   {
-    "title": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/",
-    "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/",
-   "date": "26 Nov 2026"
+   "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
+   "date": "27 Nov 2026"
   },
   "fails": 0,
-  "pending": [],
+  "pending": [
+   {
+    "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
+    "summary": "Amazon Neptune now supports Neptune Graph Sessions, a compute mode designed for agents that scales memory and CPU automatically and scales to zero when idle. You can give each agent, user or task its own graph without pa…"
+   }
+  ],
   "digest_date": "27 Nov 2026"
  },
  "apple-dev-releases": {
@@ -1983,6 +1990,7 @@
  },
  "customerio-android": {
   "seen": [
+   "tag:github.com,2008:Repository/355691391/5.2.1",
    "tag:github.com,2008:Repository/355691391/5.2.0",
    "tag:github.com,2008:Repository/355691391/5.1.2",
    "tag:github.com,2008:Repository/355691391/5.1.1",
@@ -2018,6 +2026,7 @@
  },
  "customerio-ios": {
   "seen": [
+   "tag:github.com,2008:Repository/355691505/5.3.2",
    "tag:github.com,2008:Repository/355691505/5.3.1",
    "tag:github.com,2008:Repository/355691505/5.3.0",
    "tag:github.com,2008:Repository/355691505/5.2.1",
@@ -2040,15 +2049,15 @@
   ],
   "recent": [
    {
-    "title": "5.3.1",
-    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.1",
-    "date": "22 Nov 2026"
+    "title": "5.3.2",
+    "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.2",
+    "date": "27 Nov 2026"
    }
   ],
   "latest": {
-   "title": "5.3.1",
-   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.1",
-   "date": "22 Nov 2026"
+   "title": "5.3.2",
+   "link": "https://github.com/customerio/customerio-ios/releases/tag/5.3.2",
+   "date": "27 Nov 2026"
   },
   "fails": 0
  }
