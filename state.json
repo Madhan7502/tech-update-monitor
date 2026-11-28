@@ -27,6 +27,8 @@
  },
  "php-news": {
   "seen": [
+   "https://www.php.net/archive/2026.php#2026-11-26-1",
+   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-11-20-1",
    "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
@@ -87,8 +89,6 @@
    "https://www.php.net/archive/2026.php#2026-05-07-1",
    "https://www.php.net/archive/2026.php#2026-05-04-1",
    "https://www.php.net/archive/2026.php#2026-04-09-2",
-   "https://www.php.net/archive/2026.php#2026-11-26-1",
-   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
@@ -104,15 +104,15 @@
   ],
   "recent": [
    {
-    "title": "PHP Conference Kansai 2026 (JAPAN)",
-    "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
-    "date": "20 Nov 2026"
+    "title": "phpday 2027 - Call for Papers",
+    "link": "https://www.php.net/conferences/index.php?view=cfps#2026-11-26-1",
+    "date": "26 Nov 2026"
    }
   ],
   "latest": {
-   "title": "PHP Conference Kansai 2026 (JAPAN)",
-   "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
-   "date": "20 Nov 2026"
+   "title": "phpday 2027 - Call for Papers",
+   "link": "https://www.php.net/conferences/index.php?view=cfps#2026-11-26-1",
+   "date": "26 Nov 2026"
   },
   "fails": 0
  },
