@@ -27,8 +27,6 @@
  },
  "php-news": {
   "seen": [
-   "https://www.php.net/archive/2026.php#2026-11-26-1",
-   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-11-20-1",
    "https://www.php.net/archive/2026.php#2026-11-19-5",
    "https://www.php.net/archive/2026.php#2026-11-19-4",
@@ -89,6 +87,8 @@
    "https://www.php.net/archive/2026.php#2026-05-07-1",
    "https://www.php.net/archive/2026.php#2026-05-04-1",
    "https://www.php.net/archive/2026.php#2026-04-09-2",
+   "https://www.php.net/archive/2026.php#2026-11-26-1",
+   "https://www.php.net/archive/2026.php#2026-11-25-1",
    "https://www.php.net/archive/2026.php#2026-04-09-1",
    "https://www.php.net/archive/2026.php#2026-03-12-2",
    "https://www.php.net/archive/2026.php#2026-03-12-1",
@@ -104,15 +104,15 @@
   ],
   "recent": [
    {
-    "title": "phpday 2027 - Call for Papers",
-    "link": "https://www.php.net/conferences/index.php?view=cfps#2026-11-26-1",
-    "date": "26 Nov 2026"
+    "title": "PHP Conference Kansai 2026 (JAPAN)",
+    "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
+    "date": "20 Nov 2026"
    }
   ],
   "latest": {
-   "title": "phpday 2027 - Call for Papers",
-   "link": "https://www.php.net/conferences/index.php?view=cfps#2026-11-26-1",
-   "date": "26 Nov 2026"
+   "title": "PHP Conference Kansai 2026 (JAPAN)",
+   "link": "https://www.php.net/conferences/index.php#2026-11-20-1",
+   "date": "20 Nov 2026"
   },
   "fails": 0
  },
@@ -473,12 +473,15 @@
  },
  "aws-whats-new": {
   "seen": [
+   "ad888ce29bb4e1de4cc3b13aa35875711a943d3f",
+   "3ddf3191777c0543ebaa706c71a5da44bfb6a5c1",
    "5e572f9a5e41dd283a793052533ac15a33ae08dd",
    "20962687458db91bbeb71fb2c384a24f61f7c71c",
    "04beebe56b418ea550545c13d2589e65a551fb25",
    "24a9d93500bc2ee53803fc427e94715f20b0e75a",
    "13a9f65ee8b496aff313fbb47a4792bc041022ba",
    "f84b0e0148b7bebeef4a1552cbbe9c0a367478ed",
+   "6cf8fe8d911333353797c4338948e6b30e04a41b",
    "1261fa7782468a0acf9eae17357c16de93b8dc55",
    "05bc2c12ccf14794e8f46d6e7a48a82edcfc6ebf",
    "748a70f6726698d7048854827cf1517d265097ff",
@@ -769,12 +772,19 @@
    "d4b3abefa1c7e38c29cd2ccc7171a18c672be64c",
    "de92b282d1be6fd4a529fc574fd3558fd1406eeb",
    "189b93e4a9fef21ac04c2ad35e7b62c813320586",
-   "1971db31412624560a9d5f6ebd6289a73bc0f1ed",
-   "896e0e347b0abff138c927dbfc688d7fe91c8d19",
-   "1e611eb089c2dcdee4d3ad6757e34268499769c6",
-   "3aa9a6a8a49facadca2fd3d09ed8f282aa0aa665"
+   "1971db31412624560a9d5f6ebd6289a73bc0f1ed"
   ],
   "recent": [
+   {
+    "title": "Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/",
+    "date": "27 Nov 2026"
+   },
+   {
+    "title": "Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/",
+    "date": "27 Nov 2026"
+   },
    {
     "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
@@ -806,40 +816,24 @@
     "date": "25 Nov 2026"
    },
    {
+    "title": "Amazon OpenSearch Service optimised engine now publishes data to Amazon S3 Tables",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-publish-s3-tables",
+    "date": "25 Nov 2026"
+   },
+   {
     "title": "Amazon EC2 C9gd instances now available in additional regions",
     "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
-    "date": "25 Nov 2026"
-   },
-   {
-    "title": "Amazon EC2 C9g instances are now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/",
-    "date": "25 Nov 2026"
-   },
-   {
-    "title": "Amazon EC2 M9g instances now available in additional regions",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/",
-    "date": "25 Nov 2026"
-   },
-   {
-    "title": "Elastic Load Balancing for Envoy is now generally available",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available",
     "date": "25 Nov 2026"
    }
   ],
   "latest": {
-   "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
-   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
+   "title": "Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters",
+   "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/",
    "date": "27 Nov 2026"
   },
   "fails": 0,
-  "pending": [
-   {
-    "title": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
-    "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available",
-    "summary": "Amazon Neptune now supports Neptune Graph Sessions, a compute mode designed for agents that scales memory and CPU automatically and scales to zero when idle. You can give each agent, user or task its own graph without pa…"
-   }
-  ],
-  "digest_date": "27 Nov 2026"
+  "pending": [],
+  "digest_date": "28 Nov 2026"
  },
  "apple-dev-releases": {
   "seen": [
